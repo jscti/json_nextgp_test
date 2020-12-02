@@ -1,0 +1,1288 @@
+[
+    {
+        "id": "sr:stage:630319",
+        "type": "f1",
+        "index": "16 / 17",
+        "title": "Sakhir Grand Prix 2020",
+        "start": "2020-12-04T13:30:00+00:00",
+        "end": "2020-12-06T19:10:00+00:00",
+        "trackName": "Bahrain international circuit - Outer track",
+        "countryCode": "BH",
+        "countryName": "Bahrain",
+        "cityName": "Sakhir",
+        "steps": [
+            {
+                "id": "sr:stage:630321",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2020-12-04T13:30:00+00:00",
+                "end": "2020-12-04T15:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:630323",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2020-12-04T17:30:00+00:00",
+                "end": "2020-12-04T19:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:630325",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2020-12-05T14:00:00+00:00",
+                "end": "2020-12-05T15:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:630327",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2020-12-05T17:00:00+00:00",
+                "end": "2020-12-05T18:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:630335",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": null,
+                "end": null
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:630537",
+        "type": "f1",
+        "index": "17 / 17",
+        "title": "Abu Dhabi Grand Prix 2020",
+        "start": "2020-12-11T09:00:00+00:00",
+        "end": "2020-12-13T15:10:00+00:00",
+        "trackName": "Yas Marina Circuit",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "cityName": "Abu Dhabi",
+        "steps": [
+            {
+                "id": "sr:stage:630539",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2020-12-11T09:00:00+00:00",
+                "end": "2020-12-11T10:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:630541",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2020-12-11T13:00:00+00:00",
+                "end": "2020-12-11T14:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:630543",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2020-12-12T10:00:00+00:00",
+                "end": "2020-12-12T11:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:630545",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2020-12-12T13:00:00+00:00",
+                "end": "2020-12-12T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:630553",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2020-12-13T13:10:00+00:00",
+                "end": "2020-12-13T15:10:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:639578",
+        "type": "motogp",
+        "index": "1 / 19",
+        "title": "Grand Prix of Qatar 2021",
+        "start": "2021-03-26T00:00:00+00:00",
+        "end": "2021-03-28T23:55:00+00:00",
+        "trackName": "Losail International Circuit",
+        "countryCode": "QA",
+        "countryName": "Qatar",
+        "cityName": "Doha",
+        "steps": [
+            {
+                "id": "sr:stage:639580",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-03-26T00:00:00+00:00",
+                "end": "2021-03-26T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639582",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-03-26T00:00:00+00:00",
+                "end": "2021-03-26T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639584",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-03-27T00:00:00+00:00",
+                "end": "2021-03-27T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639586",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-03-27T00:00:00+00:00",
+                "end": "2021-03-27T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639588",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-03-27T00:00:00+00:00",
+                "end": "2021-03-27T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639594",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-03-28T00:00:00+00:00",
+                "end": "2021-03-28T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:639796",
+        "type": "motogp",
+        "index": "2 / 19",
+        "title": "Gran Premio de la Republica Argentina 2021",
+        "start": "2021-04-09T00:00:00+00:00",
+        "end": "2021-04-11T23:55:00+00:00",
+        "trackName": "Autodromo Termas de Rio Hondo",
+        "countryCode": "AR",
+        "countryName": "Argentina",
+        "cityName": "Santiago del Estero",
+        "steps": [
+            {
+                "id": "sr:stage:639798",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-04-09T00:00:00+00:00",
+                "end": "2021-04-09T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639800",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-04-09T00:00:00+00:00",
+                "end": "2021-04-09T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639802",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-04-10T00:00:00+00:00",
+                "end": "2021-04-10T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639804",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-04-10T00:00:00+00:00",
+                "end": "2021-04-10T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639806",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-04-10T00:00:00+00:00",
+                "end": "2021-04-10T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:639812",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-04-11T00:00:00+00:00",
+                "end": "2021-04-11T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:640014",
+        "type": "motogp",
+        "index": "3 / 19",
+        "title": "Grand Prix of The Americas 2021",
+        "start": "2021-04-16T00:00:00+00:00",
+        "end": "2021-04-18T23:55:00+00:00",
+        "trackName": "Circuit of The Americas",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Austin",
+        "steps": [
+            {
+                "id": "sr:stage:640016",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-04-16T00:00:00+00:00",
+                "end": "2021-04-16T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640018",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-04-16T00:00:00+00:00",
+                "end": "2021-04-16T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640020",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-04-17T00:00:00+00:00",
+                "end": "2021-04-17T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640022",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-04-17T00:55:00+00:00",
+                "end": "2021-04-17T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640024",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-04-17T00:00:00+00:00",
+                "end": "2021-04-17T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640030",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-04-18T00:00:00+00:00",
+                "end": "2021-04-18T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:640232",
+        "type": "motogp",
+        "index": "4 / 19",
+        "title": "Gran Premio de Espana 2021",
+        "start": "2021-04-30T00:00:00+00:00",
+        "end": "2021-05-02T23:55:00+00:00",
+        "trackName": "Circuit de Jerez",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Jerez",
+        "steps": [
+            {
+                "id": "sr:stage:640234",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-04-30T00:00:00+00:00",
+                "end": "2021-04-30T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640236",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-04-30T00:00:00+00:00",
+                "end": "2021-04-30T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640238",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-05-01T00:00:00+00:00",
+                "end": "2021-05-01T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640240",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-05-01T00:00:00+00:00",
+                "end": "2021-05-01T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640242",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-05-01T00:00:00+00:00",
+                "end": "2021-05-01T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640248",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-05-02T00:00:00+00:00",
+                "end": "2021-05-02T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:640450",
+        "type": "motogp",
+        "index": "5 / 19",
+        "title": "Grand Prix de France 2021",
+        "start": "2021-05-14T00:00:00+00:00",
+        "end": "2021-05-16T23:55:00+00:00",
+        "trackName": "Le Mans Bugatti Circuit",
+        "countryCode": "FR",
+        "countryName": "France",
+        "cityName": "Le Mans",
+        "steps": [
+            {
+                "id": "sr:stage:640452",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-05-14T00:00:00+00:00",
+                "end": "2021-05-14T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640454",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-05-14T00:00:00+00:00",
+                "end": "2021-05-14T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640456",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-05-15T00:00:00+00:00",
+                "end": "2021-05-15T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640458",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-05-15T00:00:00+00:00",
+                "end": "2021-05-15T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640460",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-05-15T00:00:00+00:00",
+                "end": "2021-05-15T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640466",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-05-16T00:00:00+00:00",
+                "end": "2021-05-16T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:640668",
+        "type": "motogp",
+        "index": "6 / 19",
+        "title": "Gran Premio d'Italia 2021",
+        "start": "2021-05-28T00:00:00+00:00",
+        "end": "2021-05-30T23:55:00+00:00",
+        "trackName": "Autodromo Internazionale del Mugello",
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "cityName": "Scarperia Firenze",
+        "steps": [
+            {
+                "id": "sr:stage:640670",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-05-28T00:00:00+00:00",
+                "end": "2021-05-28T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640672",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-05-28T00:00:00+00:00",
+                "end": "2021-05-28T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640674",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-05-29T00:00:00+00:00",
+                "end": "2021-05-29T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640676",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-05-29T00:00:00+00:00",
+                "end": "2021-05-29T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640678",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-05-29T00:00:00+00:00",
+                "end": "2021-05-29T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640684",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-05-30T00:00:00+00:00",
+                "end": "2021-05-30T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:640886",
+        "type": "motogp",
+        "index": "7 / 19",
+        "title": "Gran Premi de Catalunya 2021",
+        "start": "2021-06-04T00:00:00+00:00",
+        "end": "2021-06-06T23:55:00+00:00",
+        "trackName": "Circuit de Catalunya",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Barcelona",
+        "steps": [
+            {
+                "id": "sr:stage:640888",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-06-04T00:00:00+00:00",
+                "end": "2021-06-04T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640890",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-06-04T00:00:00+00:00",
+                "end": "2021-06-04T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640892",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-06-05T00:00:00+00:00",
+                "end": "2021-06-05T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640894",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-06-05T00:00:00+00:00",
+                "end": "2021-06-05T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640896",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-06-05T00:00:00+00:00",
+                "end": "2021-06-05T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:640902",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-06-06T00:00:00+00:00",
+                "end": "2021-06-06T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:641104",
+        "type": "motogp",
+        "index": "8 / 19",
+        "title": "Motorrad Grand Prix Deutschland 2021",
+        "start": "2021-06-18T00:00:00+00:00",
+        "end": "2021-06-20T23:55:00+00:00",
+        "trackName": "Sachsenring",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "cityName": "Oberlungwitz",
+        "steps": [
+            {
+                "id": "sr:stage:641106",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-06-18T00:00:00+00:00",
+                "end": "2021-06-18T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641108",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-06-18T00:00:00+00:00",
+                "end": "2021-06-18T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641110",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-06-19T00:00:00+00:00",
+                "end": "2021-06-19T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641112",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-06-19T00:00:00+00:00",
+                "end": "2021-06-19T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641114",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-06-19T00:00:00+00:00",
+                "end": "2021-06-19T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641120",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-06-20T00:00:00+00:00",
+                "end": "2021-06-20T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:641322",
+        "type": "motogp",
+        "index": "9 / 19",
+        "title": "TT Assen 2021",
+        "start": "2021-06-25T00:00:00+00:00",
+        "end": "2021-06-27T23:55:00+00:00",
+        "trackName": "TT Circuit Assen",
+        "countryCode": "NL",
+        "countryName": "Netherlands",
+        "cityName": "Assen",
+        "steps": [
+            {
+                "id": "sr:stage:641324",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-06-25T00:00:00+00:00",
+                "end": "2021-06-25T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641326",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-06-25T00:00:00+00:00",
+                "end": "2021-06-25T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641328",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-06-26T00:00:00+00:00",
+                "end": "2021-06-26T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641330",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-06-26T00:00:00+00:00",
+                "end": "2021-06-26T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641332",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-06-26T00:00:00+00:00",
+                "end": "2021-06-26T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641338",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-06-27T00:00:00+00:00",
+                "end": "2021-06-27T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:641540",
+        "type": "motogp",
+        "index": "10 / 19",
+        "title": "Finland Grand Prix 2021",
+        "start": "2021-07-09T00:00:00+00:00",
+        "end": "2021-07-11T23:55:00+00:00",
+        "trackName": "KymiRing",
+        "countryCode": "FI",
+        "countryName": "Finland",
+        "cityName": "Iitti",
+        "steps": [
+            {
+                "id": "sr:stage:641542",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-07-09T00:00:00+00:00",
+                "end": "2021-07-09T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641544",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-07-09T00:00:00+00:00",
+                "end": "2021-07-09T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641546",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-07-10T00:00:00+00:00",
+                "end": "2021-07-10T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641548",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-07-10T00:00:00+00:00",
+                "end": "2021-07-10T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641550",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-07-10T00:00:00+00:00",
+                "end": "2021-07-10T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641556",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-07-11T00:00:00+00:00",
+                "end": "2021-07-11T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:641976",
+        "type": "motogp",
+        "index": "11 / 19",
+        "title": "Grand Prix von Österreich 2021",
+        "start": "2021-08-13T00:00:00+00:00",
+        "end": "2021-08-15T23:55:00+00:00",
+        "trackName": "Red Bull Ring",
+        "countryCode": "AT",
+        "countryName": "Austria",
+        "cityName": "Spielberg",
+        "steps": [
+            {
+                "id": "sr:stage:641978",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-08-13T00:00:00+00:00",
+                "end": "2021-08-13T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641980",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-08-13T00:00:00+00:00",
+                "end": "2021-08-13T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641982",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-08-14T00:00:00+00:00",
+                "end": "2021-08-14T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641984",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-08-14T00:00:00+00:00",
+                "end": "2021-08-14T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641986",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-08-14T00:00:00+00:00",
+                "end": "2021-08-14T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:641992",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-08-15T00:00:00+00:00",
+                "end": "2021-08-15T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:642194",
+        "type": "motogp",
+        "index": "12 / 19",
+        "title": "British Grand Prix 2021",
+        "start": "2021-08-27T00:00:00+00:00",
+        "end": "2021-08-29T23:55:00+00:00",
+        "trackName": "Silverstone Circuit",
+        "countryCode": "GB",
+        "countryName": "England",
+        "cityName": "Silverstone",
+        "steps": [
+            {
+                "id": "sr:stage:642196",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-08-27T00:00:00+00:00",
+                "end": "2021-08-27T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642198",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-08-27T00:00:00+00:00",
+                "end": "2021-08-27T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642200",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-08-28T00:00:00+00:00",
+                "end": "2021-08-28T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642202",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-08-28T00:00:00+00:00",
+                "end": "2021-08-28T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642204",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-08-28T00:00:00+00:00",
+                "end": "2021-08-28T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642210",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-08-29T00:00:00+00:00",
+                "end": "2021-08-29T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:642412",
+        "type": "motogp",
+        "index": "13 / 19",
+        "title": "Gran Premio de Aragon 2021",
+        "start": "2021-09-10T00:00:00+00:00",
+        "end": "2021-09-12T23:55:00+00:00",
+        "trackName": "Motorland Aragon",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Alcaniz",
+        "steps": [
+            {
+                "id": "sr:stage:642414",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-09-10T00:00:00+00:00",
+                "end": "2021-09-10T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642416",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-09-10T00:00:00+00:00",
+                "end": "2021-09-10T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642418",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-09-11T00:00:00+00:00",
+                "end": "2021-09-11T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642420",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-09-11T00:00:00+00:00",
+                "end": "2021-09-11T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642422",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-09-11T00:00:00+00:00",
+                "end": "2021-09-11T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642428",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-09-12T00:00:00+00:00",
+                "end": "2021-09-12T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:642630",
+        "type": "motogp",
+        "index": "14 / 19",
+        "title": "Gran Premio di San Marino e della Riviera di Rimini 2021",
+        "start": "2021-09-17T00:00:00+00:00",
+        "end": "2021-09-19T23:55:00+00:00",
+        "trackName": "Misano World Circuit",
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "cityName": "Misano Adriatico",
+        "steps": [
+            {
+                "id": "sr:stage:642632",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-09-17T00:00:00+00:00",
+                "end": "2021-09-17T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642634",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-09-17T00:00:00+00:00",
+                "end": "2021-09-17T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642636",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-09-18T00:00:00+00:00",
+                "end": "2021-09-18T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642638",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-09-18T00:00:00+00:00",
+                "end": "2021-09-18T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642640",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-09-18T00:00:00+00:00",
+                "end": "2021-09-18T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642646",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-09-19T00:00:00+00:00",
+                "end": "2021-09-19T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:642848",
+        "type": "motogp",
+        "index": "15 / 19",
+        "title": "Grand Prix of Japan 2021",
+        "start": "2021-10-01T00:00:00+00:00",
+        "end": "2021-10-03T23:55:00+00:00",
+        "trackName": "Twin Ring Motegi",
+        "countryCode": "JP",
+        "countryName": "Japan",
+        "cityName": "Hiyama",
+        "steps": [
+            {
+                "id": "sr:stage:642850",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-10-01T00:00:00+00:00",
+                "end": "2021-10-01T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642852",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-10-01T00:00:00+00:00",
+                "end": "2021-10-01T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642854",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-10-02T00:00:00+00:00",
+                "end": "2021-10-02T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642856",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-10-02T00:00:00+00:00",
+                "end": "2021-10-02T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642858",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-10-02T00:00:00+00:00",
+                "end": "2021-10-02T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:642864",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-10-03T00:00:00+00:00",
+                "end": "2021-10-03T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:643066",
+        "type": "motogp",
+        "index": "16 / 19",
+        "title": "Thailand Grand Prix 2021",
+        "start": "2021-10-08T00:00:00+00:00",
+        "end": "2021-10-10T23:55:00+00:00",
+        "trackName": "Chang International Circuit",
+        "countryCode": "TH",
+        "countryName": "Thailand",
+        "cityName": "Buriram",
+        "steps": [
+            {
+                "id": "sr:stage:643068",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-10-08T00:00:00+00:00",
+                "end": "2021-10-08T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643070",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-10-08T00:00:00+00:00",
+                "end": "2021-10-08T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643072",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-10-09T00:00:00+00:00",
+                "end": "2021-10-09T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643074",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-10-09T00:00:00+00:00",
+                "end": "2021-10-09T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643076",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-10-09T00:00:00+00:00",
+                "end": "2021-10-09T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643082",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-10-10T00:00:00+00:00",
+                "end": "2021-10-10T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:643284",
+        "type": "motogp",
+        "index": "17 / 19",
+        "title": "Australian Grand Prix 2021",
+        "start": "2021-10-22T00:00:00+00:00",
+        "end": "2021-10-24T23:55:00+00:00",
+        "trackName": "Phillip Island Circuit",
+        "countryCode": "AU",
+        "countryName": "Australia",
+        "cityName": "Phillip Island",
+        "steps": [
+            {
+                "id": "sr:stage:643286",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-10-22T00:00:00+00:00",
+                "end": "2021-10-22T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643288",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-10-22T00:00:00+00:00",
+                "end": "2021-10-22T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643290",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-10-23T00:00:00+00:00",
+                "end": "2021-10-23T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643292",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-10-23T00:00:00+00:00",
+                "end": "2021-10-23T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643294",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-10-23T00:00:00+00:00",
+                "end": "2021-10-23T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643300",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-10-24T00:00:00+00:00",
+                "end": "2021-10-24T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:643502",
+        "type": "motogp",
+        "index": "18 / 19",
+        "title": "Malaysian Grand Prix 2021",
+        "start": "2021-10-29T00:00:00+00:00",
+        "end": "2021-10-31T23:55:00+00:00",
+        "trackName": "Sepang International Circuit",
+        "countryCode": "MY",
+        "countryName": "Malaysia",
+        "cityName": "Sepang",
+        "steps": [
+            {
+                "id": "sr:stage:643504",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-10-29T00:00:00+00:00",
+                "end": "2021-10-29T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643506",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-10-29T00:00:00+00:00",
+                "end": "2021-10-29T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643508",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-10-30T00:00:00+00:00",
+                "end": "2021-10-30T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643510",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-10-30T00:00:00+00:00",
+                "end": "2021-10-30T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643512",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-10-30T00:00:00+00:00",
+                "end": "2021-10-30T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643518",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-10-31T00:00:00+00:00",
+                "end": "2021-10-31T23:55:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:643720",
+        "type": "motogp",
+        "index": "19 / 19",
+        "title": "Gran Premio de Valenciana 2021",
+        "start": "2021-11-12T00:00:00+00:00",
+        "end": "2021-11-14T23:55:00+00:00",
+        "trackName": "Circuit de la Comunitat Valenciana Ricardo Tormo",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Valencia",
+        "steps": [
+            {
+                "id": "sr:stage:643722",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-11-12T00:00:00+00:00",
+                "end": "2021-11-12T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643724",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-11-12T00:00:00+00:00",
+                "end": "2021-11-12T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643726",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-11-13T00:00:00+00:00",
+                "end": "2021-11-13T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643728",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-11-13T00:00:00+00:00",
+                "end": null
+            },
+            {
+                "id": "sr:stage:643730",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": null,
+                "end": "2021-11-13T23:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643736",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": null,
+                "end": null
+            }
+        ]
+    }
+]
