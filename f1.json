@@ -67,5 +67,1316 @@
                 "isNightEvent": false
             }
         ]
+    },
+    {
+        "id": "sr:stage:938025",
+        "type": "f1",
+        "index": "4 / 22",
+        "title": "Imola Grand Prix 2022",
+        "start": "2022-04-22T11:00:00+00:00",
+        "end": "2022-04-24T15:00:00+00:00",
+        "trackName": "Autodromo Enzo e Dino Ferrari",
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "cityName": "Imola",
+        "steps": [
+            {
+                "id": "sr:stage:938027",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-04-22T11:00:00+00:00",
+                "end": "2022-04-22T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938033",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": 1,
+                "start": "2022-04-22T14:00:00+00:00",
+                "end": "2022-04-22T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938029",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-04-23T11:00:00+00:00",
+                "end": "2022-04-23T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938041",
+                "title": "Sprint",
+                "type": "qualifying",
+                "index": 2,
+                "start": "2022-04-23T15:30:00+00:00",
+                "end": "2022-04-23T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938103",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-04-24T13:00:00+00:00",
+                "end": "2022-04-24T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:938305",
+        "type": "f1",
+        "index": "5 / 22",
+        "title": "Miami Grand Prix 2022",
+        "start": "2022-05-06T18:30:00+00:00",
+        "end": "2022-05-08T21:30:00+00:00",
+        "trackName": "Miami International Autodrome",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Miami",
+        "steps": [
+            {
+                "id": "sr:stage:938307",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-05-06T18:30:00+00:00",
+                "end": "2022-05-06T19:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938309",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-05-06T21:30:00+00:00",
+                "end": "2022-05-06T22:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938311",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-05-07T17:00:00+00:00",
+                "end": "2022-05-07T18:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938313",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-05-07T20:00:00+00:00",
+                "end": "2022-05-07T21:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938383",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-05-08T19:30:00+00:00",
+                "end": "2022-05-08T21:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:938585",
+        "type": "f1",
+        "index": "6 / 22",
+        "title": "Gran Premio de Espana 2022",
+        "start": "2022-05-20T12:00:00+00:00",
+        "end": "2022-05-22T15:00:00+00:00",
+        "trackName": "Circuit de Catalunya",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Barcelona",
+        "steps": [
+            {
+                "id": "sr:stage:938587",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-05-20T12:00:00+00:00",
+                "end": "2022-05-20T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938589",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-05-20T15:00:00+00:00",
+                "end": "2022-05-20T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938591",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-05-21T11:00:00+00:00",
+                "end": "2022-05-21T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938593",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-05-21T14:00:00+00:00",
+                "end": "2022-05-21T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938663",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-05-22T13:00:00+00:00",
+                "end": "2022-05-22T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:938865",
+        "type": "f1",
+        "index": "7 / 22",
+        "title": "Grand Prix de Monaco 2022",
+        "start": "2022-05-27T12:00:00+00:00",
+        "end": "2022-05-29T15:00:00+00:00",
+        "trackName": "Circuit de Monaco",
+        "countryCode": "MC",
+        "countryName": "Monaco",
+        "cityName": "Monte Carlo",
+        "steps": [
+            {
+                "id": "sr:stage:938867",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-05-27T14:00:00+00:00",
+                "end": "2022-05-27T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938869",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-05-27T15:00:00+00:00",
+                "end": "2022-05-27T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938871",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-05-28T11:00:00+00:00",
+                "end": "2022-05-28T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938873",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-05-28T14:00:00+00:00",
+                "end": "2022-05-28T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:938943",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-05-29T13:00:00+00:00",
+                "end": "2022-05-29T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:939145",
+        "type": "f1",
+        "index": "8 / 22",
+        "title": "Azerbaijan Grand Prix 2022",
+        "start": "2022-06-10T11:00:00+00:00",
+        "end": "2022-06-12T13:00:00+00:00",
+        "trackName": "Baku City Circuit",
+        "countryCode": "AZ",
+        "countryName": "Azerbaijan",
+        "cityName": "Baku",
+        "steps": [
+            {
+                "id": "sr:stage:939147",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-06-10T11:00:00+00:00",
+                "end": "2022-06-10T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939149",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-06-10T14:00:00+00:00",
+                "end": "2022-06-10T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939151",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-06-11T11:00:00+00:00",
+                "end": "2022-06-11T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939153",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-06-11T14:00:00+00:00",
+                "end": "2022-06-11T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939223",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-06-12T11:00:00+00:00",
+                "end": "2022-06-12T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:939425",
+        "type": "f1",
+        "index": "9 / 22",
+        "title": "Grand Prix du Canada 2022",
+        "start": "2022-06-17T18:00:00+00:00",
+        "end": "2022-06-19T20:00:00+00:00",
+        "trackName": "Circuit Gilles Villeneuve",
+        "countryCode": "CA",
+        "countryName": "Canada",
+        "cityName": "Montreal",
+        "steps": [
+            {
+                "id": "sr:stage:939427",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-06-17T18:00:00+00:00",
+                "end": "2022-06-17T19:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:939429",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-06-17T21:00:00+00:00",
+                "end": "2022-06-17T22:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:939431",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-06-18T17:00:00+00:00",
+                "end": "2022-06-18T18:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:939433",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-06-18T20:00:00+00:00",
+                "end": "2022-06-18T21:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:939503",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-06-19T18:00:00+00:00",
+                "end": "2022-06-19T20:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:939705",
+        "type": "f1",
+        "index": "10 / 22",
+        "title": "British Grand Prix 2022",
+        "start": "2022-07-01T12:00:00+00:00",
+        "end": "2022-07-03T16:00:00+00:00",
+        "trackName": "Silverstone Circuit",
+        "countryCode": "GB",
+        "countryName": "England",
+        "cityName": "Silverstone",
+        "steps": [
+            {
+                "id": "sr:stage:939707",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-01T12:00:00+00:00",
+                "end": "2022-07-01T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939709",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-01T15:00:00+00:00",
+                "end": "2022-07-01T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939711",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-07-02T11:00:00+00:00",
+                "end": "2022-07-02T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939713",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-02T14:00:00+00:00",
+                "end": "2022-07-02T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939783",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-03T14:00:00+00:00",
+                "end": "2022-07-03T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:939985",
+        "type": "f1",
+        "index": "11 / 22",
+        "title": "Grosser Preis von Osterreich 2022",
+        "start": "2022-07-08T12:00:00+00:00",
+        "end": "2022-07-10T15:00:00+00:00",
+        "trackName": "Red Bull Ring",
+        "countryCode": "AT",
+        "countryName": "Austria",
+        "cityName": "Spielberg",
+        "steps": [
+            {
+                "id": "sr:stage:939987",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-08T12:00:00+00:00",
+                "end": "2022-07-08T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939993",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": 1,
+                "start": "2022-07-08T14:00:00+00:00",
+                "end": "2022-07-08T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:939989",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-09T12:00:00+00:00",
+                "end": "2022-07-09T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940001",
+                "title": "Sprint",
+                "type": "qualifying",
+                "index": 2,
+                "start": "2022-07-09T15:30:00+00:00",
+                "end": "2022-07-09T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940063",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-10T13:00:00+00:00",
+                "end": "2022-07-10T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:940265",
+        "type": "f1",
+        "index": "12 / 22",
+        "title": "Grand Prix de France 2022",
+        "start": "2022-07-22T12:00:00+00:00",
+        "end": "2022-07-24T15:00:00+00:00",
+        "trackName": "Circuit Paul Ricard",
+        "countryCode": "FR",
+        "countryName": "France",
+        "cityName": "Le Castellet",
+        "steps": [
+            {
+                "id": "sr:stage:940267",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-22T12:00:00+00:00",
+                "end": "2022-07-22T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940269",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-22T15:00:00+00:00",
+                "end": "2022-07-22T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940271",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-07-23T11:00:00+00:00",
+                "end": "2022-07-23T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940273",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-23T14:00:00+00:00",
+                "end": "2022-07-23T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940343",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-24T13:00:00+00:00",
+                "end": "2022-07-24T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:940545",
+        "type": "f1",
+        "index": "13 / 22",
+        "title": "Magyar Nagydij 2022",
+        "start": "2022-07-29T12:00:00+00:00",
+        "end": "2022-07-31T15:00:00+00:00",
+        "trackName": "Hungaroring",
+        "countryCode": "HU",
+        "countryName": "Hungary",
+        "cityName": "Budapest",
+        "steps": [
+            {
+                "id": "sr:stage:940547",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-29T12:00:00+00:00",
+                "end": "2022-07-29T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940549",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-29T15:00:00+00:00",
+                "end": "2022-07-29T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940551",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-07-30T11:00:00+00:00",
+                "end": "2022-07-30T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940553",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-30T14:00:00+00:00",
+                "end": "2022-07-30T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940623",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-31T13:00:00+00:00",
+                "end": "2022-07-31T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:940825",
+        "type": "f1",
+        "index": "14 / 22",
+        "title": "Belgian Grand Prix 2022",
+        "start": "2022-08-26T12:00:00+00:00",
+        "end": "2022-08-28T15:00:00+00:00",
+        "trackName": "Circuit de Spa-Francorchamps",
+        "countryCode": "BE",
+        "countryName": "Belgium",
+        "cityName": "Spa-Francorchamps",
+        "steps": [
+            {
+                "id": "sr:stage:940827",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-08-26T12:00:00+00:00",
+                "end": "2022-08-26T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940829",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-08-26T15:00:00+00:00",
+                "end": "2022-08-26T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940831",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-08-27T11:00:00+00:00",
+                "end": "2022-08-27T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940833",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-08-27T14:00:00+00:00",
+                "end": "2022-08-27T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:940903",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-08-28T13:00:00+00:00",
+                "end": "2022-08-28T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:941105",
+        "type": "f1",
+        "index": "15 / 22",
+        "title": "Dutch Grand Prix 2022",
+        "start": "2022-09-02T12:00:00+00:00",
+        "end": "2022-09-04T15:00:00+00:00",
+        "trackName": "Circuit Zandvoort",
+        "countryCode": "NL",
+        "countryName": "Netherlands",
+        "cityName": "Zandvoort",
+        "steps": [
+            {
+                "id": "sr:stage:941107",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-09-02T12:00:00+00:00",
+                "end": "2022-09-02T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:941109",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-09-02T15:00:00+00:00",
+                "end": "2022-09-02T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:941111",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-09-03T11:00:00+00:00",
+                "end": "2022-09-03T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:941113",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-09-03T14:00:00+00:00",
+                "end": "2022-09-03T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:941183",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-09-04T13:00:00+00:00",
+                "end": "2022-09-04T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:941385",
+        "type": "f1",
+        "index": "16 / 22",
+        "title": "Gran Premio D Italia 2022",
+        "start": "2022-09-09T12:00:00+00:00",
+        "end": "2022-09-11T15:00:00+00:00",
+        "trackName": "Autodromo Nazionale Monza",
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "cityName": "Monza",
+        "steps": [
+            {
+                "id": "sr:stage:941387",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-09-09T12:00:00+00:00",
+                "end": "2022-09-09T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:941389",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-09-09T15:00:00+00:00",
+                "end": "2022-09-09T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:941391",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-09-10T11:00:00+00:00",
+                "end": "2022-09-10T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:941393",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-09-10T14:00:00+00:00",
+                "end": "2022-09-10T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:941463",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-09-11T13:00:00+00:00",
+                "end": "2022-09-11T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:941945",
+        "type": "f1",
+        "index": "17 / 22",
+        "title": "Singapore Grand Prix 2022",
+        "start": "2022-09-30T10:00:00+00:00",
+        "end": "2022-10-02T14:00:00+00:00",
+        "trackName": "Singapore Street Circuit",
+        "countryCode": "SG",
+        "countryName": "Singapore",
+        "cityName": "Singapore City",
+        "steps": [
+            {
+                "id": "sr:stage:941947",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-09-30T10:00:00+00:00",
+                "end": "2022-09-30T11:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:941949",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-09-30T13:00:00+00:00",
+                "end": "2022-09-30T14:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:941951",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-10-01T10:00:00+00:00",
+                "end": "2022-10-01T11:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:941953",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-10-01T13:00:00+00:00",
+                "end": "2022-10-01T14:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:942023",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-10-02T12:00:00+00:00",
+                "end": "2022-10-02T14:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:942225",
+        "type": "f1",
+        "index": "18 / 22",
+        "title": "Japanese Grand Prix 2022",
+        "start": "2022-10-07T04:00:00+00:00",
+        "end": "2022-10-09T07:00:00+00:00",
+        "trackName": "Suzuka International Racing Course",
+        "countryCode": "JP",
+        "countryName": "Japan",
+        "cityName": "Suzuka",
+        "steps": [
+            {
+                "id": "sr:stage:942227",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-10-07T04:00:00+00:00",
+                "end": "2022-10-07T05:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:942229",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-10-07T07:00:00+00:00",
+                "end": "2022-10-07T08:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:942231",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-10-08T04:00:00+00:00",
+                "end": "2022-10-08T05:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:942233",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-10-08T07:00:00+00:00",
+                "end": "2022-10-08T08:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:942303",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-10-09T05:00:00+00:00",
+                "end": "2022-10-09T07:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:942505",
+        "type": "f1",
+        "index": "19 / 22",
+        "title": "United States Grand Prix 2022",
+        "start": "2022-10-21T19:00:00+00:00",
+        "end": "2022-10-23T21:00:00+00:00",
+        "trackName": "Circuit of The Americas",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Austin",
+        "steps": [
+            {
+                "id": "sr:stage:942507",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-10-21T19:00:00+00:00",
+                "end": "2022-10-21T20:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:942509",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-10-21T22:00:00+00:00",
+                "end": "2022-10-21T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:942511",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-10-22T19:00:00+00:00",
+                "end": "2022-10-22T20:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:942513",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-10-22T22:00:00+00:00",
+                "end": "2022-10-22T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:942583",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-10-23T19:00:00+00:00",
+                "end": "2022-10-23T21:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:942785",
+        "type": "f1",
+        "index": "20 / 22",
+        "title": "Gran Premio de Mexico 2022",
+        "start": "2022-10-28T18:00:00+00:00",
+        "end": "2022-10-30T21:00:00+00:00",
+        "trackName": "Autodromo Hermanos Rodriguez",
+        "countryCode": "MX",
+        "countryName": "Mexico",
+        "cityName": "Mexico City",
+        "steps": [
+            {
+                "id": "sr:stage:942787",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-10-28T18:00:00+00:00",
+                "end": "2022-10-28T19:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:942789",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-10-28T21:00:00+00:00",
+                "end": "2022-10-28T22:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:942791",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-10-29T17:00:00+00:00",
+                "end": "2022-10-29T18:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:942793",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-10-29T20:00:00+00:00",
+                "end": "2022-10-29T21:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:942863",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-10-30T19:00:00+00:00",
+                "end": "2022-10-30T21:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:943065",
+        "type": "f1",
+        "index": "21 / 22",
+        "title": "Grande Premio do Brasil 2022",
+        "start": "2022-11-11T16:00:00+00:00",
+        "end": "2022-11-13T20:00:00+00:00",
+        "trackName": "Autódromo José Carlos Pace",
+        "countryCode": "BR",
+        "countryName": "Brazil",
+        "cityName": "Sao Paulo",
+        "steps": [
+            {
+                "id": "sr:stage:943067",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-11-11T16:00:00+00:00",
+                "end": "2022-11-11T17:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:943073",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": 1,
+                "start": "2022-11-11T19:00:00+00:00",
+                "end": "2022-11-11T20:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:943069",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-11-12T15:00:00+00:00",
+                "end": "2022-11-12T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:943081",
+                "title": "Sprint",
+                "type": "qualifying",
+                "index": 2,
+                "start": "2022-11-12T19:30:00+00:00",
+                "end": "2022-11-12T20:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:943143",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-11-13T18:00:00+00:00",
+                "end": "2022-11-13T20:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:943345",
+        "type": "f1",
+        "index": "22 / 22",
+        "title": "Abu Dhabi Grand Prix 2022",
+        "start": "2022-11-18T09:30:00+00:00",
+        "end": "2022-11-20T15:00:00+00:00",
+        "trackName": "Yas Marina Circuit",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "cityName": "Abu Dhabi",
+        "steps": [
+            {
+                "id": "sr:stage:943347",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-11-18T10:00:00+00:00",
+                "end": "2022-11-18T10:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:943349",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-11-18T13:00:00+00:00",
+                "end": "2022-11-18T14:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:943351",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-11-19T11:00:00+00:00",
+                "end": "2022-11-19T12:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:943353",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-11-19T14:00:00+00:00",
+                "end": "2022-11-19T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:943423",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-11-20T13:00:00+00:00",
+                "end": "2022-11-20T15:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
     }
 ]

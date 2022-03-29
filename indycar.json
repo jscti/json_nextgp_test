@@ -4,8 +4,8 @@
         "type": "indycar",
         "index": "3 / 17",
         "title": "Grand Prix of Long Beach",
-        "start": "2022-04-08T00:00:00+00:00",
-        "end": "2022-04-10T23:00:00+00:00",
+        "start": "2022-04-08T22:15:00+00:00",
+        "end": "2022-04-10T22:00:00+00:00",
         "trackName": "Streets of Long Beach",
         "countryCode": "US",
         "countryName": "USA",
@@ -16,8 +16,8 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2022-04-08T00:00:00+00:00",
-                "end": "2022-04-08T23:00:00+00:00",
+                "start": "2022-04-08T22:15:00+00:00",
+                "end": "2022-04-08T23:15:00+00:00",
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -27,8 +27,8 @@
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2022-04-08T00:00:00+00:00",
-                "end": "2022-04-08T23:00:00+00:00",
+                "start": "2022-04-09T15:45:00+00:00",
+                "end": "2022-04-09T16:45:00+00:00",
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -38,8 +38,8 @@
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2022-04-09T00:00:00+00:00",
-                "end": "2022-04-09T23:00:00+00:00",
+                "start": "2022-04-09T19:00:00+00:00",
+                "end": "2022-04-09T20:30:00+00:00",
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -49,8 +49,897 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2022-04-10T00:00:00+00:00",
-                "end": "2022-04-10T23:00:00+00:00",
+                "start": "2022-04-10T19:00:00+00:00",
+                "end": "2022-04-10T22:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:961223",
+        "type": "indycar",
+        "index": "4 / 17",
+        "title": "Grand Prix of Alabama",
+        "start": "2022-04-29T00:00:00+00:00",
+        "end": "2022-05-01T23:00:00+00:00",
+        "trackName": "Barber Motorsports Park",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Birmingham",
+        "steps": [
+            {
+                "id": "sr:stage:961225",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-04-29T00:00:00+00:00",
+                "end": "2022-04-29T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:961227",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-04-29T00:00:00+00:00",
+                "end": "2022-04-29T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:961243",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-04-30T00:00:00+00:00",
+                "end": "2022-04-30T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:961253",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-05-01T00:00:00+00:00",
+                "end": "2022-05-01T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:961855",
+        "type": "indycar",
+        "index": "5 / 17",
+        "title": "Grand Prix of Indianapolis 1",
+        "start": "2022-05-12T00:00:00+00:00",
+        "end": "2022-05-14T23:00:00+00:00",
+        "trackName": "Indianapolis Motor Speedway",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Indianapolis",
+        "steps": [
+            {
+                "id": "sr:stage:961857",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-05-12T00:00:00+00:00",
+                "end": "2022-05-12T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:961859",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-05-12T00:00:00+00:00",
+                "end": "2022-05-12T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:961875",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-05-13T00:00:00+00:00",
+                "end": "2022-05-13T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:961885",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-05-14T00:00:00+00:00",
+                "end": "2022-05-14T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:962487",
+        "type": "indycar",
+        "index": "6 / 17",
+        "title": "Indianapolis 500",
+        "start": "2022-05-17T00:00:00+00:00",
+        "end": "2022-05-29T23:00:00+00:00",
+        "trackName": "Indianapolis Motor Speedway",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Indianapolis",
+        "steps": [
+            {
+                "id": "sr:stage:962489",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-05-17T00:00:00+00:00",
+                "end": "2022-05-17T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962491",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-05-18T00:00:00+00:00",
+                "end": "2022-05-18T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962493",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-05-19T00:00:00+00:00",
+                "end": "2022-05-19T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962495",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2022-05-20T00:00:00+00:00",
+                "end": "2022-05-20T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962497",
+                "title": "Practice 5",
+                "type": "practice",
+                "index": 5,
+                "start": "2022-05-21T00:00:00+00:00",
+                "end": "2022-05-21T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962499",
+                "title": "Practice 6",
+                "type": "practice",
+                "index": 6,
+                "start": "2022-05-22T00:00:00+00:00",
+                "end": "2022-05-22T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962501",
+                "title": "Practice 7",
+                "type": "practice",
+                "index": 7,
+                "start": "2022-05-23T00:00:00+00:00",
+                "end": "2022-05-23T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962503",
+                "title": "Practice 8",
+                "type": "practice",
+                "index": 8,
+                "start": "2022-05-24T00:00:00+00:00",
+                "end": "2022-05-24T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962505",
+                "title": "Practice 9",
+                "type": "practice",
+                "index": 9,
+                "start": "2022-05-25T00:00:00+00:00",
+                "end": "2022-05-25T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962507",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-05-28T00:00:00+00:00",
+                "end": "2022-05-28T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:962517",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-05-29T15:00:00+00:00",
+                "end": "2022-05-29T20:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:963119",
+        "type": "indycar",
+        "index": "7 / 17",
+        "title": "Detroit Grand Prix Race",
+        "start": "2022-06-03T00:00:00+00:00",
+        "end": "2022-06-05T23:00:00+00:00",
+        "trackName": "Raceway at Belle Isle",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Detroit",
+        "steps": [
+            {
+                "id": "sr:stage:963121",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-06-03T00:00:00+00:00",
+                "end": "2022-06-03T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:963123",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-06-03T00:00:00+00:00",
+                "end": "2022-06-03T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:963139",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-06-04T00:00:00+00:00",
+                "end": "2022-06-04T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:963149",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-06-05T00:00:00+00:00",
+                "end": "2022-06-05T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:963751",
+        "type": "indycar",
+        "index": "8 / 17",
+        "title": "Road America Grand Prix",
+        "start": "2022-06-10T00:00:00+00:00",
+        "end": "2022-06-12T23:00:00+00:00",
+        "trackName": "Road America",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Elkhart Lake",
+        "steps": [
+            {
+                "id": "sr:stage:963753",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-06-10T00:00:00+00:00",
+                "end": "2022-06-10T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:963755",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-06-10T00:00:00+00:00",
+                "end": "2022-06-10T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:963771",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-06-11T00:00:00+00:00",
+                "end": "2022-06-11T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:963781",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-06-12T00:00:00+00:00",
+                "end": "2022-06-12T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:964383",
+        "type": "indycar",
+        "index": "9 / 17",
+        "title": "Grand Prix of Lexington",
+        "start": "2022-07-01T00:00:00+00:00",
+        "end": "2022-07-03T23:00:00+00:00",
+        "trackName": "Mid-Ohio Sports Car Course",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Lexington",
+        "steps": [
+            {
+                "id": "sr:stage:964385",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-01T00:00:00+00:00",
+                "end": "2022-07-01T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:964387",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-01T00:00:00+00:00",
+                "end": "2022-07-01T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:964403",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-02T00:00:00+00:00",
+                "end": "2022-07-02T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:964413",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-03T00:00:00+00:00",
+                "end": "2022-07-03T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:965015",
+        "type": "indycar",
+        "index": "10 / 17",
+        "title": "Grand Prix of Toronto",
+        "start": "2022-07-15T00:00:00+00:00",
+        "end": "2022-07-17T23:00:00+00:00",
+        "trackName": "Streets of Toronto",
+        "countryCode": "CA",
+        "countryName": "Canada",
+        "cityName": "Toronto",
+        "steps": [
+            {
+                "id": "sr:stage:965017",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-15T00:00:00+00:00",
+                "end": "2022-07-15T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:965019",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-15T00:00:00+00:00",
+                "end": "2022-07-15T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:965035",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-16T00:00:00+00:00",
+                "end": "2022-07-16T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:965045",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-17T00:00:00+00:00",
+                "end": "2022-07-17T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:965647",
+        "type": "indycar",
+        "index": "11 / 17",
+        "title": "Grand Prix of Iowa Race 1",
+        "start": "2022-07-21T00:00:00+00:00",
+        "end": "2022-07-23T23:00:00+00:00",
+        "trackName": "Iowa Speedway",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Newton",
+        "steps": [
+            {
+                "id": "sr:stage:965649",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-21T00:00:00+00:00",
+                "end": "2022-07-21T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:965651",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-21T00:00:00+00:00",
+                "end": "2022-07-21T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:965667",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-22T00:00:00+00:00",
+                "end": "2022-07-22T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:965677",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-23T00:00:00+00:00",
+                "end": "2022-07-23T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:966279",
+        "type": "indycar",
+        "index": "12 / 17",
+        "title": "Grand Prix of Iowa Race 2",
+        "start": "2022-07-22T00:00:00+00:00",
+        "end": "2022-07-24T23:00:00+00:00",
+        "trackName": "Iowa Speedway",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Newton",
+        "steps": [
+            {
+                "id": "sr:stage:966281",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-22T00:00:00+00:00",
+                "end": "2022-07-22T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:966283",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-22T00:00:00+00:00",
+                "end": "2022-07-22T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:966299",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-23T00:00:00+00:00",
+                "end": "2022-07-23T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:966309",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-24T00:00:00+00:00",
+                "end": "2022-07-24T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:966911",
+        "type": "indycar",
+        "index": "13 / 17",
+        "title": "Grand Prix of Indianapolis 2",
+        "start": "2022-07-28T00:00:00+00:00",
+        "end": "2022-07-30T23:00:00+00:00",
+        "trackName": "Indianapolis Motor Speedway\tRoad Course",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Indianapolis",
+        "steps": [
+            {
+                "id": "sr:stage:966913",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-28T00:00:00+00:00",
+                "end": "2022-07-28T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:966915",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-28T00:00:00+00:00",
+                "end": "2022-07-28T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:966931",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-29T00:00:00+00:00",
+                "end": "2022-07-29T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:966941",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-30T00:00:00+00:00",
+                "end": "2022-07-30T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:967543",
+        "type": "indycar",
+        "index": "14 / 17",
+        "title": "Grand Prix of Nashville",
+        "start": "2022-08-05T00:00:00+00:00",
+        "end": "2022-08-07T23:00:00+00:00",
+        "trackName": "Streets of Nashville",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Nashville",
+        "steps": [
+            {
+                "id": "sr:stage:967545",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-08-05T00:00:00+00:00",
+                "end": "2022-08-05T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:967547",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-08-05T00:00:00+00:00",
+                "end": "2022-08-05T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:967563",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-08-06T00:00:00+00:00",
+                "end": "2022-08-06T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:967573",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-08-07T00:00:00+00:00",
+                "end": "2022-08-07T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:968175",
+        "type": "indycar",
+        "index": "15 / 17",
+        "title": "Grand Prix of Madison",
+        "start": "2022-08-18T00:00:00+00:00",
+        "end": "2022-08-20T23:00:00+00:00",
+        "trackName": "World Wide Technology Raceway at Gateway",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Madison (IL)",
+        "steps": [
+            {
+                "id": "sr:stage:968177",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-08-18T00:00:00+00:00",
+                "end": "2022-08-18T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:968179",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-08-18T00:00:00+00:00",
+                "end": "2022-08-18T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:968195",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-08-19T00:00:00+00:00",
+                "end": "2022-08-19T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:968205",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-08-20T00:00:00+00:00",
+                "end": "2022-08-20T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:968807",
+        "type": "indycar",
+        "index": "16 / 17",
+        "title": "Grand Prix of Portland",
+        "start": "2022-09-02T00:00:00+00:00",
+        "end": "2022-09-04T23:00:00+00:00",
+        "trackName": "Portland International Raceway",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Portland",
+        "steps": [
+            {
+                "id": "sr:stage:968809",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-09-02T00:00:00+00:00",
+                "end": "2022-09-02T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:968811",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-09-02T00:00:00+00:00",
+                "end": "2022-09-02T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:968827",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-09-03T00:00:00+00:00",
+                "end": "2022-09-03T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:968837",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-09-04T00:00:00+00:00",
+                "end": "2022-09-04T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:969439",
+        "type": "indycar",
+        "index": "17 / 17",
+        "title": "Grand Prix of Monterey",
+        "start": "2022-09-09T00:00:00+00:00",
+        "end": "2022-09-11T23:00:00+00:00",
+        "trackName": "Mazda Raceway Laguna Seca",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Monterey",
+        "steps": [
+            {
+                "id": "sr:stage:969441",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-09-09T00:00:00+00:00",
+                "end": "2022-09-09T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:969443",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-09-09T00:00:00+00:00",
+                "end": "2022-09-09T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:969459",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-09-10T00:00:00+00:00",
+                "end": "2022-09-10T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:969469",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-09-11T00:00:00+00:00",
+                "end": "2022-09-11T23:00:00+00:00",
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true

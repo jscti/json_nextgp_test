@@ -1,1 +1,745 @@
-[]
+[
+    {
+        "id": "sr:stage:944949",
+        "type": "fe",
+        "index": "4 / 16",
+        "title": "GP Rome",
+        "start": "2022-04-09T07:15:00+00:00",
+        "end": "2022-04-09T16:00:00+00:00",
+        "trackName": "Streets of Rome",
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "cityName": "Rome",
+        "steps": [
+            {
+                "id": "sr:stage:944951",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-04-09T07:15:00+00:00",
+                "end": "2022-04-09T07:45:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:944953",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-04-09T09:00:00+00:00",
+                "end": "2022-04-09T09:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:944955",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-04-09T10:40:00+00:00",
+                "end": "2022-04-09T11:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:944961",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-04-09T15:00:00+00:00",
+                "end": "2022-04-09T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:944735",
+        "type": "fe",
+        "index": "5 / 16",
+        "title": "GP Rome 2",
+        "start": "2022-04-10T00:00:00+00:00",
+        "end": "2022-04-10T23:55:00+00:00",
+        "trackName": "Streets of Rome",
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "cityName": "Rome",
+        "steps": [
+            {
+                "id": "sr:stage:944737",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2022-04-10T08:30:00+00:00",
+                "end": "2022-04-10T09:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:944741",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-04-10T10:40:00+00:00",
+                "end": "2022-04-10T11:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:944747",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-04-10T15:00:00+00:00",
+                "end": "2022-04-10T16:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:945163",
+        "type": "fe",
+        "index": "6 / 16",
+        "title": "GP Monaco",
+        "start": "2022-04-30T06:00:00+00:00",
+        "end": "2022-04-30T15:00:00+00:00",
+        "trackName": "Streets of Monaco",
+        "countryCode": "MC",
+        "countryName": "Monaco",
+        "cityName": "Monaco",
+        "steps": [
+            {
+                "id": "sr:stage:945165",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-04-30T00:00:00+00:00",
+                "end": "2022-04-30T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945167",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-04-30T00:00:00+00:00",
+                "end": "2022-04-30T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945169",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-04-30T00:00:00+00:00",
+                "end": "2022-04-30T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945175",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-04-30T00:00:00+00:00",
+                "end": "2022-04-30T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:945377",
+        "type": "fe",
+        "index": "7 / 16",
+        "title": "GP Berlin",
+        "start": "2022-05-14T06:00:00+00:00",
+        "end": "2022-05-14T14:30:00+00:00",
+        "trackName": "Flughafen Tempelhof",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "cityName": "Berlin",
+        "steps": [
+            {
+                "id": "sr:stage:945379",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-05-14T00:00:00+00:00",
+                "end": "2022-05-14T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945381",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-05-14T00:00:00+00:00",
+                "end": "2022-05-14T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945383",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-05-14T00:00:00+00:00",
+                "end": "2022-05-14T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945389",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-05-14T00:00:00+00:00",
+                "end": "2022-05-14T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:944521",
+        "type": "fe",
+        "index": "8 / 16",
+        "title": "GP Berlin 2",
+        "start": "2022-05-15T06:00:00+00:00",
+        "end": "2022-05-15T14:30:00+00:00",
+        "trackName": "Flughafen Tempelhof",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "cityName": "Berlin",
+        "steps": [
+            {
+                "id": "sr:stage:944523",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-05-15T00:00:00+00:00",
+                "end": "2022-05-15T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:944525",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-05-15T00:00:00+00:00",
+                "end": "2022-05-15T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:944527",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-05-15T00:00:00+00:00",
+                "end": "2022-05-15T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:944533",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-05-15T00:00:00+00:00",
+                "end": "2022-05-15T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:945591",
+        "type": "fe",
+        "index": "9 / 16",
+        "title": "GP Jakarta",
+        "start": "2022-06-04T01:00:00+00:00",
+        "end": "2022-06-04T10:00:00+00:00",
+        "trackName": "Streets of Jakarta",
+        "countryCode": "ID",
+        "countryName": "Indonesia",
+        "cityName": "Jakarta",
+        "steps": [
+            {
+                "id": "sr:stage:945593",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-06-04T00:00:00+00:00",
+                "end": "2022-06-04T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945595",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-06-04T00:00:00+00:00",
+                "end": "2022-06-04T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945597",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-06-04T00:00:00+00:00",
+                "end": "2022-06-04T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945603",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-06-04T00:00:00+00:00",
+                "end": "2022-06-04T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:945805",
+        "type": "fe",
+        "index": "10 / 16",
+        "title": "GP Vancouver",
+        "start": "2022-07-02T00:00:00+00:00",
+        "end": "2022-07-02T23:55:00+00:00",
+        "trackName": "Vancouver Street Circuit",
+        "countryCode": "CA",
+        "countryName": "Canada",
+        "cityName": "Vancouver",
+        "steps": [
+            {
+                "id": "sr:stage:945807",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-02T00:00:00+00:00",
+                "end": "2022-07-02T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945809",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-02T00:00:00+00:00",
+                "end": "2022-07-02T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945811",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-02T00:00:00+00:00",
+                "end": "2022-07-02T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:945817",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-02T00:00:00+00:00",
+                "end": "2022-07-02T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:946019",
+        "type": "fe",
+        "index": "11 / 16",
+        "title": "GP New York 1",
+        "start": "2022-07-16T11:30:00+00:00",
+        "end": "2022-07-16T20:30:00+00:00",
+        "trackName": "Brooklyn Circuit",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "New York",
+        "steps": [
+            {
+                "id": "sr:stage:946021",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-16T00:00:00+00:00",
+                "end": "2022-07-16T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946023",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-16T00:00:00+00:00",
+                "end": "2022-07-16T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946025",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-16T00:00:00+00:00",
+                "end": "2022-07-16T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946031",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-16T00:00:00+00:00",
+                "end": "2022-07-16T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:946233",
+        "type": "fe",
+        "index": "12 / 16",
+        "title": "GP New York 2",
+        "start": "2022-07-17T13:00:00+00:00",
+        "end": "2022-07-17T20:00:00+00:00",
+        "trackName": "Brooklyn Circuit",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "New York",
+        "steps": [
+            {
+                "id": "sr:stage:946235",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-17T00:00:00+00:00",
+                "end": "2022-07-17T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946237",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-17T00:00:00+00:00",
+                "end": "2022-07-17T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946239",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-17T00:00:00+00:00",
+                "end": "2022-07-17T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946245",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-17T00:00:00+00:00",
+                "end": "2022-07-17T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:946447",
+        "type": "fe",
+        "index": "13 / 16",
+        "title": "GP London 1",
+        "start": "2022-07-30T07:00:00+00:00",
+        "end": "2022-07-30T14:00:00+00:00",
+        "trackName": "ExCel London",
+        "countryCode": "GB",
+        "countryName": "England",
+        "cityName": "London",
+        "steps": [
+            {
+                "id": "sr:stage:946449",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-30T00:00:00+00:00",
+                "end": "2022-07-30T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946451",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-30T00:00:00+00:00",
+                "end": "2022-07-30T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946453",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-30T00:00:00+00:00",
+                "end": "2022-07-30T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946459",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-30T00:00:00+00:00",
+                "end": "2022-07-30T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:946661",
+        "type": "fe",
+        "index": "14 / 16",
+        "title": "GP London 2",
+        "start": "2022-07-31T07:00:00+00:00",
+        "end": "2022-07-31T14:00:00+00:00",
+        "trackName": "ExCel London",
+        "countryCode": "GB",
+        "countryName": "England",
+        "cityName": "London",
+        "steps": [
+            {
+                "id": "sr:stage:946663",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-07-31T00:00:00+00:00",
+                "end": "2022-07-31T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946665",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-07-31T00:00:00+00:00",
+                "end": "2022-07-31T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946667",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-07-31T00:00:00+00:00",
+                "end": "2022-07-31T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946673",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-07-31T00:00:00+00:00",
+                "end": "2022-07-31T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:946875",
+        "type": "fe",
+        "index": "15 / 16",
+        "title": "GP Seoul 1",
+        "start": "2022-08-13T02:00:00+00:00",
+        "end": "2022-08-13T11:00:00+00:00",
+        "trackName": "Streets of Seoul",
+        "countryCode": "KR",
+        "countryName": "Republic of Korea",
+        "cityName": "Seoul",
+        "steps": [
+            {
+                "id": "sr:stage:946877",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-08-13T00:00:00+00:00",
+                "end": "2022-08-13T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946879",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-08-13T00:00:00+00:00",
+                "end": "2022-08-13T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946881",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-08-13T00:00:00+00:00",
+                "end": "2022-08-13T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:946887",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-08-13T00:00:00+00:00",
+                "end": "2022-08-13T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:947089",
+        "type": "fe",
+        "index": "16 / 16",
+        "title": "GP Seoul 2",
+        "start": "2022-08-14T02:00:00+00:00",
+        "end": "2022-08-14T11:00:00+00:00",
+        "trackName": "Streets of Seoul",
+        "countryCode": "KR",
+        "countryName": "Republic of Korea",
+        "cityName": "Seoul",
+        "steps": [
+            {
+                "id": "sr:stage:947091",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-08-14T00:00:00+00:00",
+                "end": "2022-08-14T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:947093",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-08-14T00:00:00+00:00",
+                "end": "2022-08-14T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:947095",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-08-14T00:00:00+00:00",
+                "end": "2022-08-14T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:947101",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-08-14T00:00:00+00:00",
+                "end": "2022-08-14T23:55:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    }
+]
