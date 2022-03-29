@@ -1,0 +1,60 @@
+[
+    {
+        "id": "sr:stage:960591",
+        "type": "indycar",
+        "index": "3 / 17",
+        "title": "Grand Prix of Long Beach",
+        "start": "2022-04-08T00:00:00+00:00",
+        "end": "2022-04-10T23:00:00+00:00",
+        "trackName": "Streets of Long Beach",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Long Beach",
+        "steps": [
+            {
+                "id": "sr:stage:960593",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-04-08T00:00:00+00:00",
+                "end": "2022-04-08T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:960595",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-04-08T00:00:00+00:00",
+                "end": "2022-04-08T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:960611",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-04-09T00:00:00+00:00",
+                "end": "2022-04-09T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            },
+            {
+                "id": "sr:stage:960621",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-04-10T00:00:00+00:00",
+                "end": "2022-04-10T23:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
+            }
+        ]
+    }
+]

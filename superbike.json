@@ -1,0 +1,275 @@
+[
+    {
+        "id": "sr:stage:987369",
+        "type": "superbike",
+        "index": "1 / 11",
+        "title": "Aragon",
+        "start": "2022-04-08T08:30:00+00:00",
+        "end": "2022-04-10T13:00:00+00:00",
+        "trackName": "Motorland Aragon",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Alcaniz",
+        "steps": [
+            {
+                "id": "sr:stage:987371",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-04-08T08:30:00+00:00",
+                "end": "2022-04-08T09:15:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:987373",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-04-08T13:00:00+00:00",
+                "end": "2022-04-08T13:45:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:987375",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-04-09T07:00:00+00:00",
+                "end": "2022-04-09T07:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:987383",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-04-09T09:10:00+00:00",
+                "end": "2022-04-09T09:25:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:987391",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2022-04-09T12:00:00+00:00",
+                "end": "2022-04-09T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:987795",
+                "title": "Race Superpole",
+                "type": "race",
+                "index": 2,
+                "start": "2022-04-10T09:00:00+00:00",
+                "end": "2022-04-10T09:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:987593",
+                "title": "Race 2",
+                "type": "race",
+                "index": 3,
+                "start": "2022-04-10T12:00:00+00:00",
+                "end": "2022-04-10T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:988023",
+        "type": "superbike",
+        "index": "2 / 11",
+        "title": "Assen",
+        "start": "2022-04-22T08:30:00+00:00",
+        "end": "2022-04-24T13:00:00+00:00",
+        "trackName": "TT Circuit Assen",
+        "countryCode": "NL",
+        "countryName": "Netherlands",
+        "cityName": "Assen",
+        "steps": [
+            {
+                "id": "sr:stage:988025",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-04-22T08:30:00+00:00",
+                "end": "2022-04-22T09:15:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988027",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-04-22T13:00:00+00:00",
+                "end": "2022-04-22T13:45:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988029",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-04-23T07:00:00+00:00",
+                "end": "2022-04-23T07:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988037",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-04-23T09:10:00+00:00",
+                "end": "2022-04-23T09:25:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988045",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2022-04-23T12:00:00+00:00",
+                "end": "2022-04-23T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988449",
+                "title": "Race Superpole",
+                "type": "race",
+                "index": 2,
+                "start": "2022-04-24T09:00:00+00:00",
+                "end": "2022-04-24T09:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988247",
+                "title": "Race 2",
+                "type": "race",
+                "index": 3,
+                "start": "2022-04-24T12:00:00+00:00",
+                "end": "2022-04-24T13:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:988675",
+        "type": "superbike",
+        "index": "3 / 11",
+        "title": "Estoril",
+        "start": "2022-05-20T09:30:00+00:00",
+        "end": "2022-05-22T14:00:00+00:00",
+        "trackName": "Circuito do Estoril",
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "cityName": "Estoril",
+        "steps": [
+            {
+                "id": "sr:stage:988677",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-05-20T09:30:00+00:00",
+                "end": "2022-05-20T10:15:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988679",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-05-20T14:00:00+00:00",
+                "end": "2022-05-20T14:45:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988681",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-05-21T08:00:00+00:00",
+                "end": "2022-05-21T08:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988689",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-05-21T10:10:00+00:00",
+                "end": "2022-05-21T10:25:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988697",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2022-05-21T13:00:00+00:00",
+                "end": "2022-05-21T14:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:989101",
+                "title": "Race Superpole",
+                "type": "race",
+                "index": 2,
+                "start": "2022-05-22T10:00:00+00:00",
+                "end": "2022-05-22T10:30:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:988899",
+                "title": "Race 2",
+                "type": "race",
+                "index": 3,
+                "start": "2022-05-22T13:00:00+00:00",
+                "end": "2022-05-22T14:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    }
+]

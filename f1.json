@@ -1,0 +1,71 @@
+[
+    {
+        "id": "sr:stage:937745",
+        "type": "f1",
+        "index": "3 / 22",
+        "title": "Australian Grand Prix 2022",
+        "start": "2022-04-08T03:00:00+00:00",
+        "end": "2022-04-10T07:00:00+00:00",
+        "trackName": "Melbourne Grand Prix Circuit",
+        "countryCode": "AU",
+        "countryName": "Australia",
+        "cityName": "Melbourne",
+        "steps": [
+            {
+                "id": "sr:stage:937747",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-04-08T03:00:00+00:00",
+                "end": "2022-04-08T04:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:937749",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-04-08T06:00:00+00:00",
+                "end": "2022-04-08T07:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:937751",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-04-09T03:00:00+00:00",
+                "end": "2022-04-09T04:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:937753",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-04-09T06:00:00+00:00",
+                "end": "2022-04-09T07:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:937823",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-04-10T05:00:00+00:00",
+                "end": "2022-04-10T07:00:00+00:00",
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    }
+]
