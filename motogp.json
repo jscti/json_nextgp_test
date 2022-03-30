@@ -24,7 +24,7 @@
                 "end": "2022-04-01T14:35:00+00:00",
                 "endLocal": "2022-04-01T11:35:00-03:00",
                 "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -37,7 +37,7 @@
                 "end": "2022-04-01T18:50:00+00:00",
                 "endLocal": "2022-04-01T15:50:00-03:00",
                 "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -50,7 +50,7 @@
                 "end": "2022-04-02T14:35:00+00:00",
                 "endLocal": "2022-04-02T11:35:00-03:00",
                 "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -63,7 +63,7 @@
                 "end": "2022-04-02T17:55:00+00:00",
                 "endLocal": "2022-04-02T14:55:00-03:00",
                 "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -76,7 +76,7 @@
                 "end": "2022-04-02T18:45:00+00:00",
                 "endLocal": "2022-04-02T15:45:00-03:00",
                 "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -89,7 +89,7 @@
                 "end": "2022-04-03T19:00:00+00:00",
                 "endLocal": "2022-04-03T16:00:00-03:00",
                 "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
+                "weatherIcon": "01d",
                 "isNightEvent": false
             }
         ]
