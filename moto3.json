@@ -1,90 +1,8 @@
 [
     {
-        "id": "sr:stage:981027",
-        "type": "moto3",
-        "index": "3 / 20",
-        "title": "Gran Premio de la Republica Argentina 2022",
-        "start": "2022-04-01T12:00:00+00:00",
-        "end": "2022-04-03T16:00:00+00:00",
-        "timezone": "America/Argentina/Cordoba",
-        "latitude": -27.7877148,
-        "longitude": -64.2595062,
-        "trackName": "Autodromo Termas de Rio Hondo",
-        "countryCode": "AR",
-        "countryName": "Argentina",
-        "cityName": "Santiago del Estero",
-        "steps": [
-            {
-                "id": "sr:stage:981029",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-04-01T12:00:00+00:00",
-                "startLocal": "2022-04-01T09:00:00-03:00",
-                "end": "2022-04-01T12:40:00+00:00",
-                "endLocal": "2022-04-01T09:40:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981031",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-04-01T16:15:00+00:00",
-                "startLocal": "2022-04-01T13:15:00-03:00",
-                "end": "2022-04-01T16:55:00+00:00",
-                "endLocal": "2022-04-01T13:55:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981033",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-04-02T12:00:00+00:00",
-                "startLocal": "2022-04-02T09:00:00-03:00",
-                "end": "2022-04-02T12:40:00+00:00",
-                "endLocal": "2022-04-02T09:40:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981035",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-02T15:35:00+00:00",
-                "startLocal": "2022-04-02T12:35:00-03:00",
-                "end": "2022-04-02T16:15:00+00:00",
-                "endLocal": "2022-04-02T13:15:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981041",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-04-03T15:00:00+00:00",
-                "startLocal": "2022-04-03T12:00:00-03:00",
-                "end": "2022-04-03T16:00:00+00:00",
-                "endLocal": "2022-04-03T13:00:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
         "id": "sr:stage:981243",
         "type": "moto3",
-        "index": "4 / 20",
+        "index": "4 / 21",
         "title": "Grand Prix of The Americas 2022",
         "start": "2022-04-08T15:55:00+00:00",
         "end": "2022-04-10T20:30:00+00:00",
@@ -105,8 +23,9 @@
                 "startLocal": "2022-04-08T10:55:00-05:00",
                 "end": "2022-04-08T16:35:00+00:00",
                 "endLocal": "2022-04-08T11:35:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -118,8 +37,9 @@
                 "startLocal": "2022-04-08T15:10:00-05:00",
                 "end": "2022-04-08T20:50:00+00:00",
                 "endLocal": "2022-04-08T15:50:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -131,8 +51,9 @@
                 "startLocal": "2022-04-09T10:55:00-05:00",
                 "end": "2022-04-09T16:35:00+00:00",
                 "endLocal": "2022-04-09T11:35:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -144,8 +65,9 @@
                 "startLocal": "2022-04-09T15:10:00-05:00",
                 "end": "2022-04-09T20:50:00+00:00",
                 "endLocal": "2022-04-09T15:50:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -157,8 +79,9 @@
                 "startLocal": "2022-04-10T14:30:00-05:00",
                 "end": "2022-04-10T20:30:00+00:00",
                 "endLocal": "2022-04-10T15:30:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "isNightEvent": false
             }
         ]
@@ -166,7 +89,7 @@
     {
         "id": "sr:stage:981459",
         "type": "moto3",
-        "index": "5 / 20",
+        "index": "5 / 21",
         "title": "Grande Premio de Portugal 2022",
         "start": "2022-04-22T08:00:00+00:00",
         "end": "2022-04-24T11:20:00+00:00",
@@ -187,6 +110,7 @@
                 "startLocal": "2022-04-22T09:00:00+01:00",
                 "end": "2022-04-22T08:40:00+00:00",
                 "endLocal": "2022-04-22T09:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -200,6 +124,7 @@
                 "startLocal": "2022-04-22T13:15:00+01:00",
                 "end": "2022-04-22T12:55:00+00:00",
                 "endLocal": "2022-04-22T13:55:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -213,6 +138,7 @@
                 "startLocal": "2022-04-23T09:00:00+01:00",
                 "end": "2022-04-23T08:40:00+00:00",
                 "endLocal": "2022-04-23T09:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -226,6 +152,7 @@
                 "startLocal": "2022-04-23T12:35:00+01:00",
                 "end": "2022-04-23T12:15:00+00:00",
                 "endLocal": "2022-04-23T13:15:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -239,6 +166,7 @@
                 "startLocal": "2022-04-24T11:20:00+01:00",
                 "end": "2022-04-24T11:20:00+00:00",
                 "endLocal": "2022-04-24T12:20:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -248,7 +176,7 @@
     {
         "id": "sr:stage:981675",
         "type": "moto3",
-        "index": "6 / 20",
+        "index": "6 / 21",
         "title": "Gran Premio de Espana 2022",
         "start": "2022-04-29T07:00:00+00:00",
         "end": "2022-05-01T10:00:00+00:00",
@@ -269,6 +197,7 @@
                 "startLocal": "2022-04-29T09:00:00+02:00",
                 "end": "2022-04-29T07:40:00+00:00",
                 "endLocal": "2022-04-29T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -282,6 +211,7 @@
                 "startLocal": "2022-04-29T13:15:00+02:00",
                 "end": "2022-04-29T11:55:00+00:00",
                 "endLocal": "2022-04-29T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -295,6 +225,7 @@
                 "startLocal": "2022-04-30T09:00:00+02:00",
                 "end": "2022-04-30T07:40:00+00:00",
                 "endLocal": "2022-04-30T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -308,6 +239,7 @@
                 "startLocal": "2022-04-30T12:35:00+02:00",
                 "end": "2022-04-30T11:15:00+00:00",
                 "endLocal": "2022-04-30T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -321,6 +253,7 @@
                 "startLocal": "2022-05-01T11:00:00+02:00",
                 "end": "2022-05-01T10:00:00+00:00",
                 "endLocal": "2022-05-01T12:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -330,7 +263,7 @@
     {
         "id": "sr:stage:981891",
         "type": "moto3",
-        "index": "7 / 20",
+        "index": "7 / 21",
         "title": "Grand Prix de France 2022",
         "start": "2022-05-13T07:00:00+00:00",
         "end": "2022-05-15T10:00:00+00:00",
@@ -351,6 +284,7 @@
                 "startLocal": "2022-05-13T09:00:00+02:00",
                 "end": "2022-05-13T07:40:00+00:00",
                 "endLocal": "2022-05-13T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -364,6 +298,7 @@
                 "startLocal": "2022-05-13T13:15:00+02:00",
                 "end": "2022-05-13T11:55:00+00:00",
                 "endLocal": "2022-05-13T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -377,6 +312,7 @@
                 "startLocal": "2022-05-14T09:00:00+02:00",
                 "end": "2022-05-14T07:40:00+00:00",
                 "endLocal": "2022-05-14T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -390,6 +326,7 @@
                 "startLocal": "2022-05-14T12:35:00+02:00",
                 "end": "2022-05-14T11:15:00+00:00",
                 "endLocal": "2022-05-14T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -403,6 +340,7 @@
                 "startLocal": "2022-05-15T11:00:00+02:00",
                 "end": "2022-05-15T10:00:00+00:00",
                 "endLocal": "2022-05-15T12:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -412,17 +350,17 @@
     {
         "id": "sr:stage:982107",
         "type": "moto3",
-        "index": "8 / 20",
+        "index": "8 / 21",
         "title": "Gran Premio d'Italia 2022",
         "start": "2022-05-27T07:00:00+00:00",
         "end": "2022-05-29T10:00:00+00:00",
-        "timezone": null,
-        "latitude": null,
-        "longitude": null,
+        "timezone": "Europe/Rome",
+        "latitude": 44.0109647,
+        "longitude": 11.3313495,
         "trackName": "Autodromo Internazionale del Mugello",
         "countryCode": "IT",
         "countryName": "Italy",
-        "cityName": "Scarperia Firenze",
+        "cityName": "Scarperia e San Piero",
         "steps": [
             {
                 "id": "sr:stage:982109",
@@ -430,9 +368,10 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-05-27T07:00:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-27T09:00:00+02:00",
                 "end": "2022-05-27T07:40:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-27T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -443,9 +382,10 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-05-27T11:15:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-27T13:15:00+02:00",
                 "end": "2022-05-27T11:55:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-27T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -456,9 +396,10 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-05-28T07:00:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-28T09:00:00+02:00",
                 "end": "2022-05-28T07:40:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-28T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -469,9 +410,10 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-05-28T10:35:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-28T12:35:00+02:00",
                 "end": "2022-05-28T11:15:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-28T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -482,9 +424,10 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-05-29T09:00:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-29T11:00:00+02:00",
                 "end": "2022-05-29T10:00:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-29T12:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -494,7 +437,7 @@
     {
         "id": "sr:stage:982539",
         "type": "moto3",
-        "index": "9 / 20",
+        "index": "9 / 21",
         "title": "Gran Premi de Catalunya 2022",
         "start": "2022-06-03T07:00:00+00:00",
         "end": "2022-06-05T10:20:00+00:00",
@@ -515,6 +458,7 @@
                 "startLocal": "2022-06-03T09:00:00+02:00",
                 "end": "2022-06-03T07:40:00+00:00",
                 "endLocal": "2022-06-03T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -528,6 +472,7 @@
                 "startLocal": "2022-06-03T13:15:00+02:00",
                 "end": "2022-06-03T11:55:00+00:00",
                 "endLocal": "2022-06-03T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -541,6 +486,7 @@
                 "startLocal": "2022-06-04T09:00:00+02:00",
                 "end": "2022-06-04T07:40:00+00:00",
                 "endLocal": "2022-06-04T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -554,6 +500,7 @@
                 "startLocal": "2022-06-04T12:35:00+02:00",
                 "end": "2022-06-04T11:15:00+00:00",
                 "endLocal": "2022-06-04T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -567,6 +514,7 @@
                 "startLocal": "2022-06-05T11:20:00+02:00",
                 "end": "2022-06-05T10:20:00+00:00",
                 "endLocal": "2022-06-05T12:20:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -576,7 +524,7 @@
     {
         "id": "sr:stage:982755",
         "type": "moto3",
-        "index": "10 / 20",
+        "index": "10 / 21",
         "title": "Motorrad Grand Prix Deutschland 2022",
         "start": "2022-06-17T07:00:00+00:00",
         "end": "2022-06-19T10:00:00+00:00",
@@ -597,6 +545,7 @@
                 "startLocal": "2022-06-17T09:00:00+02:00",
                 "end": "2022-06-17T07:40:00+00:00",
                 "endLocal": "2022-06-17T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -610,6 +559,7 @@
                 "startLocal": "2022-06-17T13:15:00+02:00",
                 "end": "2022-06-17T11:55:00+00:00",
                 "endLocal": "2022-06-17T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -623,6 +573,7 @@
                 "startLocal": "2022-06-18T09:00:00+02:00",
                 "end": "2022-06-18T07:40:00+00:00",
                 "endLocal": "2022-06-18T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -636,6 +587,7 @@
                 "startLocal": "2022-06-18T12:35:00+02:00",
                 "end": "2022-06-18T11:15:00+00:00",
                 "endLocal": "2022-06-18T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -649,6 +601,7 @@
                 "startLocal": "2022-06-19T11:00:00+02:00",
                 "end": "2022-06-19T10:00:00+00:00",
                 "endLocal": "2022-06-19T12:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -658,7 +611,7 @@
     {
         "id": "sr:stage:982971",
         "type": "moto3",
-        "index": "11 / 20",
+        "index": "11 / 21",
         "title": "TT Assen 2022",
         "start": "2022-06-24T07:00:00+00:00",
         "end": "2022-06-26T10:00:00+00:00",
@@ -679,6 +632,7 @@
                 "startLocal": "2022-06-24T09:00:00+02:00",
                 "end": "2022-06-24T07:40:00+00:00",
                 "endLocal": "2022-06-24T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -692,6 +646,7 @@
                 "startLocal": "2022-06-24T13:15:00+02:00",
                 "end": "2022-06-24T11:55:00+00:00",
                 "endLocal": "2022-06-24T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -705,6 +660,7 @@
                 "startLocal": "2022-06-25T09:00:00+02:00",
                 "end": "2022-06-25T07:40:00+00:00",
                 "endLocal": "2022-06-25T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -718,6 +674,7 @@
                 "startLocal": "2022-06-25T12:35:00+02:00",
                 "end": "2022-06-25T11:15:00+00:00",
                 "endLocal": "2022-06-25T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -731,6 +688,7 @@
                 "startLocal": "2022-06-26T11:00:00+02:00",
                 "end": "2022-06-26T10:00:00+00:00",
                 "endLocal": "2022-06-26T12:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -740,7 +698,7 @@
     {
         "id": "sr:stage:983187",
         "type": "moto3",
-        "index": "12 / 20",
+        "index": "12 / 21",
         "title": "Grand Prix of Finland 2022",
         "start": "2022-07-08T07:00:00+00:00",
         "end": "2022-07-10T10:00:00+00:00",
@@ -761,6 +719,7 @@
                 "startLocal": "2022-07-08T10:00:00+03:00",
                 "end": "2022-07-08T07:40:00+00:00",
                 "endLocal": "2022-07-08T10:40:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -774,6 +733,7 @@
                 "startLocal": "2022-07-08T14:15:00+03:00",
                 "end": "2022-07-08T11:55:00+00:00",
                 "endLocal": "2022-07-08T14:55:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -787,6 +747,7 @@
                 "startLocal": "2022-07-09T10:00:00+03:00",
                 "end": "2022-07-09T07:40:00+00:00",
                 "endLocal": "2022-07-09T10:40:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -800,6 +761,7 @@
                 "startLocal": "2022-07-09T13:35:00+03:00",
                 "end": "2022-07-09T11:15:00+00:00",
                 "endLocal": "2022-07-09T14:15:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -813,6 +775,7 @@
                 "startLocal": "2022-07-10T12:00:00+03:00",
                 "end": "2022-07-10T10:00:00+00:00",
                 "endLocal": "2022-07-10T13:00:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -822,7 +785,7 @@
     {
         "id": "sr:stage:983403",
         "type": "moto3",
-        "index": "13 / 20",
+        "index": "13 / 21",
         "title": "British Grand Prix 2022",
         "start": "2022-08-05T08:00:00+00:00",
         "end": "2022-08-07T11:20:00+00:00",
@@ -843,6 +806,7 @@
                 "startLocal": "2022-08-05T09:00:00+01:00",
                 "end": "2022-08-05T08:40:00+00:00",
                 "endLocal": "2022-08-05T09:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -856,6 +820,7 @@
                 "startLocal": "2022-08-05T13:15:00+01:00",
                 "end": "2022-08-05T12:55:00+00:00",
                 "endLocal": "2022-08-05T13:55:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -869,6 +834,7 @@
                 "startLocal": "2022-08-06T09:00:00+01:00",
                 "end": "2022-08-06T08:40:00+00:00",
                 "endLocal": "2022-08-06T09:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -882,6 +848,7 @@
                 "startLocal": "2022-08-06T12:35:00+01:00",
                 "end": "2022-08-06T12:15:00+00:00",
                 "endLocal": "2022-08-06T13:15:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -895,6 +862,7 @@
                 "startLocal": "2022-08-07T11:20:00+01:00",
                 "end": "2022-08-07T11:20:00+00:00",
                 "endLocal": "2022-08-07T12:20:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -904,7 +872,7 @@
     {
         "id": "sr:stage:983619",
         "type": "moto3",
-        "index": "14 / 20",
+        "index": "14 / 21",
         "title": "Motorrad Grand Prix von Österreich 2022",
         "start": "2022-08-19T07:00:00+00:00",
         "end": "2022-08-21T10:00:00+00:00",
@@ -925,6 +893,7 @@
                 "startLocal": "2022-08-19T09:00:00+02:00",
                 "end": "2022-08-19T07:40:00+00:00",
                 "endLocal": "2022-08-19T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -938,6 +907,7 @@
                 "startLocal": "2022-08-19T13:15:00+02:00",
                 "end": "2022-08-19T11:55:00+00:00",
                 "endLocal": "2022-08-19T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -951,6 +921,7 @@
                 "startLocal": "2022-08-20T09:00:00+02:00",
                 "end": "2022-08-20T07:40:00+00:00",
                 "endLocal": "2022-08-20T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -964,6 +935,7 @@
                 "startLocal": "2022-08-20T12:35:00+02:00",
                 "end": "2022-08-20T11:15:00+00:00",
                 "endLocal": "2022-08-20T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -977,6 +949,7 @@
                 "startLocal": "2022-08-21T11:00:00+02:00",
                 "end": "2022-08-21T10:00:00+00:00",
                 "endLocal": "2022-08-21T12:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -986,7 +959,7 @@
     {
         "id": "sr:stage:983835",
         "type": "moto3",
-        "index": "15 / 20",
+        "index": "15 / 21",
         "title": "Gran Premio di San Marino 2022",
         "start": "2022-09-02T07:00:00+00:00",
         "end": "2022-09-04T10:00:00+00:00",
@@ -1007,6 +980,7 @@
                 "startLocal": "2022-09-02T09:00:00+02:00",
                 "end": "2022-09-02T07:40:00+00:00",
                 "endLocal": "2022-09-02T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1020,6 +994,7 @@
                 "startLocal": "2022-09-02T13:15:00+02:00",
                 "end": "2022-09-02T11:55:00+00:00",
                 "endLocal": "2022-09-02T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1033,6 +1008,7 @@
                 "startLocal": "2022-09-03T09:00:00+02:00",
                 "end": "2022-09-03T07:40:00+00:00",
                 "endLocal": "2022-09-03T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1046,6 +1022,7 @@
                 "startLocal": "2022-09-03T12:35:00+02:00",
                 "end": "2022-09-03T11:15:00+00:00",
                 "endLocal": "2022-09-03T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1059,6 +1036,7 @@
                 "startLocal": "2022-09-04T11:00:00+02:00",
                 "end": "2022-09-04T10:00:00+00:00",
                 "endLocal": "2022-09-04T12:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1068,7 +1046,7 @@
     {
         "id": "sr:stage:984051",
         "type": "moto3",
-        "index": "16 / 20",
+        "index": "16 / 21",
         "title": "Gran Premio de Aragon 2022",
         "start": "2022-09-16T07:00:00+00:00",
         "end": "2022-09-18T10:00:00+00:00",
@@ -1089,6 +1067,7 @@
                 "startLocal": "2022-09-16T09:00:00+02:00",
                 "end": "2022-09-16T07:40:00+00:00",
                 "endLocal": "2022-09-16T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1102,6 +1081,7 @@
                 "startLocal": "2022-09-16T13:15:00+02:00",
                 "end": "2022-09-16T11:55:00+00:00",
                 "endLocal": "2022-09-16T13:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1115,6 +1095,7 @@
                 "startLocal": "2022-09-17T09:00:00+02:00",
                 "end": "2022-09-17T07:40:00+00:00",
                 "endLocal": "2022-09-17T09:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1128,6 +1109,7 @@
                 "startLocal": "2022-09-17T12:35:00+02:00",
                 "end": "2022-09-17T11:15:00+00:00",
                 "endLocal": "2022-09-17T13:15:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1141,6 +1123,7 @@
                 "startLocal": "2022-09-18T11:00:00+02:00",
                 "end": "2022-09-18T10:00:00+00:00",
                 "endLocal": "2022-09-18T12:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1150,7 +1133,7 @@
     {
         "id": "sr:stage:984267",
         "type": "moto3",
-        "index": "17 / 20",
+        "index": "17 / 21",
         "title": "Grand Prix of Japan 2022",
         "start": "2022-09-23T00:00:00+00:00",
         "end": "2022-09-25T04:00:00+00:00",
@@ -1171,6 +1154,7 @@
                 "startLocal": "2022-09-23T09:00:00+09:00",
                 "end": "2022-09-23T00:40:00+00:00",
                 "endLocal": "2022-09-23T09:40:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1184,6 +1168,7 @@
                 "startLocal": "2022-09-23T13:15:00+09:00",
                 "end": "2022-09-23T04:55:00+00:00",
                 "endLocal": "2022-09-23T13:55:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1197,6 +1182,7 @@
                 "startLocal": "2022-09-24T09:00:00+09:00",
                 "end": "2022-09-24T00:40:00+00:00",
                 "endLocal": "2022-09-24T09:40:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1210,6 +1196,7 @@
                 "startLocal": "2022-09-24T12:35:00+09:00",
                 "end": "2022-09-24T04:15:00+00:00",
                 "endLocal": "2022-09-24T13:15:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1223,6 +1210,94 @@
                 "startLocal": "2022-09-25T12:00:00+09:00",
                 "end": "2022-09-25T04:00:00+00:00",
                 "endLocal": "2022-09-25T13:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:1010049",
+        "type": "moto3",
+        "index": "18 / 21",
+        "title": "Thailand Grand Prix 2022",
+        "start": "2022-09-30T02:00:00+00:00",
+        "end": "2022-10-02T06:00:00+00:00",
+        "timezone": "Asia/Bangkok",
+        "latitude": 14.9955693,
+        "longitude": 103.1079187,
+        "trackName": "Chang International Circuit",
+        "countryCode": "TH",
+        "countryName": "Thailand",
+        "cityName": "Buriram",
+        "steps": [
+            {
+                "id": "sr:stage:1010051",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-09-30T02:00:00+00:00",
+                "startLocal": "2022-09-30T09:00:00+07:00",
+                "end": "2022-09-30T02:50:00+00:00",
+                "endLocal": "2022-09-30T09:50:00+07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:1010053",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-09-30T06:15:00+00:00",
+                "startLocal": "2022-09-30T13:15:00+07:00",
+                "end": "2022-09-30T06:55:00+00:00",
+                "endLocal": "2022-09-30T13:55:00+07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:1010055",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-10-01T02:00:00+00:00",
+                "startLocal": "2022-10-01T09:00:00+07:00",
+                "end": "2022-10-01T02:40:00+00:00",
+                "endLocal": "2022-10-01T09:40:00+07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:1010057",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-10-01T05:35:00+00:00",
+                "startLocal": "2022-10-01T12:35:00+07:00",
+                "end": "2022-10-01T06:15:00+00:00",
+                "endLocal": "2022-10-01T13:15:00+07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "sr:stage:1010063",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-10-02T05:00:00+00:00",
+                "startLocal": "2022-10-02T12:00:00+07:00",
+                "end": "2022-10-02T06:00:00+00:00",
+                "endLocal": "2022-10-02T13:00:00+07:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1232,7 +1307,7 @@
     {
         "id": "sr:stage:984483",
         "type": "moto3",
-        "index": "18 / 20",
+        "index": "19 / 21",
         "title": "Australian Motorcycle Grand Prix 2022",
         "start": "2022-10-13T22:00:00+00:00",
         "end": "2022-10-16T02:00:00+00:00",
@@ -1253,6 +1328,7 @@
                 "startLocal": "2022-10-14T09:00:00+11:00",
                 "end": "2022-10-13T22:40:00+00:00",
                 "endLocal": "2022-10-14T09:40:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1266,6 +1342,7 @@
                 "startLocal": "2022-10-14T14:15:00+11:00",
                 "end": "2022-10-14T03:50:00+00:00",
                 "endLocal": "2022-10-14T14:50:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1279,6 +1356,7 @@
                 "startLocal": "2022-10-15T09:00:00+11:00",
                 "end": "2022-10-14T22:40:00+00:00",
                 "endLocal": "2022-10-15T09:40:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1292,6 +1370,7 @@
                 "startLocal": "2022-10-15T12:35:00+11:00",
                 "end": "2022-10-15T02:15:00+00:00",
                 "endLocal": "2022-10-15T13:15:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1305,6 +1384,7 @@
                 "startLocal": "2022-10-16T12:00:00+11:00",
                 "end": "2022-10-16T02:00:00+00:00",
                 "endLocal": "2022-10-16T13:00:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1314,7 +1394,7 @@
     {
         "id": "sr:stage:984699",
         "type": "moto3",
-        "index": "19 / 20",
+        "index": "20 / 21",
         "title": "Malaysia Motorcycle Grand Prix 2022",
         "start": "2022-10-21T01:00:00+00:00",
         "end": "2022-10-23T05:00:00+00:00",
@@ -1335,6 +1415,7 @@
                 "startLocal": "2022-10-21T09:00:00+08:00",
                 "end": "2022-10-21T01:40:00+00:00",
                 "endLocal": "2022-10-21T09:40:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1348,6 +1429,7 @@
                 "startLocal": "2022-10-21T13:15:00+08:00",
                 "end": "2022-10-21T05:55:00+00:00",
                 "endLocal": "2022-10-21T13:55:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1361,6 +1443,7 @@
                 "startLocal": "2022-10-22T09:00:00+08:00",
                 "end": "2022-10-22T01:40:00+00:00",
                 "endLocal": "2022-10-22T09:40:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1374,6 +1457,7 @@
                 "startLocal": "2022-10-22T12:35:00+08:00",
                 "end": "2022-10-22T05:15:00+00:00",
                 "endLocal": "2022-10-22T13:15:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1387,6 +1471,7 @@
                 "startLocal": "2022-10-23T12:00:00+08:00",
                 "end": "2022-10-23T05:00:00+00:00",
                 "endLocal": "2022-10-23T13:00:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1396,7 +1481,7 @@
     {
         "id": "sr:stage:984915",
         "type": "moto3",
-        "index": "20 / 20",
+        "index": "21 / 21",
         "title": "Gran Premio de la Comunitat Valenciana 2022",
         "start": "2022-11-04T08:00:00+00:00",
         "end": "2022-11-06T11:00:00+00:00",
@@ -1417,6 +1502,7 @@
                 "startLocal": "2022-11-04T09:00:00+01:00",
                 "end": "2022-11-04T08:40:00+00:00",
                 "endLocal": "2022-11-04T09:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1430,6 +1516,7 @@
                 "startLocal": "2022-11-04T13:15:00+01:00",
                 "end": "2022-11-04T12:55:00+00:00",
                 "endLocal": "2022-11-04T13:55:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1443,6 +1530,7 @@
                 "startLocal": "2022-11-05T09:00:00+01:00",
                 "end": "2022-11-05T08:40:00+00:00",
                 "endLocal": "2022-11-05T09:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1456,6 +1544,7 @@
                 "startLocal": "2022-11-05T12:35:00+01:00",
                 "end": "2022-11-05T12:15:00+00:00",
                 "endLocal": "2022-11-05T13:15:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1469,6 +1558,7 @@
                 "startLocal": "2022-11-06T11:00:00+01:00",
                 "end": "2022-11-06T11:00:00+00:00",
                 "endLocal": "2022-11-06T12:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false

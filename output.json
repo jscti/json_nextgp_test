@@ -1,100 +1,5 @@
 [
     {
-        "id": "sr:stage:971763",
-        "type": "motogp",
-        "index": "3 / 21",
-        "title": "Gran Premio de la Republica Argentina 2022",
-        "start": "2022-04-01T13:50:00+00:00",
-        "end": "2022-04-03T19:00:00+00:00",
-        "timezone": "America/Argentina/Cordoba",
-        "latitude": -27.7877148,
-        "longitude": -64.2595062,
-        "trackName": "Autodromo Termas de Rio Hondo",
-        "countryCode": "AR",
-        "countryName": "Argentina",
-        "cityName": "Santiago del Estero",
-        "steps": [
-            {
-                "id": "sr:stage:971765",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-04-01T13:50:00+00:00",
-                "startLocal": "2022-04-01T10:50:00-03:00",
-                "end": "2022-04-01T14:35:00+00:00",
-                "endLocal": "2022-04-01T11:35:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:971767",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-04-01T18:05:00+00:00",
-                "startLocal": "2022-04-01T15:05:00-03:00",
-                "end": "2022-04-01T18:50:00+00:00",
-                "endLocal": "2022-04-01T15:50:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:971769",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-04-02T13:50:00+00:00",
-                "startLocal": "2022-04-02T10:50:00-03:00",
-                "end": "2022-04-02T14:35:00+00:00",
-                "endLocal": "2022-04-02T11:35:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:971771",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2022-04-02T17:25:00+00:00",
-                "startLocal": "2022-04-02T14:25:00-03:00",
-                "end": "2022-04-02T17:55:00+00:00",
-                "endLocal": "2022-04-02T14:55:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:971773",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-02T18:05:00+00:00",
-                "startLocal": "2022-04-02T15:05:00-03:00",
-                "end": "2022-04-02T18:45:00+00:00",
-                "endLocal": "2022-04-02T15:45:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:971779",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-04-03T18:00:00+00:00",
-                "startLocal": "2022-04-03T15:00:00-03:00",
-                "end": "2022-04-03T19:00:00+00:00",
-                "endLocal": "2022-04-03T16:00:00-03:00",
-                "weatherCondition": 800,
-                "weatherIcon": "https://openweathermap.org/img/wn/01d@2x.png",
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
         "id": "sr:stage:937745",
         "type": "f1",
         "index": "3 / 22",
@@ -118,6 +23,7 @@
                 "startLocal": "2022-04-08T13:00:00+10:00",
                 "end": "2022-04-08T04:00:00+00:00",
                 "endLocal": "2022-04-08T14:00:00+10:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -131,6 +37,7 @@
                 "startLocal": "2022-04-08T16:00:00+10:00",
                 "end": "2022-04-08T07:00:00+00:00",
                 "endLocal": "2022-04-08T17:00:00+10:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -144,8 +51,9 @@
                 "startLocal": "2022-04-09T13:00:00+10:00",
                 "end": "2022-04-09T04:00:00+00:00",
                 "endLocal": "2022-04-09T14:00:00+10:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "isNightEvent": false
             },
             {
@@ -157,8 +65,9 @@
                 "startLocal": "2022-04-09T16:00:00+10:00",
                 "end": "2022-04-09T07:00:00+00:00",
                 "endLocal": "2022-04-09T17:00:00+10:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "isNightEvent": false
             },
             {
@@ -170,8 +79,9 @@
                 "startLocal": "2022-04-10T15:00:00+10:00",
                 "end": "2022-04-10T07:00:00+00:00",
                 "endLocal": "2022-04-10T17:00:00+10:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "isNightEvent": false
             }
         ]
@@ -200,8 +110,9 @@
                 "startLocal": "2022-04-08T09:55:00-05:00",
                 "end": "2022-04-08T15:40:00+00:00",
                 "endLocal": "2022-04-08T10:40:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -213,8 +124,9 @@
                 "startLocal": "2022-04-08T14:10:00-05:00",
                 "end": "2022-04-08T19:55:00+00:00",
                 "endLocal": "2022-04-08T14:55:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -226,8 +138,9 @@
                 "startLocal": "2022-04-09T09:55:00-05:00",
                 "end": "2022-04-09T15:40:00+00:00",
                 "endLocal": "2022-04-09T10:40:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -239,8 +152,9 @@
                 "startLocal": "2022-04-09T13:30:00-05:00",
                 "end": "2022-04-09T19:00:00+00:00",
                 "endLocal": "2022-04-09T14:00:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -252,8 +166,9 @@
                 "startLocal": "2022-04-09T14:10:00-05:00",
                 "end": "2022-04-09T19:50:00+00:00",
                 "endLocal": "2022-04-09T14:50:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "isNightEvent": false
             },
             {
@@ -265,8 +180,9 @@
                 "startLocal": "2022-04-10T13:00:00-05:00",
                 "end": "2022-04-10T19:00:00+00:00",
                 "endLocal": "2022-04-10T14:00:00-05:00",
-                "weatherCondition": null,
-                "weatherIcon": null,
+                "hasTime": true,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "isNightEvent": false
             }
         ]
@@ -295,6 +211,7 @@
                 "startLocal": "2022-04-22T09:55:00+01:00",
                 "end": "2022-04-22T09:40:00+00:00",
                 "endLocal": "2022-04-22T10:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -308,6 +225,7 @@
                 "startLocal": "2022-04-22T14:10:00+01:00",
                 "end": "2022-04-22T13:55:00+00:00",
                 "endLocal": "2022-04-22T14:55:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -321,6 +239,7 @@
                 "startLocal": "2022-04-23T09:55:00+01:00",
                 "end": "2022-04-23T09:40:00+00:00",
                 "endLocal": "2022-04-23T10:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -334,6 +253,7 @@
                 "startLocal": "2022-04-23T13:30:00+01:00",
                 "end": "2022-04-23T13:00:00+00:00",
                 "endLocal": "2022-04-23T14:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -347,6 +267,7 @@
                 "startLocal": "2022-04-23T14:10:00+01:00",
                 "end": "2022-04-23T13:50:00+00:00",
                 "endLocal": "2022-04-23T14:50:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -360,6 +281,7 @@
                 "startLocal": "2022-04-24T13:00:00+01:00",
                 "end": "2022-04-24T13:00:00+00:00",
                 "endLocal": "2022-04-24T14:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -390,6 +312,7 @@
                 "startLocal": "2022-04-22T13:00:00+02:00",
                 "end": "2022-04-22T12:00:00+00:00",
                 "endLocal": "2022-04-22T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -403,6 +326,7 @@
                 "startLocal": "2022-04-22T16:00:00+02:00",
                 "end": "2022-04-22T15:00:00+00:00",
                 "endLocal": "2022-04-22T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -416,6 +340,7 @@
                 "startLocal": "2022-04-23T13:00:00+02:00",
                 "end": "2022-04-23T12:00:00+00:00",
                 "endLocal": "2022-04-23T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -429,6 +354,7 @@
                 "startLocal": "2022-04-23T17:30:00+02:00",
                 "end": "2022-04-23T16:00:00+00:00",
                 "endLocal": "2022-04-23T18:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -442,6 +368,7 @@
                 "startLocal": "2022-04-24T15:00:00+02:00",
                 "end": "2022-04-24T15:00:00+00:00",
                 "endLocal": "2022-04-24T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -472,6 +399,7 @@
                 "startLocal": "2022-04-29T09:55:00+02:00",
                 "end": "2022-04-29T08:40:00+00:00",
                 "endLocal": "2022-04-29T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -485,6 +413,7 @@
                 "startLocal": "2022-04-29T14:10:00+02:00",
                 "end": "2022-04-29T12:55:00+00:00",
                 "endLocal": "2022-04-29T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -498,6 +427,7 @@
                 "startLocal": "2022-04-30T09:55:00+02:00",
                 "end": "2022-04-30T08:40:00+00:00",
                 "endLocal": "2022-04-30T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -511,6 +441,7 @@
                 "startLocal": "2022-04-30T13:30:00+02:00",
                 "end": "2022-04-30T12:00:00+00:00",
                 "endLocal": "2022-04-30T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -524,6 +455,7 @@
                 "startLocal": "2022-04-30T14:10:00+02:00",
                 "end": "2022-04-30T12:50:00+00:00",
                 "endLocal": "2022-04-30T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -537,6 +469,7 @@
                 "startLocal": "2022-05-01T14:00:00+02:00",
                 "end": "2022-05-01T13:00:00+00:00",
                 "endLocal": "2022-05-01T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -567,6 +500,7 @@
                 "startLocal": "2022-05-06T14:30:00-04:00",
                 "end": "2022-05-06T19:30:00+00:00",
                 "endLocal": "2022-05-06T15:30:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -580,6 +514,7 @@
                 "startLocal": "2022-05-06T17:30:00-04:00",
                 "end": "2022-05-06T22:30:00+00:00",
                 "endLocal": "2022-05-06T18:30:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -593,6 +528,7 @@
                 "startLocal": "2022-05-07T13:00:00-04:00",
                 "end": "2022-05-07T18:00:00+00:00",
                 "endLocal": "2022-05-07T14:00:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -606,6 +542,7 @@
                 "startLocal": "2022-05-07T16:00:00-04:00",
                 "end": "2022-05-07T21:00:00+00:00",
                 "endLocal": "2022-05-07T17:00:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -619,6 +556,7 @@
                 "startLocal": "2022-05-08T15:30:00-04:00",
                 "end": "2022-05-08T21:30:00+00:00",
                 "endLocal": "2022-05-08T17:30:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -649,6 +587,7 @@
                 "startLocal": "2022-05-13T09:55:00+02:00",
                 "end": "2022-05-13T08:40:00+00:00",
                 "endLocal": "2022-05-13T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -662,6 +601,7 @@
                 "startLocal": "2022-05-13T14:10:00+02:00",
                 "end": "2022-05-13T12:55:00+00:00",
                 "endLocal": "2022-05-13T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -675,6 +615,7 @@
                 "startLocal": "2022-05-14T09:55:00+02:00",
                 "end": "2022-05-14T08:40:00+00:00",
                 "endLocal": "2022-05-14T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -688,6 +629,7 @@
                 "startLocal": "2022-05-14T13:30:00+02:00",
                 "end": "2022-05-14T12:00:00+00:00",
                 "endLocal": "2022-05-14T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -701,6 +643,7 @@
                 "startLocal": "2022-05-14T14:10:00+02:00",
                 "end": "2022-05-14T12:50:00+00:00",
                 "endLocal": "2022-05-14T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -714,6 +657,7 @@
                 "startLocal": "2022-05-15T14:00:00+02:00",
                 "end": "2022-05-15T13:00:00+00:00",
                 "endLocal": "2022-05-15T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -744,6 +688,7 @@
                 "startLocal": "2022-05-20T14:00:00+02:00",
                 "end": "2022-05-20T13:00:00+00:00",
                 "endLocal": "2022-05-20T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -757,6 +702,7 @@
                 "startLocal": "2022-05-20T17:00:00+02:00",
                 "end": "2022-05-20T16:00:00+00:00",
                 "endLocal": "2022-05-20T18:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -770,6 +716,7 @@
                 "startLocal": "2022-05-21T13:00:00+02:00",
                 "end": "2022-05-21T12:00:00+00:00",
                 "endLocal": "2022-05-21T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -783,6 +730,7 @@
                 "startLocal": "2022-05-21T16:00:00+02:00",
                 "end": "2022-05-21T15:00:00+00:00",
                 "endLocal": "2022-05-21T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -796,6 +744,7 @@
                 "startLocal": "2022-05-22T15:00:00+02:00",
                 "end": "2022-05-22T15:00:00+00:00",
                 "endLocal": "2022-05-22T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -809,13 +758,13 @@
         "title": "Gran Premio d'Italia 2022",
         "start": "2022-05-27T07:55:00+00:00",
         "end": "2022-05-29T13:00:00+00:00",
-        "timezone": null,
-        "latitude": null,
-        "longitude": null,
+        "timezone": "Europe/Rome",
+        "latitude": 44.0109647,
+        "longitude": 11.3313495,
         "trackName": "Autodromo Internazionale del Mugello",
         "countryCode": "IT",
         "countryName": "Italy",
-        "cityName": "Scarperia Firenze",
+        "cityName": "Scarperia e San Piero",
         "steps": [
             {
                 "id": "sr:stage:972855",
@@ -823,9 +772,10 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-05-27T07:55:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-27T09:55:00+02:00",
                 "end": "2022-05-27T08:40:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-27T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -836,9 +786,10 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-05-27T12:10:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-27T14:10:00+02:00",
                 "end": "2022-05-27T12:55:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-27T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -849,9 +800,10 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-05-28T07:55:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-28T09:55:00+02:00",
                 "end": "2022-05-28T08:40:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-28T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -862,9 +814,10 @@
                 "type": "practice",
                 "index": 4,
                 "start": "2022-05-28T12:00:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-28T14:00:00+02:00",
                 "end": "2022-05-28T12:35:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-28T14:35:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -875,9 +828,10 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-05-28T12:10:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-28T14:10:00+02:00",
                 "end": "2022-05-28T12:50:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-28T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -888,9 +842,10 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-05-29T12:00:00+00:00",
-                "startLocal": null,
+                "startLocal": "2022-05-29T14:00:00+02:00",
                 "end": "2022-05-29T13:00:00+00:00",
-                "endLocal": null,
+                "endLocal": "2022-05-29T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -921,6 +876,7 @@
                 "startLocal": "2022-05-27T16:00:00+02:00",
                 "end": "2022-05-27T15:00:00+00:00",
                 "endLocal": "2022-05-27T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -934,6 +890,7 @@
                 "startLocal": "2022-05-27T17:00:00+02:00",
                 "end": "2022-05-27T16:00:00+00:00",
                 "endLocal": "2022-05-27T18:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -947,6 +904,7 @@
                 "startLocal": "2022-05-28T13:00:00+02:00",
                 "end": "2022-05-28T12:00:00+00:00",
                 "endLocal": "2022-05-28T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -960,6 +918,7 @@
                 "startLocal": "2022-05-28T16:00:00+02:00",
                 "end": "2022-05-28T15:00:00+00:00",
                 "endLocal": "2022-05-28T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -973,6 +932,7 @@
                 "startLocal": "2022-05-29T15:00:00+02:00",
                 "end": "2022-05-29T15:00:00+00:00",
                 "endLocal": "2022-05-29T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1003,6 +963,7 @@
                 "startLocal": "2022-06-03T09:55:00+02:00",
                 "end": "2022-06-03T08:40:00+00:00",
                 "endLocal": "2022-06-03T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1016,6 +977,7 @@
                 "startLocal": "2022-06-03T14:10:00+02:00",
                 "end": "2022-06-03T12:55:00+00:00",
                 "endLocal": "2022-06-03T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1029,6 +991,7 @@
                 "startLocal": "2022-06-04T09:55:00+02:00",
                 "end": "2022-06-04T08:40:00+00:00",
                 "endLocal": "2022-06-04T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1042,6 +1005,7 @@
                 "startLocal": "2022-06-04T13:30:00+02:00",
                 "end": "2022-06-04T12:00:00+00:00",
                 "endLocal": "2022-06-04T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1055,6 +1019,7 @@
                 "startLocal": "2022-06-04T14:10:00+02:00",
                 "end": "2022-06-04T12:50:00+00:00",
                 "endLocal": "2022-06-04T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1068,6 +1033,7 @@
                 "startLocal": "2022-06-05T13:00:00+02:00",
                 "end": "2022-06-05T12:00:00+00:00",
                 "endLocal": "2022-06-05T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1098,6 +1064,7 @@
                 "startLocal": "2022-06-10T15:00:00+04:00",
                 "end": "2022-06-10T12:00:00+00:00",
                 "endLocal": "2022-06-10T16:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1111,6 +1078,7 @@
                 "startLocal": "2022-06-10T18:00:00+04:00",
                 "end": "2022-06-10T15:00:00+00:00",
                 "endLocal": "2022-06-10T19:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1124,6 +1092,7 @@
                 "startLocal": "2022-06-11T15:00:00+04:00",
                 "end": "2022-06-11T12:00:00+00:00",
                 "endLocal": "2022-06-11T16:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1137,6 +1106,7 @@
                 "startLocal": "2022-06-11T18:00:00+04:00",
                 "end": "2022-06-11T15:00:00+00:00",
                 "endLocal": "2022-06-11T19:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1150,6 +1120,7 @@
                 "startLocal": "2022-06-12T15:00:00+04:00",
                 "end": "2022-06-12T13:00:00+00:00",
                 "endLocal": "2022-06-12T17:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1180,6 +1151,7 @@
                 "startLocal": "2022-06-17T09:55:00+02:00",
                 "end": "2022-06-17T08:40:00+00:00",
                 "endLocal": "2022-06-17T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1193,6 +1165,7 @@
                 "startLocal": "2022-06-17T14:10:00+02:00",
                 "end": "2022-06-17T12:55:00+00:00",
                 "endLocal": "2022-06-17T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1206,6 +1179,7 @@
                 "startLocal": "2022-06-18T09:55:00+02:00",
                 "end": "2022-06-18T08:40:00+00:00",
                 "endLocal": "2022-06-18T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1219,6 +1193,7 @@
                 "startLocal": "2022-06-18T13:30:00+02:00",
                 "end": "2022-06-18T12:00:00+00:00",
                 "endLocal": "2022-06-18T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1232,6 +1207,7 @@
                 "startLocal": "2022-06-18T14:10:00+02:00",
                 "end": "2022-06-18T12:50:00+00:00",
                 "endLocal": "2022-06-18T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1245,6 +1221,7 @@
                 "startLocal": "2022-06-19T14:00:00+02:00",
                 "end": "2022-06-19T13:00:00+00:00",
                 "endLocal": "2022-06-19T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1275,6 +1252,7 @@
                 "startLocal": "2022-06-17T14:00:00-04:00",
                 "end": "2022-06-17T19:00:00+00:00",
                 "endLocal": "2022-06-17T15:00:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1288,6 +1266,7 @@
                 "startLocal": "2022-06-17T17:00:00-04:00",
                 "end": "2022-06-17T22:00:00+00:00",
                 "endLocal": "2022-06-17T18:00:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1301,6 +1280,7 @@
                 "startLocal": "2022-06-18T13:00:00-04:00",
                 "end": "2022-06-18T18:00:00+00:00",
                 "endLocal": "2022-06-18T14:00:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1314,6 +1294,7 @@
                 "startLocal": "2022-06-18T16:00:00-04:00",
                 "end": "2022-06-18T21:00:00+00:00",
                 "endLocal": "2022-06-18T17:00:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1327,6 +1308,7 @@
                 "startLocal": "2022-06-19T14:00:00-04:00",
                 "end": "2022-06-19T20:00:00+00:00",
                 "endLocal": "2022-06-19T16:00:00-04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1357,6 +1339,7 @@
                 "startLocal": "2022-06-24T09:55:00+02:00",
                 "end": "2022-06-24T08:40:00+00:00",
                 "endLocal": "2022-06-24T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1370,6 +1353,7 @@
                 "startLocal": "2022-06-24T14:10:00+02:00",
                 "end": "2022-06-24T12:55:00+00:00",
                 "endLocal": "2022-06-24T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1383,6 +1367,7 @@
                 "startLocal": "2022-06-25T09:55:00+02:00",
                 "end": "2022-06-25T08:40:00+00:00",
                 "endLocal": "2022-06-25T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1396,6 +1381,7 @@
                 "startLocal": "2022-06-25T13:30:00+02:00",
                 "end": "2022-06-25T12:00:00+00:00",
                 "endLocal": "2022-06-25T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1409,6 +1395,7 @@
                 "startLocal": "2022-06-25T14:10:00+02:00",
                 "end": "2022-06-25T12:50:00+00:00",
                 "endLocal": "2022-06-25T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1422,6 +1409,7 @@
                 "startLocal": "2022-06-26T14:00:00+02:00",
                 "end": "2022-06-26T13:00:00+00:00",
                 "endLocal": "2022-06-26T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1452,6 +1440,7 @@
                 "startLocal": "2022-07-01T13:00:00+01:00",
                 "end": "2022-07-01T13:00:00+00:00",
                 "endLocal": "2022-07-01T14:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1465,6 +1454,7 @@
                 "startLocal": "2022-07-01T16:00:00+01:00",
                 "end": "2022-07-01T16:00:00+00:00",
                 "endLocal": "2022-07-01T17:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1478,6 +1468,7 @@
                 "startLocal": "2022-07-02T12:00:00+01:00",
                 "end": "2022-07-02T12:00:00+00:00",
                 "endLocal": "2022-07-02T13:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1491,6 +1482,7 @@
                 "startLocal": "2022-07-02T15:00:00+01:00",
                 "end": "2022-07-02T15:00:00+00:00",
                 "endLocal": "2022-07-02T16:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1504,6 +1496,7 @@
                 "startLocal": "2022-07-03T15:00:00+01:00",
                 "end": "2022-07-03T16:00:00+00:00",
                 "endLocal": "2022-07-03T17:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1534,6 +1527,7 @@
                 "startLocal": "2022-07-08T10:55:00+03:00",
                 "end": "2022-07-08T08:40:00+00:00",
                 "endLocal": "2022-07-08T11:40:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1547,6 +1541,7 @@
                 "startLocal": "2022-07-08T15:10:00+03:00",
                 "end": "2022-07-08T12:55:00+00:00",
                 "endLocal": "2022-07-08T15:55:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1560,6 +1555,7 @@
                 "startLocal": "2022-07-09T10:55:00+03:00",
                 "end": "2022-07-09T08:40:00+00:00",
                 "endLocal": "2022-07-09T11:40:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1573,6 +1569,7 @@
                 "startLocal": "2022-07-09T14:30:00+03:00",
                 "end": "2022-07-09T12:00:00+00:00",
                 "endLocal": "2022-07-09T15:00:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1586,6 +1583,7 @@
                 "startLocal": "2022-07-09T15:10:00+03:00",
                 "end": "2022-07-09T12:50:00+00:00",
                 "endLocal": "2022-07-09T15:50:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1599,6 +1597,7 @@
                 "startLocal": "2022-07-10T15:00:00+03:00",
                 "end": "2022-07-10T13:00:00+00:00",
                 "endLocal": "2022-07-10T16:00:00+03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1629,6 +1628,7 @@
                 "startLocal": "2022-07-08T14:00:00+02:00",
                 "end": "2022-07-08T13:00:00+00:00",
                 "endLocal": "2022-07-08T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1642,6 +1642,7 @@
                 "startLocal": "2022-07-08T16:00:00+02:00",
                 "end": "2022-07-08T15:00:00+00:00",
                 "endLocal": "2022-07-08T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1655,6 +1656,7 @@
                 "startLocal": "2022-07-09T14:00:00+02:00",
                 "end": "2022-07-09T13:00:00+00:00",
                 "endLocal": "2022-07-09T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1668,6 +1670,7 @@
                 "startLocal": "2022-07-09T17:30:00+02:00",
                 "end": "2022-07-09T16:00:00+00:00",
                 "endLocal": "2022-07-09T18:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1681,6 +1684,7 @@
                 "startLocal": "2022-07-10T15:00:00+02:00",
                 "end": "2022-07-10T15:00:00+00:00",
                 "endLocal": "2022-07-10T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1711,6 +1715,7 @@
                 "startLocal": "2022-07-22T14:00:00+02:00",
                 "end": "2022-07-22T13:00:00+00:00",
                 "endLocal": "2022-07-22T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1724,6 +1729,7 @@
                 "startLocal": "2022-07-22T17:00:00+02:00",
                 "end": "2022-07-22T16:00:00+00:00",
                 "endLocal": "2022-07-22T18:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1737,6 +1743,7 @@
                 "startLocal": "2022-07-23T13:00:00+02:00",
                 "end": "2022-07-23T12:00:00+00:00",
                 "endLocal": "2022-07-23T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1750,6 +1757,7 @@
                 "startLocal": "2022-07-23T16:00:00+02:00",
                 "end": "2022-07-23T15:00:00+00:00",
                 "endLocal": "2022-07-23T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1763,6 +1771,7 @@
                 "startLocal": "2022-07-24T15:00:00+02:00",
                 "end": "2022-07-24T15:00:00+00:00",
                 "endLocal": "2022-07-24T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1793,6 +1802,7 @@
                 "startLocal": "2022-07-29T14:00:00+02:00",
                 "end": "2022-07-29T13:00:00+00:00",
                 "endLocal": "2022-07-29T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1806,6 +1816,7 @@
                 "startLocal": "2022-07-29T17:00:00+02:00",
                 "end": "2022-07-29T16:00:00+00:00",
                 "endLocal": "2022-07-29T18:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1819,6 +1830,7 @@
                 "startLocal": "2022-07-30T13:00:00+02:00",
                 "end": "2022-07-30T12:00:00+00:00",
                 "endLocal": "2022-07-30T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1832,6 +1844,7 @@
                 "startLocal": "2022-07-30T16:00:00+02:00",
                 "end": "2022-07-30T15:00:00+00:00",
                 "endLocal": "2022-07-30T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1845,6 +1858,7 @@
                 "startLocal": "2022-07-31T15:00:00+02:00",
                 "end": "2022-07-31T15:00:00+00:00",
                 "endLocal": "2022-07-31T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1875,6 +1889,7 @@
                 "startLocal": "2022-08-05T09:55:00+01:00",
                 "end": "2022-08-05T09:40:00+00:00",
                 "endLocal": "2022-08-05T10:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1888,6 +1903,7 @@
                 "startLocal": "2022-08-05T14:10:00+01:00",
                 "end": "2022-08-05T13:55:00+00:00",
                 "endLocal": "2022-08-05T14:55:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1901,6 +1917,7 @@
                 "startLocal": "2022-08-06T09:55:00+01:00",
                 "end": "2022-08-06T09:40:00+00:00",
                 "endLocal": "2022-08-06T10:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1914,6 +1931,7 @@
                 "startLocal": "2022-08-06T13:30:00+01:00",
                 "end": "2022-08-06T13:00:00+00:00",
                 "endLocal": "2022-08-06T14:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1927,6 +1945,7 @@
                 "startLocal": "2022-08-06T14:10:00+01:00",
                 "end": "2022-08-06T13:50:00+00:00",
                 "endLocal": "2022-08-06T14:50:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1940,6 +1959,7 @@
                 "startLocal": "2022-08-07T13:00:00+01:00",
                 "end": "2022-08-07T13:00:00+00:00",
                 "endLocal": "2022-08-07T14:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1970,6 +1990,7 @@
                 "startLocal": "2022-08-19T09:55:00+02:00",
                 "end": "2022-08-19T08:40:00+00:00",
                 "endLocal": "2022-08-19T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1983,6 +2004,7 @@
                 "startLocal": "2022-08-19T14:10:00+02:00",
                 "end": "2022-08-19T12:55:00+00:00",
                 "endLocal": "2022-08-19T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -1996,6 +2018,7 @@
                 "startLocal": "2022-08-20T09:55:00+02:00",
                 "end": "2022-08-20T08:40:00+00:00",
                 "endLocal": "2022-08-20T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2009,6 +2032,7 @@
                 "startLocal": "2022-08-20T13:30:00+02:00",
                 "end": "2022-08-20T12:00:00+00:00",
                 "endLocal": "2022-08-20T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2022,6 +2046,7 @@
                 "startLocal": "2022-08-20T14:10:00+02:00",
                 "end": "2022-08-20T12:50:00+00:00",
                 "endLocal": "2022-08-20T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2035,6 +2060,7 @@
                 "startLocal": "2022-08-21T14:00:00+02:00",
                 "end": "2022-08-21T13:00:00+00:00",
                 "endLocal": "2022-08-21T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2065,6 +2091,7 @@
                 "startLocal": null,
                 "end": "2022-08-26T13:00:00+00:00",
                 "endLocal": null,
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2078,6 +2105,7 @@
                 "startLocal": null,
                 "end": "2022-08-26T16:00:00+00:00",
                 "endLocal": null,
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2091,6 +2119,7 @@
                 "startLocal": null,
                 "end": "2022-08-27T12:00:00+00:00",
                 "endLocal": null,
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2104,6 +2133,7 @@
                 "startLocal": null,
                 "end": "2022-08-27T15:00:00+00:00",
                 "endLocal": null,
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2117,6 +2147,7 @@
                 "startLocal": null,
                 "end": "2022-08-28T15:00:00+00:00",
                 "endLocal": null,
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2147,6 +2178,7 @@
                 "startLocal": "2022-09-02T09:55:00+02:00",
                 "end": "2022-09-02T08:40:00+00:00",
                 "endLocal": "2022-09-02T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2160,6 +2192,7 @@
                 "startLocal": "2022-09-02T14:10:00+02:00",
                 "end": "2022-09-02T12:55:00+00:00",
                 "endLocal": "2022-09-02T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2173,6 +2206,7 @@
                 "startLocal": "2022-09-03T09:55:00+02:00",
                 "end": "2022-09-03T08:40:00+00:00",
                 "endLocal": "2022-09-03T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2186,6 +2220,7 @@
                 "startLocal": "2022-09-03T13:30:00+02:00",
                 "end": "2022-09-03T12:00:00+00:00",
                 "endLocal": "2022-09-03T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2199,6 +2234,7 @@
                 "startLocal": "2022-09-03T14:10:00+02:00",
                 "end": "2022-09-03T12:50:00+00:00",
                 "endLocal": "2022-09-03T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2212,6 +2248,7 @@
                 "startLocal": "2022-09-04T14:00:00+02:00",
                 "end": "2022-09-04T13:00:00+00:00",
                 "endLocal": "2022-09-04T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2242,6 +2279,7 @@
                 "startLocal": "2022-09-02T14:00:00+02:00",
                 "end": "2022-09-02T13:00:00+00:00",
                 "endLocal": "2022-09-02T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2255,6 +2293,7 @@
                 "startLocal": "2022-09-02T17:00:00+02:00",
                 "end": "2022-09-02T16:00:00+00:00",
                 "endLocal": "2022-09-02T18:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2268,6 +2307,7 @@
                 "startLocal": "2022-09-03T13:00:00+02:00",
                 "end": "2022-09-03T12:00:00+00:00",
                 "endLocal": "2022-09-03T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2281,6 +2321,7 @@
                 "startLocal": "2022-09-03T16:00:00+02:00",
                 "end": "2022-09-03T15:00:00+00:00",
                 "endLocal": "2022-09-03T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2294,6 +2335,7 @@
                 "startLocal": "2022-09-04T15:00:00+02:00",
                 "end": "2022-09-04T15:00:00+00:00",
                 "endLocal": "2022-09-04T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2324,6 +2366,7 @@
                 "startLocal": "2022-09-09T14:00:00+02:00",
                 "end": "2022-09-09T13:00:00+00:00",
                 "endLocal": "2022-09-09T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2337,6 +2380,7 @@
                 "startLocal": "2022-09-09T17:00:00+02:00",
                 "end": "2022-09-09T16:00:00+00:00",
                 "endLocal": "2022-09-09T18:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2350,6 +2394,7 @@
                 "startLocal": "2022-09-10T13:00:00+02:00",
                 "end": "2022-09-10T12:00:00+00:00",
                 "endLocal": "2022-09-10T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2363,6 +2408,7 @@
                 "startLocal": "2022-09-10T16:00:00+02:00",
                 "end": "2022-09-10T15:00:00+00:00",
                 "endLocal": "2022-09-10T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2376,6 +2422,7 @@
                 "startLocal": "2022-09-11T15:00:00+02:00",
                 "end": "2022-09-11T15:00:00+00:00",
                 "endLocal": "2022-09-11T17:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2406,6 +2453,7 @@
                 "startLocal": "2022-09-16T09:55:00+02:00",
                 "end": "2022-09-16T08:40:00+00:00",
                 "endLocal": "2022-09-16T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2419,6 +2467,7 @@
                 "startLocal": "2022-09-16T14:10:00+02:00",
                 "end": "2022-09-16T12:55:00+00:00",
                 "endLocal": "2022-09-16T14:55:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2432,6 +2481,7 @@
                 "startLocal": "2022-09-17T09:55:00+02:00",
                 "end": "2022-09-17T08:40:00+00:00",
                 "endLocal": "2022-09-17T10:40:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2445,6 +2495,7 @@
                 "startLocal": "2022-09-17T13:30:00+02:00",
                 "end": "2022-09-17T12:00:00+00:00",
                 "endLocal": "2022-09-17T14:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2458,6 +2509,7 @@
                 "startLocal": "2022-09-17T14:10:00+02:00",
                 "end": "2022-09-17T12:50:00+00:00",
                 "endLocal": "2022-09-17T14:50:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2471,6 +2523,7 @@
                 "startLocal": "2022-09-18T14:00:00+02:00",
                 "end": "2022-09-18T13:00:00+00:00",
                 "endLocal": "2022-09-18T15:00:00+02:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2501,6 +2554,7 @@
                 "startLocal": "2022-09-23T10:50:00+09:00",
                 "end": "2022-09-23T02:35:00+00:00",
                 "endLocal": "2022-09-23T11:35:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2514,6 +2568,7 @@
                 "startLocal": "2022-09-23T15:05:00+09:00",
                 "end": "2022-09-23T06:50:00+00:00",
                 "endLocal": "2022-09-23T15:50:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2527,6 +2582,7 @@
                 "startLocal": "2022-09-24T10:50:00+09:00",
                 "end": "2022-09-24T02:35:00+00:00",
                 "endLocal": "2022-09-24T11:35:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2540,6 +2596,7 @@
                 "startLocal": "2022-09-24T14:25:00+09:00",
                 "end": "2022-09-24T05:55:00+00:00",
                 "endLocal": "2022-09-24T14:55:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2553,6 +2610,7 @@
                 "startLocal": "2022-09-24T15:05:00+09:00",
                 "end": "2022-09-24T06:45:00+00:00",
                 "endLocal": "2022-09-24T15:45:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2566,6 +2624,7 @@
                 "startLocal": "2022-09-25T15:00:00+09:00",
                 "end": "2022-09-25T07:00:00+00:00",
                 "endLocal": "2022-09-25T16:00:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2577,8 +2636,8 @@
         "type": "motogp",
         "index": "18 / 21",
         "title": "Thailand Grand Prix 2022",
-        "start": "2022-09-30T01:55:00+00:00",
-        "end": "2022-10-02T07:00:00+00:00",
+        "start": "2022-09-30T03:50:00+00:00",
+        "end": "2022-10-02T09:00:00+00:00",
         "timezone": "Asia/Bangkok",
         "latitude": 14.9955693,
         "longitude": 103.1079187,
@@ -2592,10 +2651,11 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2022-09-30T01:55:00+00:00",
-                "startLocal": "2022-09-30T08:55:00+07:00",
-                "end": "2022-09-30T02:40:00+00:00",
-                "endLocal": "2022-09-30T09:40:00+07:00",
+                "start": "2022-09-30T03:50:00+00:00",
+                "startLocal": "2022-09-30T10:50:00+07:00",
+                "end": "2022-09-30T04:35:00+00:00",
+                "endLocal": "2022-09-30T11:35:00+07:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2605,10 +2665,11 @@
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2022-09-30T06:10:00+00:00",
-                "startLocal": "2022-09-30T13:10:00+07:00",
-                "end": "2022-09-30T06:55:00+00:00",
-                "endLocal": "2022-09-30T13:55:00+07:00",
+                "start": "2022-09-30T08:05:00+00:00",
+                "startLocal": "2022-09-30T15:05:00+07:00",
+                "end": "2022-09-30T08:50:00+00:00",
+                "endLocal": "2022-09-30T15:50:00+07:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2618,10 +2679,11 @@
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
-                "start": "2022-10-01T01:55:00+00:00",
-                "startLocal": "2022-10-01T08:55:00+07:00",
-                "end": "2022-10-01T02:40:00+00:00",
-                "endLocal": "2022-10-01T09:40:00+07:00",
+                "start": "2022-10-01T03:50:00+00:00",
+                "startLocal": "2022-10-01T10:50:00+07:00",
+                "end": "2022-10-01T04:35:00+00:00",
+                "endLocal": "2022-10-01T11:35:00+07:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2631,10 +2693,11 @@
                 "title": "Practice 4",
                 "type": "practice",
                 "index": 4,
-                "start": "2022-10-01T05:30:00+00:00",
-                "startLocal": "2022-10-01T12:30:00+07:00",
-                "end": "2022-10-01T06:00:00+00:00",
-                "endLocal": "2022-10-01T13:00:00+07:00",
+                "start": "2022-10-01T07:25:00+00:00",
+                "startLocal": "2022-10-01T14:25:00+07:00",
+                "end": "2022-10-01T07:55:00+00:00",
+                "endLocal": "2022-10-01T14:55:00+07:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2644,10 +2707,11 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
-                "start": "2022-10-01T06:10:00+00:00",
-                "startLocal": "2022-10-01T13:10:00+07:00",
-                "end": "2022-10-01T06:50:00+00:00",
-                "endLocal": "2022-10-01T13:50:00+07:00",
+                "start": "2022-10-01T08:05:00+00:00",
+                "startLocal": "2022-10-01T15:05:00+07:00",
+                "end": "2022-10-01T08:45:00+00:00",
+                "endLocal": "2022-10-01T15:45:00+07:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2657,10 +2721,11 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2022-10-02T06:00:00+00:00",
-                "startLocal": "2022-10-02T13:00:00+07:00",
-                "end": "2022-10-02T07:00:00+00:00",
-                "endLocal": "2022-10-02T14:00:00+07:00",
+                "start": "2022-10-02T08:00:00+00:00",
+                "startLocal": "2022-10-02T15:00:00+07:00",
+                "end": "2022-10-02T09:00:00+00:00",
+                "endLocal": "2022-10-02T16:00:00+07:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2691,6 +2756,7 @@
                 "startLocal": "2022-09-30T18:00:00+08:00",
                 "end": "2022-09-30T11:00:00+00:00",
                 "endLocal": "2022-09-30T19:00:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -2704,6 +2770,7 @@
                 "startLocal": "2022-09-30T21:00:00+08:00",
                 "end": "2022-09-30T14:00:00+00:00",
                 "endLocal": "2022-09-30T22:00:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -2717,6 +2784,7 @@
                 "startLocal": "2022-10-01T18:00:00+08:00",
                 "end": "2022-10-01T11:00:00+00:00",
                 "endLocal": "2022-10-01T19:00:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -2730,6 +2798,7 @@
                 "startLocal": "2022-10-01T21:00:00+08:00",
                 "end": "2022-10-01T14:00:00+00:00",
                 "endLocal": "2022-10-01T22:00:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -2743,6 +2812,7 @@
                 "startLocal": "2022-10-02T20:00:00+08:00",
                 "end": "2022-10-02T14:00:00+00:00",
                 "endLocal": "2022-10-02T22:00:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -2773,6 +2843,7 @@
                 "startLocal": "2022-10-07T13:00:00+09:00",
                 "end": "2022-10-07T05:00:00+00:00",
                 "endLocal": "2022-10-07T14:00:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2786,6 +2857,7 @@
                 "startLocal": "2022-10-07T16:00:00+09:00",
                 "end": "2022-10-07T08:00:00+00:00",
                 "endLocal": "2022-10-07T17:00:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2799,6 +2871,7 @@
                 "startLocal": "2022-10-08T13:00:00+09:00",
                 "end": "2022-10-08T05:00:00+00:00",
                 "endLocal": "2022-10-08T14:00:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2812,6 +2885,7 @@
                 "startLocal": "2022-10-08T16:00:00+09:00",
                 "end": "2022-10-08T08:00:00+00:00",
                 "endLocal": "2022-10-08T17:00:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2825,6 +2899,7 @@
                 "startLocal": "2022-10-09T14:00:00+09:00",
                 "end": "2022-10-09T07:00:00+00:00",
                 "endLocal": "2022-10-09T16:00:00+09:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2855,6 +2930,7 @@
                 "startLocal": "2022-10-14T11:00:00+11:00",
                 "end": "2022-10-14T00:45:00+00:00",
                 "endLocal": "2022-10-14T11:45:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2868,6 +2944,7 @@
                 "startLocal": "2022-10-14T15:05:00+11:00",
                 "end": "2022-10-14T04:50:00+00:00",
                 "endLocal": "2022-10-14T15:50:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2881,6 +2958,7 @@
                 "startLocal": "2022-10-15T14:25:00+11:00",
                 "end": "2022-10-15T03:55:00+00:00",
                 "endLocal": "2022-10-15T14:55:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2894,6 +2972,7 @@
                 "startLocal": "2022-10-15T16:10:00+11:00",
                 "end": "2022-10-15T05:50:00+00:00",
                 "endLocal": "2022-10-15T16:50:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2907,6 +2986,7 @@
                 "startLocal": "2022-10-16T10:50:00+11:00",
                 "end": "2022-10-15T00:35:00+00:00",
                 "endLocal": "2022-10-15T11:35:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2920,6 +3000,7 @@
                 "startLocal": "2022-10-16T15:00:00+11:00",
                 "end": "2022-10-16T05:00:00+00:00",
                 "endLocal": "2022-10-16T16:00:00+11:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2950,6 +3031,7 @@
                 "startLocal": "2022-10-21T10:50:00+08:00",
                 "end": "2022-10-21T03:35:00+00:00",
                 "endLocal": "2022-10-21T11:35:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2963,6 +3045,7 @@
                 "startLocal": "2022-10-21T15:05:00+08:00",
                 "end": "2022-10-21T07:50:00+00:00",
                 "endLocal": "2022-10-21T15:50:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2976,6 +3059,7 @@
                 "startLocal": "2022-10-22T10:50:00+08:00",
                 "end": "2022-10-22T03:35:00+00:00",
                 "endLocal": "2022-10-22T11:35:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -2989,6 +3073,7 @@
                 "startLocal": "2022-10-22T14:25:00+08:00",
                 "end": "2022-10-22T06:55:00+00:00",
                 "endLocal": "2022-10-22T14:55:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3002,6 +3087,7 @@
                 "startLocal": "2022-10-22T15:05:00+08:00",
                 "end": "2022-10-22T07:45:00+00:00",
                 "endLocal": "2022-10-22T15:45:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3015,6 +3101,7 @@
                 "startLocal": "2022-10-23T08:00:00+08:00",
                 "end": "2022-10-23T23:55:00+00:00",
                 "endLocal": "2022-10-24T07:55:00+08:00",
+                "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3045,6 +3132,7 @@
                 "startLocal": "2022-10-21T14:00:00-05:00",
                 "end": "2022-10-21T20:00:00+00:00",
                 "endLocal": "2022-10-21T15:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3058,6 +3146,7 @@
                 "startLocal": "2022-10-21T17:00:00-05:00",
                 "end": "2022-10-21T23:00:00+00:00",
                 "endLocal": "2022-10-21T18:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3071,6 +3160,7 @@
                 "startLocal": "2022-10-22T14:00:00-05:00",
                 "end": "2022-10-22T20:00:00+00:00",
                 "endLocal": "2022-10-22T15:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3084,6 +3174,7 @@
                 "startLocal": "2022-10-22T17:00:00-05:00",
                 "end": "2022-10-22T23:00:00+00:00",
                 "endLocal": "2022-10-22T18:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3097,6 +3188,7 @@
                 "startLocal": "2022-10-23T14:00:00-05:00",
                 "end": "2022-10-23T21:00:00+00:00",
                 "endLocal": "2022-10-23T16:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3127,6 +3219,7 @@
                 "startLocal": "2022-10-28T13:00:00-05:00",
                 "end": "2022-10-28T19:00:00+00:00",
                 "endLocal": "2022-10-28T14:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3140,6 +3233,7 @@
                 "startLocal": "2022-10-28T16:00:00-05:00",
                 "end": "2022-10-28T22:00:00+00:00",
                 "endLocal": "2022-10-28T17:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3153,6 +3247,7 @@
                 "startLocal": "2022-10-29T12:00:00-05:00",
                 "end": "2022-10-29T18:00:00+00:00",
                 "endLocal": "2022-10-29T13:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3166,6 +3261,7 @@
                 "startLocal": "2022-10-29T15:00:00-05:00",
                 "end": "2022-10-29T21:00:00+00:00",
                 "endLocal": "2022-10-29T16:00:00-05:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3179,6 +3275,7 @@
                 "startLocal": "2022-10-30T13:00:00-06:00",
                 "end": "2022-10-30T21:00:00+00:00",
                 "endLocal": "2022-10-30T15:00:00-06:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3209,6 +3306,7 @@
                 "startLocal": "2022-11-04T09:55:00+01:00",
                 "end": "2022-11-04T09:40:00+00:00",
                 "endLocal": "2022-11-04T10:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3222,6 +3320,7 @@
                 "startLocal": "2022-11-04T14:10:00+01:00",
                 "end": "2022-11-04T13:55:00+00:00",
                 "endLocal": "2022-11-04T14:55:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3235,6 +3334,7 @@
                 "startLocal": "2022-11-05T09:55:00+01:00",
                 "end": "2022-11-05T09:40:00+00:00",
                 "endLocal": "2022-11-05T10:40:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3248,6 +3348,7 @@
                 "startLocal": "2022-11-05T13:30:00+01:00",
                 "end": "2022-11-05T13:00:00+00:00",
                 "endLocal": "2022-11-05T14:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3261,6 +3362,7 @@
                 "startLocal": "2022-11-05T14:10:00+01:00",
                 "end": "2022-11-05T13:50:00+00:00",
                 "endLocal": "2022-11-05T14:50:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3274,6 +3376,7 @@
                 "startLocal": "2022-11-06T14:00:00+01:00",
                 "end": "2022-11-06T14:00:00+00:00",
                 "endLocal": "2022-11-06T15:00:00+01:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3304,6 +3407,7 @@
                 "startLocal": "2022-11-11T13:00:00-03:00",
                 "end": "2022-11-11T17:00:00+00:00",
                 "endLocal": "2022-11-11T14:00:00-03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3317,6 +3421,7 @@
                 "startLocal": "2022-11-11T16:00:00-03:00",
                 "end": "2022-11-11T20:00:00+00:00",
                 "endLocal": "2022-11-11T17:00:00-03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3330,6 +3435,7 @@
                 "startLocal": "2022-11-12T12:00:00-03:00",
                 "end": "2022-11-12T16:00:00+00:00",
                 "endLocal": "2022-11-12T13:00:00-03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3343,6 +3449,7 @@
                 "startLocal": "2022-11-12T16:30:00-03:00",
                 "end": "2022-11-12T20:00:00+00:00",
                 "endLocal": "2022-11-12T17:00:00-03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3356,6 +3463,7 @@
                 "startLocal": "2022-11-13T15:00:00-03:00",
                 "end": "2022-11-13T20:00:00+00:00",
                 "endLocal": "2022-11-13T17:00:00-03:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3386,6 +3494,7 @@
                 "startLocal": "2022-11-18T14:00:00+04:00",
                 "end": "2022-11-18T10:30:00+00:00",
                 "endLocal": "2022-11-18T14:30:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3399,6 +3508,7 @@
                 "startLocal": "2022-11-18T17:00:00+04:00",
                 "end": "2022-11-18T14:00:00+00:00",
                 "endLocal": "2022-11-18T18:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -3412,6 +3522,7 @@
                 "startLocal": "2022-11-19T15:00:00+04:00",
                 "end": "2022-11-19T12:00:00+00:00",
                 "endLocal": "2022-11-19T16:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": false
@@ -3425,6 +3536,7 @@
                 "startLocal": "2022-11-19T18:00:00+04:00",
                 "end": "2022-11-19T15:00:00+00:00",
                 "endLocal": "2022-11-19T19:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
@@ -3438,6 +3550,7 @@
                 "startLocal": "2022-11-20T17:00:00+04:00",
                 "end": "2022-11-20T15:00:00+00:00",
                 "endLocal": "2022-11-20T19:00:00+04:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "isNightEvent": true
