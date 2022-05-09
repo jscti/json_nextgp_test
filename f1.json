@@ -191,7 +191,23 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-34.png"
+                    },
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-183.png"
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-187.png"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:938591",
