@@ -1,216 +1,11 @@
 [
     {
-        "id": "sr:stage:944949",
-        "type": "fe",
-        "index": "4 / 16",
-        "title": "GP Rome",
-        "start": "2022-04-09T05:15:00+00:00",
-        "end": "2022-04-09T14:00:00+00:00",
-        "timezone": "Europe/Rome",
-        "latitude": 41.8933203,
-        "longitude": 12.4829321,
-        "trackName": "Streets of Rome",
-        "countryCode": "IT",
-        "countryName": "Italy",
-        "cityName": "Rome",
-        "steps": [
-            {
-                "id": "sr:stage:944951",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-04-09T05:15:00+00:00",
-                "startLocal": "2022-04-09T07:15:00+02:00",
-                "end": "2022-04-09T05:45:00+00:00",
-                "endLocal": "2022-04-09T07:45:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:944953",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-04-09T07:00:00+00:00",
-                "startLocal": "2022-04-09T09:00:00+02:00",
-                "end": "2022-04-09T07:30:00+00:00",
-                "endLocal": "2022-04-09T09:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:944955",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-09T08:40:00+00:00",
-                "startLocal": "2022-04-09T10:40:00+02:00",
-                "end": "2022-04-09T09:55:00+00:00",
-                "endLocal": "2022-04-09T11:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:944961",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-04-09T13:00:00+00:00",
-                "startLocal": "2022-04-09T15:00:00+02:00",
-                "end": "2022-04-09T14:00:00+00:00",
-                "endLocal": "2022-04-09T16:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:944735",
-        "type": "fe",
-        "index": "5 / 16",
-        "title": "GP Rome 2",
-        "start": "2022-04-10T06:30:00+00:00",
-        "end": "2022-04-10T14:00:00+00:00",
-        "timezone": "Europe/Rome",
-        "latitude": 41.8933203,
-        "longitude": 12.4829321,
-        "trackName": "Streets of Rome",
-        "countryCode": "IT",
-        "countryName": "Italy",
-        "cityName": "Rome",
-        "steps": [
-            {
-                "id": "sr:stage:944737",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": null,
-                "start": "2022-04-10T06:30:00+00:00",
-                "startLocal": "2022-04-10T08:30:00+02:00",
-                "end": "2022-04-10T07:00:00+00:00",
-                "endLocal": "2022-04-10T09:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:944741",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-10T08:40:00+00:00",
-                "startLocal": "2022-04-10T10:40:00+02:00",
-                "end": "2022-04-10T09:55:00+00:00",
-                "endLocal": "2022-04-10T11:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:944747",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-04-10T13:00:00+00:00",
-                "startLocal": "2022-04-10T15:00:00+02:00",
-                "end": "2022-04-10T14:00:00+00:00",
-                "endLocal": "2022-04-10T16:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:945163",
-        "type": "fe",
-        "index": "6 / 16",
-        "title": "GP Monaco",
-        "start": "2022-04-30T06:00:00+00:00",
-        "end": "2022-04-30T15:00:00+00:00",
-        "timezone": "Europe/Monaco",
-        "latitude": 43.7311424,
-        "longitude": 7.4197576,
-        "trackName": "Streets of Monaco",
-        "countryCode": "MC",
-        "countryName": "Monaco",
-        "cityName": "Monaco",
-        "steps": [
-            {
-                "id": "sr:stage:945165",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-04-30T00:00:00+00:00",
-                "startLocal": "2022-04-30T02:00:00+02:00",
-                "end": "2022-04-30T23:55:00+00:00",
-                "endLocal": "2022-05-01T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:945167",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-04-30T00:00:00+00:00",
-                "startLocal": "2022-04-30T02:00:00+02:00",
-                "end": "2022-04-30T23:55:00+00:00",
-                "endLocal": "2022-05-01T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:945169",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-30T00:00:00+00:00",
-                "startLocal": "2022-04-30T02:00:00+02:00",
-                "end": "2022-04-30T23:55:00+00:00",
-                "endLocal": "2022-05-01T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:945175",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-04-30T00:00:00+00:00",
-                "startLocal": "2022-04-30T02:00:00+02:00",
-                "end": "2022-04-30T23:55:00+00:00",
-                "endLocal": "2022-05-01T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
         "id": "sr:stage:945377",
         "type": "fe",
-        "index": "7 / 16",
+        "index": "7 / 15",
         "title": "GP Berlin",
-        "start": "2022-05-14T06:00:00+00:00",
-        "end": "2022-05-14T14:30:00+00:00",
+        "start": "2022-05-14T05:00:00+00:00",
+        "end": "2022-05-14T14:00:00+00:00",
         "timezone": "Europe/Berlin",
         "latitude": 52.5170365,
         "longitude": 13.3888599,
@@ -224,66 +19,74 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2022-05-14T00:00:00+00:00",
-                "startLocal": "2022-05-14T02:00:00+02:00",
-                "end": "2022-05-14T23:55:00+00:00",
-                "endLocal": "2022-05-15T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "start": "2022-05-14T05:15:00+00:00",
+                "startLocal": "2022-05-14T07:15:00+02:00",
+                "end": "2022-05-14T05:45:00+00:00",
+                "endLocal": "2022-05-14T07:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:945381",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2022-05-14T00:00:00+00:00",
-                "startLocal": "2022-05-14T02:00:00+02:00",
-                "end": "2022-05-14T23:55:00+00:00",
-                "endLocal": "2022-05-15T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "start": "2022-05-14T07:00:00+00:00",
+                "startLocal": "2022-05-14T09:00:00+02:00",
+                "end": "2022-05-14T07:30:00+00:00",
+                "endLocal": "2022-05-14T09:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:945383",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2022-05-14T00:00:00+00:00",
-                "startLocal": "2022-05-14T02:00:00+02:00",
-                "end": "2022-05-14T23:55:00+00:00",
-                "endLocal": "2022-05-15T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "start": "2022-05-14T08:40:00+00:00",
+                "startLocal": "2022-05-14T10:40:00+02:00",
+                "end": "2022-05-14T10:00:00+00:00",
+                "endLocal": "2022-05-14T12:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:945389",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2022-05-14T00:00:00+00:00",
-                "startLocal": "2022-05-14T02:00:00+02:00",
-                "end": "2022-05-14T23:55:00+00:00",
-                "endLocal": "2022-05-15T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "start": "2022-05-14T13:00:00+00:00",
+                "startLocal": "2022-05-14T15:00:00+02:00",
+                "end": "2022-05-14T14:00:00+00:00",
+                "endLocal": "2022-05-14T16:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
     {
         "id": "sr:stage:944521",
         "type": "fe",
-        "index": "8 / 16",
+        "index": "8 / 15",
         "title": "GP Berlin 2",
-        "start": "2022-05-15T06:00:00+00:00",
-        "end": "2022-05-15T14:30:00+00:00",
+        "start": "2022-05-15T05:00:00+00:00",
+        "end": "2022-05-15T14:00:00+00:00",
         "timezone": "Europe/Berlin",
         "latitude": 52.5170365,
         "longitude": 13.3888599,
@@ -297,63 +100,71 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2022-05-15T00:00:00+00:00",
-                "startLocal": "2022-05-15T02:00:00+02:00",
-                "end": "2022-05-15T23:55:00+00:00",
-                "endLocal": "2022-05-16T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "start": "2022-05-15T05:15:00+00:00",
+                "startLocal": "2022-05-15T07:15:00+02:00",
+                "end": "2022-05-15T05:45:00+00:00",
+                "endLocal": "2022-05-15T07:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:944525",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2022-05-15T00:00:00+00:00",
-                "startLocal": "2022-05-15T02:00:00+02:00",
-                "end": "2022-05-15T23:55:00+00:00",
-                "endLocal": "2022-05-16T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "start": "2022-05-15T07:00:00+00:00",
+                "startLocal": "2022-05-15T09:00:00+02:00",
+                "end": "2022-05-15T07:30:00+00:00",
+                "endLocal": "2022-05-15T09:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:944527",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2022-05-15T00:00:00+00:00",
-                "startLocal": "2022-05-15T02:00:00+02:00",
-                "end": "2022-05-15T23:55:00+00:00",
-                "endLocal": "2022-05-16T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "start": "2022-05-15T08:40:00+00:00",
+                "startLocal": "2022-05-15T10:40:00+02:00",
+                "end": "2022-05-15T10:00:00+00:00",
+                "endLocal": "2022-05-15T12:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:944533",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2022-05-15T00:00:00+00:00",
-                "startLocal": "2022-05-15T02:00:00+02:00",
-                "end": "2022-05-15T23:55:00+00:00",
-                "endLocal": "2022-05-16T01:55:00+02:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "start": "2022-05-15T13:00:00+00:00",
+                "startLocal": "2022-05-15T15:00:00+02:00",
+                "end": "2022-05-15T14:00:00+00:00",
+                "endLocal": "2022-05-15T16:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
     {
         "id": "sr:stage:945591",
         "type": "fe",
-        "index": "9 / 16",
+        "index": "9 / 15",
         "title": "GP Jakarta",
         "start": "2022-06-04T01:00:00+00:00",
         "end": "2022-06-04T10:00:00+00:00",
@@ -377,7 +188,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:945595",
@@ -391,7 +204,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:945597",
@@ -405,7 +220,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:945603",
@@ -419,87 +236,16 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:945805",
-        "type": "fe",
-        "index": "10 / 16",
-        "title": "GP Vancouver",
-        "start": "2022-07-02T00:00:00+00:00",
-        "end": "2022-07-02T23:55:00+00:00",
-        "timezone": "America/Vancouver",
-        "latitude": 49.2608724,
-        "longitude": -123.113952,
-        "trackName": "Vancouver Street Circuit",
-        "countryCode": "CA",
-        "countryName": "Canada",
-        "cityName": "Vancouver",
-        "steps": [
-            {
-                "id": "sr:stage:945807",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-07-02T00:00:00+00:00",
-                "startLocal": "2022-07-01T17:00:00-07:00",
-                "end": "2022-07-02T23:55:00+00:00",
-                "endLocal": "2022-07-02T16:55:00-07:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:945809",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-07-02T00:00:00+00:00",
-                "startLocal": "2022-07-01T17:00:00-07:00",
-                "end": "2022-07-02T23:55:00+00:00",
-                "endLocal": "2022-07-02T16:55:00-07:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:945811",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-07-02T00:00:00+00:00",
-                "startLocal": "2022-07-01T17:00:00-07:00",
-                "end": "2022-07-02T23:55:00+00:00",
-                "endLocal": "2022-07-02T16:55:00-07:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:945817",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-07-02T00:00:00+00:00",
-                "startLocal": "2022-07-01T17:00:00-07:00",
-                "end": "2022-07-02T23:55:00+00:00",
-                "endLocal": "2022-07-02T16:55:00-07:00",
-                "hasTime": false,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
     {
         "id": "sr:stage:946019",
         "type": "fe",
-        "index": "11 / 16",
+        "index": "10 / 15",
         "title": "GP New York 1",
         "start": "2022-07-16T11:30:00+00:00",
         "end": "2022-07-16T20:30:00+00:00",
@@ -523,7 +269,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946023",
@@ -537,7 +285,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946025",
@@ -551,7 +301,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946031",
@@ -565,14 +317,16 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
     {
         "id": "sr:stage:946233",
         "type": "fe",
-        "index": "12 / 16",
+        "index": "11 / 15",
         "title": "GP New York 2",
         "start": "2022-07-17T13:00:00+00:00",
         "end": "2022-07-17T20:00:00+00:00",
@@ -596,7 +350,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946237",
@@ -610,7 +366,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946239",
@@ -624,7 +382,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946245",
@@ -638,14 +398,16 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
     {
         "id": "sr:stage:946447",
         "type": "fe",
-        "index": "13 / 16",
+        "index": "12 / 15",
         "title": "GP London 1",
         "start": "2022-07-30T07:00:00+00:00",
         "end": "2022-07-30T14:00:00+00:00",
@@ -669,7 +431,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946451",
@@ -683,7 +447,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946453",
@@ -697,7 +463,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946459",
@@ -711,14 +479,16 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
     {
         "id": "sr:stage:946661",
         "type": "fe",
-        "index": "14 / 16",
+        "index": "13 / 15",
         "title": "GP London 2",
         "start": "2022-07-31T07:00:00+00:00",
         "end": "2022-07-31T14:00:00+00:00",
@@ -742,7 +512,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946665",
@@ -756,7 +528,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946667",
@@ -770,7 +544,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946673",
@@ -784,14 +560,16 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
     {
         "id": "sr:stage:946875",
         "type": "fe",
-        "index": "15 / 16",
+        "index": "14 / 15",
         "title": "GP Seoul 1",
         "start": "2022-08-13T02:00:00+00:00",
         "end": "2022-08-13T11:00:00+00:00",
@@ -815,7 +593,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946879",
@@ -829,7 +609,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946881",
@@ -843,7 +625,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:946887",
@@ -857,14 +641,16 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
     {
         "id": "sr:stage:947089",
         "type": "fe",
-        "index": "16 / 16",
+        "index": "15 / 15",
         "title": "GP Seoul 2",
         "start": "2022-08-14T02:00:00+00:00",
         "end": "2022-08-14T11:00:00+00:00",
@@ -888,7 +674,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:947093",
@@ -902,7 +690,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:947095",
@@ -916,7 +706,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:947101",
@@ -930,7 +722,9 @@
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     }

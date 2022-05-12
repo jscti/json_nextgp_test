@@ -1,266 +1,5 @@
 [
     {
-        "id": "sr:stage:981243",
-        "type": "moto3",
-        "index": "4 / 21",
-        "title": "Grand Prix of The Americas 2022",
-        "start": "2022-04-08T15:55:00+00:00",
-        "end": "2022-04-10T20:30:00+00:00",
-        "timezone": "America/Chicago",
-        "latitude": 30.2711286,
-        "longitude": -97.7436995,
-        "trackName": "Circuit of The Americas",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Austin",
-        "steps": [
-            {
-                "id": "sr:stage:981245",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-04-08T15:55:00+00:00",
-                "startLocal": "2022-04-08T10:55:00-05:00",
-                "end": "2022-04-08T16:35:00+00:00",
-                "endLocal": "2022-04-08T11:35:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981247",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-04-08T20:10:00+00:00",
-                "startLocal": "2022-04-08T15:10:00-05:00",
-                "end": "2022-04-08T20:50:00+00:00",
-                "endLocal": "2022-04-08T15:50:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981249",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-04-09T15:55:00+00:00",
-                "startLocal": "2022-04-09T10:55:00-05:00",
-                "end": "2022-04-09T16:35:00+00:00",
-                "endLocal": "2022-04-09T11:35:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981251",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-09T20:10:00+00:00",
-                "startLocal": "2022-04-09T15:10:00-05:00",
-                "end": "2022-04-09T20:50:00+00:00",
-                "endLocal": "2022-04-09T15:50:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981257",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-04-10T19:30:00+00:00",
-                "startLocal": "2022-04-10T14:30:00-05:00",
-                "end": "2022-04-10T20:30:00+00:00",
-                "endLocal": "2022-04-10T15:30:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:981459",
-        "type": "moto3",
-        "index": "5 / 21",
-        "title": "Grande Premio de Portugal 2022",
-        "start": "2022-04-22T08:00:00+00:00",
-        "end": "2022-04-24T11:20:00+00:00",
-        "timezone": "Europe/Lisbon",
-        "latitude": 37.19420955,
-        "longitude": -8.585577395168343,
-        "trackName": "Autodromo International Algarve",
-        "countryCode": "PT",
-        "countryName": "Portugal",
-        "cityName": "Portimao",
-        "steps": [
-            {
-                "id": "sr:stage:981461",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-04-22T08:00:00+00:00",
-                "startLocal": "2022-04-22T09:00:00+01:00",
-                "end": "2022-04-22T08:40:00+00:00",
-                "endLocal": "2022-04-22T09:40:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981463",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-04-22T12:15:00+00:00",
-                "startLocal": "2022-04-22T13:15:00+01:00",
-                "end": "2022-04-22T12:55:00+00:00",
-                "endLocal": "2022-04-22T13:55:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981465",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-04-23T08:00:00+00:00",
-                "startLocal": "2022-04-23T09:00:00+01:00",
-                "end": "2022-04-23T08:40:00+00:00",
-                "endLocal": "2022-04-23T09:40:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981467",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-23T11:35:00+00:00",
-                "startLocal": "2022-04-23T12:35:00+01:00",
-                "end": "2022-04-23T12:15:00+00:00",
-                "endLocal": "2022-04-23T13:15:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981473",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-04-24T10:20:00+00:00",
-                "startLocal": "2022-04-24T11:20:00+01:00",
-                "end": "2022-04-24T11:20:00+00:00",
-                "endLocal": "2022-04-24T12:20:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:981675",
-        "type": "moto3",
-        "index": "6 / 21",
-        "title": "Gran Premio de Espana 2022",
-        "start": "2022-04-29T07:00:00+00:00",
-        "end": "2022-05-01T10:00:00+00:00",
-        "timezone": "Europe/Madrid",
-        "latitude": 36.6816936,
-        "longitude": -6.1377402,
-        "trackName": "Circuit de Jerez",
-        "countryCode": "ES",
-        "countryName": "Spain",
-        "cityName": "Jerez",
-        "steps": [
-            {
-                "id": "sr:stage:981677",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-04-29T07:00:00+00:00",
-                "startLocal": "2022-04-29T09:00:00+02:00",
-                "end": "2022-04-29T07:40:00+00:00",
-                "endLocal": "2022-04-29T09:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981679",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-04-29T11:15:00+00:00",
-                "startLocal": "2022-04-29T13:15:00+02:00",
-                "end": "2022-04-29T11:55:00+00:00",
-                "endLocal": "2022-04-29T13:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981681",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-04-30T07:00:00+00:00",
-                "startLocal": "2022-04-30T09:00:00+02:00",
-                "end": "2022-04-30T07:40:00+00:00",
-                "endLocal": "2022-04-30T09:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981683",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-30T10:35:00+00:00",
-                "startLocal": "2022-04-30T12:35:00+02:00",
-                "end": "2022-04-30T11:15:00+00:00",
-                "endLocal": "2022-04-30T13:15:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "sr:stage:981689",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-05-01T09:00:00+00:00",
-                "startLocal": "2022-05-01T11:00:00+02:00",
-                "end": "2022-05-01T10:00:00+00:00",
-                "endLocal": "2022-05-01T12:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
-            }
-        ]
-    },
-    {
         "id": "sr:stage:981891",
         "type": "moto3",
         "index": "7 / 21",
@@ -285,9 +24,11 @@
                 "end": "2022-05-13T07:40:00+00:00",
                 "endLocal": "2022-05-13T09:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:981895",
@@ -299,9 +40,11 @@
                 "end": "2022-05-13T11:55:00+00:00",
                 "endLocal": "2022-05-13T13:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:981897",
@@ -313,9 +56,11 @@
                 "end": "2022-05-14T07:40:00+00:00",
                 "endLocal": "2022-05-14T09:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:981899",
@@ -327,9 +72,11 @@
                 "end": "2022-05-14T11:15:00+00:00",
                 "endLocal": "2022-05-14T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:981905",
@@ -341,9 +88,11 @@
                 "end": "2022-05-15T10:00:00+00:00",
                 "endLocal": "2022-05-15T12:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "isNightEvent": false
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.65,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -374,7 +123,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982111",
@@ -388,7 +139,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982113",
@@ -402,7 +155,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982115",
@@ -416,7 +171,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982121",
@@ -430,7 +187,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -461,7 +220,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982543",
@@ -475,7 +236,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982545",
@@ -489,7 +252,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982547",
@@ -503,7 +268,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982553",
@@ -517,7 +284,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -548,7 +317,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982759",
@@ -562,7 +333,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982761",
@@ -576,7 +349,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982763",
@@ -590,7 +365,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982769",
@@ -604,7 +381,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -635,7 +414,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982975",
@@ -649,7 +430,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982977",
@@ -663,7 +446,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982979",
@@ -677,7 +462,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:982985",
@@ -691,7 +478,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -722,7 +511,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983191",
@@ -736,7 +527,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983193",
@@ -750,7 +543,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983195",
@@ -764,7 +559,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983201",
@@ -778,7 +575,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -809,7 +608,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983407",
@@ -823,7 +624,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983409",
@@ -837,7 +640,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983411",
@@ -851,7 +656,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983417",
@@ -865,7 +672,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -896,7 +705,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983623",
@@ -910,7 +721,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983625",
@@ -924,7 +737,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983627",
@@ -938,7 +753,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983633",
@@ -952,7 +769,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -983,7 +802,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983839",
@@ -997,7 +818,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983841",
@@ -1011,7 +834,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983843",
@@ -1025,7 +850,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:983849",
@@ -1039,7 +866,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -1070,7 +899,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984055",
@@ -1084,7 +915,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984057",
@@ -1098,7 +931,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984059",
@@ -1112,7 +947,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984065",
@@ -1126,7 +963,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -1157,7 +996,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984271",
@@ -1171,7 +1012,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984273",
@@ -1185,7 +1028,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984275",
@@ -1199,7 +1044,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984281",
@@ -1213,7 +1060,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -1244,7 +1093,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:1010053",
@@ -1258,7 +1109,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:1010055",
@@ -1272,7 +1125,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:1010057",
@@ -1286,7 +1141,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:1010063",
@@ -1300,7 +1157,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -1331,7 +1190,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984487",
@@ -1345,7 +1206,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984489",
@@ -1359,7 +1222,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984491",
@@ -1373,7 +1238,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984497",
@@ -1387,7 +1254,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -1418,7 +1287,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984703",
@@ -1432,7 +1303,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984705",
@@ -1446,7 +1319,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984707",
@@ -1460,7 +1335,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984713",
@@ -1474,7 +1351,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     },
@@ -1505,7 +1384,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984919",
@@ -1519,7 +1400,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984921",
@@ -1533,7 +1416,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984923",
@@ -1547,7 +1432,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             },
             {
                 "id": "sr:stage:984929",
@@ -1561,7 +1448,9 @@
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
-                "isNightEvent": false
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
             }
         ]
     }

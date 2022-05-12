@@ -1,152 +1,5 @@
 [
     {
-        "id": "sr:stage:938305",
-        "type": "f1",
-        "index": "5 / 22",
-        "title": "Miami Grand Prix 2022",
-        "start": "2022-05-06T18:30:00+00:00",
-        "end": "2022-05-08T21:30:00+00:00",
-        "timezone": "America/New_York",
-        "latitude": 25.7741728,
-        "longitude": -80.19362,
-        "trackName": "Miami International Autodrome",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Miami",
-        "steps": [
-            {
-                "id": "sr:stage:938307",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-05-06T18:30:00+00:00",
-                "startLocal": "2022-05-06T14:30:00-04:00",
-                "end": "2022-05-06T19:30:00+00:00",
-                "endLocal": "2022-05-06T15:30:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-30.png"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:938309",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-05-06T21:30:00+00:00",
-                "startLocal": "2022-05-06T17:30:00-04:00",
-                "end": "2022-05-06T22:30:00+00:00",
-                "endLocal": "2022-05-06T18:30:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-30.png"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:938311",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-05-07T17:00:00+00:00",
-                "startLocal": "2022-05-07T13:00:00-04:00",
-                "end": "2022-05-07T18:00:00+00:00",
-                "endLocal": "2022-05-07T14:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-34.png"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:938313",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-05-07T20:00:00+00:00",
-                "startLocal": "2022-05-07T16:00:00-04:00",
-                "end": "2022-05-07T21:00:00+00:00",
-                "endLocal": "2022-05-07T17:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-34.png"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-183.png"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-187.png"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:938383",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-05-08T19:30:00+00:00",
-                "startLocal": "2022-05-08T15:30:00-04:00",
-                "end": "2022-05-08T21:30:00+00:00",
-                "endLocal": "2022-05-08T17:30:00-04:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0.47,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-34.png"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-183.png"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-187.png"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:938585",
         "type": "f1",
         "index": "6 / 22",
@@ -175,13 +28,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels":  [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-30.png"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:938589",
@@ -197,13 +44,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels":  [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-30.png"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:938591",
@@ -219,13 +60,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-30.png"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:938593",
@@ -241,13 +76,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels":  [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-34.png"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:938663",
@@ -263,23 +92,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-34.png"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-183.png"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-187.png"
-                    }
-                ]
+                "channels": []
             }
         ]
     },
