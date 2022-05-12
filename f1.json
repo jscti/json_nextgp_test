@@ -28,7 +28,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-35.png"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:938589",
@@ -44,7 +50,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-35.png"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:938591",
@@ -60,7 +72,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-35.png"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:938593",
@@ -76,7 +94,18 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-34.png"
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-187.png"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:938663",
@@ -92,7 +121,28 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-34.png"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-35.png"
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-164.png"
+                    },
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 1",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-202.png"
+                    }
+                ]
             }
         ]
     },

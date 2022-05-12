@@ -141,7 +141,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelIcon": "https://focus.telerama.fr/500x500/0000/00/01/clear-35.png"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:962495",
