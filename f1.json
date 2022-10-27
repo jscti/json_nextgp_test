@@ -1,131 +1,11 @@
 [
     {
-        "id": "sr:stage:942505",
-        "type": "f1",
-        "index": "19 / 22",
-        "title": "United States Grand Prix 2022",
-        "start": "2022-10-21T19:00:00+00:00",
-        "end": "2022-10-23T23:00:00+00:00",
-        "timezone": "America/Chicago",
-        "latitude": 30.2711286,
-        "longitude": -97.7436995,
-        "trackName": "Circuit of The Americas",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Austin",
-        "steps": [
-            {
-                "id": "sr:stage:942507",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-10-21T19:00:00+00:00",
-                "startLocal": "2022-10-21T14:00:00-05:00",
-                "end": "2022-10-21T20:00:00+00:00",
-                "endLocal": "2022-10-21T15:00:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:942509",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-10-21T22:00:00+00:00",
-                "startLocal": "2022-10-21T17:00:00-05:00",
-                "end": "2022-10-21T23:30:00+00:00",
-                "endLocal": "2022-10-21T18:30:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:942511",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-10-22T19:00:00+00:00",
-                "startLocal": "2022-10-22T14:00:00-05:00",
-                "end": "2022-10-22T20:00:00+00:00",
-                "endLocal": "2022-10-22T15:00:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:942513",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-10-22T22:00:00+00:00",
-                "startLocal": "2022-10-22T17:00:00-05:00",
-                "end": "2022-10-22T23:00:00+00:00",
-                "endLocal": "2022-10-22T18:00:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "183"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:942583",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-10-23T19:00:00+00:00",
-                "startLocal": "2022-10-23T14:00:00-05:00",
-                "end": "2022-10-23T23:00:00+00:00",
-                "endLocal": "2022-10-23T18:00:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "183"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:942785",
         "type": "f1",
         "index": "20 / 22",
         "title": "Gran Premio de Mexico 2022",
         "start": "2022-10-28T18:00:00+00:00",
-        "end": "2022-10-30T21:00:00+00:00",
+        "end": "2022-10-30T22:00:00+00:00",
         "timezone": "America/Mexico_City",
         "latitude": 19.4326296,
         "longitude": -99.1331785,
@@ -144,11 +24,17 @@
                 "end": "2022-10-28T19:00:00+00:00",
                 "endLocal": "2022-10-28T14:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0.04,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:942789",
@@ -157,14 +43,20 @@
                 "index": 2,
                 "start": "2022-10-28T21:00:00+00:00",
                 "startLocal": "2022-10-28T16:00:00-05:00",
-                "end": "2022-10-28T22:00:00+00:00",
-                "endLocal": "2022-10-28T17:00:00-05:00",
+                "end": "2022-10-28T22:30:00+00:00",
+                "endLocal": "2022-10-28T17:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.48,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:942791",
@@ -176,11 +68,17 @@
                 "end": "2022-10-29T18:00:00+00:00",
                 "endLocal": "2022-10-29T13:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:942793",
@@ -192,27 +90,44 @@
                 "end": "2022-10-29T21:00:00+00:00",
                 "endLocal": "2022-10-29T16:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.59,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:942863",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2022-10-30T19:00:00+00:00",
-                "startLocal": "2022-10-30T13:00:00-06:00",
-                "end": "2022-10-30T21:00:00+00:00",
-                "endLocal": "2022-10-30T15:00:00-06:00",
+                "start": "2022-10-30T20:00:00+00:00",
+                "startLocal": "2022-10-30T14:00:00-06:00",
+                "end": "2022-10-30T22:00:00+00:00",
+                "endLocal": "2022-10-30T16:00:00-06:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.58,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             }
         ]
     },
