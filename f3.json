@@ -17,6 +17,7 @@
             {
                 "id": "e5c74595-62b6-4b42-b084-e13ddbba4a35",
                 "title": "Free Practice",
+                "type": "practice",
                 "index": null,
                 "start": "2023-05-19T07:55:00Z",
                 "startLocal": "2023-05-19T09:55:00+02:00",
@@ -25,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.24,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -41,7 +42,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.24,
+                "weatherRainProbability": 0.28,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -57,7 +58,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.46,
+                "weatherRainProbability": 0.21,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -73,7 +74,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.1,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             }
