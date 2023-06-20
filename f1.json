@@ -91,10 +91,10 @@
                 "end": "2023-07-01T15:30:00+00:00",
                 "endLocal": "2023-07-01T17:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.54,
+                "isNightEvent": true,
                 "channels": []
             },
             {
