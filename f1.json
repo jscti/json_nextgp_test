@@ -109,6 +109,7 @@
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 0.24,
+                "hasTime": true,
                 "isNightEvent": true,
                 "channels": []
             }
