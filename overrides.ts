@@ -1,4 +1,4 @@
-[
+export const overrides = [
   {
     "id": "sr:stage:1030981",
     "title": "Grande Premio de Portugal override"
