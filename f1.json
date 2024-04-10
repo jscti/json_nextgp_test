@@ -1,6 +1,6 @@
 [
     {
-        "id": "sr:stage:1108701",
+        "id": "mtewodcwmq",
         "type": "f1",
         "index": "5 / 24",
         "title": "Chinese Grand Prix",
@@ -15,7 +15,7 @@
         "cityName": "Shanghai",
         "steps": [
             {
-                "id": "sr:stage:1108703",
+                "id": "mtewodcwmw",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -37,7 +37,7 @@
                 ]
             },
             {
-                "id": "sr:stage:1108717",
+                "id": "mtewodcxnw",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "qualifying",
@@ -53,6 +53,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
@@ -60,7 +65,7 @@
                 ]
             },
             {
-                "id": "sr:stage:1108725",
+                "id": "mtewodcynq",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -83,7 +88,7 @@
                 ]
             },
             {
-                "id": "sr:stage:1108709",
+                "id": "mtewodcwoq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": 2,
@@ -105,7 +110,7 @@
                 ]
             },
             {
-                "id": "sr:stage:1108787",
+                "id": "mtewodc4nw",
                 "title": "Race",
                 "type": "race",
                 "index": 2,
@@ -120,6 +125,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "FR",
                         "channelName": "Canal+",
                         "channelCode": "C34.api.telerama.fr"
@@ -129,7 +139,7 @@
         ]
     },
     {
-        "id": "sr:stage:1108989",
+        "id": "mtewodk4oq",
         "type": "f1",
         "index": "6 / 24",
         "title": "Miami Grand Prix",
@@ -144,7 +154,7 @@
         "cityName": "Miami",
         "steps": [
             {
-                "id": "sr:stage:1108991",
+                "id": "mtewodk5mq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -160,7 +170,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109005",
+                "id": "mtewotawnq",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "qualifying",
@@ -177,7 +187,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109013",
+                "id": "mtewotaxmw",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -194,7 +204,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1108997",
+                "id": "mtewodk5nw",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": 2,
@@ -210,7 +220,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109075",
+                "id": "mtewota3nq",
                 "title": "Race",
                 "type": "race",
                 "index": 2,
@@ -228,7 +238,7 @@
         ]
     },
     {
-        "id": "sr:stage:1109277",
+        "id": "mtewoti3nw",
         "type": "f1",
         "index": "7 / 24",
         "title": "Emilia Romagna Grand Prix",
@@ -243,7 +253,7 @@
         "cityName": "Imola",
         "steps": [
             {
-                "id": "sr:stage:1109279",
+                "id": "mtewoti3oq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -259,7 +269,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109281",
+                "id": "mtewoti4mq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -275,7 +285,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109283",
+                "id": "mtewoti4mw",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -291,7 +301,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109285",
+                "id": "mtewoti4nq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -307,7 +317,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109363",
+                "id": "mtewotm2mw",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -325,7 +335,7 @@
         ]
     },
     {
-        "id": "sr:stage:1109565",
+        "id": "mtewotu2nq",
         "type": "f1",
         "index": "8 / 24",
         "title": "Monaco Grand Prix",
@@ -340,7 +350,7 @@
         "cityName": "Monte Carlo",
         "steps": [
             {
-                "id": "sr:stage:1109567",
+                "id": "mtewotu2nw",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -356,7 +366,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109569",
+                "id": "mtewotu2oq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -372,7 +382,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109571",
+                "id": "mtewotu3mq",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -388,7 +398,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109573",
+                "id": "mtewotu3mw",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -404,7 +414,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109651",
+                "id": "mtewoty1mq",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -422,7 +432,7 @@
         ]
     },
     {
-        "id": "sr:stage:1109853",
+        "id": "mtewotg1mw",
         "type": "f1",
         "index": "9 / 24",
         "title": "Canadian Grand Prix",
@@ -437,7 +447,7 @@
         "cityName": "Montreal",
         "steps": [
             {
-                "id": "sr:stage:1109855",
+                "id": "mtewotg1nq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -453,7 +463,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109857",
+                "id": "mtewotg1nw",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -469,7 +479,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109859",
+                "id": "mtewotg1oq",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -485,7 +495,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109861",
+                "id": "mtewotg2mq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -501,7 +511,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1109939",
+                "id": "mtewotkzoq",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -519,7 +529,7 @@
         ]
     },
     {
-        "id": "sr:stage:1110141",
+        "id": "mtexmde0mq",
         "type": "f1",
         "index": "10 / 24",
         "title": "Spanish Grand Prix",
@@ -534,7 +544,7 @@
         "cityName": "Barcelona",
         "steps": [
             {
-                "id": "sr:stage:1110143",
+                "id": "mtexmde0mw",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -550,7 +560,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110145",
+                "id": "mtexmde0nq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -566,7 +576,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110147",
+                "id": "mtexmde0nw",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -582,7 +592,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110149",
+                "id": "mtexmde0oq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -598,7 +608,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110227",
+                "id": "mtexmdiynw",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -616,7 +626,7 @@
         ]
     },
     {
-        "id": "sr:stage:1110429",
+        "id": "mtexmdqyoq",
         "type": "f1",
         "index": "11 / 24",
         "title": "Austrian Grand Prix",
@@ -631,7 +641,7 @@
         "cityName": "Spielberg",
         "steps": [
             {
-                "id": "sr:stage:1110431",
+                "id": "mtexmdqzmq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -647,7 +657,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110445",
+                "id": "mtexmdq0nq",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "qualifying",
@@ -664,7 +674,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110453",
+                "id": "mtexmdq1mw",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -681,7 +691,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110437",
+                "id": "mtexmdqznw",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": 2,
@@ -697,7 +707,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110515",
+                "id": "mtexmduxnq",
                 "title": "Race",
                 "type": "race",
                 "index": 2,
@@ -715,7 +725,7 @@
         ]
     },
     {
-        "id": "sr:stage:1110717",
+        "id": "mtexmdcxnw",
         "type": "f1",
         "index": "12 / 24",
         "title": "British Grand Prix",
@@ -730,7 +740,7 @@
         "cityName": "Silverstone",
         "steps": [
             {
-                "id": "sr:stage:1110719",
+                "id": "mtexmdcxoq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -746,7 +756,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110721",
+                "id": "mtexmdcymq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -762,7 +772,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110723",
+                "id": "mtexmdcymw",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -778,7 +788,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110725",
+                "id": "mtexmdcynq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -794,7 +804,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1110803",
+                "id": "mtexmdgwmw",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -812,7 +822,7 @@
         ]
     },
     {
-        "id": "sr:stage:1111005",
+        "id": "mtexmtawnq",
         "type": "f1",
         "index": "13 / 24",
         "title": "Hungarian Grand Prix",
@@ -827,7 +837,7 @@
         "cityName": "Budapest",
         "steps": [
             {
-                "id": "sr:stage:1111007",
+                "id": "mtexmtawnw",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -843,7 +853,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111009",
+                "id": "mtexmtawoq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -859,7 +869,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111011",
+                "id": "mtexmtaxmq",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -875,7 +885,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111013",
+                "id": "mtexmtaxmw",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -891,7 +901,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111091",
+                "id": "mtexmta5mq",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -909,7 +919,7 @@
         ]
     },
     {
-        "id": "sr:stage:1111293",
+        "id": "mtexmti5mw",
         "type": "f1",
         "index": "14 / 24",
         "title": "Belgian Grand Prix",
@@ -924,7 +934,7 @@
         "cityName": "Spa-Francorchamps",
         "steps": [
             {
-                "id": "sr:stage:1111295",
+                "id": "mtexmti5nq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -940,7 +950,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111297",
+                "id": "mtexmti5nw",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -956,7 +966,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111299",
+                "id": "mtexmti5oq",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -972,7 +982,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111301",
+                "id": "mtexmtmwmq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -988,7 +998,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111379",
+                "id": "mtexmtm3oq",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1006,7 +1016,7 @@
         ]
     },
     {
-        "id": "sr:stage:1111581",
+        "id": "mtexmtu4mq",
         "type": "f1",
         "index": "15 / 24",
         "title": "Dutch Grand Prix",
@@ -1021,7 +1031,7 @@
         "cityName": "Zandvoort",
         "steps": [
             {
-                "id": "sr:stage:1111583",
+                "id": "mtexmtu4mw",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1037,7 +1047,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111585",
+                "id": "mtexmtu4nq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1053,7 +1063,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111587",
+                "id": "mtexmtu4nw",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1069,7 +1079,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111589",
+                "id": "mtexmtu4oq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1085,7 +1095,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111667",
+                "id": "mtexmty2nw",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1103,7 +1113,7 @@
         ]
     },
     {
-        "id": "sr:stage:1111869",
+        "id": "mtexmtg2oq",
         "type": "f1",
         "index": "16 / 24",
         "title": "Italian Grand Prix",
@@ -1118,7 +1128,7 @@
         "cityName": "Monza",
         "steps": [
             {
-                "id": "sr:stage:1111871",
+                "id": "mtexmtg3mq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1134,7 +1144,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111873",
+                "id": "mtexmtg3mw",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1150,7 +1160,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111875",
+                "id": "mtexmtg3nq",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1166,7 +1176,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111877",
+                "id": "mtexmtg3nw",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1182,7 +1192,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1111955",
+                "id": "mtexmtk1nq",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1200,7 +1210,7 @@
         ]
     },
     {
-        "id": "sr:stage:1112157",
+        "id": "mtexmje1nw",
         "type": "f1",
         "index": "17 / 24",
         "title": "Azerbaijan Grand Prix",
@@ -1215,7 +1225,7 @@
         "cityName": "Baku",
         "steps": [
             {
-                "id": "sr:stage:1112159",
+                "id": "mtexmje1oq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1231,7 +1241,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112161",
+                "id": "mtexmje2mq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1247,7 +1257,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112163",
+                "id": "mtexmje2mw",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1263,7 +1273,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112165",
+                "id": "mtexmje2nq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1279,7 +1289,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112243",
+                "id": "mtexmji0mw",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1297,7 +1307,7 @@
         ]
     },
     {
-        "id": "sr:stage:1112445",
+        "id": "mtexmjq0nq",
         "type": "f1",
         "index": "18 / 24",
         "title": "Singapore Grand Prix",
@@ -1312,7 +1322,7 @@
         "cityName": "Singapore City",
         "steps": [
             {
-                "id": "sr:stage:1112447",
+                "id": "mtexmjq0nw",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1328,7 +1338,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112449",
+                "id": "mtexmjq0oq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1344,7 +1354,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112451",
+                "id": "mtexmjq1mq",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1360,7 +1370,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112453",
+                "id": "mtexmjq1mw",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1376,7 +1386,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112531",
+                "id": "mtexmjuzmq",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1394,7 +1404,7 @@
         ]
     },
     {
-        "id": "sr:stage:1112733",
+        "id": "mtexmjczmw",
         "type": "f1",
         "index": "19 / 24",
         "title": "United States Grand Prix",
@@ -1409,7 +1419,7 @@
         "cityName": "Austin",
         "steps": [
             {
-                "id": "sr:stage:1112735",
+                "id": "mtexmjcznq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -1425,7 +1435,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112749",
+                "id": "mtexmjc0oq",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "qualifying",
@@ -1442,7 +1452,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112741",
+                "id": "mtexmjc0mq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": 2,
@@ -1458,7 +1468,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112757",
+                "id": "mtexmjc1nw",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -1475,7 +1485,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1112819",
+                "id": "mtexmjgxoq",
                 "title": "Race",
                 "type": "race",
                 "index": 2,
@@ -1493,7 +1503,7 @@
         ]
     },
     {
-        "id": "sr:stage:1113021",
+        "id": "mtexmzaymq",
         "type": "f1",
         "index": "20 / 24",
         "title": "Gran Premio de Mexico",
@@ -1508,7 +1518,7 @@
         "cityName": "Mexico City",
         "steps": [
             {
-                "id": "sr:stage:1113023",
+                "id": "mtexmzaymw",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1524,7 +1534,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113025",
+                "id": "mtexmzaynq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1540,7 +1550,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113027",
+                "id": "mtexmzaynw",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1556,7 +1566,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113029",
+                "id": "mtexmzayoq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1572,7 +1582,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113107",
+                "id": "mtexmzewnw",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1590,7 +1600,7 @@
         ]
     },
     {
-        "id": "sr:stage:1113309",
+        "id": "mtexmzmwoq",
         "type": "f1",
         "index": "21 / 24",
         "title": "Sao Paulo Grand Prix",
@@ -1605,7 +1615,7 @@
         "cityName": "Sao Paulo",
         "steps": [
             {
-                "id": "sr:stage:1113311",
+                "id": "mtexmzmxmq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -1621,7 +1631,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113325",
+                "id": "mtexmzmynq",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "qualifying",
@@ -1638,7 +1648,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113333",
+                "id": "mtexmzmzmw",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -1655,7 +1665,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113317",
+                "id": "mtexmzmxnw",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": 2,
@@ -1671,7 +1681,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113395",
+                "id": "mtexmzm5nq",
                 "title": "Race",
                 "type": "race",
                 "index": 2,
@@ -1689,7 +1699,7 @@
         ]
     },
     {
-        "id": "sr:stage:1113597",
+        "id": "mtexmzu5nw",
         "type": "f1",
         "index": "22 / 24",
         "title": "Las Vegas Grand Prix",
@@ -1704,7 +1714,7 @@
         "cityName": "Las Vegas",
         "steps": [
             {
-                "id": "sr:stage:1113599",
+                "id": "mtexmzu5oq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1720,7 +1730,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113601",
+                "id": "mtexmzywmq",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1736,7 +1746,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113603",
+                "id": "mtexmzywmw",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1752,7 +1762,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113605",
+                "id": "mtexmzywnq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1768,7 +1778,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113683",
+                "id": "mtexmzy4mw",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1786,7 +1796,7 @@
         ]
     },
     {
-        "id": "sr:stage:1113885",
+        "id": "mtexmzg4nq",
         "type": "f1",
         "index": "23 / 24",
         "title": "Qatar Grand Prix",
@@ -1801,7 +1811,7 @@
         "cityName": "Doha",
         "steps": [
             {
-                "id": "sr:stage:1113887",
+                "id": "mtexmzg4nw",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -1817,7 +1827,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113901",
+                "id": "mtexmzkwmq",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "qualifying",
@@ -1834,7 +1844,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113909",
+                "id": "mtexmzkwoq",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -1851,7 +1861,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113893",
+                "id": "mtexmzg5mw",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": 2,
@@ -1867,7 +1877,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1113971",
+                "id": "mtexmzk3mq",
                 "title": "Race",
                 "type": "race",
                 "index": 2,
@@ -1885,7 +1895,7 @@
         ]
     },
     {
-        "id": "sr:stage:1114173",
+        "id": "mtexnde3mw",
         "type": "f1",
         "index": "24 / 24",
         "title": "Abu Dhabi Grand Prix",
@@ -1900,7 +1910,7 @@
         "cityName": "Abu Dhabi",
         "steps": [
             {
-                "id": "sr:stage:1114175",
+                "id": "mtexnde3nq",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1916,7 +1926,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1114177",
+                "id": "mtexnde3nw",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1932,7 +1942,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1114179",
+                "id": "mtexnde3oq",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1948,7 +1958,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1114181",
+                "id": "mtexnde4mq",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1964,7 +1974,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1114259",
+                "id": "mtexndi1oq",
                 "title": "Race",
                 "type": "race",
                 "index": null,
