@@ -30,7 +30,8 @@
                 "channels": [
                     {
                         "countryCode": "FR",
-                        "channelName": "Canal+ Sport"
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
                     }
                 ]
             },
