@@ -1,6 +1,6 @@
 [
     {
-        "id": "mtiwnje3nw",
+        "id": "87b2d2848",
         "type": "fe",
         "index": "1 / 17",
         "season": "2025",
@@ -15,7 +15,7 @@
         "cityName": "Sao Paulo",
         "steps": [
             {
-                "id": "mtiwnje3oq",
+                "id": "e87f5d310",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -24,14 +24,15 @@
                 "end": "2024-12-06T20:10:00+00:00",
                 "endLocal": "2024-12-06T17:10:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": true
             },
             {
-                "id": "mtiwnje4mq",
+                "id": "c82d16476",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -40,14 +41,15 @@
                 "end": "2024-12-07T11:10:00+00:00",
                 "endLocal": "2024-12-07T08:10:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": true
             },
             {
-                "id": "mtiwnje4mw",
+                "id": "5d8fb4270",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -56,14 +58,15 @@
                 "end": "2024-12-07T14:03:00+00:00",
                 "endLocal": "2024-12-07T11:03:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": true
             },
             {
-                "id": "mtiwnje4nq",
+                "id": "18d6f5709",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -72,16 +75,17 @@
                 "end": "2024-12-07T18:00:00+00:00",
                 "endLocal": "2024-12-07T15:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": true
             }
         ]
     },
     {
-        "id": "mtiwnjm5mq",
+        "id": "ec5d73da6",
         "type": "fe",
         "index": "2 / 17",
         "season": "2025",
@@ -96,7 +100,7 @@
         "cityName": "Mexico City",
         "steps": [
             {
-                "id": "mtiwnjm5mw",
+                "id": "0f01f87e0",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -109,10 +113,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnjm5nq",
+                "id": "c261a89f7",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -125,10 +130,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnjm5nw",
+                "id": "31ef08ec4",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -141,10 +147,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnjm5oq",
+                "id": "b4a16c1c1",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -157,12 +164,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwnjywnq",
+        "id": "632c4b875",
         "type": "fe",
         "index": "3 / 17",
         "season": "2025",
@@ -177,7 +185,7 @@
         "cityName": "Jeddah",
         "steps": [
             {
-                "id": "mtiwnjywnw",
+                "id": "5d8cc3bb8",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -190,10 +198,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnjywoq",
+                "id": "e73d68520",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -206,10 +215,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnjyxmq",
+                "id": "34945de1f",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -222,10 +232,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnjyxmw",
+                "id": "48430098b",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -238,12 +249,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwnjgxoq",
+        "id": "bc578c929",
         "type": "fe",
         "index": "4 / 17",
         "season": "2025",
@@ -258,7 +270,7 @@
         "cityName": "Jeddah",
         "steps": [
             {
-                "id": "mtiwnjgymq",
+                "id": "c2227d490",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -271,10 +283,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnjgynq",
+                "id": "28551f96d",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -287,10 +300,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnjgynw",
+                "id": "6cc83179c",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -303,12 +317,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwnzy2nq",
+        "id": "e42b824e4",
         "type": "fe",
         "index": "5 / 17",
         "season": "2025",
@@ -323,7 +338,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiwnzy2nw",
+                "id": "cc9e5f822",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -336,10 +351,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzy2oq",
+                "id": "1d3d5f071",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -352,10 +368,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzy3mq",
+                "id": "906dd7b44",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -368,10 +385,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzy3mw",
+                "id": "36cefd399",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -384,12 +402,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwoduxmq",
+        "id": "281740ab9",
         "type": "fe",
         "index": "6 / 17",
         "season": "2025",
@@ -404,7 +423,7 @@
         "cityName": "Homestead",
         "steps": [
             {
-                "id": "mtiwoduxmw",
+                "id": "00880376c",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -417,10 +436,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwoduxnq",
+                "id": "7106175cf",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -433,10 +453,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwoduxnw",
+                "id": "dd05536cc",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -449,10 +470,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwoduxoq",
+                "id": "2cf85ad62",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -465,12 +487,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwodcynq",
+        "id": "8cf3b1a83",
         "type": "fe",
         "index": "7 / 17",
         "season": "2025",
@@ -485,7 +508,7 @@
         "cityName": "Monaco",
         "steps": [
             {
-                "id": "mtiwodcynw",
+                "id": "96deb6eac",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -498,10 +521,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwodcyoq",
+                "id": "f445ffb37",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -514,10 +538,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwodczmq",
+                "id": "f3b9e393d",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -530,10 +555,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwodczmw",
+                "id": "92d8b2712",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -546,12 +572,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwodkzoq",
+        "id": "264267ffb",
         "type": "fe",
         "index": "8 / 17",
         "season": "2025",
@@ -566,7 +593,7 @@
         "cityName": "Monaco",
         "steps": [
             {
-                "id": "mtiwodk0mq",
+                "id": "5653635c5",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -579,10 +606,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwodk0nq",
+                "id": "612cc672e",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -595,10 +623,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwodk0nw",
+                "id": "172839eac",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -611,12 +640,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwote1mw",
+        "id": "2af53b1bf",
         "type": "fe",
         "index": "9 / 17",
         "season": "2025",
@@ -631,7 +661,7 @@
         "cityName": "Tokyo",
         "steps": [
             {
-                "id": "mtiwote1nq",
+                "id": "0a884c2e3",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -644,10 +674,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwote1nw",
+                "id": "57477618f",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -660,10 +691,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwote1oq",
+                "id": "a467bc632",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -676,10 +708,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwote2mq",
+                "id": "240cf2afc",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -692,12 +725,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwotm2nw",
+        "id": "280c1596f",
         "type": "fe",
         "index": "10 / 17",
         "season": "2025",
@@ -712,7 +746,7 @@
         "cityName": "Tokyo",
         "steps": [
             {
-                "id": "mtiwotm2oq",
+                "id": "06f739fbf",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -725,10 +759,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwotm3mw",
+                "id": "ae6c76e61",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -741,10 +776,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwotm3nq",
+                "id": "3fe60291c",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -757,12 +793,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwotu4mq",
+        "id": "e1e73d17a",
         "type": "fe",
         "index": "11 / 17",
         "season": "2025",
@@ -777,7 +814,7 @@
         "cityName": "Shanghai",
         "steps": [
             {
-                "id": "mtiwotu4mw",
+                "id": "0937f0daa",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -790,10 +827,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwotu4nq",
+                "id": "3909a2786",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -806,10 +844,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwotu4nw",
+                "id": "5a91d4a80",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -822,10 +861,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwotu4oq",
+                "id": "e086933e2",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -838,12 +878,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwotc5nq",
+        "id": "0ba401c3c",
         "type": "fe",
         "index": "12 / 17",
         "season": "2025",
@@ -858,7 +899,7 @@
         "cityName": "Shanghai",
         "steps": [
             {
-                "id": "mtiwotc5nw",
+                "id": "5f1466cd2",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -871,10 +912,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwotgwmq",
+                "id": "fbeb11b4e",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -887,10 +929,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwotgwmw",
+                "id": "5f401fee6",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -903,12 +946,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmdawoq",
+        "id": "2ddc1a03d",
         "type": "fe",
         "index": "13 / 17",
         "season": "2025",
@@ -923,7 +967,7 @@
         "cityName": "Jakarta",
         "steps": [
             {
-                "id": "mtixmdaxmq",
+                "id": "eea58d0fb",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -936,10 +980,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdaxmw",
+                "id": "f1a18d281",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -952,10 +997,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdaxnq",
+                "id": "b28fe22b7",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -968,10 +1014,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdaxnw",
+                "id": "7ebfda902",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -984,12 +1031,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmdiymw",
+        "id": "c4c17071c",
         "type": "fe",
         "index": "14 / 17",
         "season": "2025",
@@ -1004,7 +1052,7 @@
         "cityName": "Berlin",
         "steps": [
             {
-                "id": "mtixmdiynq",
+                "id": "ad125a5ee",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1017,10 +1065,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdiynw",
+                "id": "f90f76b01",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1033,10 +1082,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdiyoq",
+                "id": "4b24c7235",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1049,10 +1099,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdizmq",
+                "id": "801c7bdeb",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1065,12 +1116,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmdqznw",
+        "id": "5cf6f8db9",
         "type": "fe",
         "index": "15 / 17",
         "season": "2025",
@@ -1085,7 +1137,7 @@
         "cityName": "Berlin",
         "steps": [
             {
-                "id": "mtixmdqzoq",
+                "id": "04967a123",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -1098,10 +1150,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdq0mw",
+                "id": "2f31a4867",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1114,10 +1167,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdq0nq",
+                "id": "343fe3a41",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1130,12 +1184,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmdy1mq",
+        "id": "02ec15e1f",
         "type": "fe",
         "index": "16 / 17",
         "season": "2025",
@@ -1150,7 +1205,7 @@
         "cityName": "London",
         "steps": [
             {
-                "id": "mtixmdy1mw",
+                "id": "e9f22d5c1",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1163,10 +1218,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdy1nq",
+                "id": "1e8343afe",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1179,10 +1235,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdy1nw",
+                "id": "e6a2a25f1",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1195,10 +1252,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdy1oq",
+                "id": "802c99d05",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1211,12 +1269,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmdg2nq",
+        "id": "973fc362a",
         "type": "fe",
         "index": "17 / 17",
         "season": "2025",
@@ -1231,7 +1290,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtixmdg2nw",
+                "id": "c4efed4f5",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -1244,10 +1303,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdg3mq",
+                "id": "a8ba68d48",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1260,10 +1320,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmdg3mw",
+                "id": "e955e6690",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1276,7 +1337,8 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     }
