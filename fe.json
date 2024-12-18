@@ -1,5 +1,1263 @@
 [
     {
+        "id": "02e2b1b4f",
+        "type": "fe",
+        "index": "1 / 16",
+        "season": "2024",
+        "title": "GP Mexico City",
+        "start": "2024-01-12T22:25:00+00:00",
+        "end": "2024-01-13T21:30:00+00:00",
+        "timezone": "America/Mexico_City",
+        "latitude": "19.40617",
+        "longitude": "-99.092253",
+        "trackName": "Autodromo Hermanos Rodriguez",
+        "countryCode": "MX",
+        "cityName": "Mexico City",
+        "steps": [
+            {
+                "id": "688400e51",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-01-12T22:25:00+00:00",
+                "startLocal": "2024-01-12T16:25:00-06:00",
+                "end": "2024-01-12T23:15:00+00:00",
+                "endLocal": "2024-01-12T17:15:00-06:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "c5226b752",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-01-13T13:25:00+00:00",
+                "startLocal": "2024-01-13T07:25:00-06:00",
+                "end": "2024-01-13T14:15:00+00:00",
+                "endLocal": "2024-01-13T08:15:00-06:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "f3a552593",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-01-13T15:40:00+00:00",
+                "startLocal": "2024-01-13T09:40:00-06:00",
+                "end": "2024-01-13T17:05:00+00:00",
+                "endLocal": "2024-01-13T11:05:00-06:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e7ecd49bd",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-01-13T20:03:00+00:00",
+                "startLocal": "2024-01-13T14:03:00-06:00",
+                "end": "2024-01-13T21:30:00+00:00",
+                "endLocal": "2024-01-13T15:30:00-06:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "181c8863a",
+        "type": "fe",
+        "index": "2 / 16",
+        "season": "2024",
+        "title": "GP Diriyah 1",
+        "start": "2024-01-25T14:55:00+00:00",
+        "end": "2024-01-26T18:30:00+00:00",
+        "timezone": "Asia/Riyadh",
+        "latitude": "24.739235",
+        "longitude": "46.583461",
+        "trackName": "Streets of Ad Diriyah",
+        "countryCode": "SA",
+        "cityName": "Ad Diriyah",
+        "steps": [
+            {
+                "id": "948149840",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-01-25T14:55:00+00:00",
+                "startLocal": "2024-01-25T17:55:00+03:00",
+                "end": "2024-01-25T15:30:00+00:00",
+                "endLocal": "2024-01-25T18:30:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "65706e910",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-01-26T09:55:00+00:00",
+                "startLocal": "2024-01-26T12:55:00+03:00",
+                "end": "2024-01-26T10:30:00+00:00",
+                "endLocal": "2024-01-26T13:30:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5c1baaf38",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-01-26T12:20:00+00:00",
+                "startLocal": "2024-01-26T15:20:00+03:00",
+                "end": "2024-01-26T13:45:00+00:00",
+                "endLocal": "2024-01-26T16:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1432da3d4",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-01-26T17:00:00+00:00",
+                "startLocal": "2024-01-26T20:00:00+03:00",
+                "end": "2024-01-26T18:00:00+00:00",
+                "endLocal": "2024-01-26T21:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "a2b569d55",
+        "type": "fe",
+        "index": "3 / 16",
+        "season": "2024",
+        "title": "GP Diriyah 2",
+        "start": "2024-01-27T09:55:00+00:00",
+        "end": "2024-01-27T18:30:00+00:00",
+        "timezone": "Asia/Riyadh",
+        "latitude": "24.739235",
+        "longitude": "46.583461",
+        "trackName": "Streets of Ad Diriyah",
+        "countryCode": "SA",
+        "cityName": "Ad Diriyah",
+        "steps": [
+            {
+                "id": "4fe8b0445",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2024-01-27T09:55:00+00:00",
+                "startLocal": "2024-01-27T12:55:00+03:00",
+                "end": "2024-01-27T10:30:00+00:00",
+                "endLocal": "2024-01-27T13:30:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "9b92496a7",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-01-27T12:20:00+00:00",
+                "startLocal": "2024-01-27T15:20:00+03:00",
+                "end": "2024-01-27T13:45:00+00:00",
+                "endLocal": "2024-01-27T16:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "dceeef0f7",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-01-27T17:00:00+00:00",
+                "startLocal": "2024-01-27T20:00:00+03:00",
+                "end": "2024-01-27T18:00:00+00:00",
+                "endLocal": "2024-01-27T21:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "e44bfc40b",
+        "type": "fe",
+        "index": "4 / 16",
+        "season": "2024",
+        "title": "GP Sao Paolo",
+        "start": "2024-03-15T19:25:00+00:00",
+        "end": "2024-03-16T18:30:00+00:00",
+        "timezone": "America/Sao_Paulo",
+        "latitude": -23.5506507,
+        "longitude": -46.6333824,
+        "trackName": "Streets of Sao Paulo",
+        "countryCode": "BR",
+        "cityName": "Sao Paulo",
+        "steps": [
+            {
+                "id": "4f6519311",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-03-15T19:25:00+00:00",
+                "startLocal": "2024-03-15T16:25:00-03:00",
+                "end": "2024-03-15T20:15:00+00:00",
+                "endLocal": "2024-03-15T17:15:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e707a421a",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-03-16T10:25:00+00:00",
+                "startLocal": "2024-03-16T07:25:00-03:00",
+                "end": "2024-03-16T11:15:00+00:00",
+                "endLocal": "2024-03-16T08:15:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "412c52703",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-03-16T12:40:00+00:00",
+                "startLocal": "2024-03-16T09:40:00-03:00",
+                "end": "2024-03-16T14:05:00+00:00",
+                "endLocal": "2024-03-16T11:05:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e3398d9a3",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-03-16T17:00:00+00:00",
+                "startLocal": "2024-03-16T14:00:00-03:00",
+                "end": "2024-03-16T18:30:00+00:00",
+                "endLocal": "2024-03-16T15:30:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "c7d78137a",
+        "type": "fe",
+        "index": "5 / 16",
+        "season": "2024",
+        "title": "GP Tokyo",
+        "start": "2024-03-29T07:25:00+00:00",
+        "end": "2024-03-30T07:30:00+00:00",
+        "timezone": "Asia/Tokyo",
+        "latitude": 35.6768601,
+        "longitude": 139.7638947,
+        "trackName": "Tokyo Street Circuit",
+        "countryCode": "JP",
+        "cityName": "Tokyo",
+        "steps": [
+            {
+                "id": "2ae2d07a2",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-03-29T07:25:00+00:00",
+                "startLocal": "2024-03-29T16:25:00+09:00",
+                "end": "2024-03-29T08:15:00+00:00",
+                "endLocal": "2024-03-29T17:15:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "808dc7f3e",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-03-29T22:55:00+00:00",
+                "startLocal": "2024-03-30T07:55:00+09:00",
+                "end": "2024-03-29T23:45:00+00:00",
+                "endLocal": "2024-03-30T08:45:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0adcc8341",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-03-30T01:20:00+00:00",
+                "startLocal": "2024-03-30T10:20:00+09:00",
+                "end": "2024-03-30T02:43:00+00:00",
+                "endLocal": "2024-03-30T11:43:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3e2102fd1",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-03-30T06:00:00+00:00",
+                "startLocal": "2024-03-30T15:00:00+09:00",
+                "end": "2024-03-30T07:30:00+00:00",
+                "endLocal": "2024-03-30T16:30:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "6b1ece1ec",
+        "type": "fe",
+        "index": "6 / 16",
+        "season": "2024",
+        "title": "GP Rome 1",
+        "start": "2024-04-12T15:00:00+00:00",
+        "end": "2024-04-13T14:00:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": "43.961364",
+        "longitude": "12.683075",
+        "trackName": "Misano World Circuit",
+        "countryCode": "IT",
+        "cityName": "Misano Adriatico",
+        "steps": [
+            {
+                "id": "6fcc59c7c",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-04-12T15:00:00+00:00",
+                "startLocal": "2024-04-12T17:00:00+02:00",
+                "end": "2024-04-12T15:30:00+00:00",
+                "endLocal": "2024-04-12T17:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "c51034707",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-04-13T06:00:00+00:00",
+                "startLocal": "2024-04-13T08:00:00+02:00",
+                "end": "2024-04-13T06:30:00+00:00",
+                "endLocal": "2024-04-13T08:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "6d3bee573",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-04-13T08:20:00+00:00",
+                "startLocal": "2024-04-13T10:20:00+02:00",
+                "end": "2024-04-13T09:45:00+00:00",
+                "endLocal": "2024-04-13T11:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7448a760b",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-04-13T13:00:00+00:00",
+                "startLocal": "2024-04-13T15:00:00+02:00",
+                "end": "2024-04-13T14:00:00+00:00",
+                "endLocal": "2024-04-13T16:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "343b4abba",
+        "type": "fe",
+        "index": "7 / 16",
+        "season": "2024",
+        "title": "GP Rome 2",
+        "start": "2024-04-14T06:00:00+00:00",
+        "end": "2024-04-14T14:00:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": "43.961364",
+        "longitude": "12.683075",
+        "trackName": "Misano World Circuit",
+        "countryCode": "IT",
+        "cityName": "Misano Adriatico",
+        "steps": [
+            {
+                "id": "858085d97",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2024-04-14T06:00:00+00:00",
+                "startLocal": "2024-04-14T08:00:00+02:00",
+                "end": "2024-04-14T06:30:00+00:00",
+                "endLocal": "2024-04-14T08:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1e949505b",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-04-14T08:20:00+00:00",
+                "startLocal": "2024-04-14T10:20:00+02:00",
+                "end": "2024-04-14T09:45:00+00:00",
+                "endLocal": "2024-04-14T11:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "4284631fb",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-04-14T13:00:00+00:00",
+                "startLocal": "2024-04-14T15:00:00+02:00",
+                "end": "2024-04-14T14:00:00+00:00",
+                "endLocal": "2024-04-14T16:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "8977d2cc0",
+        "type": "fe",
+        "index": "8 / 16",
+        "season": "2024",
+        "title": "GP Monaco",
+        "start": "2024-04-27T05:25:00+00:00",
+        "end": "2024-04-27T14:30:00+00:00",
+        "timezone": "Europe/Paris",
+        "latitude": "43.734814",
+        "longitude": "7.420666",
+        "trackName": "Streets of Monaco",
+        "countryCode": "MC",
+        "cityName": "Monaco",
+        "steps": [
+            {
+                "id": "fa5bca40c",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-04-27T05:25:00+00:00",
+                "startLocal": "2024-04-27T07:25:00+02:00",
+                "end": "2024-04-27T06:15:00+00:00",
+                "endLocal": "2024-04-27T08:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "98d8df87e",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-04-27T07:05:00+00:00",
+                "startLocal": "2024-04-27T09:05:00+02:00",
+                "end": "2024-04-27T07:55:00+00:00",
+                "endLocal": "2024-04-27T09:55:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0e137bbd2",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-04-27T08:40:00+00:00",
+                "startLocal": "2024-04-27T10:40:00+02:00",
+                "end": "2024-04-27T10:05:00+00:00",
+                "endLocal": "2024-04-27T12:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "93246374e",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-04-27T13:00:00+00:00",
+                "startLocal": "2024-04-27T15:00:00+02:00",
+                "end": "2024-04-27T14:30:00+00:00",
+                "endLocal": "2024-04-27T16:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "9518de359",
+        "type": "fe",
+        "index": "9 / 16",
+        "season": "2024",
+        "title": "GP Berlin 1",
+        "start": "2024-05-10T14:55:00+00:00",
+        "end": "2024-05-11T14:30:00+00:00",
+        "timezone": "Europe/Berlin",
+        "latitude": "52.47363",
+        "longitude": "13.401591",
+        "trackName": "Flughafen Tempelhof",
+        "countryCode": "DE",
+        "cityName": "Berlin",
+        "steps": [
+            {
+                "id": "5c4c20be9",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-05-10T14:55:00+00:00",
+                "startLocal": "2024-05-10T16:55:00+02:00",
+                "end": "2024-05-10T15:45:00+00:00",
+                "endLocal": "2024-05-10T17:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d6dcf5b35",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-05-11T05:55:00+00:00",
+                "startLocal": "2024-05-11T07:55:00+02:00",
+                "end": "2024-05-11T06:45:00+00:00",
+                "endLocal": "2024-05-11T08:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "eaa7fc953",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-05-11T08:20:00+00:00",
+                "startLocal": "2024-05-11T10:20:00+02:00",
+                "end": "2024-05-11T09:45:00+00:00",
+                "endLocal": "2024-05-11T11:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8684d2e06",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-05-11T13:00:00+00:00",
+                "startLocal": "2024-05-11T15:00:00+02:00",
+                "end": "2024-05-11T14:30:00+00:00",
+                "endLocal": "2024-05-11T16:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "f1ba67ea7",
+        "type": "fe",
+        "index": "10 / 16",
+        "season": "2024",
+        "title": "GP Berlin 2",
+        "start": "2024-05-12T05:55:00+00:00",
+        "end": "2024-05-12T14:30:00+00:00",
+        "timezone": "Europe/Berlin",
+        "latitude": "52.47363",
+        "longitude": "13.401591",
+        "trackName": "Flughafen Tempelhof",
+        "countryCode": "DE",
+        "cityName": "Berlin",
+        "steps": [
+            {
+                "id": "6a786e45d",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2024-05-12T05:55:00+00:00",
+                "startLocal": "2024-05-12T07:55:00+02:00",
+                "end": "2024-05-12T06:45:00+00:00",
+                "endLocal": "2024-05-12T08:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "eff6959e9",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-05-12T08:20:00+00:00",
+                "startLocal": "2024-05-12T10:20:00+02:00",
+                "end": "2024-05-12T09:45:00+00:00",
+                "endLocal": "2024-05-12T11:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "f2a24cef8",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-05-12T13:00:00+00:00",
+                "startLocal": "2024-05-12T15:00:00+02:00",
+                "end": "2024-05-12T14:30:00+00:00",
+                "endLocal": "2024-05-12T16:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "9911cddad",
+        "type": "fe",
+        "index": "11 / 16",
+        "season": "2024",
+        "title": "Shanghai",
+        "start": "2024-05-24T09:00:00+00:00",
+        "end": "2024-05-25T08:30:00+00:00",
+        "timezone": "Asia/Shanghai",
+        "latitude": "31.340882",
+        "longitude": "121.218252",
+        "trackName": "Shanghai International Circuit",
+        "countryCode": "CN",
+        "cityName": "Shanghai",
+        "steps": [
+            {
+                "id": "9e12c92d4",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-05-24T09:00:00+00:00",
+                "startLocal": "2024-05-24T17:00:00+08:00",
+                "end": "2024-05-24T09:30:00+00:00",
+                "endLocal": "2024-05-24T17:30:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "297c28b0d",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-05-25T00:00:00+00:00",
+                "startLocal": "2024-05-25T08:00:00+08:00",
+                "end": "2024-05-25T00:30:00+00:00",
+                "endLocal": "2024-05-25T08:30:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "c4bb1fd6a",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-05-25T02:20:00+00:00",
+                "startLocal": "2024-05-25T10:20:00+08:00",
+                "end": "2024-05-25T03:45:00+00:00",
+                "endLocal": "2024-05-25T11:45:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "4b5473ee1",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-05-25T07:00:00+00:00",
+                "startLocal": "2024-05-25T15:00:00+08:00",
+                "end": "2024-05-25T08:30:00+00:00",
+                "endLocal": "2024-05-25T16:30:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "244816497",
+        "type": "fe",
+        "index": "12 / 16",
+        "season": "2024",
+        "title": "Shanghai",
+        "start": "2024-05-26T00:00:00+00:00",
+        "end": "2024-05-26T08:30:00+00:00",
+        "timezone": "Asia/Shanghai",
+        "latitude": "31.340882",
+        "longitude": "121.218252",
+        "trackName": "Shanghai International Circuit",
+        "countryCode": "CN",
+        "cityName": "Shanghai",
+        "steps": [
+            {
+                "id": "d5747b292",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2024-05-26T00:00:00+00:00",
+                "startLocal": "2024-05-26T08:00:00+08:00",
+                "end": "2024-05-26T00:30:00+00:00",
+                "endLocal": "2024-05-26T08:30:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "327d2d24f",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-05-26T02:20:00+00:00",
+                "startLocal": "2024-05-26T10:20:00+08:00",
+                "end": "2024-05-26T03:45:00+00:00",
+                "endLocal": "2024-05-26T11:45:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "568f16c75",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-05-26T07:00:00+00:00",
+                "startLocal": "2024-05-26T15:00:00+08:00",
+                "end": "2024-05-26T08:00:00+00:00",
+                "endLocal": "2024-05-26T16:00:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "7cd943f27",
+        "type": "fe",
+        "index": "13 / 16",
+        "season": "2024",
+        "title": "GP Portland",
+        "start": "2024-06-28T23:55:00+00:00",
+        "end": "2024-06-29T22:30:00+00:00",
+        "timezone": "America/Los_Angeles",
+        "latitude": "45.596876",
+        "longitude": "-122.696251",
+        "trackName": "Portland International Raceway",
+        "countryCode": "US",
+        "cityName": "Portland",
+        "steps": [
+            {
+                "id": "205c23cb9",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-06-28T23:55:00+00:00",
+                "startLocal": "2024-06-28T16:55:00-07:00",
+                "end": "2024-06-29T00:45:00+00:00",
+                "endLocal": "2024-06-28T17:45:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8d376f0e5",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-06-29T14:25:00+00:00",
+                "startLocal": "2024-06-29T07:25:00-07:00",
+                "end": "2024-06-29T15:15:00+00:00",
+                "endLocal": "2024-06-29T08:15:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "dfc28cd96",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-06-29T16:40:00+00:00",
+                "startLocal": "2024-06-29T09:40:00-07:00",
+                "end": "2024-06-29T18:05:00+00:00",
+                "endLocal": "2024-06-29T11:05:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a78f0cd36",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-06-29T21:00:00+00:00",
+                "startLocal": "2024-06-29T14:00:00-07:00",
+                "end": "2024-06-29T22:30:00+00:00",
+                "endLocal": "2024-06-29T15:30:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "c62a93ee1",
+        "type": "fe",
+        "index": "14 / 16",
+        "season": "2024",
+        "title": "GP Portland 2",
+        "start": "2024-06-30T14:25:00+00:00",
+        "end": "2024-06-30T22:30:00+00:00",
+        "timezone": null,
+        "latitude": null,
+        "longitude": null,
+        "trackName": null,
+        "countryCode": null,
+        "cityName": null,
+        "steps": [
+            {
+                "id": "479abefa4",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2024-06-30T14:25:00+00:00",
+                "startLocal": null,
+                "end": "2024-06-30T15:15:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b49592134",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-06-30T16:40:00+00:00",
+                "startLocal": null,
+                "end": "2024-06-30T18:05:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3c7616724",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-06-30T21:00:00+00:00",
+                "startLocal": null,
+                "end": "2024-06-30T22:30:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "43f68d209",
+        "type": "fe",
+        "index": "15 / 16",
+        "season": "2024",
+        "title": "GP London 1",
+        "start": "2024-07-19T15:55:00+00:00",
+        "end": "2024-07-20T17:30:00+00:00",
+        "timezone": "Europe/London",
+        "latitude": 51.5073219,
+        "longitude": -0.1276474,
+        "trackName": "Streets of London",
+        "countryCode": "GB",
+        "cityName": "London",
+        "steps": [
+            {
+                "id": "b068c4d2c",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-07-19T15:55:00+00:00",
+                "startLocal": "2024-07-19T16:55:00+01:00",
+                "end": "2024-07-19T16:45:00+00:00",
+                "endLocal": "2024-07-19T17:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7973f9d9e",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-07-20T08:55:00+00:00",
+                "startLocal": "2024-07-20T09:55:00+01:00",
+                "end": "2024-07-20T09:45:00+00:00",
+                "endLocal": "2024-07-20T10:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "4c6505c73",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-20T11:20:00+00:00",
+                "startLocal": "2024-07-20T12:20:00+01:00",
+                "end": "2024-07-20T12:45:00+00:00",
+                "endLocal": "2024-07-20T13:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "bc4de4818",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-07-20T16:00:00+00:00",
+                "startLocal": "2024-07-20T17:00:00+01:00",
+                "end": "2024-07-20T17:30:00+00:00",
+                "endLocal": "2024-07-20T18:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "315873d06",
+        "type": "fe",
+        "index": "16 / 16",
+        "season": "2024",
+        "title": "GP London 2",
+        "start": "2024-07-21T08:55:00+00:00",
+        "end": "2024-07-21T17:30:00+00:00",
+        "timezone": "Europe/London",
+        "latitude": 51.5073219,
+        "longitude": -0.1276474,
+        "trackName": "Streets of London",
+        "countryCode": "GB",
+        "cityName": "London",
+        "steps": [
+            {
+                "id": "954b49a9c",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2024-07-21T08:55:00+00:00",
+                "startLocal": "2024-07-21T09:55:00+01:00",
+                "end": "2024-07-21T09:45:00+00:00",
+                "endLocal": "2024-07-21T10:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "9042cecbe",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-21T11:20:00+00:00",
+                "startLocal": "2024-07-21T12:20:00+01:00",
+                "end": "2024-07-21T12:45:00+00:00",
+                "endLocal": "2024-07-21T13:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8e71c4bb8",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-07-21T16:00:00+00:00",
+                "startLocal": "2024-07-21T17:00:00+01:00",
+                "end": "2024-07-21T17:30:00+00:00",
+                "endLocal": "2024-07-21T18:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
         "id": "87b2d2848",
         "type": "fe",
         "index": "1 / 17",
@@ -15,7 +1273,7 @@
         "cityName": "Sao Paulo",
         "steps": [
             {
-                "id": "e87f5d310",
+                "id": "c655792ac",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -32,7 +1290,7 @@
                 "hasSummary": true
             },
             {
-                "id": "c82d16476",
+                "id": "e2e510ed3",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -49,7 +1307,7 @@
                 "hasSummary": true
             },
             {
-                "id": "5d8fb4270",
+                "id": "400bc7227",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -66,7 +1324,7 @@
                 "hasSummary": true
             },
             {
-                "id": "18d6f5709",
+                "id": "d0109f6bb",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -100,7 +1358,7 @@
         "cityName": "Mexico City",
         "steps": [
             {
-                "id": "0f01f87e0",
+                "id": "f2ded8dfb",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -117,7 +1375,7 @@
                 "hasSummary": false
             },
             {
-                "id": "c261a89f7",
+                "id": "32d52ea14",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -134,7 +1392,7 @@
                 "hasSummary": false
             },
             {
-                "id": "31ef08ec4",
+                "id": "0595f6a16",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -151,7 +1409,7 @@
                 "hasSummary": false
             },
             {
-                "id": "b4a16c1c1",
+                "id": "5c7f246bb",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -185,7 +1443,7 @@
         "cityName": "Jeddah",
         "steps": [
             {
-                "id": "5d8cc3bb8",
+                "id": "789fdc5ef",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -202,7 +1460,7 @@
                 "hasSummary": false
             },
             {
-                "id": "e73d68520",
+                "id": "0d25a45fe",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -219,7 +1477,7 @@
                 "hasSummary": false
             },
             {
-                "id": "34945de1f",
+                "id": "00b1dbe96",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -236,7 +1494,7 @@
                 "hasSummary": false
             },
             {
-                "id": "48430098b",
+                "id": "4c1b6b422",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -270,7 +1528,7 @@
         "cityName": "Jeddah",
         "steps": [
             {
-                "id": "c2227d490",
+                "id": "5c0365e7e",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -287,7 +1545,7 @@
                 "hasSummary": false
             },
             {
-                "id": "28551f96d",
+                "id": "e150178f0",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -304,7 +1562,7 @@
                 "hasSummary": false
             },
             {
-                "id": "6cc83179c",
+                "id": "33542c5f7",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -338,7 +1596,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "cc9e5f822",
+                "id": "728393b63",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -355,7 +1613,7 @@
                 "hasSummary": false
             },
             {
-                "id": "1d3d5f071",
+                "id": "62e69d5b7",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -372,7 +1630,7 @@
                 "hasSummary": false
             },
             {
-                "id": "906dd7b44",
+                "id": "13b1027dd",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -389,7 +1647,7 @@
                 "hasSummary": false
             },
             {
-                "id": "36cefd399",
+                "id": "5240211b5",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -423,7 +1681,7 @@
         "cityName": "Homestead",
         "steps": [
             {
-                "id": "00880376c",
+                "id": "099c18b3c",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -440,7 +1698,7 @@
                 "hasSummary": false
             },
             {
-                "id": "7106175cf",
+                "id": "2b10b6449",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -457,7 +1715,7 @@
                 "hasSummary": false
             },
             {
-                "id": "dd05536cc",
+                "id": "6a3834f22",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -474,7 +1732,7 @@
                 "hasSummary": false
             },
             {
-                "id": "2cf85ad62",
+                "id": "0fbd41b75",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -508,7 +1766,7 @@
         "cityName": "Monaco",
         "steps": [
             {
-                "id": "96deb6eac",
+                "id": "bb7adc8fc",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -525,7 +1783,7 @@
                 "hasSummary": false
             },
             {
-                "id": "f445ffb37",
+                "id": "1d3f0eebe",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -542,7 +1800,7 @@
                 "hasSummary": false
             },
             {
-                "id": "f3b9e393d",
+                "id": "90a7e69d0",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -559,7 +1817,7 @@
                 "hasSummary": false
             },
             {
-                "id": "92d8b2712",
+                "id": "bd879f618",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -593,7 +1851,7 @@
         "cityName": "Monaco",
         "steps": [
             {
-                "id": "5653635c5",
+                "id": "390d3f10e",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -610,7 +1868,7 @@
                 "hasSummary": false
             },
             {
-                "id": "612cc672e",
+                "id": "c6ee75e06",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -627,7 +1885,7 @@
                 "hasSummary": false
             },
             {
-                "id": "172839eac",
+                "id": "724271f48",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -654,14 +1912,14 @@
         "start": "2025-05-16T07:00:00+00:00",
         "end": "2025-05-17T07:00:00+00:00",
         "timezone": "Asia/Tokyo",
-        "latitude": 35.6828387,
-        "longitude": 139.7594549,
+        "latitude": 35.6768601,
+        "longitude": 139.7638947,
         "trackName": "Tokyo Street Circuit",
         "countryCode": "JP",
         "cityName": "Tokyo",
         "steps": [
             {
-                "id": "0a884c2e3",
+                "id": "9cfd34d0d",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -678,7 +1936,7 @@
                 "hasSummary": false
             },
             {
-                "id": "57477618f",
+                "id": "afa13906b",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -695,7 +1953,7 @@
                 "hasSummary": false
             },
             {
-                "id": "a467bc632",
+                "id": "ff415c1e9",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -712,7 +1970,7 @@
                 "hasSummary": false
             },
             {
-                "id": "240cf2afc",
+                "id": "231fedec7",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -739,14 +1997,14 @@
         "start": "2025-05-17T23:00:00+00:00",
         "end": "2025-05-18T07:00:00+00:00",
         "timezone": "Asia/Tokyo",
-        "latitude": 35.6828387,
-        "longitude": 139.7594549,
+        "latitude": 35.6768601,
+        "longitude": 139.7638947,
         "trackName": "Tokyo Street Circuit",
         "countryCode": "JP",
         "cityName": "Tokyo",
         "steps": [
             {
-                "id": "06f739fbf",
+                "id": "324ead712",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -763,7 +2021,7 @@
                 "hasSummary": false
             },
             {
-                "id": "ae6c76e61",
+                "id": "90e01c41d",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -780,7 +2038,7 @@
                 "hasSummary": false
             },
             {
-                "id": "3fe60291c",
+                "id": "861451e45",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -814,7 +2072,7 @@
         "cityName": "Shanghai",
         "steps": [
             {
-                "id": "0937f0daa",
+                "id": "b87843258",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -831,7 +2089,7 @@
                 "hasSummary": false
             },
             {
-                "id": "3909a2786",
+                "id": "a7d761847",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -848,7 +2106,7 @@
                 "hasSummary": false
             },
             {
-                "id": "5a91d4a80",
+                "id": "d3469164f",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -865,7 +2123,7 @@
                 "hasSummary": false
             },
             {
-                "id": "e086933e2",
+                "id": "0e2face44",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -899,7 +2157,7 @@
         "cityName": "Shanghai",
         "steps": [
             {
-                "id": "5f1466cd2",
+                "id": "9b9e8c8fa",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -916,7 +2174,7 @@
                 "hasSummary": false
             },
             {
-                "id": "fbeb11b4e",
+                "id": "5e40dbe48",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -933,7 +2191,7 @@
                 "hasSummary": false
             },
             {
-                "id": "5f401fee6",
+                "id": "250065529",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -967,7 +2225,7 @@
         "cityName": "Jakarta",
         "steps": [
             {
-                "id": "eea58d0fb",
+                "id": "72dd23b68",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -984,7 +2242,7 @@
                 "hasSummary": false
             },
             {
-                "id": "f1a18d281",
+                "id": "11103df56",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1001,7 +2259,7 @@
                 "hasSummary": false
             },
             {
-                "id": "b28fe22b7",
+                "id": "b0cf6a2b9",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1018,7 +2276,7 @@
                 "hasSummary": false
             },
             {
-                "id": "7ebfda902",
+                "id": "df4379e2d",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1052,7 +2310,7 @@
         "cityName": "Berlin",
         "steps": [
             {
-                "id": "ad125a5ee",
+                "id": "9993ba8d3",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1069,7 +2327,7 @@
                 "hasSummary": false
             },
             {
-                "id": "f90f76b01",
+                "id": "5831638df",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1086,7 +2344,7 @@
                 "hasSummary": false
             },
             {
-                "id": "4b24c7235",
+                "id": "1f3444a9d",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1103,7 +2361,7 @@
                 "hasSummary": false
             },
             {
-                "id": "801c7bdeb",
+                "id": "3834376d1",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1137,7 +2395,7 @@
         "cityName": "Berlin",
         "steps": [
             {
-                "id": "04967a123",
+                "id": "dc6c57cbc",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -1154,7 +2412,7 @@
                 "hasSummary": false
             },
             {
-                "id": "2f31a4867",
+                "id": "6643cae6d",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1171,7 +2429,7 @@
                 "hasSummary": false
             },
             {
-                "id": "343fe3a41",
+                "id": "7025cb74c",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1205,7 +2463,7 @@
         "cityName": "London",
         "steps": [
             {
-                "id": "e9f22d5c1",
+                "id": "86b5ec755",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1222,7 +2480,7 @@
                 "hasSummary": false
             },
             {
-                "id": "1e8343afe",
+                "id": "55d4c08f4",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1239,7 +2497,7 @@
                 "hasSummary": false
             },
             {
-                "id": "e6a2a25f1",
+                "id": "987826ec0",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1256,7 +2514,7 @@
                 "hasSummary": false
             },
             {
-                "id": "802c99d05",
+                "id": "77291e1aa",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1290,7 +2548,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "c4efed4f5",
+                "id": "cdcb8d0b3",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -1307,7 +2565,7 @@
                 "hasSummary": false
             },
             {
-                "id": "a8ba68d48",
+                "id": "4cd055c45",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1324,7 +2582,7 @@
                 "hasSummary": false
             },
             {
-                "id": "e955e6690",
+                "id": "744e8c242",
                 "title": "Race",
                 "type": "race",
                 "index": null,
