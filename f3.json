@@ -1,6 +1,894 @@
 [
     {
-        "id": "mta1oq",
+        "id": "58c54802a",
+        "type": "f3",
+        "index": "1 / 10",
+        "season": "2024",
+        "title": "Bahrain 2024",
+        "start": "2024-02-28T23:00:00+00:00",
+        "end": "2024-03-02T09:45:00+00:00",
+        "timezone": "Asia/Bahrain",
+        "latitude": "26.033541",
+        "longitude": "50.516661",
+        "trackName": "Bahrain International Circuit",
+        "countryCode": "BH",
+        "cityName": "Sakhir",
+        "steps": [
+            {
+                "id": "8bcf57caa",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-02-29T07:55:00+00:00",
+                "startLocal": "2024-02-29T10:55:00+03:00",
+                "end": "2024-02-29T08:40:00+00:00",
+                "endLocal": "2024-02-29T11:40:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e1226495c",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-02-29T13:00:00+00:00",
+                "startLocal": "2024-02-29T16:00:00+03:00",
+                "end": "2024-02-29T13:30:00+00:00",
+                "endLocal": "2024-02-29T16:30:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "40f4da34b",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-03-01T10:15:00+00:00",
+                "startLocal": "2024-03-01T13:15:00+03:00",
+                "end": "2024-03-01T11:00:00+00:00",
+                "endLocal": "2024-03-01T14:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d83de59e1",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-03-02T09:00:00+00:00",
+                "startLocal": "2024-03-02T12:00:00+03:00",
+                "end": "2024-03-02T09:45:00+00:00",
+                "endLocal": "2024-03-02T12:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "5055cbf43",
+        "type": "f3",
+        "index": "2 / 10",
+        "season": "2024",
+        "title": "Australia 2024",
+        "start": "2024-03-21T21:50:00+00:00",
+        "end": "2024-03-23T23:00:00+00:00",
+        "timezone": "Australia/Melbourne",
+        "latitude": -37.8142176,
+        "longitude": 144.9631608,
+        "trackName": "Albert Park Circuit",
+        "countryCode": "AU",
+        "cityName": "Melbourne",
+        "steps": [
+            {
+                "id": "ba638ebf5",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-03-21T21:50:00+00:00",
+                "startLocal": "2024-03-22T08:50:00+11:00",
+                "end": "2024-03-21T22:35:00+00:00",
+                "endLocal": "2024-03-22T09:35:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "00865d413",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-03-22T03:00:00+00:00",
+                "startLocal": "2024-03-22T14:00:00+11:00",
+                "end": "2024-03-22T03:30:00+00:00",
+                "endLocal": "2024-03-22T14:30:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "08b2dbdc9",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-03-23T00:15:00+00:00",
+                "startLocal": "2024-03-23T11:15:00+11:00",
+                "end": "2024-03-23T00:55:00+00:00",
+                "endLocal": "2024-03-23T11:55:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "07b1c04a3",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-03-23T22:05:00+00:00",
+                "startLocal": "2024-03-24T09:05:00+11:00",
+                "end": "2024-03-23T22:50:00+00:00",
+                "endLocal": "2024-03-24T09:50:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "456ac9b0d",
+        "type": "f3",
+        "index": "3 / 10",
+        "season": "2024",
+        "title": "Italy-Emilia Romagna 2024",
+        "start": "2024-05-16T22:00:00+00:00",
+        "end": "2024-05-19T07:20:00+00:00",
+        "trackName": "Autodromo Enzo e Dino Ferrari",
+        "countryCode": "IM",
+        "cityName": "Imola",
+        "steps": [
+            {
+                "id": "859555c74",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-05-17T07:55:00+00:00",
+                "startLocal": null,
+                "end": "2024-05-17T08:40:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1ecdec353",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-05-17T13:05:00+00:00",
+                "startLocal": null,
+                "end": "2024-05-17T13:35:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "62d2b7ba9",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-05-18T08:05:00+00:00",
+                "startLocal": null,
+                "end": "2024-05-18T08:50:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e6872f5bb",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-05-19T06:30:00+00:00",
+                "startLocal": null,
+                "end": "2024-05-19T07:20:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "f4dd765c1",
+        "type": "f3",
+        "index": "4 / 10",
+        "season": "2024",
+        "title": "Monaco 2024",
+        "start": "2024-05-22T22:00:00+00:00",
+        "end": "2024-05-26T06:45:00+00:00",
+        "timezone": "Europe/Monaco",
+        "latitude": 43.7311424,
+        "longitude": 7.4197576,
+        "trackName": "Circuit de Monaco",
+        "countryCode": "MC",
+        "cityName": "Monaco",
+        "steps": [
+            {
+                "id": "b4d22bb57",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-05-23T11:10:00+00:00",
+                "startLocal": "2024-05-23T13:10:00+02:00",
+                "end": "2024-05-23T11:55:00+00:00",
+                "endLocal": "2024-05-23T13:55:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "fc5b3186f",
+                "title": "Qualifying Group A",
+                "type": "qualifying",
+                "index": 1,
+                "start": "2024-05-24T09:05:00+00:00",
+                "startLocal": "2024-05-24T11:05:00+02:00",
+                "end": "2024-05-24T09:19:00+00:00",
+                "endLocal": "2024-05-24T11:19:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "cc4af25fa",
+                "title": "Qualifying Group B",
+                "type": "qualifying",
+                "index": 2,
+                "start": "2024-05-24T09:29:00+00:00",
+                "startLocal": "2024-05-24T11:29:00+02:00",
+                "end": "2024-05-24T09:43:00+00:00",
+                "endLocal": "2024-05-24T11:43:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "67038aaa0",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-05-25T08:45:00+00:00",
+                "startLocal": "2024-05-25T10:45:00+02:00",
+                "end": "2024-05-25T09:25:00+00:00",
+                "endLocal": "2024-05-25T11:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "319be2a70",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-05-26T06:00:00+00:00",
+                "startLocal": "2024-05-26T08:00:00+02:00",
+                "end": "2024-05-26T06:45:00+00:00",
+                "endLocal": "2024-05-26T08:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "7fec306d1",
+        "type": "f3",
+        "index": "5 / 10",
+        "season": "2024",
+        "title": "Spain 2024",
+        "start": "2024-06-20T22:00:00+00:00",
+        "end": "2024-06-23T08:50:00+00:00",
+        "timezone": "Europe/Madrid",
+        "latitude": 41.3828939,
+        "longitude": 2.1774322,
+        "trackName": "Circuit de Barcelona-Catalunya",
+        "countryCode": "ES",
+        "cityName": "Barcelona",
+        "steps": [
+            {
+                "id": "750263dbb",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-06-21T07:55:00+00:00",
+                "startLocal": "2024-06-21T09:55:00+02:00",
+                "end": "2024-06-21T08:40:00+00:00",
+                "endLocal": "2024-06-21T10:40:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a2b8a85a2",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-06-21T13:00:00+00:00",
+                "startLocal": "2024-06-21T15:00:00+02:00",
+                "end": "2024-06-21T13:30:00+00:00",
+                "endLocal": "2024-06-21T15:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3a9de64a6",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-06-22T08:40:00+00:00",
+                "startLocal": "2024-06-22T10:40:00+02:00",
+                "end": "2024-06-22T09:20:00+00:00",
+                "endLocal": "2024-06-22T11:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e97986091",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-06-23T08:05:00+00:00",
+                "startLocal": "2024-06-23T10:05:00+02:00",
+                "end": "2024-06-23T08:50:00+00:00",
+                "endLocal": "2024-06-23T10:50:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "db576a7d2",
+        "type": "f3",
+        "index": "6 / 10",
+        "season": "2024",
+        "title": "Austria 2024",
+        "start": "2024-06-27T22:00:00+00:00",
+        "end": "2024-06-30T07:15:00+00:00",
+        "timezone": "Europe/Vienna",
+        "latitude": 48.2274518,
+        "longitude": 15.3572755,
+        "trackName": "Red Bull Ring",
+        "countryCode": "AT",
+        "cityName": "Spielberg",
+        "steps": [
+            {
+                "id": "6ebb69ffb",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-06-28T06:55:00+00:00",
+                "startLocal": "2024-06-28T08:55:00+02:00",
+                "end": "2024-06-28T07:40:00+00:00",
+                "endLocal": "2024-06-28T09:40:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1a07bcc79",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-06-28T12:00:00+00:00",
+                "startLocal": "2024-06-28T14:00:00+02:00",
+                "end": "2024-06-28T12:30:00+00:00",
+                "endLocal": "2024-06-28T14:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5bd529d5b",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-06-29T07:30:00+00:00",
+                "startLocal": "2024-06-29T09:30:00+02:00",
+                "end": "2024-06-29T08:10:00+00:00",
+                "endLocal": "2024-06-29T10:10:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5588902a8",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-06-30T06:30:00+00:00",
+                "startLocal": "2024-06-30T08:30:00+02:00",
+                "end": "2024-06-30T07:15:00+00:00",
+                "endLocal": "2024-06-30T09:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "53c04118d",
+        "type": "f3",
+        "index": "7 / 10",
+        "season": "2024",
+        "title": "Great Britain 2024",
+        "start": "2024-07-04T22:00:00+00:00",
+        "end": "2024-07-07T08:05:00+00:00",
+        "timezone": "Europe/London",
+        "latitude": 52.0877287,
+        "longitude": -1.0241177,
+        "trackName": "Silverstone Circuit",
+        "countryCode": "GB",
+        "cityName": "Silverstone",
+        "steps": [
+            {
+                "id": "48dfb0e62",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-07-05T07:40:00+00:00",
+                "startLocal": "2024-07-05T08:40:00+01:00",
+                "end": "2024-07-05T08:25:00+00:00",
+                "endLocal": "2024-07-05T09:25:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "6dac4227f",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-05T13:05:00+00:00",
+                "startLocal": "2024-07-05T14:05:00+01:00",
+                "end": "2024-07-05T13:35:00+00:00",
+                "endLocal": "2024-07-05T14:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a9b94e2e9",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-07-06T17:10:00+00:00",
+                "startLocal": "2024-07-06T18:10:00+01:00",
+                "end": "2024-07-06T17:50:00+00:00",
+                "endLocal": "2024-07-06T18:50:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b0285cbf3",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-07-07T07:20:00+00:00",
+                "startLocal": "2024-07-07T08:20:00+01:00",
+                "end": "2024-07-07T08:05:00+00:00",
+                "endLocal": "2024-07-07T09:05:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "4ca82782c",
+        "type": "f3",
+        "index": "8 / 10",
+        "season": "2024",
+        "title": "Hungary 2024",
+        "start": "2024-07-18T22:00:00+00:00",
+        "end": "2024-07-21T07:10:00+00:00",
+        "timezone": "Europe/Budapest",
+        "latitude": 47.4979937,
+        "longitude": 19.0403594,
+        "trackName": "Hungaroring",
+        "countryCode": "HU",
+        "cityName": "Budapest",
+        "steps": [
+            {
+                "id": "47e51e9d1",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-07-19T07:55:00+00:00",
+                "startLocal": "2024-07-19T09:55:00+02:00",
+                "end": "2024-07-19T08:40:00+00:00",
+                "endLocal": "2024-07-19T10:40:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "dfccdb8b1",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-19T13:05:00+00:00",
+                "startLocal": "2024-07-19T15:05:00+02:00",
+                "end": "2024-07-19T13:35:00+00:00",
+                "endLocal": "2024-07-19T15:35:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "444b0d9a8",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-07-20T07:50:00+00:00",
+                "startLocal": "2024-07-20T09:50:00+02:00",
+                "end": "2024-07-20T08:30:00+00:00",
+                "endLocal": "2024-07-20T10:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7d5430cf8",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-07-21T06:25:00+00:00",
+                "startLocal": "2024-07-21T08:25:00+02:00",
+                "end": "2024-07-21T07:10:00+00:00",
+                "endLocal": "2024-07-21T09:10:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "d8700cbd3",
+        "type": "f3",
+        "index": "9 / 10",
+        "season": "2024",
+        "title": "Belgium 2024",
+        "start": "2024-07-25T22:00:00+00:00",
+        "end": "2024-07-28T07:15:00+00:00",
+        "trackName": "Circuit de Spa-Francorchamps",
+        "countryCode": "BE",
+        "cityName": "Spa-Francorchamps",
+        "steps": [
+            {
+                "id": "083b65c88",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-07-26T07:45:00+00:00",
+                "startLocal": null,
+                "end": "2024-07-26T08:30:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e382f91e2",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-26T13:05:00+00:00",
+                "startLocal": null,
+                "end": "2024-07-26T13:35:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8f4d94fa7",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-07-27T07:50:00+00:00",
+                "startLocal": null,
+                "end": "2024-07-27T08:30:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ee492a6c8",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-07-28T06:30:00+00:00",
+                "startLocal": null,
+                "end": "2024-07-28T07:15:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "b4d168b48",
+        "type": "f3",
+        "index": "10 / 10",
+        "season": "2024",
+        "title": "Italy 2024",
+        "start": "2024-08-29T22:00:00+00:00",
+        "end": "2024-09-01T07:20:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": 45.5834418,
+        "longitude": 9.2735257,
+        "trackName": "Autodromo Nazionale Monza",
+        "countryCode": "IT",
+        "cityName": "Monza",
+        "steps": [
+            {
+                "id": "8b519f198",
+                "title": "Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-08-30T07:35:00+00:00",
+                "startLocal": "2024-08-30T09:35:00+02:00",
+                "end": "2024-08-30T08:20:00+00:00",
+                "endLocal": "2024-08-30T10:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "82138b11a",
+                "title": "Qualifying Group A",
+                "type": "qualifying",
+                "index": 1,
+                "start": "2024-08-30T13:00:00+00:00",
+                "startLocal": "2024-08-30T15:00:00+02:00",
+                "end": "2024-08-30T13:13:00+00:00",
+                "endLocal": "2024-08-30T15:13:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "85dfba75b",
+                "title": "Qualifying Group B",
+                "type": "qualifying",
+                "index": 2,
+                "start": "2024-08-30T13:21:00+00:00",
+                "startLocal": "2024-08-30T15:21:00+02:00",
+                "end": "2024-08-30T13:34:00+00:00",
+                "endLocal": "2024-08-30T15:34:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "53253027f",
+                "title": "Sprint",
+                "subtitle": "Sprint",
+                "type": "race",
+                "index": 1,
+                "start": "2024-08-31T07:30:00+00:00",
+                "startLocal": "2024-08-31T09:30:00+02:00",
+                "end": "2024-08-31T08:10:00+00:00",
+                "endLocal": "2024-08-31T10:10:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a7d927705",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-09-01T06:35:00+00:00",
+                "startLocal": "2024-09-01T08:35:00+02:00",
+                "end": "2024-09-01T07:20:00+00:00",
+                "endLocal": "2024-09-01T09:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "4a08142c3",
         "type": "f3",
         "index": "1 / 10",
         "season": "2025",
@@ -15,7 +903,7 @@
         "cityName": "Melbourne",
         "steps": [
             {
-                "id": "oda3na",
+                "id": "fbb5d2cf4",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -28,10 +916,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda3mw",
+                "id": "ffa9b486a",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -44,10 +933,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda3nq",
+                "id": "ede529dfc",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -61,10 +951,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda3ng",
+                "id": "135593dd9",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -77,12 +968,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2ma",
+        "id": "299a23a22",
         "type": "f3",
         "index": "2 / 10",
         "season": "2025",
@@ -97,7 +989,7 @@
         "cityName": "Sakhir",
         "steps": [
             {
-                "id": "oda4ma",
+                "id": "d4a973e30",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -110,10 +1002,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda3oq",
+                "id": "3aaa3db6a",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -126,10 +1019,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda4mq",
+                "id": "4afe04491",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -143,10 +1037,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda4mg",
+                "id": "b9e4093f9",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -159,12 +1054,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2mq",
+        "id": "a89cf525e",
         "type": "f3",
         "index": "3 / 10",
         "season": "2025",
@@ -176,7 +1072,7 @@
         "cityName": "Imola",
         "steps": [
             {
-                "id": "oda4ng",
+                "id": "8722c8f49",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -189,10 +1085,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda4nq",
+                "id": "5011bf6d8",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -205,10 +1102,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda4nw",
+                "id": "9af08cda5",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -222,10 +1120,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda4oa",
+                "id": "172ef5a94",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -238,12 +1137,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2mg",
+        "id": "cd89fef7f",
         "type": "f3",
         "index": "4 / 10",
         "season": "2025",
@@ -258,7 +1158,7 @@
         "cityName": "Monaco",
         "steps": [
             {
-                "id": "oda5mg",
+                "id": "630eff1b3",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -271,10 +1171,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda5nq",
+                "id": "e334ea177",
                 "title": "Qualifying Group A",
                 "type": "qualifying",
                 "index": 1,
@@ -287,10 +1188,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda5ng",
+                "id": "a95aa4e62",
                 "title": "Qualifying Group B",
                 "type": "qualifying",
                 "index": 2,
@@ -303,10 +1205,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda5mw",
+                "id": "781835419",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -320,10 +1223,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda5na",
+                "id": "e96f4710c",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -336,12 +1240,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2mw",
+        "id": "6c340f258",
         "type": "f3",
         "index": "5 / 10",
         "season": "2025",
@@ -356,7 +1261,7 @@
         "cityName": "Barcelona",
         "steps": [
             {
-                "id": "oda5oa",
+                "id": "1872e3d47",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -369,10 +1274,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda5nw",
+                "id": "5a2afca61",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -385,10 +1291,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "oda5oq",
+                "id": "040ca38ce",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -402,10 +1309,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odewma",
+                "id": "9cea886b9",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -418,12 +1326,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2na",
+        "id": "2290a7385",
         "type": "f3",
         "index": "6 / 10",
         "season": "2025",
@@ -438,7 +1347,7 @@
         "cityName": "Spielberg",
         "steps": [
             {
-                "id": "odewna",
+                "id": "9078f2a82",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -451,10 +1360,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odewmw",
+                "id": "44151de6b",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -467,10 +1377,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odewnq",
+                "id": "247d87b08",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -484,10 +1395,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odewng",
+                "id": "1b742ae21",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -500,12 +1412,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2nq",
+        "id": "a2137a2ae",
         "type": "f3",
         "index": "7 / 10",
         "season": "2025",
@@ -520,7 +1433,7 @@
         "cityName": "Silverstone",
         "steps": [
             {
-                "id": "odexma",
+                "id": "71b9e42fd",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -533,10 +1446,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odewoq",
+                "id": "d30d0f522",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -549,10 +1463,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odexmq",
+                "id": "30410be14",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -566,10 +1481,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odexmg",
+                "id": "45d6637b7",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -582,12 +1498,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2ng",
+        "id": "43dd49b4f",
         "type": "f3",
         "index": "8 / 10",
         "season": "2025",
@@ -599,7 +1516,7 @@
         "cityName": "Spa-Francorchamps",
         "steps": [
             {
-                "id": "odexng",
+                "id": "8f6242793",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -612,10 +1529,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odexnq",
+                "id": "68dd09b9f",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -628,10 +1546,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odexnw",
+                "id": "03492e99e",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -645,10 +1564,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odexoa",
+                "id": "1ddfa4ccd",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -661,12 +1581,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2nw",
+        "id": "31857b449",
         "type": "f3",
         "index": "9 / 10",
         "season": "2025",
@@ -681,7 +1602,7 @@
         "cityName": "Budapest",
         "steps": [
             {
-                "id": "odeymg",
+                "id": "e9507053d",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -694,10 +1615,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odeymq",
+                "id": "afecc60f8",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -710,10 +1632,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odeymw",
+                "id": "15c71b874",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -727,10 +1650,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odeyna",
+                "id": "9465ce9a7",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -743,12 +1667,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mta2oa",
+        "id": "53adaf494",
         "type": "f3",
         "index": "10 / 10",
         "season": "2025",
@@ -763,7 +1688,7 @@
         "cityName": "Monza",
         "steps": [
             {
-                "id": "odeyoa",
+                "id": "c3d96fbd5",
                 "title": "Practice",
                 "type": "practice",
                 "index": null,
@@ -776,10 +1701,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odeynw",
+                "id": "5934c1ec0",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -792,10 +1718,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odeyoq",
+                "id": "c404a5adb",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
@@ -809,10 +1736,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "odezma",
+                "id": "66cf21351",
                 "title": "Feature Race",
                 "type": "race",
                 "index": 2,
@@ -825,7 +1753,8 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     }
