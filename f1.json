@@ -2438,7 +2438,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": true
+                "hasSummary": false
             },
             {
                 "id": "e6fec97af",
@@ -2455,7 +2455,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": true
+                "hasSummary": false
             }
         ]
     },
