@@ -15,13 +15,13 @@
         "cityName": "Los Angeles",
         "steps": [
             {
-                "id": "2cc25476a",
+                "id": "90b601917",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-02-03T22:35:00+00:00",
                 "end": "2024-02-04T00:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-03T14:35:00-08:00",
                 "endLocal": "2024-02-03T16:20:00-08:00",
@@ -32,13 +32,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "e3abc3756",
+                "id": "aaab05e82",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-02-04T01:00:00+00:00",
                 "end": "2024-02-04T02:40:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-03T17:00:00-08:00",
                 "endLocal": "2024-02-03T18:40:00-08:00",
@@ -66,13 +66,13 @@
         "cityName": "Daytona Beach",
         "steps": [
             {
-                "id": "faafe2f83",
+                "id": "72f4e5e80",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-02-15T01:15:00+00:00",
                 "end": "2024-02-15T03:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-14T20:15:00-05:00",
                 "endLocal": "2024-02-14T22:00:00-05:00",
@@ -83,13 +83,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "2717998fe",
+                "id": "7f1a0baf3",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-02-16T00:00:00+00:00",
                 "end": "2024-02-16T01:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-15T19:00:00-05:00",
                 "endLocal": "2024-02-15T20:30:00-05:00",
@@ -100,13 +100,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "c58ce0bed",
+                "id": "3c3481c9b",
                 "title": "Race 2",
                 "type": "race",
                 "start": "2024-02-16T01:30:00+00:00",
                 "end": "2024-02-16T03:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-15T20:30:00-05:00",
                 "endLocal": "2024-02-15T22:00:00-05:00",
@@ -117,13 +117,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "9efdc3ff3",
+                "id": "18921205c",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-02-16T22:35:00+00:00",
                 "end": "2024-02-16T23:25:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-16T17:35:00-05:00",
                 "endLocal": "2024-02-16T18:25:00-05:00",
@@ -134,13 +134,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "f6d1affcb",
+                "id": "11bf87f9c",
                 "title": "Race 3",
                 "type": "race",
                 "start": "2024-02-19T21:00:00+00:00",
                 "end": "2024-02-20T01:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-19T16:00:00-05:00",
                 "endLocal": "2024-02-19T20:00:00-05:00",
@@ -168,13 +168,13 @@
         "cityName": "Hampton",
         "steps": [
             {
-                "id": "51701340a",
+                "id": "cf03e7354",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-02-24T16:30:00+00:00",
                 "end": "2024-02-24T18:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-24T11:30:00-05:00",
                 "endLocal": "2024-02-24T13:00:00-05:00",
@@ -185,12 +185,12 @@
                 "isNightEvent": false
             },
             {
-                "id": "d0a442ab7",
+                "id": "7fc149272",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-02-24T17:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-24T12:50:00-05:00",
                 "endLocal": null,
@@ -201,13 +201,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "053270391",
+                "id": "79657a066",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-02-25T20:30:00+00:00",
                 "end": "2024-02-26T00:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-02-25T15:30:00-05:00",
                 "endLocal": "2024-02-25T19:00:00-05:00",
@@ -235,13 +235,13 @@
         "cityName": "Las Vegas",
         "steps": [
             {
-                "id": "8b891c0b9",
+                "id": "26d1d7b09",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-03-02T19:05:00+00:00",
                 "end": "2024-03-02T19:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-02T11:05:00-08:00",
                 "endLocal": "2024-03-02T11:50:00-08:00",
@@ -252,13 +252,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "e21720f9e",
+                "id": "b3dfb6e0a",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-03-02T19:50:00+00:00",
                 "end": "2024-03-02T21:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-02T11:50:00-08:00",
                 "endLocal": "2024-03-02T13:00:00-08:00",
@@ -269,13 +269,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "27833d905",
+                "id": "6df0f8045",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-03-03T20:30:00+00:00",
                 "end": "2024-03-04T00:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-03T12:30:00-08:00",
                 "endLocal": "2024-03-03T16:00:00-08:00",
@@ -303,13 +303,13 @@
         "cityName": "Avondale",
         "steps": [
             {
-                "id": "43cf914a2",
+                "id": "97174b4b1",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-03-08T22:05:00+00:00",
                 "end": "2024-03-08T22:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-08T15:05:00-07:00",
                 "endLocal": "2024-03-08T15:50:00-07:00",
@@ -320,13 +320,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "d579d8f10",
+                "id": "fb3fb70e9",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-03-09T19:10:00+00:00",
                 "end": "2024-03-09T20:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-09T12:10:00-07:00",
                 "endLocal": "2024-03-09T13:20:00-07:00",
@@ -337,13 +337,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "9cccfee52",
+                "id": "a50f0b117",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-03-10T19:30:00+00:00",
                 "end": "2024-03-10T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-10T12:30:00-07:00",
                 "endLocal": "2024-03-10T15:00:00-07:00",
@@ -371,13 +371,13 @@
         "cityName": "Bristol",
         "steps": [
             {
-                "id": "c67d0d853",
+                "id": "c71ad81e8",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-03-16T21:00:00+00:00",
                 "end": "2024-03-16T21:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-16T17:00:00-04:00",
                 "endLocal": "2024-03-16T17:50:00-04:00",
@@ -388,13 +388,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "17fd6db7d",
+                "id": "1ecf8e4ea",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-03-16T21:50:00+00:00",
                 "end": "2024-03-16T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-16T17:50:00-04:00",
                 "endLocal": "2024-03-16T19:00:00-04:00",
@@ -405,13 +405,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "83309f442",
+                "id": "4b8721b47",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-03-17T23:00:00+00:00",
                 "end": "2024-03-17T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-17T19:00:00-04:00",
                 "endLocal": "2024-03-17T19:00:00-04:00",
@@ -439,13 +439,13 @@
         "cityName": "Austin",
         "steps": [
             {
-                "id": "cd3991880",
+                "id": "74875d7c3",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-03-23T14:00:00+00:00",
                 "end": "2024-03-23T15:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-23T09:00:00-05:00",
                 "endLocal": "2024-03-23T10:00:00-05:00",
@@ -456,13 +456,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "4d4e7e301",
+                "id": "b644ff9f7",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-03-23T15:30:00+00:00",
                 "end": "2024-03-23T16:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-23T10:30:00-05:00",
                 "endLocal": "2024-03-23T11:30:00-05:00",
@@ -473,13 +473,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "4bd0acca8",
+                "id": "200fbdc01",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-03-24T19:30:00+00:00",
                 "end": "2024-03-24T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-24T14:30:00-05:00",
                 "endLocal": "2024-03-24T18:00:00-05:00",
@@ -507,13 +507,13 @@
         "cityName": "Richmond",
         "steps": [
             {
-                "id": "373bf78c2",
+                "id": "c9ea72190",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-03-30T14:35:00+00:00",
                 "end": "2024-03-30T15:15:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-30T10:35:00-04:00",
                 "endLocal": "2024-03-30T11:15:00-04:00",
@@ -524,13 +524,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "008bd05fb",
+                "id": "36f329381",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-03-30T15:15:00+00:00",
                 "end": "2024-03-30T16:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-30T11:15:00-04:00",
                 "endLocal": "2024-03-30T12:30:00-04:00",
@@ -541,13 +541,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "f645d9a2d",
+                "id": "1366a0cb3",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-03-31T23:00:00+00:00",
                 "end": "2024-04-01T02:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-03-31T19:00:00-04:00",
                 "endLocal": "2024-03-31T22:30:00-04:00",
@@ -575,13 +575,13 @@
         "cityName": "Ridgeway",
         "steps": [
             {
-                "id": "86c09fa6d",
+                "id": "32b1fe28a",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-04-06T20:35:00+00:00",
                 "end": "2024-04-06T21:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-06T15:35:00-05:00",
                 "endLocal": "2024-04-06T16:20:00-05:00",
@@ -592,13 +592,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "064f12d53",
+                "id": "c6de3cea4",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-04-06T21:20:00+00:00",
                 "end": "2024-04-06T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-06T16:20:00-05:00",
                 "endLocal": "2024-04-06T17:30:00-05:00",
@@ -609,13 +609,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "40c1bb74c",
+                "id": "7a040dfa4",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-04-07T19:00:00+00:00",
                 "end": "2024-04-07T23:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-07T14:00:00-05:00",
                 "endLocal": "2024-04-07T18:30:00-05:00",
@@ -643,13 +643,13 @@
         "cityName": "Fort Worth",
         "steps": [
             {
-                "id": "cd2fe5d6f",
+                "id": "426b38df9",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-04-13T14:30:00+00:00",
                 "end": "2024-04-13T15:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-13T09:30:00-05:00",
                 "endLocal": "2024-04-13T10:20:00-05:00",
@@ -660,13 +660,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "1c7aaf413",
+                "id": "a1cdb5067",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-04-13T15:15:00+00:00",
                 "end": "2024-04-13T16:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-13T10:15:00-05:00",
                 "endLocal": "2024-04-13T11:30:00-05:00",
@@ -677,13 +677,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "9890de3c1",
+                "id": "6c69ad732",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-04-14T19:30:00+00:00",
                 "end": "2024-04-14T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-14T14:30:00-05:00",
                 "endLocal": "2024-04-14T18:00:00-05:00",
@@ -711,13 +711,13 @@
         "cityName": "Talladega",
         "steps": [
             {
-                "id": "1320743a8",
+                "id": "8b65b60c3",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-04-20T14:30:00+00:00",
                 "end": "2024-04-20T16:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-20T09:30:00-05:00",
                 "endLocal": "2024-04-20T11:00:00-05:00",
@@ -728,13 +728,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "dd20020ab",
+                "id": "e78e5d9ee",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-04-21T19:00:00+00:00",
                 "end": "2024-04-21T22:13:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-21T14:00:00-05:00",
                 "endLocal": "2024-04-21T17:13:00-05:00",
@@ -762,13 +762,13 @@
         "cityName": "Dover",
         "steps": [
             {
-                "id": "b0d88160c",
+                "id": "af461e613",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-04-27T14:30:00+00:00",
                 "end": "2024-04-27T15:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-27T10:30:00-04:00",
                 "endLocal": "2024-04-27T11:20:00-04:00",
@@ -779,13 +779,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "b4fb1bf24",
+                "id": "9465d0ad0",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-04-27T15:20:00+00:00",
                 "end": "2024-04-27T16:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-27T11:20:00-04:00",
                 "endLocal": "2024-04-27T12:30:00-04:00",
@@ -796,13 +796,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "f46ac191b",
+                "id": "6978a9003",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-04-28T18:00:00+00:00",
                 "end": "2024-04-28T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-04-28T14:00:00-04:00",
                 "endLocal": "2024-04-28T18:00:00-04:00",
@@ -830,13 +830,13 @@
         "cityName": "Kansas City",
         "steps": [
             {
-                "id": "8a22427e4",
+                "id": "2e862ec06",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-05-04T21:00:00+00:00",
                 "end": "2024-05-04T21:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-04T16:00:00-05:00",
                 "endLocal": "2024-05-04T16:50:00-05:00",
@@ -847,13 +847,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "564e889cb",
+                "id": "b90d4c94e",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-05-04T21:50:00+00:00",
                 "end": "2024-05-04T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-04T16:50:00-05:00",
                 "endLocal": "2024-05-04T18:00:00-05:00",
@@ -864,13 +864,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "ae1d4e9d9",
+                "id": "405da2f0c",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-05-05T19:00:00+00:00",
                 "end": "2024-05-06T01:39:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-05T14:00:00-05:00",
                 "endLocal": "2024-05-05T20:39:00-05:00",
@@ -898,13 +898,13 @@
         "cityName": "Darlington",
         "steps": [
             {
-                "id": "2a3275f1d",
+                "id": "3a6118871",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-05-11T14:35:00+00:00",
                 "end": "2024-05-11T15:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-11T10:35:00-04:00",
                 "endLocal": "2024-05-11T11:20:00-04:00",
@@ -915,13 +915,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "cc87e3822",
+                "id": "bca5dcf76",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-05-11T15:20:00+00:00",
                 "end": "2024-05-11T16:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-11T11:20:00-04:00",
                 "endLocal": "2024-05-11T12:30:00-04:00",
@@ -932,13 +932,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "0e6506199",
+                "id": "306dc78a4",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-05-12T19:00:00+00:00",
                 "end": "2024-05-12T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-12T15:00:00-04:00",
                 "endLocal": "2024-05-12T18:30:00-04:00",
@@ -966,13 +966,13 @@
         "cityName": "North Wilkesboro",
         "steps": [
             {
-                "id": "7dbc21997",
+                "id": "e65f0c9a3",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-05-17T20:35:00+00:00",
                 "end": "2024-05-17T21:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-17T16:35:00-04:00",
                 "endLocal": "2024-05-17T17:45:00-04:00",
@@ -983,13 +983,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "d8f164e55",
+                "id": "4a63440a3",
                 "title": "Practice 2",
                 "type": "practice",
                 "start": "2024-05-17T20:35:00+00:00",
                 "end": "2024-05-17T21:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-17T16:35:00-04:00",
                 "endLocal": "2024-05-17T17:45:00-04:00",
@@ -1000,13 +1000,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "ad03405c4",
+                "id": "aa86d4c2a",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-05-17T21:40:00+00:00",
                 "end": "2024-05-17T22:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-17T17:40:00-04:00",
                 "endLocal": "2024-05-17T18:45:00-04:00",
@@ -1017,13 +1017,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "7a33c62d6",
+                "id": "652b17692",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-05-18T15:40:00+00:00",
                 "end": "2024-05-18T17:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-18T11:40:00-04:00",
                 "endLocal": "2024-05-18T13:00:00-04:00",
@@ -1034,13 +1034,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "5f0571e4f",
+                "id": "b86610cb3",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-05-19T21:30:00+00:00",
                 "end": "2024-05-19T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-19T17:30:00-04:00",
                 "endLocal": "2024-05-19T19:00:00-04:00",
@@ -1051,13 +1051,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "3328c81cf",
+                "id": "cfc5045c6",
                 "title": "Race 2",
                 "type": "race",
                 "start": "2024-05-20T00:00:00+00:00",
                 "end": "2024-05-20T02:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-19T20:00:00-04:00",
                 "endLocal": "2024-05-19T22:00:00-04:00",
@@ -1085,13 +1085,13 @@
         "cityName": "Concord",
         "steps": [
             {
-                "id": "9c4222897",
+                "id": "0fee52efd",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-05-25T21:00:00+00:00",
                 "end": "2024-05-25T21:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-25T17:00:00-04:00",
                 "endLocal": "2024-05-25T17:50:00-04:00",
@@ -1102,13 +1102,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "395f60dcb",
+                "id": "da58842d2",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-05-25T21:50:00+00:00",
                 "end": "2024-05-25T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-25T17:50:00-04:00",
                 "endLocal": "2024-05-25T19:00:00-04:00",
@@ -1119,13 +1119,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "b385daedc",
+                "id": "d826e0dcf",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-05-26T22:00:00+00:00",
                 "end": "2024-05-27T02:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-05-26T18:00:00-04:00",
                 "endLocal": "2024-05-26T22:30:00-04:00",
@@ -1153,13 +1153,13 @@
         "cityName": "Madison",
         "steps": [
             {
-                "id": "df28a567a",
+                "id": "d9bb92d73",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-06-01T13:30:00+00:00",
                 "end": "2024-06-01T14:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-01T08:30:00-05:00",
                 "endLocal": "2024-06-01T09:00:00-05:00",
@@ -1170,13 +1170,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "8eef50096",
+                "id": "7b5fc0ed7",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-06-01T14:15:00+00:00",
                 "end": "2024-06-01T15:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-01T09:15:00-05:00",
                 "endLocal": "2024-06-01T10:30:00-05:00",
@@ -1187,13 +1187,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "7bcd23233",
+                "id": "9f20fe638",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-06-02T19:30:00+00:00",
                 "end": "2024-06-02T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-02T14:30:00-05:00",
                 "endLocal": "2024-06-02T18:00:00-05:00",
@@ -1221,13 +1221,13 @@
         "cityName": "Sonoma",
         "steps": [
             {
-                "id": "a94304d05",
+                "id": "e7a5fa013",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-06-07T21:05:00+00:00",
                 "end": "2024-06-07T21:55:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-07T14:05:00-07:00",
                 "endLocal": "2024-06-07T14:55:00-07:00",
@@ -1238,13 +1238,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "08faf9214",
+                "id": "329cdce2d",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-06-08T22:00:00+00:00",
                 "end": "2024-06-08T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-08T15:00:00-07:00",
                 "endLocal": "2024-06-08T16:00:00-07:00",
@@ -1255,13 +1255,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "cbed1e7de",
+                "id": "04af80ee1",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-06-09T19:30:00+00:00",
                 "end": "2024-06-09T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-09T12:30:00-07:00",
                 "endLocal": "2024-06-09T16:00:00-07:00",
@@ -1289,13 +1289,13 @@
         "cityName": "Newton",
         "steps": [
             {
-                "id": "9660c558b",
+                "id": "98372aa6d",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-06-14T21:35:00+00:00",
                 "end": "2024-06-14T22:25:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-14T17:35:00-04:00",
                 "endLocal": "2024-06-14T18:25:00-04:00",
@@ -1306,13 +1306,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "e9d0cbe0f",
+                "id": "894552b9b",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-06-15T17:05:00+00:00",
                 "end": "2024-06-15T18:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-15T13:05:00-04:00",
                 "endLocal": "2024-06-15T14:30:00-04:00",
@@ -1323,13 +1323,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "826a3f8a9",
+                "id": "5c2f5e0d2",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-06-16T23:00:00+00:00",
                 "end": "2024-06-17T02:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-16T19:00:00-04:00",
                 "endLocal": "2024-06-16T22:30:00-04:00",
@@ -1357,13 +1357,13 @@
         "cityName": "Loudon",
         "steps": [
             {
-                "id": "64f3f7325",
+                "id": "2dcda85af",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-06-22T18:00:00+00:00",
                 "end": "2024-06-22T18:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-22T14:00:00-04:00",
                 "endLocal": "2024-06-22T14:45:00-04:00",
@@ -1374,13 +1374,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "15565d420",
+                "id": "f1ed24711",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-06-23T18:00:00+00:00",
                 "end": "2024-06-23T21:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-23T14:00:00-04:00",
                 "endLocal": "2024-06-23T17:30:00-04:00",
@@ -1408,13 +1408,13 @@
         "cityName": "Lebanon",
         "steps": [
             {
-                "id": "3bea59422",
+                "id": "48ff0e596",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-06-29T18:05:00+00:00",
                 "end": "2024-06-29T18:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-29T14:05:00-04:00",
                 "endLocal": "2024-06-29T14:50:00-04:00",
@@ -1425,13 +1425,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "a156e2efd",
+                "id": "c50931c2c",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-06-29T18:50:00+00:00",
                 "end": "2024-06-29T20:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-29T14:50:00-04:00",
                 "endLocal": "2024-06-29T16:00:00-04:00",
@@ -1442,13 +1442,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "9ea360ca2",
+                "id": "fbaae74bd",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-06-30T19:30:00+00:00",
                 "end": "2024-06-30T23:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-06-30T15:30:00-04:00",
                 "endLocal": "2024-06-30T19:30:00-04:00",
@@ -1476,13 +1476,13 @@
         "cityName": "Chicago",
         "steps": [
             {
-                "id": "2db25f88f",
+                "id": "dbd5dcfd8",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-07-06T16:30:00+00:00",
                 "end": "2024-07-06T16:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-06T11:30:00-05:00",
                 "endLocal": "2024-07-06T11:50:00-05:00",
@@ -1493,13 +1493,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "49875f1e8",
+                "id": "c889d4ce1",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-07-06T17:30:00+00:00",
                 "end": "2024-07-06T18:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-06T12:30:00-05:00",
                 "endLocal": "2024-07-06T13:30:00-05:00",
@@ -1510,13 +1510,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "a52f99083",
+                "id": "cc77b127b",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-07-07T20:30:00+00:00",
                 "end": "2024-07-08T01:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-07T15:30:00-05:00",
                 "endLocal": "2024-07-07T20:30:00-05:00",
@@ -1544,13 +1544,13 @@
         "cityName": "Long Pond",
         "steps": [
             {
-                "id": "a8e09de1d",
+                "id": "10c443da5",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-07-13T16:00:00+00:00",
                 "end": "2024-07-13T16:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-13T12:00:00-04:00",
                 "endLocal": "2024-07-13T12:45:00-04:00",
@@ -1561,13 +1561,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "0713de14c",
+                "id": "af9c5e1e8",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-07-13T16:45:00+00:00",
                 "end": "2024-07-13T18:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-13T12:45:00-04:00",
                 "endLocal": "2024-07-13T14:00:00-04:00",
@@ -1578,13 +1578,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "2031bbe52",
+                "id": "8a603d179",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-07-14T18:30:00+00:00",
                 "end": "2024-07-14T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-14T14:30:00-04:00",
                 "endLocal": "2024-07-14T18:00:00-04:00",
@@ -1612,13 +1612,13 @@
         "cityName": "Speedway",
         "steps": [
             {
-                "id": "169136377",
+                "id": "d912805b4",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-07-19T18:35:00+00:00",
                 "end": "2024-07-19T19:25:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-19T14:35:00-04:00",
                 "endLocal": "2024-07-19T15:25:00-04:00",
@@ -1629,13 +1629,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "811599e7f",
+                "id": "48f06d23f",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-07-20T17:05:00+00:00",
                 "end": "2024-07-20T18:25:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-20T13:05:00-04:00",
                 "endLocal": "2024-07-20T14:25:00-04:00",
@@ -1646,13 +1646,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "e2fcfbde0",
+                "id": "2ad04ab21",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-07-21T18:30:00+00:00",
                 "end": "2024-07-21T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-07-21T14:30:00-04:00",
                 "endLocal": "2024-07-21T18:00:00-04:00",
@@ -1680,13 +1680,13 @@
         "cityName": "Richmond",
         "steps": [
             {
-                "id": "5bc084fdf",
+                "id": "89cec6ee8",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-08-10T20:30:00+00:00",
                 "end": "2024-08-10T21:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-10T16:30:00-04:00",
                 "endLocal": "2024-08-10T17:20:00-04:00",
@@ -1697,13 +1697,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "cd7fb85c4",
+                "id": "8b45de1c4",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-08-10T21:35:00+00:00",
                 "end": "2024-08-10T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-10T17:35:00-04:00",
                 "endLocal": "2024-08-10T18:30:00-04:00",
@@ -1714,13 +1714,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "c4a1b44b6",
+                "id": "76614c2be",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-08-11T22:00:00+00:00",
                 "end": "2024-08-12T01:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-11T18:00:00-04:00",
                 "endLocal": "2024-08-11T21:00:00-04:00",
@@ -1748,13 +1748,13 @@
         "cityName": "Brooklyn",
         "steps": [
             {
-                "id": "4e3610646",
+                "id": "09503c4eb",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-08-17T16:35:00+00:00",
                 "end": "2024-08-17T17:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-17T12:35:00-04:00",
                 "endLocal": "2024-08-17T13:20:00-04:00",
@@ -1765,13 +1765,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "55252f2a3",
+                "id": "3dbea733b",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-08-18T18:30:00+00:00",
                 "end": "2024-08-18T21:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-18T14:30:00-04:00",
                 "endLocal": "2024-08-18T17:30:00-04:00",
@@ -1799,13 +1799,13 @@
         "cityName": "Daytona Beach",
         "steps": [
             {
-                "id": "6d00396dc",
+                "id": "f8983344f",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-08-23T21:05:00+00:00",
                 "end": "2024-08-23T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-23T17:05:00-04:00",
                 "endLocal": "2024-08-23T18:30:00-04:00",
@@ -1816,13 +1816,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "992e2e06a",
+                "id": "251ddb5de",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-08-24T23:30:00+00:00",
                 "end": "2024-08-25T02:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-24T19:30:00-04:00",
                 "endLocal": "2024-08-24T22:30:00-04:00",
@@ -1850,13 +1850,13 @@
         "cityName": "Darlington",
         "steps": [
             {
-                "id": "94883189b",
+                "id": "a2e2a94a7",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-08-31T16:35:00+00:00",
                 "end": "2024-08-31T17:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-31T12:35:00-04:00",
                 "endLocal": "2024-08-31T13:20:00-04:00",
@@ -1867,13 +1867,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "775de5489",
+                "id": "eeb28c2ab",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-08-31T17:20:00+00:00",
                 "end": "2024-08-31T18:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-08-31T13:20:00-04:00",
                 "endLocal": "2024-08-31T14:30:00-04:00",
@@ -1884,13 +1884,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "09231be6e",
+                "id": "a8beea6d3",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-09-01T22:00:00+00:00",
                 "end": "2024-09-02T02:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-01T18:00:00-04:00",
                 "endLocal": "2024-09-01T22:00:00-04:00",
@@ -1918,13 +1918,13 @@
         "cityName": "Hampton",
         "steps": [
             {
-                "id": "97d2acd43",
+                "id": "cffce1925",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-09-07T16:30:00+00:00",
                 "end": "2024-09-07T18:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-07T12:30:00-04:00",
                 "endLocal": "2024-09-07T14:00:00-04:00",
@@ -1935,13 +1935,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "9046a0c17",
+                "id": "fb3bf6139",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-09-08T19:00:00+00:00",
                 "end": "2024-09-08T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-08T15:00:00-04:00",
                 "endLocal": "2024-09-08T18:00:00-04:00",
@@ -1969,13 +1969,13 @@
         "cityName": "Watkins Glen",
         "steps": [
             {
-                "id": "2f40194b7",
+                "id": "a504a443c",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-09-14T15:30:00+00:00",
                 "end": "2024-09-14T16:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-14T11:30:00-04:00",
                 "endLocal": "2024-09-14T12:30:00-04:00",
@@ -1986,13 +1986,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "3e2974447",
+                "id": "a1d7a4d06",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-09-14T17:00:00+00:00",
                 "end": "2024-09-14T18:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-14T13:00:00-04:00",
                 "endLocal": "2024-09-14T14:00:00-04:00",
@@ -2003,13 +2003,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "a3698e7c0",
+                "id": "e9ddc8f95",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-09-15T19:00:00+00:00",
                 "end": "2024-09-15T21:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-15T15:00:00-04:00",
                 "endLocal": "2024-09-15T17:00:00-04:00",
@@ -2037,13 +2037,13 @@
         "cityName": "Bristol",
         "steps": [
             {
-                "id": "734365806",
+                "id": "132aa3b19",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-09-20T20:00:00+00:00",
                 "end": "2024-09-20T20:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-20T16:00:00-04:00",
                 "endLocal": "2024-09-20T16:45:00-04:00",
@@ -2054,13 +2054,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "e69ce16a7",
+                "id": "50f4d2716",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-09-20T21:05:00+00:00",
                 "end": "2024-09-20T21:55:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-20T17:05:00-04:00",
                 "endLocal": "2024-09-20T17:55:00-04:00",
@@ -2071,13 +2071,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "fb496620d",
+                "id": "976a16c85",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-09-21T23:30:00+00:00",
                 "end": "2024-09-22T02:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-21T19:30:00-04:00",
                 "endLocal": "2024-09-21T22:30:00-04:00",
@@ -2105,13 +2105,13 @@
         "cityName": "Kansas City",
         "steps": [
             {
-                "id": "438612e02",
+                "id": "f9ae031f4",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-09-28T17:05:00+00:00",
                 "end": "2024-09-28T17:35:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-28T12:05:00-05:00",
                 "endLocal": "2024-09-28T12:35:00-05:00",
@@ -2122,13 +2122,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "c43be6af9",
+                "id": "f6fde6710",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-09-28T17:45:00+00:00",
                 "end": "2024-09-28T19:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-28T12:45:00-05:00",
                 "endLocal": "2024-09-28T14:00:00-05:00",
@@ -2139,13 +2139,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "369cf4164",
+                "id": "84c15cbc4",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-09-29T19:00:00+00:00",
                 "end": "2024-09-29T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-09-29T14:00:00-05:00",
                 "endLocal": "2024-09-29T17:00:00-05:00",
@@ -2173,13 +2173,13 @@
         "cityName": "Talladega",
         "steps": [
             {
-                "id": "28b5d712c",
+                "id": "b79b6b04a",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-10-05T17:30:00+00:00",
                 "end": "2024-10-05T19:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-05T12:30:00-05:00",
                 "endLocal": "2024-10-05T14:00:00-05:00",
@@ -2190,13 +2190,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "ca944e94e",
+                "id": "27ab71e7f",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-10-06T18:00:00+00:00",
                 "end": "2024-10-06T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-06T13:00:00-05:00",
                 "endLocal": "2024-10-06T17:00:00-05:00",
@@ -2224,13 +2224,13 @@
         "cityName": "Concord",
         "steps": [
             {
-                "id": "14c829364",
+                "id": "d30b62abb",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-10-12T16:30:00+00:00",
                 "end": "2024-10-12T17:15:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-12T12:30:00-04:00",
                 "endLocal": "2024-10-12T13:15:00-04:00",
@@ -2241,13 +2241,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "4e4ab9ef4",
+                "id": "ba86339cd",
                 "title": "Practice 2",
                 "type": "practice",
                 "start": "2024-10-12T17:15:00+00:00",
                 "end": "2024-10-12T17:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-12T13:15:00-04:00",
                 "endLocal": "2024-10-12T13:45:00-04:00",
@@ -2258,13 +2258,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "4379d05c3",
+                "id": "4714b7171",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-10-12T18:00:00+00:00",
                 "end": "2024-10-12T18:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-12T14:00:00-04:00",
                 "endLocal": "2024-10-12T14:30:00-04:00",
@@ -2275,13 +2275,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "4cfca0265",
+                "id": "ede54f2d0",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-10-13T18:00:00+00:00",
                 "end": "2024-10-13T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-13T14:00:00-04:00",
                 "endLocal": "2024-10-13T18:00:00-04:00",
@@ -2309,13 +2309,13 @@
         "cityName": "Las Vegas",
         "steps": [
             {
-                "id": "dca41da1f",
+                "id": "671af7663",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-10-19T20:35:00+00:00",
                 "end": "2024-10-19T21:15:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-19T13:35:00-07:00",
                 "endLocal": "2024-10-19T14:15:00-07:00",
@@ -2326,13 +2326,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "ddaef5b32",
+                "id": "92e82608a",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-10-19T21:20:00+00:00",
                 "end": "2024-10-19T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-19T14:20:00-07:00",
                 "endLocal": "2024-10-19T15:30:00-07:00",
@@ -2343,13 +2343,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "787727df3",
+                "id": "16e568c5e",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-10-20T18:30:00+00:00",
                 "end": "2024-10-20T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-20T11:30:00-07:00",
                 "endLocal": "2024-10-20T15:00:00-07:00",
@@ -2377,13 +2377,13 @@
         "cityName": "Homestead",
         "steps": [
             {
-                "id": "9e6bbec53",
+                "id": "419b6fd2f",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-10-26T13:05:00+00:00",
                 "end": "2024-10-26T13:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-26T09:05:00-04:00",
                 "endLocal": "2024-10-26T09:50:00-04:00",
@@ -2394,13 +2394,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "39b3011b6",
+                "id": "92204302e",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-10-26T13:50:00+00:00",
                 "end": "2024-10-26T15:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-26T09:50:00-04:00",
                 "endLocal": "2024-10-26T11:00:00-04:00",
@@ -2411,13 +2411,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "bf26fe340",
+                "id": "3ab6c1262",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-10-27T18:30:00+00:00",
                 "end": "2024-10-27T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-10-27T14:30:00-04:00",
                 "endLocal": "2024-10-27T18:00:00-04:00",
@@ -2445,13 +2445,13 @@
         "cityName": "Ridgeway",
         "steps": [
             {
-                "id": "1d0e42f6c",
+                "id": "5f2b81e5b",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-11-02T17:00:00+00:00",
                 "end": "2024-11-02T17:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-11-02T12:00:00-05:00",
                 "endLocal": "2024-11-02T12:45:00-05:00",
@@ -2462,13 +2462,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "c431754f8",
+                "id": "4324100b3",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-11-02T18:05:00+00:00",
                 "end": "2024-11-02T19:15:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-11-02T13:05:00-05:00",
                 "endLocal": "2024-11-02T14:15:00-05:00",
@@ -2479,13 +2479,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "9e26ca12d",
+                "id": "822795cd5",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-11-03T19:00:00+00:00",
                 "end": "2024-11-03T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-11-03T13:00:00-06:00",
                 "endLocal": "2024-11-03T17:00:00-06:00",
@@ -2513,13 +2513,13 @@
         "cityName": "Avondale",
         "steps": [
             {
-                "id": "0b029afc1",
+                "id": "36d3176bd",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2024-11-08T23:05:00+00:00",
                 "end": "2024-11-08T23:55:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-11-08T16:05:00-07:00",
                 "endLocal": "2024-11-08T16:55:00-07:00",
@@ -2530,13 +2530,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "e3a6a9342",
+                "id": "30fbb3db2",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2024-11-09T22:05:00+00:00",
                 "end": "2024-11-09T23:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-11-09T15:05:00-07:00",
                 "endLocal": "2024-11-09T16:30:00-07:00",
@@ -2547,13 +2547,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "6a7ca49d1",
+                "id": "504b833c1",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2024-11-10T20:00:00+00:00",
                 "end": "2024-11-11T00:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2024-11-10T13:00:00-07:00",
                 "endLocal": "2024-11-10T17:00:00-07:00",
@@ -2581,13 +2581,13 @@
         "cityName": "Winston-Salem",
         "steps": [
             {
-                "id": "519921c13",
+                "id": "eb7ffc488",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-02-01T23:10:00+00:00",
                 "end": "2025-02-02T01:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-01T18:10:00-05:00",
                 "endLocal": "2025-02-01T20:00:00-05:00",
@@ -2598,13 +2598,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "ce8150d3d",
+                "id": "aede189c4",
                 "title": "Practice 2",
                 "type": "practice",
                 "start": "2025-02-01T23:10:00+00:00",
                 "end": "2025-02-02T01:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-01T18:10:00-05:00",
                 "endLocal": "2025-02-01T20:00:00-05:00",
@@ -2615,13 +2615,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "6d3c06a3f",
+                "id": "b87f99e09",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-02-02T01:30:00+00:00",
                 "end": "2025-02-02T01:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-01T20:30:00-05:00",
                 "endLocal": "2025-02-01T20:45:00-05:00",
@@ -2632,13 +2632,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "53fe11478",
+                "id": "3b24827be",
                 "title": "Race 2",
                 "type": "race",
                 "start": "2025-02-02T01:45:00+00:00",
                 "end": "2025-02-02T02:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-01T20:45:00-05:00",
                 "endLocal": "2025-02-01T21:00:00-05:00",
@@ -2649,13 +2649,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "dd669b524",
+                "id": "f897c2139",
                 "title": "Race 3",
                 "type": "race",
                 "start": "2025-02-02T02:00:00+00:00",
                 "end": "2025-02-02T02:15:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-01T21:00:00-05:00",
                 "endLocal": "2025-02-01T21:15:00-05:00",
@@ -2666,13 +2666,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "0525bfac5",
+                "id": "2dfc7facb",
                 "title": "Race 4",
                 "type": "race",
                 "start": "2025-02-02T02:15:00+00:00",
                 "end": "2025-02-02T02:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-01T21:15:00-05:00",
                 "endLocal": "2025-02-01T21:30:00-05:00",
@@ -2683,13 +2683,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "f55b36530",
+                "id": "060db7851",
                 "title": "Race 5",
                 "type": "race",
                 "start": "2025-02-02T23:00:00+00:00",
                 "end": "2025-02-03T01:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-02T18:00:00-05:00",
                 "endLocal": "2025-02-02T20:00:00-05:00",
@@ -2700,13 +2700,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "f9f2017c8",
+                "id": "43f8cce1a",
                 "title": "Race 6",
                 "type": "race",
                 "start": "2025-02-03T01:00:00+00:00",
                 "end": "2025-02-03T03:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-02T20:00:00-05:00",
                 "endLocal": "2025-02-02T22:30:00-05:00",
@@ -2734,13 +2734,13 @@
         "cityName": "Daytona Beach",
         "steps": [
             {
-                "id": "a185d6cff",
+                "id": "c9afcdb27",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-02-12T15:05:00+00:00",
                 "end": "2025-02-12T15:55:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-12T10:05:00-05:00",
                 "endLocal": "2025-02-12T10:55:00-05:00",
@@ -2751,13 +2751,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "28a03ca0a",
+                "id": "b8eea3af3",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-02-13T01:15:00+00:00",
                 "end": "2025-02-13T03:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-12T20:15:00-05:00",
                 "endLocal": "2025-02-12T22:00:00-05:00",
@@ -2768,13 +2768,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "0b5552131",
+                "id": "75050c88d",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-02-14T00:00:00+00:00",
                 "end": "2025-02-14T01:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-13T19:00:00-05:00",
                 "endLocal": "2025-02-13T20:30:00-05:00",
@@ -2785,13 +2785,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "9403b45ad",
+                "id": "65cd62be4",
                 "title": "Race 2",
                 "type": "race",
                 "start": "2025-02-14T01:30:00+00:00",
                 "end": "2025-02-14T03:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-13T20:30:00-05:00",
                 "endLocal": "2025-02-13T22:00:00-05:00",
@@ -2802,13 +2802,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "6ab89e6fa",
+                "id": "01f7a7a9a",
                 "title": "Practice 2",
                 "type": "practice",
                 "start": "2025-02-14T22:35:00+00:00",
                 "end": "2025-02-14T23:25:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-14T17:35:00-05:00",
                 "endLocal": "2025-02-14T18:25:00-05:00",
@@ -2819,13 +2819,13 @@
                 "isNightEvent": true
             },
             {
-                "id": "7851c3bdd",
+                "id": "37e77e625",
                 "title": "Practice 3",
                 "type": "practice",
                 "start": "2025-02-15T20:05:00+00:00",
                 "end": "2025-02-15T20:55:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-15T15:05:00-05:00",
                 "endLocal": "2025-02-15T15:55:00-05:00",
@@ -2836,13 +2836,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "bfc7539f9",
+                "id": "9afa2759e",
                 "title": "Race 3",
                 "type": "race",
                 "start": "2025-02-16T18:30:00+00:00",
                 "end": "2025-02-17T02:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-16T13:30:00-05:00",
                 "endLocal": "2025-02-16T21:30:00-05:00",
@@ -2870,13 +2870,13 @@
         "cityName": "Hampton",
         "steps": [
             {
-                "id": "b7afd2d9a",
+                "id": "29f4eaaff",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-02-22T16:05:00+00:00",
                 "end": "2025-02-22T17:20:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-22T11:05:00-05:00",
                 "endLocal": "2025-02-22T12:20:00-05:00",
@@ -2887,13 +2887,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "4cbc35d76",
+                "id": "74b9ab574",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-02-23T20:00:00+00:00",
                 "end": "2025-02-23T23:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-02-23T15:00:00-05:00",
                 "endLocal": "2025-02-23T18:30:00-05:00",
@@ -2921,13 +2921,13 @@
         "cityName": "Austin",
         "steps": [
             {
-                "id": "97537d15e",
+                "id": "9cb77617b",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-03-01T16:00:00+00:00",
                 "end": "2025-03-01T16:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-01T10:00:00-06:00",
                 "endLocal": "2025-03-01T10:45:00-06:00",
@@ -2938,13 +2938,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "7fb6b2177",
+                "id": "d28fc95e7",
                 "title": "Practice 2",
                 "type": "practice",
                 "start": "2025-03-01T16:45:00+00:00",
                 "end": "2025-03-01T17:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-01T10:45:00-06:00",
                 "endLocal": "2025-03-01T11:30:00-06:00",
@@ -2955,12 +2955,12 @@
                 "isNightEvent": false
             },
             {
-                "id": "866729e57",
+                "id": "4213c0438",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-03-01T17:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-01T11:30:00-06:00",
                 "endLocal": null,
@@ -2971,13 +2971,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "dd6a7c2c6",
+                "id": "78f030de4",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-03-02T20:30:00+00:00",
                 "end": "2025-03-03T00:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-02T14:30:00-06:00",
                 "endLocal": "2025-03-02T18:00:00-06:00",
@@ -3005,13 +3005,13 @@
         "cityName": "Avondale",
         "steps": [
             {
-                "id": "d0e673180",
+                "id": "4d9d33452",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-03-08T19:00:00+00:00",
                 "end": "2025-03-08T20:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-08T12:00:00-07:00",
                 "endLocal": "2025-03-08T13:00:00-07:00",
@@ -3022,13 +3022,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "2361686ed",
+                "id": "896f53b90",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-03-08T20:05:00+00:00",
                 "end": "2025-03-08T21:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-08T13:05:00-07:00",
                 "endLocal": "2025-03-08T14:00:00-07:00",
@@ -3039,13 +3039,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "e84c31803",
+                "id": "1652e40a7",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-03-09T19:30:00+00:00",
                 "end": "2025-03-09T22:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-09T12:30:00-07:00",
                 "endLocal": "2025-03-09T15:00:00-07:00",
@@ -3073,13 +3073,13 @@
         "cityName": "Las Vegas",
         "steps": [
             {
-                "id": "17efb2830",
+                "id": "5aaa494f2",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-03-15T17:35:00+00:00",
                 "end": "2025-03-15T18:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-15T10:35:00-07:00",
                 "endLocal": "2025-03-15T11:30:00-07:00",
@@ -3090,13 +3090,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "5a32a1a39",
+                "id": "f658df432",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-03-15T18:40:00+00:00",
                 "end": "2025-03-15T19:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-15T11:40:00-07:00",
                 "endLocal": "2025-03-15T12:30:00-07:00",
@@ -3107,13 +3107,13 @@
                 "isNightEvent": false
             },
             {
-                "id": "1b27baf93",
+                "id": "3b0d32b81",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-03-16T19:30:00+00:00",
                 "end": "2025-03-16T23:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-03-16T12:30:00-07:00",
                 "endLocal": "2025-03-16T16:00:00-07:00",
@@ -3141,7 +3141,7 @@
         "cityName": "Homestead",
         "steps": [
             {
-                "id": "6dd521f0e",
+                "id": "34e019bcc",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-03-22T17:05:00+00:00",
@@ -3151,13 +3151,13 @@
                 "startLocal": "2025-03-22T13:05:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
-                "id": "107c893bc",
+                "id": "35f723732",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-03-22T18:15:00+00:00",
@@ -3167,13 +3167,13 @@
                 "startLocal": "2025-03-22T14:15:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
-                "id": "281ba9a52",
+                "id": "dd3e4a722",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-03-23T19:00:00+00:00",
@@ -3206,7 +3206,7 @@
         "cityName": "Ridgeway",
         "steps": [
             {
-                "id": "497b63127",
+                "id": "13b650d98",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-03-29T18:05:00+00:00",
@@ -3222,7 +3222,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "3a7968e24",
+                "id": "6d86e3863",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-03-29T19:10:00+00:00",
@@ -3238,7 +3238,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "796bd2de2",
+                "id": "6bdfbc521",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-03-30T19:00:00+00:00",
@@ -3271,7 +3271,7 @@
         "cityName": "Darlington",
         "steps": [
             {
-                "id": "89abae762",
+                "id": "3e8a81a22",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-04-05T16:35:00+00:00",
@@ -3287,7 +3287,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "1182b6f88",
+                "id": "b55e2ff16",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-04-05T17:40:00+00:00",
@@ -3303,7 +3303,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "afcecada2",
+                "id": "0fc993ffd",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-04-06T19:00:00+00:00",
@@ -3319,7 +3319,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "e144793a7",
+                "id": "f18cf6441",
                 "title": "Practice 2",
                 "type": "practice",
                 "start": "2025-08-30T13:05:00+00:00",
@@ -3352,7 +3352,7 @@
         "cityName": "Bristol",
         "steps": [
             {
-                "id": "3b60c461e",
+                "id": "4f9d1db06",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-04-12T18:05:00+00:00",
@@ -3368,7 +3368,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "c11fdbfa0",
+                "id": "cd3486a02",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-04-12T19:10:00+00:00",
@@ -3384,7 +3384,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "ed20cb572",
+                "id": "f16812e83",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-04-13T19:00:00+00:00",
@@ -3417,7 +3417,7 @@
         "cityName": "Talladega",
         "steps": [
             {
-                "id": "442cd0190",
+                "id": "c5c8cbf1b",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-04-26T14:30:00+00:00",
@@ -3433,7 +3433,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "611a3b9cc",
+                "id": "75a555fb9",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-04-27T19:00:00+00:00",
@@ -3466,7 +3466,7 @@
         "cityName": "Fort Worth",
         "steps": [
             {
-                "id": "32b116fa9",
+                "id": "e8f162bed",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-05-03T15:05:00+00:00",
@@ -3482,7 +3482,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "c087b65ee",
+                "id": "0986ef3cf",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-05-03T16:10:00+00:00",
@@ -3498,7 +3498,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "a6670829f",
+                "id": "bc65d24b6",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-05-04T19:30:00+00:00",
@@ -3531,7 +3531,7 @@
         "cityName": "Kansas City",
         "steps": [
             {
-                "id": "8e4084038",
+                "id": "f0da86100",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-05-10T20:35:00+00:00",
@@ -3547,7 +3547,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "963d97bf6",
+                "id": "9b715daa8",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-05-10T21:40:00+00:00",
@@ -3563,7 +3563,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "9cb09508e",
+                "id": "0620c3c31",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-05-11T19:00:00+00:00",
@@ -3596,7 +3596,7 @@
         "cityName": "North Wilkesboro",
         "steps": [
             {
-                "id": "254bbc2cc",
+                "id": "4de6a45c7",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-05-17T21:20:00+00:00",
@@ -3612,7 +3612,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "0aa45ef42",
+                "id": "fb7076e2a",
                 "title": "Race 2",
                 "type": "race",
                 "start": "2025-05-17T22:15:00+00:00",
@@ -3628,7 +3628,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "fc79c55f1",
+                "id": "042bf7502",
                 "title": "Race 3",
                 "type": "race",
                 "start": "2025-05-18T21:30:00+00:00",
@@ -3644,7 +3644,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "295825867",
+                "id": "7072cef46",
                 "title": "Race 4",
                 "type": "race",
                 "start": "2025-05-19T00:00:00+00:00",
@@ -3677,7 +3677,7 @@
         "cityName": "Concord",
         "steps": [
             {
-                "id": "4ae3bb78a",
+                "id": "698c98c30",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-05-24T17:35:00+00:00",
@@ -3693,7 +3693,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "fecdc272f",
+                "id": "157a27008",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-05-24T18:40:00+00:00",
@@ -3709,7 +3709,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "011ee56ba",
+                "id": "5e5383132",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-05-25T22:00:00+00:00",
@@ -3742,7 +3742,7 @@
         "cityName": "Lebanon",
         "steps": [
             {
-                "id": "753df41f7",
+                "id": "2194a9186",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-05-31T20:35:00+00:00",
@@ -3758,7 +3758,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "0e1379970",
+                "id": "d7f885780",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-05-31T21:40:00+00:00",
@@ -3774,7 +3774,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "2e396988c",
+                "id": "bbbbb3a8a",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-06-01T23:00:00+00:00",
@@ -3807,7 +3807,7 @@
         "cityName": "Brooklyn",
         "steps": [
             {
-                "id": "5b68546b4",
+                "id": "e0ce1ec7d",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-06-07T13:35:00+00:00",
@@ -3823,7 +3823,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "48b9f63b9",
+                "id": "87647242b",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-06-07T14:40:00+00:00",
@@ -3839,7 +3839,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "6cba98e12",
+                "id": "4754b12ea",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-06-08T18:00:00+00:00",
@@ -3872,7 +3872,7 @@
         "cityName": "Mexico City",
         "steps": [
             {
-                "id": "c6a6d4638",
+                "id": "2e79d69c7",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-06-13T17:05:00+00:00",
@@ -3888,7 +3888,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "2e88ba99d",
+                "id": "a889af4db",
                 "title": "Practice 2",
                 "type": "practice",
                 "start": "2025-06-13T19:00:00+00:00",
@@ -3904,7 +3904,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "0c59fa712",
+                "id": "6e2e3ad6e",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-06-14T16:00:00+00:00",
@@ -3920,7 +3920,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "f70775e3e",
+                "id": "18b8339cb",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-06-15T19:00:00+00:00",
@@ -3953,7 +3953,7 @@
         "cityName": "Long Pond",
         "steps": [
             {
-                "id": "509e04bcf",
+                "id": "84258e08d",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-06-21T16:35:00+00:00",
@@ -3969,7 +3969,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "512ee2970",
+                "id": "314d04a0d",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-06-21T17:40:00+00:00",
@@ -3985,7 +3985,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "b7858f1f0",
+                "id": "73cee866a",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-06-22T18:00:00+00:00",
@@ -4018,7 +4018,7 @@
         "cityName": "Hampton",
         "steps": [
             {
-                "id": "19afb7ba0",
+                "id": "0676a1d98",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-06-27T21:05:00+00:00",
@@ -4034,7 +4034,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "efb11a814",
+                "id": "00ce33dfc",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-06-28T23:00:00+00:00",
@@ -4067,7 +4067,7 @@
         "cityName": "Chicago",
         "steps": [
             {
-                "id": "5468216ca",
+                "id": "a7c722c34",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-07-05T17:30:00+00:00",
@@ -4083,7 +4083,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "e980c5423",
+                "id": "fe194ecf1",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-07-05T18:30:00+00:00",
@@ -4099,7 +4099,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "c810c243e",
+                "id": "fc9fa7dee",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-07-06T18:00:00+00:00",
@@ -4132,7 +4132,7 @@
         "cityName": "Sonoma",
         "steps": [
             {
-                "id": "bb373d345",
+                "id": "c3289499e",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-07-12T17:35:00+00:00",
@@ -4148,7 +4148,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "999e6ba24",
+                "id": "13a9c473a",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-07-12T18:40:00+00:00",
@@ -4164,7 +4164,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "5ab685966",
+                "id": "832d10502",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-07-13T19:30:00+00:00",
@@ -4197,7 +4197,7 @@
         "cityName": "Dover",
         "steps": [
             {
-                "id": "a201760b1",
+                "id": "2e42f2362",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-07-19T17:35:00+00:00",
@@ -4213,7 +4213,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "c2e1c74f4",
+                "id": "7f5628f3f",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-07-19T18:40:00+00:00",
@@ -4229,7 +4229,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "0beac0ce7",
+                "id": "683e6c257",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-07-20T18:00:00+00:00",
@@ -4262,7 +4262,7 @@
         "cityName": "Speedway",
         "steps": [
             {
-                "id": "18fc40ccb",
+                "id": "603358196",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-07-25T17:05:00+00:00",
@@ -4278,7 +4278,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "7cdc0f91f",
+                "id": "ffb077ecb",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-07-26T18:35:00+00:00",
@@ -4294,7 +4294,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "a458dc96d",
+                "id": "0fc127475",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-07-27T18:00:00+00:00",
@@ -4327,7 +4327,7 @@
         "cityName": "Newton",
         "steps": [
             {
-                "id": "47cfe78e9",
+                "id": "3a8a91e14",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-08-02T17:35:00+00:00",
@@ -4343,7 +4343,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "e079d606f",
+                "id": "4f1edff99",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-08-02T18:40:00+00:00",
@@ -4359,7 +4359,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "51e4ef601",
+                "id": "7f5bcf578",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-08-03T19:30:00+00:00",
@@ -4392,7 +4392,7 @@
         "cityName": "Watkins Glen",
         "steps": [
             {
-                "id": "4692f7b9c",
+                "id": "07f3fe040",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-08-09T16:05:00+00:00",
@@ -4408,7 +4408,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "7b28e6302",
+                "id": "bdb325c47",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-08-09T17:10:00+00:00",
@@ -4424,7 +4424,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "48d3ad32e",
+                "id": "baa139b9f",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-08-10T18:00:00+00:00",
@@ -4457,7 +4457,7 @@
         "cityName": "Richmond",
         "steps": [
             {
-                "id": "b18ec5dbc",
+                "id": "ec883c270",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-08-15T20:35:00+00:00",
@@ -4473,7 +4473,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "0da8c0aa8",
+                "id": "7a7886a20",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-08-15T21:40:00+00:00",
@@ -4489,7 +4489,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "01b2e90da",
+                "id": "616fd8a62",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-08-16T23:30:00+00:00",
@@ -4522,7 +4522,7 @@
         "cityName": "Daytona Beach",
         "steps": [
             {
-                "id": "cc88e7b6d",
+                "id": "00b053754",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-08-22T21:05:00+00:00",
@@ -4538,7 +4538,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "c8c347ce2",
+                "id": "b4050b0fd",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-08-23T23:30:00+00:00",
@@ -4571,7 +4571,7 @@
         "cityName": "Darlington",
         "steps": [
             {
-                "id": "b03fc2a6a",
+                "id": "c1581ada5",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-08-30T13:05:00+00:00",
@@ -4587,7 +4587,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "8c4a34a2f",
+                "id": "4395694e1",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-08-30T14:10:00+00:00",
@@ -4603,7 +4603,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "0eec35891",
+                "id": "cc19a5d35",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-08-31T22:00:00+00:00",
@@ -4636,7 +4636,7 @@
         "cityName": "Madison",
         "steps": [
             {
-                "id": "9c5d69dc7",
+                "id": "bd0cc9591",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-09-06T20:35:00+00:00",
@@ -4652,7 +4652,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "537a46e45",
+                "id": "59125b762",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-09-06T21:35:00+00:00",
@@ -4668,7 +4668,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "b358b83fe",
+                "id": "60610dee0",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-09-07T19:00:00+00:00",
@@ -4701,7 +4701,7 @@
         "cityName": "Bristol",
         "steps": [
             {
-                "id": "a6debccd4",
+                "id": "2a78413e5",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-09-12T20:35:00+00:00",
@@ -4717,7 +4717,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "e7182c1b1",
+                "id": "8ac2b3911",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-09-12T21:40:00+00:00",
@@ -4733,7 +4733,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "c7d065623",
+                "id": "87ad405f3",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-09-13T23:30:00+00:00",
@@ -4766,7 +4766,7 @@
         "cityName": "Loudon",
         "steps": [
             {
-                "id": "04f8ea9b9",
+                "id": "27e31d0a1",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-09-20T19:05:00+00:00",
@@ -4782,7 +4782,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "118a3af9a",
+                "id": "1e43433e9",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-09-20T20:10:00+00:00",
@@ -4798,7 +4798,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "18b7fe45b",
+                "id": "24521b4d7",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-09-21T18:00:00+00:00",
@@ -4831,7 +4831,7 @@
         "cityName": "Kansas City",
         "steps": [
             {
-                "id": "e3c39b604",
+                "id": "ca23e0839",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-09-27T17:05:00+00:00",
@@ -4847,7 +4847,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "27f73e0c9",
+                "id": "c4ddaf85d",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-09-27T18:10:00+00:00",
@@ -4863,7 +4863,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "83d1f6078",
+                "id": "d1b8e6eee",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-09-28T19:00:00+00:00",
@@ -4896,7 +4896,7 @@
         "cityName": "Concord",
         "steps": [
             {
-                "id": "50ea3191c",
+                "id": "dcc35b991",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-10-04T17:05:00+00:00",
@@ -4912,7 +4912,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "2a783ddce",
+                "id": "3b9d6bc94",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-10-04T18:10:00+00:00",
@@ -4928,7 +4928,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "a7233b6a5",
+                "id": "9129b28ee",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-10-05T05:00:00+00:00",
@@ -4961,7 +4961,7 @@
         "cityName": "Las Vegas",
         "steps": [
             {
-                "id": "90db027a8",
+                "id": "48353145e",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-10-11T20:35:00+00:00",
@@ -4977,7 +4977,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "865241a2b",
+                "id": "4b8a660b3",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-10-11T21:40:00+00:00",
@@ -4993,7 +4993,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "6899715a7",
+                "id": "18f4d011b",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-10-12T21:30:00+00:00",
@@ -5026,7 +5026,7 @@
         "cityName": "Talladega",
         "steps": [
             {
-                "id": "d52c46574",
+                "id": "94a68fb8e",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-10-18T17:30:00+00:00",
@@ -5042,7 +5042,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "fe7d00377",
+                "id": "070700e63",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-10-19T18:00:00+00:00",
@@ -5075,7 +5075,7 @@
         "cityName": "Ridgeway",
         "steps": [
             {
-                "id": "af146692d",
+                "id": "87a343705",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-10-25T20:35:00+00:00",
@@ -5091,7 +5091,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "d18ecf041",
+                "id": "f4ed1f2b0",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-10-25T21:40:00+00:00",
@@ -5107,7 +5107,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "66509059f",
+                "id": "6ae0790ae",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-10-26T18:00:00+00:00",
@@ -5140,7 +5140,7 @@
         "cityName": "Avondale",
         "steps": [
             {
-                "id": "5bf943aef",
+                "id": "f5568381d",
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-10-31T21:35:00+00:00",
@@ -5156,7 +5156,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "919528ec9",
+                "id": "1a38dfc28",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-11-01T21:35:00+00:00",
@@ -5172,7 +5172,7 @@
                 "isNightEvent": false
             },
             {
-                "id": "d9a97bf48",
+                "id": "c11c63fc6",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2025-11-02T20:00:00+00:00",
