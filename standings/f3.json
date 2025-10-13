@@ -7,7 +7,6 @@
             {
                 "parentName": "Trident",
                 "name": "Rafael Câmara",
-                "color": "#fa9500",
                 "position": 1,
                 "races": 20,
                 "points": 166,
@@ -20,7 +19,6 @@
             {
                 "parentName": "Campos Racing",
                 "name": "Nikola Tsolov",
-                "color": "#fcfcfc",
                 "countryCode": "BG",
                 "position": 2,
                 "races": 20,
@@ -35,7 +33,6 @@
             {
                 "parentName": "Campos Racing",
                 "name": "Mari Boya",
-                "color": "#fcfcfc",
                 "countryCode": "ES",
                 "position": 3,
                 "races": 20,
@@ -50,7 +47,6 @@
             {
                 "parentName": "MP Motorsport",
                 "name": "Tim Tramnitz",
-                "color": "#ff7bc5",
                 "countryCode": "DE",
                 "position": 4,
                 "races": 19,
@@ -65,7 +61,6 @@
             {
                 "parentName": "Hitech TGR",
                 "name": "Martinius Stenshorne",
-                "color": "#5f94b9",
                 "countryCode": "NO",
                 "position": 5,
                 "races": 20,
@@ -80,7 +75,6 @@
             {
                 "parentName": "Trident",
                 "name": "Noah Strømsted",
-                "color": "#fa9500",
                 "countryCode": "DK",
                 "position": 6,
                 "races": 20,
@@ -95,7 +89,6 @@
             {
                 "parentName": "Campos Racing",
                 "name": "Tasanapol Inthraphuvasak",
-                "color": "#fcfcfc",
                 "countryCode": "TH",
                 "position": 7,
                 "races": 20,
@@ -110,7 +103,6 @@
             {
                 "parentName": "Van Amersfoort Racing",
                 "name": "Théophile Naël",
-                "color": "#d00e32",
                 "countryCode": "FR",
                 "position": 8,
                 "races": 20,
@@ -125,7 +117,6 @@
             {
                 "parentName": "ART Grand Prix",
                 "name": "Tuukka Taponen",
-                "color": "#c75e31",
                 "countryCode": "FI",
                 "position": 9,
                 "races": 20,
@@ -140,7 +131,6 @@
             {
                 "parentName": "MP Motorsport",
                 "name": "Alessandro Giusti",
-                "color": "#ff7bc5",
                 "countryCode": "FR",
                 "position": 10,
                 "races": 20,
@@ -155,7 +145,6 @@
             {
                 "parentName": "Rodin Motorsport",
                 "name": "Roman Bilinski",
-                "color": "#7f9da6",
                 "countryCode": "PL",
                 "position": 11,
                 "races": 20,
@@ -170,7 +159,6 @@
             {
                 "parentName": "ART Grand Prix",
                 "name": "Laurens Van Hoepen",
-                "color": "#c75e31",
                 "position": 12,
                 "races": 20,
                 "points": 60,
@@ -184,7 +172,6 @@
             {
                 "parentName": "Trident",
                 "name": "Charlie Wurz",
-                "color": "#fa9500",
                 "countryCode": "AT",
                 "position": 13,
                 "races": 20,
@@ -199,7 +186,6 @@
             {
                 "parentName": "Rodin Motorsport",
                 "name": "Callum Voisin",
-                "color": "#7f9da6",
                 "countryCode": "CH",
                 "position": 14,
                 "races": 20,
@@ -214,7 +200,6 @@
             {
                 "parentName": "Van Amersfoort Racing",
                 "name": "Santiago Ramos",
-                "color": "#d00e32",
                 "countryCode": "MX",
                 "position": 15,
                 "races": 18,
@@ -229,7 +214,6 @@
             {
                 "parentName": "Prema Racing",
                 "name": "Ugo Ugochukwu",
-                "color": "#f66937",
                 "countryCode": "US",
                 "position": 16,
                 "races": 20,
@@ -244,7 +228,6 @@
             {
                 "parentName": "Prema Racing",
                 "name": "Noel Leon",
-                "color": "#f66937",
                 "countryCode": "MX",
                 "position": 17,
                 "races": 20,
@@ -259,7 +242,6 @@
             {
                 "parentName": "ART Grand Prix",
                 "name": "James Wharton",
-                "color": "#c75e31",
                 "position": 18,
                 "races": 20,
                 "points": 25,
@@ -273,7 +255,6 @@
             {
                 "parentName": "Van Amersfoort Racing",
                 "name": "Ivan Franco Domingues",
-                "color": "#d00e32",
                 "position": 19,
                 "races": 20,
                 "points": 18,
@@ -287,7 +268,6 @@
             {
                 "parentName": "AIX Racing",
                 "name": "Brad Benavides",
-                "color": "#ff7bc5",
                 "countryCode": "GT",
                 "position": 20,
                 "races": 16,
@@ -302,7 +282,6 @@
             {
                 "parentName": "AIX Racing",
                 "name": "Nikita Bedrin",
-                "color": "#ff7bc5",
                 "countryCode": "RU",
                 "position": 21,
                 "races": 2,
@@ -317,7 +296,6 @@
             {
                 "parentName": "DAMS Lucas Oil",
                 "name": "Christian Ho",
-                "color": "#515659",
                 "countryCode": "SG",
                 "position": 22,
                 "races": 20,
@@ -332,7 +310,6 @@
             {
                 "parentName": "MP Motorsport",
                 "name": "Bruno del Pino",
-                "color": "#ff7bc5",
                 "countryCode": "ES",
                 "position": 23,
                 "races": 20,
@@ -347,7 +324,6 @@
             {
                 "parentName": "DAMS Lucas Oil",
                 "name": "Matías Zagazeta",
-                "color": "#515659",
                 "countryCode": "PE",
                 "position": 24,
                 "races": 20,
@@ -362,7 +338,6 @@
             {
                 "parentName": "Prema Racing",
                 "name": "Brando Badoer",
-                "color": "#f66937",
                 "position": 25,
                 "races": 19,
                 "points": 13,
@@ -376,7 +351,6 @@
             {
                 "parentName": "Rodin Motorsport",
                 "name": "Louis Sharp",
-                "color": "#7f9da6",
                 "position": 26,
                 "races": 20,
                 "points": 11,
@@ -390,7 +364,6 @@
             {
                 "parentName": "AIX Racing",
                 "name": "Freddie Slater",
-                "color": "#5f94b9",
                 "countryCode": "GB",
                 "position": 27,
                 "races": 4,
@@ -405,7 +378,6 @@
             {
                 "parentName": "AIX Racing",
                 "name": "James Hedley",
-                "color": "#d00e32",
                 "countryCode": "GB",
                 "position": 28,
                 "races": 13,
@@ -420,7 +392,6 @@
             {
                 "parentName": "Hitech TGR",
                 "name": "Wing Lam Gerrard Xie",
-                "color": "#5f94b9",
                 "countryCode": "HK",
                 "position": 29,
                 "races": 20,
@@ -435,7 +406,6 @@
             {
                 "parentName": "Hitech TGR",
                 "name": "Josh Dufek",
-                "color": "#5f94b9",
                 "countryCode": "CH",
                 "position": 30,
                 "races": 8,
@@ -450,7 +420,6 @@
             {
                 "parentName": "Hitech TGR",
                 "name": "Jesse Carrasquedo",
-                "color": "#5f94b9",
                 "countryCode": "MX",
                 "position": 31,
                 "races": 4,
@@ -465,7 +434,6 @@
             {
                 "parentName": "DAMS Lucas Oil",
                 "name": "Nikita Johnson",
-                "color": "#5f94b9",
                 "position": 32,
                 "races": 8,
                 "points": 0,
@@ -479,7 +447,6 @@
             {
                 "parentName": "DAMS Lucas Oil",
                 "name": "Nicola Lacorte",
-                "color": "#515659",
                 "countryCode": "IT",
                 "position": 33,
                 "races": 18,
@@ -494,7 +461,6 @@
             {
                 "parentName": "AIX Racing",
                 "name": "Francisco Javier Sagrera",
-                "color": "#ff7bc5",
                 "countryCode": "ES",
                 "position": 34,
                 "races": 4,
@@ -509,7 +475,6 @@
             {
                 "parentName": "AIX Racing",
                 "name": "Fernando Barrichello",
-                "color": "#ff7bc5",
                 "countryCode": "BR",
                 "position": 35,
                 "races": 2,
@@ -524,7 +489,6 @@
             {
                 "parentName": "AIX Racing",
                 "name": "Nicola Marinangeli",
-                "color": "#ff7bc5",
                 "countryCode": "IT",
                 "position": 36,
                 "races": 20,
@@ -539,7 +503,6 @@
             {
                 "parentName": "AIX Racing",
                 "name": "José Garfias",
-                "color": "#ff7bc5",
                 "countryCode": "MX",
                 "position": 37,
                 "races": 2,
@@ -560,7 +523,6 @@
         "entries": [
             {
                 "name": "Campos Racing",
-                "color": "#fcfcfc",
                 "countryCode": "ES",
                 "position": 1,
                 "races": 20,
@@ -572,7 +534,6 @@
             },
             {
                 "name": "Trident",
-                "color": "#fa9500",
                 "countryCode": "IT",
                 "position": 2,
                 "races": 20,
@@ -585,7 +546,6 @@
             },
             {
                 "name": "MP Motorsport",
-                "color": "#ff7bc5",
                 "countryCode": "NL",
                 "position": 3,
                 "races": 20,
@@ -598,7 +558,6 @@
             },
             {
                 "name": "ART Grand Prix",
-                "color": "#c75e31",
                 "countryCode": "DE",
                 "position": 4,
                 "races": 20,
@@ -611,7 +570,6 @@
             },
             {
                 "name": "Van Amersfoort Racing",
-                "color": "#d00e32",
                 "countryCode": "NL",
                 "position": 5,
                 "races": 20,
@@ -624,7 +582,6 @@
             },
             {
                 "name": "Rodin Motorsport",
-                "color": "#7f9da6",
                 "position": 6,
                 "races": 20,
                 "points": 128,
@@ -636,7 +593,6 @@
             },
             {
                 "name": "Prema Racing",
-                "color": "#f66937",
                 "countryCode": "IT",
                 "position": 7,
                 "races": 20,
@@ -649,7 +605,6 @@
             },
             {
                 "name": "Hitech TGR",
-                "color": "#5f94b9",
                 "countryCode": "GB",
                 "position": 8,
                 "races": 20,
@@ -662,7 +617,6 @@
             },
             {
                 "name": "AIX Racing",
-                "color": "#ff7bc5",
                 "position": 9,
                 "races": 20,
                 "points": 52,
@@ -674,7 +628,6 @@
             },
             {
                 "name": "DAMS Lucas Oil",
-                "color": "#515659",
                 "countryCode": "FR",
                 "position": 10,
                 "races": 20,
@@ -1174,7 +1127,6 @@
         "entries": [
             {
                 "name": "Prema Racing",
-                "color": "#f66937",
                 "countryCode": "IT",
                 "position": 1,
                 "races": 20,
@@ -1186,7 +1138,6 @@
             },
             {
                 "name": "Trident",
-                "color": "#fa9500",
                 "countryCode": "IT",
                 "position": 2,
                 "races": 20,
@@ -1199,7 +1150,6 @@
             },
             {
                 "name": "ART Grand Prix",
-                "color": "#c75e31",
                 "countryCode": "DE",
                 "position": 3,
                 "races": 20,
@@ -1212,7 +1162,6 @@
             },
             {
                 "name": "Campos Racing",
-                "color": "#fcfcfc",
                 "countryCode": "ES",
                 "position": 4,
                 "races": 20,
@@ -1225,7 +1174,6 @@
             },
             {
                 "name": "Hitech Pulse-Eight",
-                "color": "#fcfcfc",
                 "countryCode": "GB",
                 "position": 5,
                 "races": 20,
@@ -1238,7 +1186,6 @@
             },
             {
                 "name": "MP Motorsport",
-                "color": "#ff7bc5",
                 "countryCode": "NL",
                 "position": 6,
                 "races": 20,
@@ -1251,7 +1198,6 @@
             },
             {
                 "name": "Van Amersfoort Racing",
-                "color": "#d00e32",
                 "countryCode": "NL",
                 "position": 7,
                 "races": 20,
@@ -1264,7 +1210,6 @@
             },
             {
                 "name": "Rodin Motorsport",
-                "color": "#7f9da6",
                 "position": 8,
                 "races": 20,
                 "points": 85,
@@ -1276,7 +1221,6 @@
             },
             {
                 "name": "PHM AIX Racing",
-                "color": "#b03313",
                 "position": 9,
                 "races": 20,
                 "points": 35,
@@ -1288,7 +1232,6 @@
             },
             {
                 "name": "Jenzer Motorsport",
-                "color": "#33bae7",
                 "countryCode": "CH",
                 "position": 10,
                 "races": 20,

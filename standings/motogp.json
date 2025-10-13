@@ -7,7 +7,6 @@
             {
                 "parentName": "Ducati Lenovo Team",
                 "name": "Marc Márquez",
-                "color": "#fa1f0f",
                 "countryCode": "ES",
                 "position": 1,
                 "races": 36,
@@ -21,7 +20,6 @@
             {
                 "parentName": "BK8 Gresini Racing MotoGP",
                 "name": "Álex Márquez",
-                "color": "#81df4e",
                 "countryCode": "ES",
                 "position": 2,
                 "races": 36,
@@ -36,7 +34,6 @@
             {
                 "parentName": "Ducati Lenovo Team",
                 "name": "Francesco Bagnaia",
-                "color": "#fa1f0f",
                 "countryCode": "IT",
                 "position": 3,
                 "races": 36,
@@ -51,7 +48,6 @@
             {
                 "parentName": "Aprilia Racing",
                 "name": "Marco Bezzecchi",
-                "color": "#fd7094",
                 "countryCode": "IT",
                 "position": 4,
                 "races": 36,
@@ -66,7 +62,6 @@
             {
                 "parentName": "Red Bull KTM Factory Racing",
                 "name": "Pedro Acosta",
-                "color": "#dd5815",
                 "countryCode": "ES",
                 "position": 5,
                 "races": 36,
@@ -81,7 +76,6 @@
             {
                 "parentName": "Pertamina Enduro VR46 Racing Team",
                 "name": "Franco Morbidelli",
-                "color": "#eebd04",
                 "countryCode": "IT",
                 "position": 6,
                 "races": 33,
@@ -96,7 +90,6 @@
             {
                 "parentName": "Pertamina Enduro VR46 Racing Team",
                 "name": "Fabio Di Giannantonio",
-                "color": "#eebd04",
                 "countryCode": "IT",
                 "position": 7,
                 "races": 36,
@@ -111,7 +104,6 @@
             {
                 "parentName": "BK8 Gresini Racing MotoGP",
                 "name": "Fermín Aldeguer",
-                "color": "#81df4e",
                 "countryCode": "ES",
                 "position": 8,
                 "races": 36,
@@ -126,7 +118,6 @@
             {
                 "parentName": "Monster Energy Yamaha MotoGP Team",
                 "name": "Fabio Quartararo",
-                "color": "#163bc4",
                 "countryCode": "FR",
                 "position": 9,
                 "races": 36,
@@ -141,7 +132,6 @@
             {
                 "parentName": "CASTROL Honda LCR",
                 "name": "Johann Zarco",
-                "color": "#fcfcfc",
                 "countryCode": "FR",
                 "position": 10,
                 "races": 36,
@@ -156,7 +146,6 @@
             {
                 "parentName": "Red Bull KTM Factory Racing",
                 "name": "Brad Binder",
-                "color": "#dd5815",
                 "countryCode": "ZA",
                 "position": 11,
                 "races": 36,
@@ -171,7 +160,6 @@
             {
                 "parentName": "Trackhouse MotoGP Team",
                 "name": "Raúl Fernández",
-                "color": "#051efc",
                 "countryCode": "ES",
                 "position": 12,
                 "races": 36,
@@ -186,7 +174,6 @@
             {
                 "parentName": "Honda HRC Castrol",
                 "name": "Luca Marini",
-                "color": "#007357",
                 "countryCode": "IT",
                 "position": 13,
                 "races": 30,
@@ -201,7 +188,6 @@
             {
                 "parentName": "Red Bull KTM Tech3",
                 "name": "Enea Bastianini",
-                "color": "#dd5815",
                 "countryCode": "IT",
                 "position": 14,
                 "races": 34,
@@ -216,7 +202,6 @@
             {
                 "parentName": "Honda HRC Castrol",
                 "name": "Joan Mir",
-                "color": "#007357",
                 "countryCode": "ES",
                 "position": 15,
                 "races": 34,
@@ -231,7 +216,6 @@
             {
                 "parentName": "Red Bull KTM Tech3",
                 "name": "Maverick Viñales",
-                "color": "#dd5815",
                 "countryCode": "ES",
                 "position": 16,
                 "races": 26,
@@ -246,7 +230,6 @@
             {
                 "parentName": "Trackhouse MotoGP Team",
                 "name": "Ai Ogura",
-                "color": "#051efc",
                 "countryCode": "JP",
                 "position": 17,
                 "races": 29,
@@ -261,7 +244,6 @@
             {
                 "parentName": "Prima Pramac Yamaha MotoGP",
                 "name": "Jack Miller",
-                "color": "#c93131",
                 "countryCode": "AU",
                 "position": 18,
                 "races": 36,
@@ -276,7 +258,6 @@
             {
                 "parentName": "Monster Energy Yamaha MotoGP Team",
                 "name": "Álex Rins",
-                "color": "#163bc4",
                 "countryCode": "ES",
                 "position": 19,
                 "races": 36,
@@ -291,7 +272,6 @@
             {
                 "parentName": "Aprilia Racing",
                 "name": "Jorge Martín",
-                "color": "#fd7094",
                 "countryCode": "ES",
                 "position": 20,
                 "races": 13,
@@ -306,7 +286,6 @@
             {
                 "parentName": "Prima Pramac Yamaha MotoGP",
                 "name": "Miguel Oliveira",
-                "color": "#c93131",
                 "countryCode": "PT",
                 "position": 21,
                 "races": 29,
@@ -321,7 +300,6 @@
             {
                 "parentName": "Red Bull KTM Tech3",
                 "name": "Pol Espargaró",
-                "color": "#dd5815",
                 "countryCode": "ES",
                 "position": 22,
                 "races": 4,
@@ -336,7 +314,6 @@
             {
                 "parentName": "Honda HRC Castrol",
                 "name": "Takaaki Nakagami",
-                "color": "#c75e31",
                 "countryCode": "JP",
                 "position": 23,
                 "races": 7,
@@ -351,7 +328,6 @@
             {
                 "parentName": "Aprilia Racing",
                 "name": "Lorenzo Savadori",
-                "color": "#fd7094",
                 "countryCode": "IT",
                 "position": 24,
                 "races": 21,
@@ -366,7 +342,6 @@
             {
                 "parentName": "Prima Pramac Yamaha MotoGP",
                 "name": "Augusto Fernández",
-                "color": "#163bc4",
                 "countryCode": "ES",
                 "position": 25,
                 "races": 12,
@@ -381,7 +356,6 @@
             {
                 "parentName": "IDEMITSU Honda LCR",
                 "name": "Somkiat Chantra",
-                "color": "#fcfcfc",
                 "countryCode": "TH",
                 "position": 26,
                 "races": 26,
@@ -396,7 +370,6 @@
             {
                 "parentName": "Honda HRC Castrol",
                 "name": "Aleix Espargaró",
-                "color": "#c75e31",
                 "countryCode": "ES",
                 "position": 27,
                 "races": 8,
@@ -417,7 +390,6 @@
         "entries": [
             {
                 "name": "Ducati Lenovo Team",
-                "color": "#fa1f0f",
                 "countryCode": "IT",
                 "position": 1,
                 "races": 36,
@@ -429,7 +401,6 @@
             },
             {
                 "name": "BK8 Gresini Racing MotoGP",
-                "color": "#81df4e",
                 "countryCode": "IT",
                 "position": 2,
                 "races": 36,
@@ -442,7 +413,6 @@
             },
             {
                 "name": "Pertamina Enduro VR46 Racing Team",
-                "color": "#eebd04",
                 "countryCode": "IT",
                 "position": 3,
                 "races": 36,
@@ -455,7 +425,6 @@
             },
             {
                 "name": "Red Bull KTM Factory Racing",
-                "color": "#dd5815",
                 "countryCode": "AT",
                 "position": 4,
                 "races": 36,
@@ -468,7 +437,6 @@
             },
             {
                 "name": "Aprilia Racing",
-                "color": "#fd7094",
                 "position": 5,
                 "races": 36,
                 "points": 296,
@@ -480,7 +448,6 @@
             },
             {
                 "name": "Monster Energy Yamaha MotoGP Team",
-                "color": "#163bc4",
                 "countryCode": "JP",
                 "position": 6,
                 "races": 36,
@@ -493,7 +460,6 @@
             },
             {
                 "name": "Honda HRC Castrol",
-                "color": "#007357",
                 "countryCode": "JP",
                 "position": 7,
                 "races": 36,
@@ -506,7 +472,6 @@
             },
             {
                 "name": "Trackhouse MotoGP Team",
-                "color": "#051efc",
                 "countryCode": "US",
                 "position": 8,
                 "races": 36,
@@ -519,7 +484,6 @@
             },
             {
                 "name": "Red Bull KTM Tech3",
-                "color": "#dd5815",
                 "countryCode": "AT",
                 "position": 9,
                 "races": 36,
@@ -532,7 +496,6 @@
             },
             {
                 "name": "LCR Honda",
-                "color": "#fcfcfc",
                 "countryCode": "MC",
                 "position": 10,
                 "races": 36,
@@ -545,7 +508,6 @@
             },
             {
                 "name": "Prima Pramac Yamaha MotoGP",
-                "color": "#c93131",
                 "countryCode": "IT",
                 "position": 11,
                 "races": 36,
@@ -558,7 +520,6 @@
             },
             {
                 "name": "Yamaha Factory Racing",
-                "color": "#163bc4",
                 "countryCode": "JP",
                 "position": 12,
                 "races": 36,
@@ -571,7 +532,6 @@
             },
             {
                 "name": "Yamaha Factory Racing Team",
-                "color": "#163bc4",
                 "countryCode": "JP",
                 "position": 13,
                 "races": 36,
@@ -584,7 +544,6 @@
             },
             {
                 "name": "Honda HRC Test Team",
-                "color": "#c75e31",
                 "countryCode": "JP",
                 "position": 14,
                 "races": 36,
@@ -1016,7 +975,6 @@
         "entries": [
             {
                 "name": "Ducati Lenovo Team",
-                "color": "#fa1f0f",
                 "countryCode": "IT",
                 "position": 1,
                 "races": 38,
@@ -1028,7 +986,6 @@
             },
             {
                 "name": "Prima Pramac Racing",
-                "color": "#c93131",
                 "countryCode": "IT",
                 "position": 2,
                 "races": 38,
@@ -1041,7 +998,6 @@
             },
             {
                 "name": "Gresini Racing MotoGP",
-                "color": "#81df4e",
                 "countryCode": "IT",
                 "position": 3,
                 "races": 38,
@@ -1054,7 +1010,6 @@
             },
             {
                 "name": "Aprilia Racing",
-                "color": "#fd7094",
                 "position": 4,
                 "races": 38,
                 "points": 353,
@@ -1066,7 +1021,6 @@
             },
             {
                 "name": "Pertamina Enduro VR46 MotoGP Team",
-                "color": "#f38a4f",
                 "countryCode": "IT",
                 "position": 5,
                 "races": 38,
@@ -1079,7 +1033,6 @@
             },
             {
                 "name": "Red Bull KTM Factory Racing",
-                "color": "#dd5815",
                 "countryCode": "AT",
                 "position": 6,
                 "races": 37,
@@ -1092,7 +1045,6 @@
             },
             {
                 "name": "Red Bull GASGAS Tech3",
-                "color": "#23468b",
                 "countryCode": "FR",
                 "position": 7,
                 "races": 38,
@@ -1105,7 +1057,6 @@
             },
             {
                 "name": "Monster Energy Yamaha MotoGP",
-                "color": "#163bc4",
                 "countryCode": "JP",
                 "position": 8,
                 "races": 38,
@@ -1118,7 +1069,6 @@
             },
             {
                 "name": "TrackHouse Racing",
-                "color": "#051efc",
                 "countryCode": "US",
                 "position": 9,
                 "races": 38,
@@ -1131,7 +1081,6 @@
             },
             {
                 "name": "LCR Honda",
-                "color": "#fcfcfc",
                 "countryCode": "MC",
                 "position": 10,
                 "races": 38,
@@ -1144,7 +1093,6 @@
             },
             {
                 "name": "Repsol Honda Team",
-                "color": "#ff970d",
                 "countryCode": "JP",
                 "position": 11,
                 "races": 38,
@@ -1157,7 +1105,6 @@
             },
             {
                 "name": "HRC Test Team",
-                "color": "#ff970d",
                 "countryCode": "JP",
                 "position": 12,
                 "races": 38,
@@ -1170,7 +1117,6 @@
             },
             {
                 "name": "Yamaha Factory Racing Team",
-                "color": "#163bc4",
                 "countryCode": "JP",
                 "position": 13,
                 "races": 38,

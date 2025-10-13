@@ -7,7 +7,6 @@
             {
                 "parentName": "McLaren Formula 1 Team",
                 "name": "Oscar Piastri",
-                "color": "#fa9500",
                 "countryCode": "AU",
                 "position": 1,
                 "races": 18,
@@ -21,7 +20,6 @@
             {
                 "parentName": "McLaren Formula 1 Team",
                 "name": "Lando Norris",
-                "color": "#fa9500",
                 "countryCode": "GB",
                 "position": 2,
                 "races": 18,
@@ -36,7 +34,6 @@
             {
                 "parentName": "Oracle Red Bull Racing",
                 "name": "Max Verstappen",
-                "color": "#0600ea",
                 "countryCode": "NL",
                 "position": 3,
                 "races": 18,
@@ -51,7 +48,6 @@
             {
                 "parentName": "Mercedes-AMG Petronas Formula One Team",
                 "name": "George Russell",
-                "color": "#00cdb9",
                 "countryCode": "GB",
                 "position": 4,
                 "races": 18,
@@ -66,7 +62,6 @@
             {
                 "parentName": "Scuderia Ferrari HP",
                 "name": "Charles Leclerc",
-                "color": "#d70000",
                 "countryCode": "MC",
                 "position": 5,
                 "races": 18,
@@ -81,7 +76,6 @@
             {
                 "parentName": "Scuderia Ferrari HP",
                 "name": "Lewis Hamilton",
-                "color": "#d70000",
                 "countryCode": "GB",
                 "position": 6,
                 "races": 18,
@@ -96,7 +90,6 @@
             {
                 "parentName": "Mercedes-AMG Petronas Formula One Team",
                 "name": "Andrea Kimi Antonelli",
-                "color": "#00cdb9",
                 "countryCode": "IT",
                 "position": 7,
                 "races": 18,
@@ -111,7 +104,6 @@
             {
                 "parentName": "Atlassian Williams Racing",
                 "name": "Alexander Albon",
-                "color": "#0058fa",
                 "countryCode": "TH",
                 "position": 8,
                 "races": 18,
@@ -126,7 +118,6 @@
             {
                 "parentName": "Visa Cash App Racing Bulls Formula One Team",
                 "name": "Isack Hadjar",
-                "color": "#ff970d",
                 "countryCode": "FR",
                 "position": 9,
                 "races": 17,
@@ -141,7 +132,6 @@
             {
                 "parentName": "Kick Sauber F1 Team",
                 "name": "Nico Hülkenberg",
-                "color": "#006cfa",
                 "countryCode": "DE",
                 "position": 10,
                 "races": 17,
@@ -156,7 +146,6 @@
             {
                 "parentName": "Aston Martin Aramco Formula One Team",
                 "name": "Fernando Alonso",
-                "color": "#006a5d",
                 "countryCode": "ES",
                 "position": 11,
                 "races": 18,
@@ -171,7 +160,6 @@
             {
                 "parentName": "Atlassian Williams Racing",
                 "name": "Carlos Sainz",
-                "color": "#0058fa",
                 "countryCode": "ES",
                 "position": 12,
                 "races": 17,
@@ -186,7 +174,6 @@
             {
                 "parentName": "Aston Martin Aramco Formula One Team",
                 "name": "Lance Stroll",
-                "color": "#006a5d",
                 "countryCode": "CA",
                 "position": 13,
                 "races": 17,
@@ -201,7 +188,6 @@
             {
                 "parentName": "Oracle Red Bull Racing",
                 "name": "Liam Lawson",
-                "color": "#ff970d",
                 "countryCode": "NZ",
                 "position": 14,
                 "races": 18,
@@ -216,7 +202,6 @@
             {
                 "parentName": "MoneyGram Haas F1 Team",
                 "name": "Esteban Ocon",
-                "color": "#fcfcfc",
                 "countryCode": "FR",
                 "position": 15,
                 "races": 18,
@@ -231,7 +216,6 @@
             {
                 "parentName": "BWT Alpine F1 Team",
                 "name": "Pierre Gasly",
-                "color": "#008dfa",
                 "countryCode": "FR",
                 "position": 16,
                 "races": 18,
@@ -246,7 +230,6 @@
             {
                 "parentName": "Visa Cash App Racing Bulls Formula One Team",
                 "name": "Yuki Tsunoda",
-                "color": "#0600ea",
                 "countryCode": "JP",
                 "position": 17,
                 "races": 18,
@@ -261,7 +244,6 @@
             {
                 "parentName": "Kick Sauber F1 Team",
                 "name": "Gabriel Bortoleto",
-                "color": "#006cfa",
                 "countryCode": "BR",
                 "position": 18,
                 "races": 18,
@@ -276,7 +258,6 @@
             {
                 "parentName": "MoneyGram Haas F1 Team",
                 "name": "Oliver Bearman",
-                "color": "#fcfcfc",
                 "countryCode": "GB",
                 "position": 19,
                 "races": 18,
@@ -291,7 +272,6 @@
             {
                 "parentName": "BWT Alpine F1 Team",
                 "name": "Franco Colapinto",
-                "color": "#008dfa",
                 "countryCode": "AR",
                 "position": 20,
                 "races": 11,
@@ -306,7 +286,6 @@
             {
                 "parentName": "BWT Alpine F1 Team",
                 "name": "Jack Doohan",
-                "color": "#008dfa",
                 "countryCode": "AU",
                 "position": 21,
                 "races": 6,
@@ -327,7 +306,6 @@
         "entries": [
             {
                 "name": "McLaren Formula 1 Team",
-                "color": "#fa9500",
                 "countryCode": "GB",
                 "position": 1,
                 "points": 650,
@@ -335,7 +313,6 @@
             },
             {
                 "name": "Mercedes-AMG Petronas Formula One Team",
-                "color": "#00cdb9",
                 "countryCode": "DE",
                 "position": 2,
                 "points": 325,
@@ -344,7 +321,6 @@
             },
             {
                 "name": "Scuderia Ferrari HP",
-                "color": "#d70000",
                 "countryCode": "IT",
                 "position": 3,
                 "points": 298,
@@ -353,7 +329,6 @@
             },
             {
                 "name": "Oracle Red Bull Racing",
-                "color": "#0600ea",
                 "countryCode": "AT",
                 "position": 4,
                 "points": 290,
@@ -362,7 +337,6 @@
             },
             {
                 "name": "Atlassian Williams Racing",
-                "color": "#0058fa",
                 "countryCode": "GB",
                 "position": 5,
                 "points": 102,
@@ -378,7 +352,6 @@
             },
             {
                 "name": "Aston Martin Aramco Formula One Team",
-                "color": "#006a5d",
                 "countryCode": "GB",
                 "position": 7,
                 "points": 68,
@@ -387,7 +360,6 @@
             },
             {
                 "name": "Stake F1 Team Kick Sauber",
-                "color": "#006cfa",
                 "countryCode": "CH",
                 "position": 8,
                 "points": 55,
@@ -396,7 +368,6 @@
             },
             {
                 "name": "MoneyGram Haas F1 Team",
-                "color": "#fcfcfc",
                 "countryCode": "US",
                 "position": 9,
                 "points": 46,
@@ -405,7 +376,6 @@
             },
             {
                 "name": "BWT Alpine F1 Team",
-                "color": "#008dfa",
                 "countryCode": "FR",
                 "position": 10,
                 "points": 20,
@@ -763,7 +733,6 @@
         "entries": [
             {
                 "name": "McLaren Formula 1 Team",
-                "color": "#fa9500",
                 "countryCode": "GB",
                 "position": 1,
                 "points": 666,
@@ -771,7 +740,6 @@
             },
             {
                 "name": "Ferrari",
-                "color": "#d70000",
                 "countryCode": "IT",
                 "position": 2,
                 "points": 652,
@@ -780,7 +748,6 @@
             },
             {
                 "name": "Oracle Red Bull Racing",
-                "color": "#0600ea",
                 "countryCode": "AT",
                 "position": 3,
                 "points": 589,
@@ -789,7 +756,6 @@
             },
             {
                 "name": "Mercedes-AMG Petronas Formula One Team",
-                "color": "#00cdb9",
                 "countryCode": "DE",
                 "position": 4,
                 "points": 468,
@@ -798,7 +764,6 @@
             },
             {
                 "name": "Aston Martin Aramco Formula One Team",
-                "color": "#006a5d",
                 "countryCode": "GB",
                 "position": 5,
                 "points": 94,
@@ -807,7 +772,6 @@
             },
             {
                 "name": "BWT Alpine F1 Team",
-                "color": "#008dfa",
                 "countryCode": "FR",
                 "position": 6,
                 "points": 65,
@@ -816,7 +780,6 @@
             },
             {
                 "name": "MoneyGram Haas F1 Team",
-                "color": "#fcfcfc",
                 "countryCode": "US",
                 "position": 7,
                 "points": 58,
@@ -825,7 +788,6 @@
             },
             {
                 "name": "Visa Cash App RB F1 Team",
-                "color": "#b69655",
                 "position": 8,
                 "points": 46,
                 "diff": -620,
@@ -833,7 +795,6 @@
             },
             {
                 "name": "Williams",
-                "color": "#0058fa",
                 "countryCode": "GB",
                 "position": 9,
                 "points": 17,
@@ -842,7 +803,6 @@
             },
             {
                 "name": "Sauber",
-                "color": "#006cfa",
                 "countryCode": "CH",
                 "position": 10,
                 "points": 4,

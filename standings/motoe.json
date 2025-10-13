@@ -7,7 +7,6 @@
             {
                 "parentName": "Aruba Cloud MotoE Racing Team",
                 "name": "Alessandro Zaccone",
-                "color": "#be99ee",
                 "countryCode": "IT",
                 "position": 1,
                 "races": 12,
@@ -21,7 +20,6 @@
             {
                 "parentName": "LCR E-Team",
                 "name": "Mattia Casadei",
-                "color": "#fcfcfc",
                 "countryCode": "IT",
                 "position": 2,
                 "races": 12,
@@ -36,7 +34,6 @@
             {
                 "parentName": "Felo Gresini MotoE",
                 "name": "Matteo Ferrari",
-                "color": "#d70000",
                 "countryCode": "IT",
                 "position": 3,
                 "races": 12,
@@ -51,7 +48,6 @@
             {
                 "parentName": "Dynavolt Intact GP",
                 "name": "Lorenzo Baldassarri",
-                "color": "#c93131",
                 "countryCode": "IT",
                 "position": 4,
                 "races": 12,
@@ -66,7 +62,6 @@
             {
                 "parentName": "LCR E-Team",
                 "name": "Eric Granado",
-                "color": "#fcfcfc",
                 "countryCode": "BR",
                 "position": 5,
                 "races": 10,
@@ -81,7 +76,6 @@
             {
                 "parentName": "Rivacold Snipers Team MotoE",
                 "name": "Nicholas Spinelli",
-                "color": "#5a0d84",
                 "countryCode": "IT",
                 "position": 6,
                 "races": 12,
@@ -96,7 +90,6 @@
             {
                 "parentName": "KLINT Forward Factory Team",
                 "name": "Andrea Mantovani",
-                "color": "#b69655",
                 "countryCode": "IT",
                 "position": 7,
                 "races": 12,
@@ -111,7 +104,6 @@
             {
                 "parentName": "Power Electronics Aspar Team",
                 "name": "Kevin Zannoni",
-                "color": "#fa1f0f",
                 "countryCode": "IT",
                 "position": 8,
                 "races": 12,
@@ -126,7 +118,6 @@
             {
                 "parentName": "Dynavolt Intact GP",
                 "name": "Héctor Garzó",
-                "color": "#c93131",
                 "countryCode": "ES",
                 "position": 9,
                 "races": 10,
@@ -141,7 +132,6 @@
             {
                 "parentName": "Power Electronics Aspar Team",
                 "name": "Jordi Torres",
-                "color": "#fa1f0f",
                 "countryCode": "ES",
                 "position": 10,
                 "races": 11,
@@ -156,7 +146,6 @@
             {
                 "parentName": "MSI Racing Team",
                 "name": "Oscar Gutierrez",
-                "color": "#b31919",
                 "countryCode": "ES",
                 "position": 11,
                 "races": 10,
@@ -171,7 +160,6 @@
             {
                 "parentName": "MSI Racing Team",
                 "name": "Jacopo Hosciuc",
-                "color": "#b31919",
                 "countryCode": "IT",
                 "position": 12,
                 "races": 12,
@@ -186,7 +174,6 @@
             {
                 "parentName": "Rivacold Snipers Team MotoE",
                 "name": "Tibor Varga",
-                "color": "#5a0d84",
                 "countryCode": "HU",
                 "position": 13,
                 "races": 10,
@@ -201,7 +188,6 @@
             {
                 "parentName": "Felo Gresini MotoE",
                 "name": "Alessio Finello",
-                "color": "#d70000",
                 "countryCode": "IT",
                 "position": 14,
                 "races": 12,
@@ -216,7 +202,6 @@
             {
                 "parentName": "Aruba Cloud MotoE Racing Team",
                 "name": "Luca Bernardi",
-                "color": "#be99ee",
                 "countryCode": "SM",
                 "position": 15,
                 "races": 11,
@@ -231,7 +216,6 @@
             {
                 "parentName": "KLINT Forward Factory Team",
                 "name": "María Herrera",
-                "color": "#b69655",
                 "countryCode": "ES",
                 "position": 16,
                 "races": 10,
@@ -246,7 +230,6 @@
             {
                 "parentName": "Ongetta SIC58 Squadra Corse",
                 "name": "Raffaele Fusco",
-                "color": "#d00e32",
                 "countryCode": "IT",
                 "position": 17,
                 "races": 11,
@@ -261,7 +244,6 @@
             {
                 "parentName": "Ongetta SIC58 Squadra Corse",
                 "name": "Tommaso Occhi",
-                "color": "#d00e32",
                 "countryCode": "RO",
                 "position": 18,
                 "races": 12,
@@ -276,7 +258,6 @@
             {
                 "parentName": "MSI Racing Team",
                 "name": "Diego Perez",
-                "color": "#b31919",
                 "countryCode": "ES",
                 "position": 19,
                 "races": 2,
@@ -297,7 +278,6 @@
         "entries": [
             {
                 "name": "LCR E-Team",
-                "color": "#fcfcfc",
                 "countryCode": "MC",
                 "position": 1,
                 "races": 12,
@@ -309,7 +289,6 @@
             },
             {
                 "name": "Dynavolt Intact GP",
-                "color": "#c93131",
                 "countryCode": "DE",
                 "position": 2,
                 "races": 12,
@@ -322,7 +301,6 @@
             },
             {
                 "name": "Aruba Cloud MotoE Racing Team",
-                "color": "#be99ee",
                 "position": 3,
                 "races": 12,
                 "points": 202,
@@ -334,7 +312,6 @@
             },
             {
                 "name": "Felo Gresini MotoE",
-                "color": "#d70000",
                 "position": 4,
                 "races": 12,
                 "points": 195,
@@ -346,7 +323,6 @@
             },
             {
                 "name": "Power Electronics Aspar Team",
-                "color": "#fa1f0f",
                 "position": 5,
                 "races": 12,
                 "points": 195,
@@ -358,7 +334,6 @@
             },
             {
                 "name": "Rivacold Snipers Team MotoE",
-                "color": "#5a0d84",
                 "position": 6,
                 "races": 12,
                 "points": 182,
@@ -370,7 +345,6 @@
             },
             {
                 "name": "MSI Racing Team",
-                "color": "#b31919",
                 "position": 7,
                 "races": 12,
                 "points": 151,
@@ -382,7 +356,6 @@
             },
             {
                 "name": "KLINT Forward Factory Team",
-                "color": "#b69655",
                 "countryCode": "CH",
                 "position": 8,
                 "races": 12,
@@ -395,7 +368,6 @@
             },
             {
                 "name": "Ongetta SIC58 Squadra Corse",
-                "color": "#d00e32",
                 "countryCode": "IT",
                 "position": 9,
                 "races": 12,
@@ -408,7 +380,6 @@
             },
             {
                 "name": "Klint Forward Racing Team",
-                "color": "#ff970d",
                 "countryCode": "CH",
                 "position": 10,
                 "races": 12,
@@ -686,7 +657,6 @@
         "entries": [
             {
                 "name": "Dynavolt Intact GP MotoE",
-                "color": "#00824c",
                 "countryCode": "DE",
                 "position": 1,
                 "races": 16,
@@ -698,7 +668,6 @@
             },
             {
                 "name": "LCR E-Team",
-                "color": "#fcfcfc",
                 "countryCode": "MC",
                 "position": 2,
                 "races": 16,
@@ -711,7 +680,6 @@
             },
             {
                 "name": "Openbank Aspar Team",
-                "color": "#878484",
                 "countryCode": "ES",
                 "position": 3,
                 "races": 16,
@@ -724,7 +692,6 @@
             },
             {
                 "name": "Tech3 E-Racing",
-                "color": "#23468b",
                 "countryCode": "FR",
                 "position": 4,
                 "races": 16,
@@ -737,7 +704,6 @@
             },
             {
                 "name": "Axxis-MSI",
-                "color": "#3d92c0",
                 "position": 5,
                 "races": 16,
                 "points": 302,
@@ -749,7 +715,6 @@
             },
             {
                 "name": "Felo Gresini MotoE",
-                "color": "#d70000",
                 "position": 6,
                 "races": 16,
                 "points": 202,
@@ -761,7 +726,6 @@
             },
             {
                 "name": "KLINT Forward Factory Team",
-                "color": "#b69655",
                 "countryCode": "CH",
                 "position": 7,
                 "races": 16,
@@ -774,7 +738,6 @@
             },
             {
                 "name": "Ongetta SIC58 Squadra Corse",
-                "color": "#d00e32",
                 "countryCode": "IT",
                 "position": 8,
                 "races": 16,
@@ -787,7 +750,6 @@
             },
             {
                 "name": "Aruba Cloud MotoE Racing Team",
-                "color": "#be99ee",
                 "position": 9,
                 "races": 16,
                 "points": 58,

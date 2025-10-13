@@ -7,7 +7,6 @@
             {
                 "parentName": "Prema Racing",
                 "name": "Doriane Pin",
-                "color": "#f66937",
                 "countryCode": "FR",
                 "position": 1,
                 "races": 12,
@@ -21,7 +20,6 @@
             {
                 "parentName": "MP Motorsport",
                 "name": "Maya Weug",
-                "color": "#ff7bc5",
                 "countryCode": "ES",
                 "position": 2,
                 "races": 12,
@@ -36,7 +34,6 @@
             {
                 "parentName": "Rodin Motorsport",
                 "name": "Ella Lloyd",
-                "color": "#7f9da6",
                 "countryCode": "GB",
                 "position": 3,
                 "races": 12,
@@ -51,7 +48,6 @@
             {
                 "parentName": "Campos Racing",
                 "name": "Chloe Chambers",
-                "color": "#fcfcfc",
                 "countryCode": "US",
                 "position": 4,
                 "races": 11,
@@ -66,7 +62,6 @@
             {
                 "parentName": "Campos Racing",
                 "name": "Alisha Palmowski",
-                "color": "#fcfcfc",
                 "countryCode": "GB",
                 "position": 5,
                 "races": 12,
@@ -81,7 +76,6 @@
             {
                 "parentName": "Prema Racing",
                 "name": "Nina Gademan",
-                "color": "#f66937",
                 "countryCode": "NL",
                 "position": 6,
                 "races": 12,
@@ -96,7 +90,6 @@
             {
                 "parentName": "MP Motorsport",
                 "name": "Alba Hurup Larsen",
-                "color": "#ff7bc5",
                 "countryCode": "DK",
                 "position": 7,
                 "races": 12,
@@ -111,7 +104,6 @@
             {
                 "parentName": "Prema Racing",
                 "name": "Tina Hausmann",
-                "color": "#f66937",
                 "countryCode": "CH",
                 "position": 8,
                 "races": 12,
@@ -126,7 +118,6 @@
             {
                 "parentName": "Rodin Motorsport",
                 "name": "Emma Felbermayr",
-                "color": "#7f9da6",
                 "countryCode": "AT",
                 "position": 9,
                 "races": 12,
@@ -141,7 +132,6 @@
             {
                 "parentName": "ART Grand Prix",
                 "name": "Lia Block",
-                "color": "#c75e31",
                 "countryCode": "US",
                 "position": 10,
                 "races": 12,
@@ -156,7 +146,6 @@
             {
                 "parentName": "Rodin Motorsport",
                 "name": "Chloe Chong",
-                "color": "#7f9da6",
                 "countryCode": "GB",
                 "position": 11,
                 "races": 12,
@@ -171,7 +160,6 @@
             {
                 "parentName": "Campos Racing",
                 "name": "Rafaela Ferreira",
-                "color": "#fcfcfc",
                 "countryCode": "BR",
                 "position": 12,
                 "races": 12,
@@ -186,7 +174,6 @@
             {
                 "parentName": "ART Grand Prix",
                 "name": "Aurélia Nobels",
-                "color": "#c75e31",
                 "countryCode": "US",
                 "position": 13,
                 "races": 12,
@@ -201,7 +188,6 @@
             {
                 "parentName": "MP Motorsport",
                 "name": "Joanne Ciconte",
-                "color": "#ff7bc5",
                 "countryCode": "AU",
                 "position": 14,
                 "races": 12,
@@ -216,7 +202,6 @@
             {
                 "parentName": "Hitech TGR",
                 "name": "Esmee Kosterman",
-                "color": "#5f94b9",
                 "countryCode": "NL",
                 "position": 15,
                 "races": 2,
@@ -231,7 +216,6 @@
             {
                 "parentName": "Hitech TGR",
                 "name": "Aiva Anagnostiadis",
-                "color": "#5f94b9",
                 "countryCode": "AU",
                 "position": 16,
                 "races": 10,
@@ -246,7 +230,6 @@
             {
                 "parentName": "ART Grand Prix",
                 "name": "Courtney Crone",
-                "color": "#c75e31",
                 "countryCode": "US",
                 "position": 17,
                 "races": 12,
@@ -261,7 +244,6 @@
             {
                 "parentName": "Hitech TGR",
                 "name": "Nicole Havrda",
-                "color": "#5f94b9",
                 "countryCode": "CA",
                 "position": 18,
                 "races": 12,
@@ -282,7 +264,6 @@
         "entries": [
             {
                 "name": "Prema Racing",
-                "color": "#f66937",
                 "countryCode": "IT",
                 "position": 1,
                 "races": 12,
@@ -294,7 +275,6 @@
             },
             {
                 "name": "MP Motorsport",
-                "color": "#ff7bc5",
                 "countryCode": "NL",
                 "position": 2,
                 "races": 12,
@@ -307,7 +287,6 @@
             },
             {
                 "name": "Campos Racing",
-                "color": "#fcfcfc",
                 "countryCode": "ES",
                 "position": 3,
                 "races": 12,
@@ -320,7 +299,6 @@
             },
             {
                 "name": "Rodin Motorsport",
-                "color": "#7f9da6",
                 "position": 4,
                 "races": 12,
                 "points": 156,
@@ -332,7 +310,6 @@
             },
             {
                 "name": "ART Grand Prix",
-                "color": "#c75e31",
                 "countryCode": "DE",
                 "position": 5,
                 "races": 12,
@@ -345,7 +322,6 @@
             },
             {
                 "name": "Hitech TGR",
-                "color": "#5f94b9",
                 "countryCode": "GB",
                 "position": 6,
                 "races": 12,
@@ -664,7 +640,6 @@
         "entries": [
             {
                 "name": "Prema Racing",
-                "color": "#f66937",
                 "countryCode": "IT",
                 "position": 1,
                 "races": 14,
@@ -676,7 +651,6 @@
             },
             {
                 "name": "Rodin Motorsport",
-                "color": "#7f9da6",
                 "position": 2,
                 "races": 14,
                 "points": 385,
@@ -688,7 +662,6 @@
             },
             {
                 "name": "Campos Racing",
-                "color": "#fcfcfc",
                 "countryCode": "ES",
                 "position": 3,
                 "races": 14,
@@ -701,7 +674,6 @@
             },
             {
                 "name": "MP Motorsport",
-                "color": "#ff7bc5",
                 "countryCode": "NL",
                 "position": 4,
                 "races": 14,
@@ -714,7 +686,6 @@
             },
             {
                 "name": "ART Grand Prix",
-                "color": "#c75e31",
                 "countryCode": "DE",
                 "position": 5,
                 "races": 14,
