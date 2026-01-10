@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarCup Calendar
 BEGIN:VEVENT
 UID:nascar_cup-d5886f4f8-2ca719100@nextgp.app
-DTSTAMP:20260110T200211Z
-DTSTART;TZID=America/New_York:20260131T181000
-DTEND;TZID=America/New_York:20260131T201000
+DTSTAMP:20260110T200212Z
+DTSTART;TZID=America/New_York:20260131T181300
+DTEND;TZID=America/New_York:20260131T201400
 SUMMARY:NascarCup | NASCAR Cup Series at Bowman Gray | Practice
 DESCRIPTION:NASCAR Cup Series at Bowman Gray\\nBowman Gray Stadium\\n\\nOpen in NextGP app: f1xmotogp://detail/d5886f4f8
 LOCATION:Bowman Gray Stadium\, Winston-Salem\, US
@@ -1544,4 +1544,5 @@ CATEGORIES:NascarCup,Motorsport,race
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+
 END:VCALENDAR
