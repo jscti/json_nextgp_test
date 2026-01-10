@@ -1,0 +1,945 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | WEC Calendar
+BEGIN:VEVENT
+UID:wec-429e4a44b-bb177439d@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Qatar:20260326T113000
+DTEND;TZID=Asia/Qatar:20260326T113000
+SUMMARY:WEC | Qatar 1812km | Practice 1
+DESCRIPTION:Qatar 1812km\\nLosail International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/429e4a44b
+LOCATION:Losail International Circuit\, Losail\, QA
+GEO:25.4228888;51.5197163
+URL:f1xmotogp://detail/429e4a44b
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-429e4a44b-fe11afebd@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Qatar:20260326T165000
+DTEND;TZID=Asia/Qatar:20260326T165000
+SUMMARY:WEC | Qatar 1812km | Practice 2
+DESCRIPTION:Qatar 1812km\\nLosail International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/429e4a44b
+LOCATION:Losail International Circuit\, Losail\, QA
+GEO:25.4228888;51.5197163
+URL:f1xmotogp://detail/429e4a44b
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-429e4a44b-1437c527d@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Qatar:20260327T120000
+DTEND;TZID=Asia/Qatar:20260327T120000
+SUMMARY:WEC | Qatar 1812km | Practice 3
+DESCRIPTION:Qatar 1812km\\nLosail International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/429e4a44b
+LOCATION:Losail International Circuit\, Losail\, QA
+GEO:25.4228888;51.5197163
+URL:f1xmotogp://detail/429e4a44b
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-429e4a44b-263a1f6c0@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Qatar:20260327T170000
+DTEND;TZID=Asia/Qatar:20260327T170000
+SUMMARY:WEC | Qatar 1812km | Qualifying 1
+DESCRIPTION:Qatar 1812km\\nLosail International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/429e4a44b
+LOCATION:Losail International Circuit\, Losail\, QA
+GEO:25.4228888;51.5197163
+URL:f1xmotogp://detail/429e4a44b
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-429e4a44b-b01365301@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Qatar:20260327T172000
+DTEND;TZID=Asia/Qatar:20260327T172000
+SUMMARY:WEC | Qatar 1812km | Qualifying 2
+DESCRIPTION:Qatar 1812km\\nLosail International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/429e4a44b
+LOCATION:Losail International Circuit\, Losail\, QA
+GEO:25.4228888;51.5197163
+URL:f1xmotogp://detail/429e4a44b
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-429e4a44b-8cdf27484@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Qatar:20260327T174000
+DTEND;TZID=Asia/Qatar:20260327T174000
+SUMMARY:WEC | Qatar 1812km | Qualifying 3
+DESCRIPTION:Qatar 1812km\\nLosail International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/429e4a44b
+LOCATION:Losail International Circuit\, Losail\, QA
+GEO:25.4228888;51.5197163
+URL:f1xmotogp://detail/429e4a44b
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-429e4a44b-c1ef76604@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Qatar:20260327T180000
+DTEND;TZID=Asia/Qatar:20260327T180000
+SUMMARY:WEC | Qatar 1812km | Qualifying 4
+DESCRIPTION:Qatar 1812km\\nLosail International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/429e4a44b
+LOCATION:Losail International Circuit\, Losail\, QA
+GEO:25.4228888;51.5197163
+URL:f1xmotogp://detail/429e4a44b
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-429e4a44b-7eb2766e8@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Qatar:20260328T140000
+DTEND;TZID=Asia/Qatar:20260328T140000
+SUMMARY:WEC | Qatar 1812km | Race
+DESCRIPTION:Qatar 1812km\\nLosail International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/429e4a44b
+LOCATION:Losail International Circuit\, Losail\, QA
+GEO:25.4228888;51.5197163
+URL:f1xmotogp://detail/429e4a44b
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-1720f78d7@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Rome:20260417T111500
+DTEND;TZID=Europe/Rome:20260417T111500
+SUMMARY:WEC | 6 Hours of Imola | Practice 1
+DESCRIPTION:6 Hours of Imola\\nAutodromo Enzo e Dino Ferrari\\n\\nOpen in NextGP app: f1xmotogp://detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:f1xmotogp://detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-388d90428@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Rome:20260417T160000
+DTEND;TZID=Europe/Rome:20260417T160000
+SUMMARY:WEC | 6 Hours of Imola | Practice 2
+DESCRIPTION:6 Hours of Imola\\nAutodromo Enzo e Dino Ferrari\\n\\nOpen in NextGP app: f1xmotogp://detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:f1xmotogp://detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-6b967922e@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Rome:20260418T104000
+DTEND;TZID=Europe/Rome:20260418T104000
+SUMMARY:WEC | 6 Hours of Imola | Practice 3
+DESCRIPTION:6 Hours of Imola\\nAutodromo Enzo e Dino Ferrari\\n\\nOpen in NextGP app: f1xmotogp://detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:f1xmotogp://detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-2f8774220@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Rome:20260418T143000
+DTEND;TZID=Europe/Rome:20260418T143000
+SUMMARY:WEC | 6 Hours of Imola | Qualifying 1
+DESCRIPTION:6 Hours of Imola\\nAutodromo Enzo e Dino Ferrari\\n\\nOpen in NextGP app: f1xmotogp://detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:f1xmotogp://detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-a8fa09a17@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Rome:20260418T145000
+DTEND;TZID=Europe/Rome:20260418T145000
+SUMMARY:WEC | 6 Hours of Imola | Qualifying 2
+DESCRIPTION:6 Hours of Imola\\nAutodromo Enzo e Dino Ferrari\\n\\nOpen in NextGP app: f1xmotogp://detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:f1xmotogp://detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-35ec71b5a@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Rome:20260418T151000
+DTEND;TZID=Europe/Rome:20260418T151000
+SUMMARY:WEC | 6 Hours of Imola | Qualifying 3
+DESCRIPTION:6 Hours of Imola\\nAutodromo Enzo e Dino Ferrari\\n\\nOpen in NextGP app: f1xmotogp://detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:f1xmotogp://detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-6d824cee5@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Rome:20260418T153000
+DTEND;TZID=Europe/Rome:20260418T153000
+SUMMARY:WEC | 6 Hours of Imola | Qualifying 4
+DESCRIPTION:6 Hours of Imola\\nAutodromo Enzo e Dino Ferrari\\n\\nOpen in NextGP app: f1xmotogp://detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:f1xmotogp://detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-813362d96@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Rome:20260419T130000
+DTEND;TZID=Europe/Rome:20260419T130000
+SUMMARY:WEC | 6 Hours of Imola | Race
+DESCRIPTION:6 Hours of Imola\\nAutodromo Enzo e Dino Ferrari\\n\\nOpen in NextGP app: f1xmotogp://detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:f1xmotogp://detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-34186e9eb-959543969@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Brussels:20260507T113000
+DTEND;TZID=Europe/Brussels:20260507T113000
+SUMMARY:WEC | Total Energies 6 Hours of Spa-Francorchamps | Practice 1
+DESCRIPTION:Total Energies 6 Hours of Spa-Francorchamps\\nCircuit de Spa-Francorchamps\\n\\nOpen in NextGP app: f1xmotogp://detail/34186e9eb
+LOCATION:Circuit de Spa-Francorchamps\, Spa-Francorchamps\, BE
+GEO:50.4356649;5.9694961
+URL:f1xmotogp://detail/34186e9eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-34186e9eb-d13ab7b3d@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Brussels:20260507T163000
+DTEND;TZID=Europe/Brussels:20260507T163000
+SUMMARY:WEC | Total Energies 6 Hours of Spa-Francorchamps | Practice 2
+DESCRIPTION:Total Energies 6 Hours of Spa-Francorchamps\\nCircuit de Spa-Francorchamps\\n\\nOpen in NextGP app: f1xmotogp://detail/34186e9eb
+LOCATION:Circuit de Spa-Francorchamps\, Spa-Francorchamps\, BE
+GEO:50.4356649;5.9694961
+URL:f1xmotogp://detail/34186e9eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-34186e9eb-ff85de935@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Brussels:20260508T110000
+DTEND;TZID=Europe/Brussels:20260508T110000
+SUMMARY:WEC | Total Energies 6 Hours of Spa-Francorchamps | Practice 3
+DESCRIPTION:Total Energies 6 Hours of Spa-Francorchamps\\nCircuit de Spa-Francorchamps\\n\\nOpen in NextGP app: f1xmotogp://detail/34186e9eb
+LOCATION:Circuit de Spa-Francorchamps\, Spa-Francorchamps\, BE
+GEO:50.4356649;5.9694961
+URL:f1xmotogp://detail/34186e9eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-34186e9eb-16c22db74@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Brussels:20260508T144000
+DTEND;TZID=Europe/Brussels:20260508T144000
+SUMMARY:WEC | Total Energies 6 Hours of Spa-Francorchamps | Qualifying 1
+DESCRIPTION:Total Energies 6 Hours of Spa-Francorchamps\\nCircuit de Spa-Francorchamps\\n\\nOpen in NextGP app: f1xmotogp://detail/34186e9eb
+LOCATION:Circuit de Spa-Francorchamps\, Spa-Francorchamps\, BE
+GEO:50.4356649;5.9694961
+URL:f1xmotogp://detail/34186e9eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-34186e9eb-882337d5a@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Brussels:20260508T150300
+DTEND;TZID=Europe/Brussels:20260508T150300
+SUMMARY:WEC | Total Energies 6 Hours of Spa-Francorchamps | Qualifying 2
+DESCRIPTION:Total Energies 6 Hours of Spa-Francorchamps\\nCircuit de Spa-Francorchamps\\n\\nOpen in NextGP app: f1xmotogp://detail/34186e9eb
+LOCATION:Circuit de Spa-Francorchamps\, Spa-Francorchamps\, BE
+GEO:50.4356649;5.9694961
+URL:f1xmotogp://detail/34186e9eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-34186e9eb-dc8990487@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Brussels:20260508T152500
+DTEND;TZID=Europe/Brussels:20260508T152500
+SUMMARY:WEC | Total Energies 6 Hours of Spa-Francorchamps | Qualifying 3
+DESCRIPTION:Total Energies 6 Hours of Spa-Francorchamps\\nCircuit de Spa-Francorchamps\\n\\nOpen in NextGP app: f1xmotogp://detail/34186e9eb
+LOCATION:Circuit de Spa-Francorchamps\, Spa-Francorchamps\, BE
+GEO:50.4356649;5.9694961
+URL:f1xmotogp://detail/34186e9eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-34186e9eb-ecf520314@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Brussels:20260508T154800
+DTEND;TZID=Europe/Brussels:20260508T154800
+SUMMARY:WEC | Total Energies 6 Hours of Spa-Francorchamps | Qualifying 4
+DESCRIPTION:Total Energies 6 Hours of Spa-Francorchamps\\nCircuit de Spa-Francorchamps\\n\\nOpen in NextGP app: f1xmotogp://detail/34186e9eb
+LOCATION:Circuit de Spa-Francorchamps\, Spa-Francorchamps\, BE
+GEO:50.4356649;5.9694961
+URL:f1xmotogp://detail/34186e9eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-34186e9eb-4718947f4@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Brussels:20260509T140000
+DTEND;TZID=Europe/Brussels:20260509T140000
+SUMMARY:WEC | Total Energies 6 Hours of Spa-Francorchamps | Race
+DESCRIPTION:Total Energies 6 Hours of Spa-Francorchamps\\nCircuit de Spa-Francorchamps\\n\\nOpen in NextGP app: f1xmotogp://detail/34186e9eb
+LOCATION:Circuit de Spa-Francorchamps\, Spa-Francorchamps\, BE
+GEO:50.4356649;5.9694961
+URL:f1xmotogp://detail/34186e9eb
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-154f59f83@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260610T140000
+DTEND;TZID=Europe/Paris:20260610T140000
+SUMMARY:WEC | 24 Hours of Le Mans | Practice 1
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-45c3000ec@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260610T184500
+DTEND;TZID=Europe/Paris:20260610T184500
+SUMMARY:WEC | 24 Hours of Le Mans | Qualifying 1
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-dd477dde8@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260610T193000
+DTEND;TZID=Europe/Paris:20260610T193000
+SUMMARY:WEC | 24 Hours of Le Mans | Qualifying 2
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-0aaa96036@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260610T220000
+DTEND;TZID=Europe/Paris:20260610T220000
+SUMMARY:WEC | 24 Hours of Le Mans | Practice 2
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-81b3febc7@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260611T144500
+DTEND;TZID=Europe/Paris:20260611T144500
+SUMMARY:WEC | 24 Hours of Le Mans | Practice 3
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-da887cb65@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260611T200000
+DTEND;TZID=Europe/Paris:20260611T200000
+SUMMARY:WEC | 24 Hours of Le Mans | Qualifying 3
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-08f4230da@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260611T203500
+DTEND;TZID=Europe/Paris:20260611T203500
+SUMMARY:WEC | 24 Hours of Le Mans | Qualifying 4
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-718d0852d@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260611T210500
+DTEND;TZID=Europe/Paris:20260611T210500
+SUMMARY:WEC | 24 Hours of Le Mans | Qualifying 5
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-be1a8596b@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260611T214000
+DTEND;TZID=Europe/Paris:20260611T214000
+SUMMARY:WEC | 24 Hours of Le Mans | Qualifying 6
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-bc929b2a5@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260611T230000
+DTEND;TZID=Europe/Paris:20260611T230000
+SUMMARY:WEC | 24 Hours of Le Mans | Practice 4
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-8cbe9ce23-dfe824ae6@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Europe/Paris:20260613T160000
+DTEND;TZID=Europe/Paris:20260613T160000
+SUMMARY:WEC | 24 Hours of Le Mans | Race
+DESCRIPTION:24 Hours of Le Mans\\nLe Mans\\n\\nOpen in NextGP app: f1xmotogp://detail/8cbe9ce23
+LOCATION:Le Mans\, Le Mans\, FR
+GEO:48.0073849;0.1967849
+URL:f1xmotogp://detail/8cbe9ce23
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-2f5ae4415@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Sao_Paulo:20260710T101000
+DTEND;TZID=America/Sao_Paulo:20260710T101000
+SUMMARY:WEC | 6 Hours of Sao Paulo | Practice 1
+DESCRIPTION:6 Hours of Sao Paulo\\nAutodromo Jose Carlos Pace\\n\\nOpen in NextGP app: f1xmotogp://detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:f1xmotogp://detail/4f164cf23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-33aaee4c1@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Sao_Paulo:20260710T110000
+DTEND;TZID=America/Sao_Paulo:20260710T110000
+SUMMARY:WEC | 6 Hours of Sao Paulo | Practice 2
+DESCRIPTION:6 Hours of Sao Paulo\\nAutodromo Jose Carlos Pace\\n\\nOpen in NextGP app: f1xmotogp://detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:f1xmotogp://detail/4f164cf23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-8da4c040f@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Sao_Paulo:20260711T144500
+DTEND;TZID=America/Sao_Paulo:20260711T144500
+SUMMARY:WEC | 6 Hours of Sao Paulo | Qualifying 1
+DESCRIPTION:6 Hours of Sao Paulo\\nAutodromo Jose Carlos Pace\\n\\nOpen in NextGP app: f1xmotogp://detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:f1xmotogp://detail/4f164cf23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-d7de7c9bd@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Sao_Paulo:20260711T150500
+DTEND;TZID=America/Sao_Paulo:20260711T150500
+SUMMARY:WEC | 6 Hours of Sao Paulo | Qualifying 2
+DESCRIPTION:6 Hours of Sao Paulo\\nAutodromo Jose Carlos Pace\\n\\nOpen in NextGP app: f1xmotogp://detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:f1xmotogp://detail/4f164cf23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-012c5326c@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Sao_Paulo:20260711T152500
+DTEND;TZID=America/Sao_Paulo:20260711T152500
+SUMMARY:WEC | 6 Hours of Sao Paulo | Qualifying 3
+DESCRIPTION:6 Hours of Sao Paulo\\nAutodromo Jose Carlos Pace\\n\\nOpen in NextGP app: f1xmotogp://detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:f1xmotogp://detail/4f164cf23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-90209b8e7@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Sao_Paulo:20260711T154500
+DTEND;TZID=America/Sao_Paulo:20260711T154500
+SUMMARY:WEC | 6 Hours of Sao Paulo | Practice 3
+DESCRIPTION:6 Hours of Sao Paulo\\nAutodromo Jose Carlos Pace\\n\\nOpen in NextGP app: f1xmotogp://detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:f1xmotogp://detail/4f164cf23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-4aa4d597b@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Sao_Paulo:20260711T154500
+DTEND;TZID=America/Sao_Paulo:20260711T154500
+SUMMARY:WEC | 6 Hours of Sao Paulo | Qualifying 4
+DESCRIPTION:6 Hours of Sao Paulo\\nAutodromo Jose Carlos Pace\\n\\nOpen in NextGP app: f1xmotogp://detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:f1xmotogp://detail/4f164cf23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-7dd837ca7@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Sao_Paulo:20260712T113000
+DTEND;TZID=America/Sao_Paulo:20260712T113000
+SUMMARY:WEC | 6 Hours of Sao Paulo | Race
+DESCRIPTION:6 Hours of Sao Paulo\\nAutodromo Jose Carlos Pace\\n\\nOpen in NextGP app: f1xmotogp://detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:f1xmotogp://detail/4f164cf23
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4ae1e2b07-34f9d31dc@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Los_Angeles:20260904T093000
+DTEND;TZID=America/Los_Angeles:20260904T093000
+SUMMARY:WEC | Lone Star Le Mans | Practice 1
+DESCRIPTION:Lone Star Le Mans\\nCircuit of the Americas\\n\\nOpen in NextGP app: f1xmotogp://detail/4ae1e2b07
+LOCATION:Circuit of the Americas\, COTA\, US
+GEO:33.8394612;-118.2075699
+URL:f1xmotogp://detail/4ae1e2b07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4ae1e2b07-c72aba1f7@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Los_Angeles:20260904T143000
+DTEND;TZID=America/Los_Angeles:20260904T143000
+SUMMARY:WEC | Lone Star Le Mans | Practice 2
+DESCRIPTION:Lone Star Le Mans\\nCircuit of the Americas\\n\\nOpen in NextGP app: f1xmotogp://detail/4ae1e2b07
+LOCATION:Circuit of the Americas\, COTA\, US
+GEO:33.8394612;-118.2075699
+URL:f1xmotogp://detail/4ae1e2b07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4ae1e2b07-980b8da5c@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Los_Angeles:20260905T090000
+DTEND;TZID=America/Los_Angeles:20260905T090000
+SUMMARY:WEC | Lone Star Le Mans | Practice 3
+DESCRIPTION:Lone Star Le Mans\\nCircuit of the Americas\\n\\nOpen in NextGP app: f1xmotogp://detail/4ae1e2b07
+LOCATION:Circuit of the Americas\, COTA\, US
+GEO:33.8394612;-118.2075699
+URL:f1xmotogp://detail/4ae1e2b07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4ae1e2b07-394bbc0d7@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Los_Angeles:20260905T130000
+DTEND;TZID=America/Los_Angeles:20260905T130000
+SUMMARY:WEC | Lone Star Le Mans | Qualifying 1
+DESCRIPTION:Lone Star Le Mans\\nCircuit of the Americas\\n\\nOpen in NextGP app: f1xmotogp://detail/4ae1e2b07
+LOCATION:Circuit of the Americas\, COTA\, US
+GEO:33.8394612;-118.2075699
+URL:f1xmotogp://detail/4ae1e2b07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4ae1e2b07-b3787f1a0@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Los_Angeles:20260905T132000
+DTEND;TZID=America/Los_Angeles:20260905T132000
+SUMMARY:WEC | Lone Star Le Mans | Qualifying 2
+DESCRIPTION:Lone Star Le Mans\\nCircuit of the Americas\\n\\nOpen in NextGP app: f1xmotogp://detail/4ae1e2b07
+LOCATION:Circuit of the Americas\, COTA\, US
+GEO:33.8394612;-118.2075699
+URL:f1xmotogp://detail/4ae1e2b07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4ae1e2b07-67cc60fa9@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Los_Angeles:20260905T134000
+DTEND;TZID=America/Los_Angeles:20260905T134000
+SUMMARY:WEC | Lone Star Le Mans | Qualifying 3
+DESCRIPTION:Lone Star Le Mans\\nCircuit of the Americas\\n\\nOpen in NextGP app: f1xmotogp://detail/4ae1e2b07
+LOCATION:Circuit of the Americas\, COTA\, US
+GEO:33.8394612;-118.2075699
+URL:f1xmotogp://detail/4ae1e2b07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4ae1e2b07-ad0a6952d@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Los_Angeles:20260905T140000
+DTEND;TZID=America/Los_Angeles:20260905T140000
+SUMMARY:WEC | Lone Star Le Mans | Qualifying 4
+DESCRIPTION:Lone Star Le Mans\\nCircuit of the Americas\\n\\nOpen in NextGP app: f1xmotogp://detail/4ae1e2b07
+LOCATION:Circuit of the Americas\, COTA\, US
+GEO:33.8394612;-118.2075699
+URL:f1xmotogp://detail/4ae1e2b07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4ae1e2b07-79b222eee@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=America/Los_Angeles:20260906T110000
+DTEND;TZID=America/Los_Angeles:20260906T110000
+SUMMARY:WEC | Lone Star Le Mans | Race
+DESCRIPTION:Lone Star Le Mans\\nCircuit of the Americas\\n\\nOpen in NextGP app: f1xmotogp://detail/4ae1e2b07
+LOCATION:Circuit of the Americas\, COTA\, US
+GEO:33.8394612;-118.2075699
+URL:f1xmotogp://detail/4ae1e2b07
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-fdb43f40b@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Tokyo:20260925T101500
+DTEND;TZID=Asia/Tokyo:20260925T101500
+SUMMARY:WEC | 6 Hours of Fuji | Practice 1
+DESCRIPTION:6 Hours of Fuji\\nFuji Speedway\\n\\nOpen in NextGP app: f1xmotogp://detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:f1xmotogp://detail/87ba276eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-15d010963@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Tokyo:20260925T143000
+DTEND;TZID=Asia/Tokyo:20260925T143000
+SUMMARY:WEC | 6 Hours of Fuji | Practice 2
+DESCRIPTION:6 Hours of Fuji\\nFuji Speedway\\n\\nOpen in NextGP app: f1xmotogp://detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:f1xmotogp://detail/87ba276eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-7ee875c7a@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Tokyo:20260926T095000
+DTEND;TZID=Asia/Tokyo:20260926T095000
+SUMMARY:WEC | 6 Hours of Fuji | Practice 3
+DESCRIPTION:6 Hours of Fuji\\nFuji Speedway\\n\\nOpen in NextGP app: f1xmotogp://detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:f1xmotogp://detail/87ba276eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-19d82ef72@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Tokyo:20260926T142000
+DTEND;TZID=Asia/Tokyo:20260926T142000
+SUMMARY:WEC | 6 Hours of Fuji | Qualifying 1
+DESCRIPTION:6 Hours of Fuji\\nFuji Speedway\\n\\nOpen in NextGP app: f1xmotogp://detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:f1xmotogp://detail/87ba276eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-46a5cee55@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Tokyo:20260926T144000
+DTEND;TZID=Asia/Tokyo:20260926T144000
+SUMMARY:WEC | 6 Hours of Fuji | Qualifying 2
+DESCRIPTION:6 Hours of Fuji\\nFuji Speedway\\n\\nOpen in NextGP app: f1xmotogp://detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:f1xmotogp://detail/87ba276eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-566b95ef6@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Tokyo:20260926T150000
+DTEND;TZID=Asia/Tokyo:20260926T150000
+SUMMARY:WEC | 6 Hours of Fuji | Qualifying 3
+DESCRIPTION:6 Hours of Fuji\\nFuji Speedway\\n\\nOpen in NextGP app: f1xmotogp://detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:f1xmotogp://detail/87ba276eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-e4736657e@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Tokyo:20260926T152000
+DTEND;TZID=Asia/Tokyo:20260926T152000
+SUMMARY:WEC | 6 Hours of Fuji | Qualifying 4
+DESCRIPTION:6 Hours of Fuji\\nFuji Speedway\\n\\nOpen in NextGP app: f1xmotogp://detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:f1xmotogp://detail/87ba276eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-7caad1db3@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Tokyo:20260927T110000
+DTEND;TZID=Asia/Tokyo:20260927T110000
+SUMMARY:WEC | 6 Hours of Fuji | Race
+DESCRIPTION:6 Hours of Fuji\\nFuji Speedway\\n\\nOpen in NextGP app: f1xmotogp://detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:f1xmotogp://detail/87ba276eb
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-60ce36723-c4b3d5494@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Bahrain:20261105T121500
+DTEND;TZID=Asia/Bahrain:20261105T121500
+SUMMARY:WEC | 8 Hours of Bahrain | Practice 1
+DESCRIPTION:8 Hours of Bahrain\\nBahrain International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/60ce36723
+LOCATION:Bahrain International Circuit\, Sakhir\, BH
+GEO:26.033541;50.516661
+URL:f1xmotogp://detail/60ce36723
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-60ce36723-94aa80fd5@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Bahrain:20261105T170000
+DTEND;TZID=Asia/Bahrain:20261105T170000
+SUMMARY:WEC | 8 Hours of Bahrain | Practice 2
+DESCRIPTION:8 Hours of Bahrain\\nBahrain International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/60ce36723
+LOCATION:Bahrain International Circuit\, Sakhir\, BH
+GEO:26.033541;50.516661
+URL:f1xmotogp://detail/60ce36723
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-60ce36723-9d2763387@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Bahrain:20261106T120000
+DTEND;TZID=Asia/Bahrain:20261106T120000
+SUMMARY:WEC | 8 Hours of Bahrain | Practice 3
+DESCRIPTION:8 Hours of Bahrain\\nBahrain International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/60ce36723
+LOCATION:Bahrain International Circuit\, Sakhir\, BH
+GEO:26.033541;50.516661
+URL:f1xmotogp://detail/60ce36723
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-60ce36723-94588406d@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Bahrain:20261106T160000
+DTEND;TZID=Asia/Bahrain:20261106T160000
+SUMMARY:WEC | 8 Hours of Bahrain | Qualifying 1
+DESCRIPTION:8 Hours of Bahrain\\nBahrain International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/60ce36723
+LOCATION:Bahrain International Circuit\, Sakhir\, BH
+GEO:26.033541;50.516661
+URL:f1xmotogp://detail/60ce36723
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-60ce36723-76f7328f4@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Bahrain:20261106T162000
+DTEND;TZID=Asia/Bahrain:20261106T162000
+SUMMARY:WEC | 8 Hours of Bahrain | Qualifying 2
+DESCRIPTION:8 Hours of Bahrain\\nBahrain International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/60ce36723
+LOCATION:Bahrain International Circuit\, Sakhir\, BH
+GEO:26.033541;50.516661
+URL:f1xmotogp://detail/60ce36723
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-60ce36723-508a0724f@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Bahrain:20261106T164000
+DTEND;TZID=Asia/Bahrain:20261106T164000
+SUMMARY:WEC | 8 Hours of Bahrain | Qualifying 3
+DESCRIPTION:8 Hours of Bahrain\\nBahrain International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/60ce36723
+LOCATION:Bahrain International Circuit\, Sakhir\, BH
+GEO:26.033541;50.516661
+URL:f1xmotogp://detail/60ce36723
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-60ce36723-fcc419985@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Bahrain:20261106T170000
+DTEND;TZID=Asia/Bahrain:20261106T170000
+SUMMARY:WEC | 8 Hours of Bahrain | Qualifying 4
+DESCRIPTION:8 Hours of Bahrain\\nBahrain International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/60ce36723
+LOCATION:Bahrain International Circuit\, Sakhir\, BH
+GEO:26.033541;50.516661
+URL:f1xmotogp://detail/60ce36723
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-60ce36723-e3d162a0c@nextgp.app
+DTSTAMP:20260110T200217Z
+DTSTART;TZID=Asia/Bahrain:20261107T140000
+DTEND;TZID=Asia/Bahrain:20261107T140000
+SUMMARY:WEC | 8 Hours of Bahrain | Race
+DESCRIPTION:8 Hours of Bahrain\\nBahrain International Circuit\\n\\nOpen in NextGP app: f1xmotogp://detail/60ce36723
+LOCATION:Bahrain International Circuit\, Sakhir\, BH
+GEO:26.033541;50.516661
+URL:f1xmotogp://detail/60ce36723
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
