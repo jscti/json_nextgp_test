@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | WEC | 6 Hours of Sao Paulo
+BEGIN:VEVENT
+UID:wec-4f164cf23-2f5ae4415@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260710T131000Z
+SUMMARY:WEC | Practice 1 | 6 Hours of Sao Paulo 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-33aaee4c1@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260710T140000Z
+SUMMARY:WEC | Practice 2 | 6 Hours of Sao Paulo 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-8da4c040f@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260711T174500Z
+SUMMARY:WEC | Qualifying 1 | 6 Hours of Sao Paulo 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-d7de7c9bd@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260711T180500Z
+SUMMARY:WEC | Qualifying 2 | 6 Hours of Sao Paulo 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-012c5326c@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260711T182500Z
+SUMMARY:WEC | Qualifying 3 | 6 Hours of Sao Paulo 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-90209b8e7@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260711T184500Z
+SUMMARY:WEC | Practice 3 | 6 Hours of Sao Paulo 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-4aa4d597b@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260711T184500Z
+SUMMARY:WEC | Qualifying 4 | 6 Hours of Sao Paulo 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-4f164cf23-7dd837ca7@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260712T143000Z
+SUMMARY:WEC | Race | 6 Hours of Sao Paulo 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+LOCATION:Autodromo Jose Carlos Pace\, Interlagos\, BR
+GEO:-23.7011674;-46.7082912
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/4f164cf23
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

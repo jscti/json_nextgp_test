@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | WEC | 6 Hours of Imola
+BEGIN:VEVENT
+UID:wec-5cbba2d07-1720f78d7@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260417T091500Z
+SUMMARY:WEC | Practice 1 | 6 Hours of Imola 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-388d90428@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260417T140000Z
+SUMMARY:WEC | Practice 2 | 6 Hours of Imola 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-6b967922e@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260418T084000Z
+SUMMARY:WEC | Practice 3 | 6 Hours of Imola 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-2f8774220@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260418T123000Z
+SUMMARY:WEC | Qualifying 1 | 6 Hours of Imola 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-a8fa09a17@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260418T125000Z
+SUMMARY:WEC | Qualifying 2 | 6 Hours of Imola 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-35ec71b5a@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260418T131000Z
+SUMMARY:WEC | Qualifying 3 | 6 Hours of Imola 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-6d824cee5@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260418T133000Z
+SUMMARY:WEC | Qualifying 4 | 6 Hours of Imola 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-5cbba2d07-813362d96@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260419T110000Z
+SUMMARY:WEC | Race | 6 Hours of Imola 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+LOCATION:Autodromo Enzo e Dino Ferrari\, Imola\, IT
+GEO:44.3535145;11.7141233
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/5cbba2d07
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

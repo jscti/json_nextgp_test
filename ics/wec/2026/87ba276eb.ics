@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | WEC | 6 Hours of Fuji
+BEGIN:VEVENT
+UID:wec-87ba276eb-fdb43f40b@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260925T011500Z
+SUMMARY:WEC | Practice 1 | 6 Hours of Fuji 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-15d010963@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260925T053000Z
+SUMMARY:WEC | Practice 2 | 6 Hours of Fuji 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-7ee875c7a@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260926T005000Z
+SUMMARY:WEC | Practice 3 | 6 Hours of Fuji 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+CATEGORIES:WEC,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-19d82ef72@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260926T052000Z
+SUMMARY:WEC | Qualifying 1 | 6 Hours of Fuji 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-46a5cee55@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260926T054000Z
+SUMMARY:WEC | Qualifying 2 | 6 Hours of Fuji 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-566b95ef6@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260926T060000Z
+SUMMARY:WEC | Qualifying 3 | 6 Hours of Fuji 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-e4736657e@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260926T062000Z
+SUMMARY:WEC | Qualifying 4 | 6 Hours of Fuji 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+CATEGORIES:WEC,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wec-87ba276eb-7caad1db3@nextgp.app
+DTSTAMP:20260111T165332Z
+DTSTART:20260927T020000Z
+SUMMARY:WEC | Race | 6 Hours of Fuji 
+DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+LOCATION:Fuji Speedway\, Fuji\, JP
+GEO:35.161852;138.6763863
+URL:https://jscti.github.io/json_nextgp/deeplink/detail/87ba276eb
+CATEGORIES:WEC,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
