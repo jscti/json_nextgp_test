@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//NextGP//Race Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:NextGP | WEC | Total Energies 6 Hours of Spa-Francorchamps
+X-WR-CALNAME:NextGP | WEC Calendar
 BEGIN:VEVENT
 UID:wec-34186e9eb-959543969@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260507T093000Z
 SUMMARY:WEC | Practice 1 | Total Energies 6 Hours of Spa-Francorchamps 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/34186e9eb
@@ -19,7 +19,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-34186e9eb-d13ab7b3d@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260507T143000Z
 SUMMARY:WEC | Practice 2 | Total Energies 6 Hours of Spa-Francorchamps 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/34186e9eb
@@ -32,7 +32,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-34186e9eb-ff85de935@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260508T090000Z
 SUMMARY:WEC | Practice 3 | Total Energies 6 Hours of Spa-Francorchamps 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/34186e9eb
@@ -45,7 +45,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-34186e9eb-16c22db74@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260508T124000Z
 SUMMARY:WEC | Qualifying 1 | Total Energies 6 Hours of Spa-Francorchamps 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/34186e9eb
@@ -58,7 +58,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-34186e9eb-882337d5a@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260508T130300Z
 SUMMARY:WEC | Qualifying 2 | Total Energies 6 Hours of Spa-Francorchamps 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/34186e9eb
@@ -71,7 +71,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-34186e9eb-dc8990487@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260508T132500Z
 SUMMARY:WEC | Qualifying 3 | Total Energies 6 Hours of Spa-Francorchamps 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/34186e9eb
@@ -84,7 +84,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-34186e9eb-ecf520314@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260508T134800Z
 SUMMARY:WEC | Qualifying 4 | Total Energies 6 Hours of Spa-Francorchamps 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/34186e9eb
@@ -97,7 +97,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-34186e9eb-4718947f4@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260509T120000Z
 SUMMARY:WEC | Race | Total Energies 6 Hours of Spa-Francorchamps 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/34186e9eb

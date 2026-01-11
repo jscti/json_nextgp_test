@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//NextGP//Race Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:NextGP | WEC | Lone Star Le Mans
+X-WR-CALNAME:NextGP | WEC Calendar
 BEGIN:VEVENT
 UID:wec-4ae1e2b07-34f9d31dc@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260904T163000Z
 SUMMARY:WEC | Practice 1 | Lone Star Le Mans 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4ae1e2b07
@@ -19,7 +19,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-4ae1e2b07-c72aba1f7@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260904T213000Z
 SUMMARY:WEC | Practice 2 | Lone Star Le Mans 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4ae1e2b07
@@ -32,7 +32,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-4ae1e2b07-980b8da5c@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260905T160000Z
 SUMMARY:WEC | Practice 3 | Lone Star Le Mans 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4ae1e2b07
@@ -45,7 +45,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-4ae1e2b07-394bbc0d7@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260905T200000Z
 SUMMARY:WEC | Qualifying 1 | Lone Star Le Mans 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4ae1e2b07
@@ -58,7 +58,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-4ae1e2b07-b3787f1a0@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260905T202000Z
 SUMMARY:WEC | Qualifying 2 | Lone Star Le Mans 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4ae1e2b07
@@ -71,7 +71,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-4ae1e2b07-67cc60fa9@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260905T204000Z
 SUMMARY:WEC | Qualifying 3 | Lone Star Le Mans 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4ae1e2b07
@@ -84,7 +84,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-4ae1e2b07-ad0a6952d@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260905T210000Z
 SUMMARY:WEC | Qualifying 4 | Lone Star Le Mans 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4ae1e2b07
@@ -97,7 +97,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:wec-4ae1e2b07-79b222eee@nextgp.app
-DTSTAMP:20260111T165332Z
+DTSTAMP:20260111T170539Z
 DTSTART:20260906T180000Z
 SUMMARY:WEC | Race | Lone Star Le Mans 
 DESCRIPTION:Details with NextGP app: https://jscti.github.io/json_nextgp/deeplink/detail/4ae1e2b07
