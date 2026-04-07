@@ -6,7 +6,7 @@
                 "name": "Oliver Rowland",
                 "countryCode": "GB",
                 "team": "Nissan E.dams",
-                "time": "01:10.162",
+                "time": "1:10.162",
                 "laps": 17
             },
             {
@@ -537,47 +537,48 @@
                 "name": "Pascal Wehrlein",
                 "countryCode": "DE",
                 "team": "TAG Heuer Porsche",
-                "time": "1:13:498",
+                "time": null,
                 "laps": 29
             },
             {
                 "name": "David Beckmann",
                 "countryCode": "DE",
-                "time": "1:12.219",
+                "time": null,
                 "laps": 29
             },
             {
                 "name": "Jake Dennis",
                 "countryCode": "GB",
                 "team": "Andretti Formula E",
-                "time": "1:14:147",
+                "time": null,
                 "laps": 19
             },
             {
                 "name": "Lucas Di Grassi",
                 "countryCode": "BR",
                 "team": "Lola Yamaha ABT",
-                "time": "1:18:540",
+                "time": null,
                 "laps": 5
             },
             {
                 "name": "Jake Hughes",
                 "countryCode": "GB",
                 "team": "McLaren Racing",
-                "time": "1:18:457",
+                "time": null,
                 "laps": 1
             },
             {
                 "name": "Nico Muller",
                 "countryCode": "CH",
                 "team": "Lola Yamaha ABT",
-                "time": "1:19:508",
+                "time": null,
                 "laps": 1
             },
             {
                 "name": "Robin Frijns",
                 "countryCode": "NL",
-                "team": "Envision Racing"
+                "team": "Envision Racing",
+                "time": null
             }
         ]
     }

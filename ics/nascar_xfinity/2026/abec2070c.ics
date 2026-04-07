@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Texas
+BEGIN:VEVENT
+UID:nascar_xfinity-abec2070c-d721986ab@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260501T210000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Texas 
+LOCATION:Texas Motor Speedway\, Fort Worth\, US
+GEO:32.753177;-97.3327459
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-abec2070c-98a47ada5@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260501T220500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Texas 
+LOCATION:Texas Motor Speedway\, Fort Worth\, US
+GEO:32.753177;-97.3327459
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-abec2070c-591987718@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260502T193000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Texas 
+LOCATION:Texas Motor Speedway\, Fort Worth\, US
+GEO:32.753177;-97.3327459
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

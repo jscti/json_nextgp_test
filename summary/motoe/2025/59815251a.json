@@ -1,0 +1,669 @@
+[
+    {
+        "id": "287c081fb",
+        "results": [
+            {
+                "name": "Mattia Casadei",
+                "countryCode": "IT",
+                "team": "LCR E-Team",
+                "time": "1:46.580",
+                "laps": 8
+            },
+            {
+                "name": "Matteo Ferrari",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+0.052",
+                "laps": 8
+            },
+            {
+                "name": "Nicholas Spinelli",
+                "countryCode": "IT",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": "+0.239",
+                "laps": 9
+            },
+            {
+                "name": "Tibor Erik Varga",
+                "countryCode": "HU",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": "+0.392",
+                "laps": 9
+            },
+            {
+                "name": "Oscar Gutierrez",
+                "countryCode": "ES",
+                "team": "MSI Racing Team",
+                "time": "+0.620",
+                "laps": 9
+            },
+            {
+                "name": "Alessandro Zaccone",
+                "countryCode": "IT",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+0.742",
+                "laps": 8
+            },
+            {
+                "name": "Lorenzo Baldassarri",
+                "countryCode": "IT",
+                "team": "Dynavolt Intact GP",
+                "time": "+0.985",
+                "laps": 9
+            },
+            {
+                "name": "Andrea Mantovani",
+                "countryCode": "IT",
+                "team": "KLINT Forward Factory Team",
+                "time": "+1.103",
+                "laps": 9
+            },
+            {
+                "name": "Eric Granado",
+                "countryCode": "BR",
+                "team": "LCR E-Team",
+                "time": "+1.217",
+                "laps": 8
+            },
+            {
+                "name": "Kevin Zannoni",
+                "countryCode": "IT",
+                "team": "Power Electronics Aspar Team",
+                "time": "+1.328",
+                "laps": 9
+            },
+            {
+                "name": "Jacopo Hosciuc",
+                "countryCode": "RO",
+                "team": "MSI Racing Team",
+                "time": "+1.389",
+                "laps": 8
+            },
+            {
+                "name": "Luca Bernardi",
+                "countryCode": "SM",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+1.472",
+                "laps": 8
+            },
+            {
+                "name": "Hector Garzo",
+                "countryCode": "ES",
+                "team": "Dynavolt Intact GP",
+                "time": "+1.692",
+                "laps": 8
+            },
+            {
+                "name": "Alessio Finello",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+1.790",
+                "laps": 9
+            },
+            {
+                "name": "Jordi Torres",
+                "countryCode": "ES",
+                "team": "Power Electronics Aspar Team",
+                "time": "+2.027",
+                "laps": 8
+            },
+            {
+                "name": "Raffaele Fusco",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+2.203",
+                "laps": 9
+            },
+            {
+                "name": "Maria Herrera",
+                "countryCode": "ES",
+                "team": "KLINT Forward Factory Team",
+                "time": "+2.771",
+                "laps": 8
+            },
+            {
+                "name": "Tommaso Occhi",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+4.954",
+                "laps": 8
+            }
+        ]
+    },
+    {
+        "id": "d49f23061",
+        "results": [
+            {
+                "name": "Mattia Casadei",
+                "countryCode": "IT",
+                "team": "LCR E-Team",
+                "time": "1:45.840",
+                "laps": 8
+            },
+            {
+                "name": "Tibor Erik Varga",
+                "countryCode": "HU",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": "+0.622",
+                "laps": 9
+            },
+            {
+                "name": "Alessandro Zaccone",
+                "countryCode": "IT",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+0.638",
+                "laps": 9
+            },
+            {
+                "name": "Lorenzo Baldassarri",
+                "countryCode": "IT",
+                "team": "Dynavolt Intact GP",
+                "time": "+0.650",
+                "laps": 9
+            },
+            {
+                "name": "Eric Granado",
+                "countryCode": "BR",
+                "team": "LCR E-Team",
+                "time": "+0.820",
+                "laps": 8
+            },
+            {
+                "name": "Nicholas Spinelli",
+                "countryCode": "IT",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": "+0.902",
+                "laps": 9
+            },
+            {
+                "name": "Luca Bernardi",
+                "countryCode": "SM",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+1.163",
+                "laps": 9
+            },
+            {
+                "name": "Jordi Torres",
+                "countryCode": "ES",
+                "team": "Power Electronics Aspar Team",
+                "time": "+1.228",
+                "laps": 9
+            },
+            {
+                "name": "Andrea Mantovani",
+                "countryCode": "IT",
+                "team": "KLINT Forward Factory Team",
+                "time": "+1.333",
+                "laps": 7
+            },
+            {
+                "name": "Hector Garzo",
+                "countryCode": "ES",
+                "team": "Dynavolt Intact GP",
+                "time": "+1.384",
+                "laps": 8
+            },
+            {
+                "name": "Kevin Zannoni",
+                "countryCode": "IT",
+                "team": "Power Electronics Aspar Team",
+                "time": "+1.398",
+                "laps": 7
+            },
+            {
+                "name": "Oscar Gutierrez",
+                "countryCode": "ES",
+                "team": "MSI Racing Team",
+                "time": "+1.461",
+                "laps": 6
+            },
+            {
+                "name": "Matteo Ferrari",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+1.677",
+                "laps": 7
+            },
+            {
+                "name": "Alessio Finello",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+1.692",
+                "laps": 9
+            },
+            {
+                "name": "Jacopo Hosciuc",
+                "countryCode": "RO",
+                "team": "MSI Racing Team",
+                "time": "+1.884",
+                "laps": 6
+            },
+            {
+                "name": "Maria Herrera",
+                "countryCode": "ES",
+                "team": "KLINT Forward Factory Team",
+                "time": "+1.993",
+                "laps": 8
+            },
+            {
+                "name": "Raffaele Fusco",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+2.728",
+                "laps": 9
+            },
+            {
+                "name": "Tommaso Occhi",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+5.059",
+                "laps": 9
+            }
+        ]
+    },
+    {
+        "id": "d7afd60f8",
+        "results": [
+            {
+                "name": "Matteo Ferrari",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "1:46.139",
+                "laps": 5
+            },
+            {
+                "name": "Jacopo Hosciuc",
+                "countryCode": "RO",
+                "team": "MSI Racing Team",
+                "time": "+0.088",
+                "laps": 6
+            },
+            {
+                "name": "Hector Garzo",
+                "countryCode": "ES",
+                "team": "Dynavolt Intact GP",
+                "time": "+0.141",
+                "laps": 4
+            },
+            {
+                "name": "Kevin Zannoni",
+                "countryCode": "IT",
+                "team": "Power Electronics Aspar Team",
+                "time": "+0.226",
+                "laps": 6
+            },
+            {
+                "name": "Oscar Gutierrez",
+                "countryCode": "ES",
+                "team": "MSI Racing Team",
+                "time": "+0.372",
+                "laps": 6
+            },
+            {
+                "name": "Alessio Finello",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+0.751",
+                "laps": 5
+            },
+            {
+                "name": "Andrea Mantovani",
+                "countryCode": "IT",
+                "team": "KLINT Forward Factory Team",
+                "time": "+0.784",
+                "laps": 6
+            },
+            {
+                "name": "Raffaele Fusco",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+1.881",
+                "laps": 6
+            },
+            {
+                "name": "Maria Herrera",
+                "countryCode": "ES",
+                "team": "KLINT Forward Factory Team",
+                "time": "+2.092",
+                "laps": 6
+            },
+            {
+                "name": "Tommaso Occhi",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+3.912",
+                "laps": 6
+            }
+        ]
+    },
+    {
+        "id": "9a3aca65a",
+        "results": [
+            {
+                "name": "Mattia Casadei",
+                "countryCode": "IT",
+                "team": "LCR E-Team",
+                "time": "1:45.600",
+                "laps": 5
+            },
+            {
+                "name": "Lorenzo Baldassarri",
+                "countryCode": "IT",
+                "team": "Dynavolt Intact GP",
+                "time": "+0.188",
+                "laps": 5
+            },
+            {
+                "name": "Eric Granado",
+                "countryCode": "BR",
+                "team": "LCR E-Team",
+                "time": "+0.272",
+                "laps": 6
+            },
+            {
+                "name": "Tibor Erik Varga",
+                "countryCode": "HU",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": "+0.300",
+                "laps": 5
+            },
+            {
+                "name": "Nicholas Spinelli",
+                "countryCode": "IT",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": "+0.348",
+                "laps": 5
+            },
+            {
+                "name": "Alessandro Zaccone",
+                "countryCode": "IT",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+0.371",
+                "laps": 5
+            },
+            {
+                "name": "Matteo Ferrari",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+0.501",
+                "laps": 6
+            },
+            {
+                "name": "Jordi Torres",
+                "countryCode": "ES",
+                "team": "Power Electronics Aspar Team",
+                "time": "+0.723",
+                "laps": 5
+            },
+            {
+                "name": "Jacopo Hosciuc",
+                "countryCode": "RO",
+                "team": "MSI Racing Team",
+                "time": "+1.345",
+                "laps": 4
+            },
+            {
+                "name": "Luca Bernardi",
+                "countryCode": "SM",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+1.515",
+                "laps": 5
+            }
+        ]
+    },
+    {
+        "id": "9d7bf36d7",
+        "results": [
+            {
+                "name": "Mattia Casadei",
+                "countryCode": "IT",
+                "team": "LCR E-Team",
+                "time": "7:07.266",
+                "laps": 4
+            },
+            {
+                "name": "Lorenzo Baldassarri",
+                "countryCode": "IT",
+                "team": "Dynavolt Intact GP",
+                "time": "+0.106",
+                "laps": 4
+            },
+            {
+                "name": "Eric Granado",
+                "countryCode": "BR",
+                "team": "LCR E-Team",
+                "time": "+0.790",
+                "laps": 4
+            },
+            {
+                "name": "Matteo Ferrari",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+1.543",
+                "laps": 4
+            },
+            {
+                "name": "Alessandro Zaccone",
+                "countryCode": "IT",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+1.289",
+                "laps": 4
+            },
+            {
+                "name": "Nicholas Spinelli",
+                "countryCode": "IT",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": "+2.377",
+                "laps": 4
+            },
+            {
+                "name": "Hector Garzo",
+                "countryCode": "ES",
+                "team": "Dynavolt Intact GP",
+                "time": "+3.045",
+                "laps": 4
+            },
+            {
+                "name": "Kevin Zannoni",
+                "countryCode": "IT",
+                "team": "Power Electronics Aspar Team",
+                "time": "+5.032",
+                "laps": 4
+            },
+            {
+                "name": "Oscar Gutierrez",
+                "countryCode": "ES",
+                "team": "MSI Racing Team",
+                "time": "+5.230",
+                "laps": 4
+            },
+            {
+                "name": "Andrea Mantovani",
+                "countryCode": "IT",
+                "team": "KLINT Forward Factory Team",
+                "time": "+5.392",
+                "laps": 4
+            },
+            {
+                "name": "Raffaele Fusco",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+7.336",
+                "laps": 4
+            },
+            {
+                "name": "Alessio Finello",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+8.561",
+                "laps": 4
+            },
+            {
+                "name": "Maria Herrera",
+                "countryCode": "ES",
+                "team": "KLINT Forward Factory Team",
+                "time": "+8.668",
+                "laps": 4
+            },
+            {
+                "name": "Tommaso Occhi",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+18.030",
+                "laps": 4
+            },
+            {
+                "name": "Jacopo Hosciuc",
+                "countryCode": "RO",
+                "team": "MSI Racing Team",
+                "time": null,
+                "laps": 2
+            },
+            {
+                "name": "Luca Bernardi",
+                "countryCode": "SM",
+                "team": "Aruba Cloud MotoE Team",
+                "time": null,
+                "laps": 0
+            },
+            {
+                "name": "Jordi Torres",
+                "countryCode": "ES",
+                "team": "Power Electronics Aspar Team",
+                "time": null,
+                "laps": 0
+            },
+            {
+                "name": "Tibor Erik Varga",
+                "countryCode": "HU",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": null,
+                "laps": 0
+            }
+        ]
+    },
+    {
+        "id": "3b3499e27",
+        "results": [
+            {
+                "name": "Mattia Casadei",
+                "countryCode": "IT",
+                "team": "LCR E-Team",
+                "time": "12:24.299",
+                "laps": 7
+            },
+            {
+                "name": "Nicholas Spinelli",
+                "countryCode": "IT",
+                "team": "Rivacold Snipers Team MotoE",
+                "time": "+0.554",
+                "laps": 7
+            },
+            {
+                "name": "Matteo Ferrari",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+1.433",
+                "laps": 7
+            },
+            {
+                "name": "Lorenzo Baldassarri",
+                "countryCode": "IT",
+                "team": "Dynavolt Intact GP",
+                "time": "+1.932",
+                "laps": 7
+            },
+            {
+                "name": "Hector Garzo",
+                "countryCode": "ES",
+                "team": "Dynavolt Intact GP",
+                "time": "+2.151",
+                "laps": 7
+            },
+            {
+                "name": "Alessandro Zaccone",
+                "countryCode": "IT",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+2.388",
+                "laps": 7
+            },
+            {
+                "name": "Eric Granado",
+                "countryCode": "BR",
+                "team": "LCR E-Team",
+                "time": "+2.861",
+                "laps": 7
+            },
+            {
+                "name": "Jacopo Hosciuc",
+                "countryCode": "RO",
+                "team": "MSI Racing Team",
+                "time": "+4.348",
+                "laps": 7
+            },
+            {
+                "name": "Andrea Mantovani",
+                "countryCode": "IT",
+                "team": "KLINT Forward Factory Team",
+                "time": "+6.065",
+                "laps": 7
+            },
+            {
+                "name": "Kevin Zannoni",
+                "countryCode": "IT",
+                "team": "Power Electronics Aspar Team",
+                "time": "+8.369",
+                "laps": 7
+            },
+            {
+                "name": "Jordi Torres",
+                "countryCode": "ES",
+                "team": "Power Electronics Aspar Team",
+                "time": "+9.807",
+                "laps": 7
+            },
+            {
+                "name": "Luca Bernardi",
+                "countryCode": "SM",
+                "team": "Aruba Cloud MotoE Team",
+                "time": "+11.339",
+                "laps": 7
+            },
+            {
+                "name": "Alessio Finello",
+                "countryCode": "IT",
+                "team": "Felo Gresini MotoE",
+                "time": "+13.288",
+                "laps": 7
+            },
+            {
+                "name": "Raffaele Fusco",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+13.736",
+                "laps": 7
+            },
+            {
+                "name": "Maria Herrera",
+                "countryCode": "ES",
+                "team": "KLINT Forward Factory Team",
+                "time": "+13.887",
+                "laps": 7
+            },
+            {
+                "name": "Tommaso Occhi",
+                "countryCode": "IT",
+                "team": "Ongetta SIC58 Squadra Corse",
+                "time": "+27.317",
+                "laps": 7
+            },
+            {
+                "name": "Oscar Gutierrez",
+                "countryCode": "ES",
+                "team": "MSI Racing Team",
+                "time": null,
+                "laps": 3
+            }
+        ]
+    }
+]

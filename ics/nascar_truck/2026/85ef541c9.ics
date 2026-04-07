@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Charlotte
+BEGIN:VEVENT
+UID:nascar_truck-85ef541c9-00ecb8579@nextgp.app
+DTSTAMP:20260304T054039Z
+DTSTART:20261009T170000Z
+SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Charlotte 
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarTruck,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-85ef541c9-b826d045e@nextgp.app
+DTSTAMP:20260304T054039Z
+DTSTART:20261009T180500Z
+SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Charlotte 
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarTruck,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-85ef541c9-a2eaa8337@nextgp.app
+DTSTAMP:20260304T054039Z
+DTSTART:20261009T210000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Charlotte 
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

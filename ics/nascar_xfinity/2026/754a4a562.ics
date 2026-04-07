@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Charlotte
+BEGIN:VEVENT
+UID:nascar_xfinity-754a4a562-0ac981308@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260523T150000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Charlotte 
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-754a4a562-e1f2686ba@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260523T160500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Charlotte 
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-754a4a562-9b28c95ae@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260523T210000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Charlotte 
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

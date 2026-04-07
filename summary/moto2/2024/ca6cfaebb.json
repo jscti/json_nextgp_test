@@ -35,6 +35,7 @@
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
+                "team": "Gresini Racing MotoGP",
                 "time": "+0.621",
                 "laps": 16
             },
@@ -76,6 +77,8 @@
             },
             {
                 "name": "Somkiat Chantra",
+                "countryCode": "TH",
+                "team": "LCR Honda",
                 "time": "+1.166",
                 "laps": 17
             },
@@ -94,6 +97,7 @@
             {
                 "name": "Ai Ogura",
                 "countryCode": "JP",
+                "team": "Trackhouse MotoGP Team",
                 "time": "+1.433",
                 "laps": 17
             },
@@ -140,7 +144,7 @@
                 "laps": 12
             },
             {
-                "name": "Mario Aji",
+                "name": "Mario Suryo Aji",
                 "countryCode": "ID",
                 "time": "+2.175",
                 "laps": 18
@@ -219,6 +223,7 @@
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
+                "team": "Gresini Racing MotoGP",
                 "time": "+0.310",
                 "laps": 14
             },
@@ -254,6 +259,8 @@
             },
             {
                 "name": "Somkiat Chantra",
+                "countryCode": "TH",
+                "team": "LCR Honda",
                 "time": "+0.657",
                 "laps": 16
             },
@@ -296,6 +303,7 @@
             {
                 "name": "Ai Ogura",
                 "countryCode": "JP",
+                "team": "Trackhouse MotoGP Team",
                 "time": "+1.119",
                 "laps": 16
             },
@@ -330,7 +338,7 @@
                 "laps": 14
             },
             {
-                "name": "Mario Aji",
+                "name": "Mario Suryo Aji",
                 "countryCode": "ID",
                 "time": "+1.472",
                 "laps": 17
@@ -409,6 +417,7 @@
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
+                "team": "Gresini Racing MotoGP",
                 "time": "+2.216",
                 "laps": 8
             },
@@ -420,6 +429,8 @@
             },
             {
                 "name": "Somkiat Chantra",
+                "countryCode": "TH",
+                "team": "LCR Honda",
                 "time": "+3.745",
                 "laps": 6
             },
@@ -442,7 +453,7 @@
                 "laps": 14
             },
             {
-                "name": "Mario Aji",
+                "name": "Mario Suryo Aji",
                 "countryCode": "ID",
                 "time": "+6.229",
                 "laps": 11
@@ -526,7 +537,7 @@
                 "laps": 2
             },
             {
-                "name": "Alex Escrig",
+                "name": "Aron Canet",
                 "countryCode": "ES"
             },
             {
@@ -534,12 +545,29 @@
                 "countryCode": "ES"
             },
             {
-                "name": "Ai Ogura",
-                "countryCode": "JP"
-            },
-            {
                 "name": "Senna Agius",
                 "countryCode": "AU"
+            },
+            {
+                "name": "Filip Salac",
+                "countryCode": "CZ"
+            },
+            {
+                "name": "Alex Escrig",
+                "countryCode": "ES"
+            },
+            {
+                "name": "Ai Ogura",
+                "countryCode": "JP",
+                "team": "Trackhouse MotoGP Team"
+            },
+            {
+                "name": "Manuel Gonzalez",
+                "countryCode": "ES"
+            },
+            {
+                "name": "Joe Roberts",
+                "countryCode": "US"
             },
             {
                 "name": "Diogo Moreira",
@@ -548,22 +576,6 @@
             {
                 "name": "Zonta van Den Goorbergh",
                 "countryCode": "NL"
-            },
-            {
-                "name": "Manuel Gonzalez",
-                "countryCode": "ES"
-            },
-            {
-                "name": "Aron Canet",
-                "countryCode": "ES"
-            },
-            {
-                "name": "Joe Roberts",
-                "countryCode": "US"
-            },
-            {
-                "name": "Filip Salac",
-                "countryCode": "CZ"
             }
         ]
     },
@@ -579,186 +591,190 @@
             {
                 "name": "Diogo Moreira",
                 "countryCode": "BR",
-                "time": "1:51.770",
+                "time": "+0.134",
                 "laps": 7
             },
             {
                 "name": "Aron Canet",
                 "countryCode": "ES",
-                "time": "1:51.784",
+                "time": "+0.148",
                 "laps": 7
             },
             {
                 "name": "Deniz Oncu",
                 "countryCode": "TR",
-                "time": "1:51.923",
+                "time": "+0.287",
                 "laps": 7
             },
             {
                 "name": "Tony Arbolino",
                 "countryCode": "IT",
-                "time": "1:51.938",
+                "time": "+0.302",
                 "laps": 14
             },
             {
                 "name": "Albert Arenas",
                 "countryCode": "ES",
-                "time": "1:51.965",
+                "time": "+0.329",
                 "laps": 7
             },
             {
                 "name": "Alonso Lopez",
                 "countryCode": "ES",
-                "time": "1:51.968",
+                "time": "+0.332",
                 "laps": 7
             },
             {
                 "name": "Joe Roberts",
                 "countryCode": "US",
-                "time": "1:52.044",
+                "time": "+0.408",
                 "laps": 7
             },
             {
                 "name": "Celestino Vietti",
                 "countryCode": "IT",
-                "time": "1:52.111",
+                "time": "+0.475",
                 "laps": 7
             },
             {
                 "name": "Manuel Gonzalez",
                 "countryCode": "ES",
-                "time": "1:52.141",
+                "time": "+0.505",
                 "laps": 7
             },
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
-                "time": "1:52.358",
+                "team": "Gresini Racing MotoGP",
+                "time": "+0.722",
                 "laps": 7
             },
             {
                 "name": "Marcos Ramirez",
                 "countryCode": "ES",
-                "time": "1:52.374",
+                "time": "+0.738",
                 "laps": 7
             },
             {
                 "name": "BO Bendsneyder",
                 "countryCode": "NL",
-                "time": "1:52.750",
+                "time": "+1.114",
                 "laps": 6
             },
             {
                 "name": "Somkiat Chantra",
-                "time": "1:52.778",
+                "countryCode": "TH",
+                "team": "LCR Honda",
+                "time": "+1.142",
                 "laps": 7
             },
             {
                 "name": "Izan Guevara",
                 "countryCode": "ES",
-                "time": "1:52.887",
+                "time": "+1.251",
                 "laps": 7
             },
             {
                 "name": "Ai Ogura",
                 "countryCode": "JP",
-                "time": "1:53.011",
+                "team": "Trackhouse MotoGP Team",
+                "time": "+1.375",
                 "laps": 15
             },
             {
                 "name": "Filip Salac",
                 "countryCode": "CZ",
-                "time": "1:53.506",
+                "time": "+1.870",
                 "laps": 13
             },
             {
                 "name": "Zonta van Den Goorbergh",
                 "countryCode": "NL",
-                "time": "1:53.548",
+                "time": "+1.912",
                 "laps": 13
             },
             {
                 "name": "Ayumu Sasaki",
                 "countryCode": "JP",
-                "time": "1:53.007",
+                "time": "+1.371",
                 "laps": 6
             },
             {
                 "name": "Darryn Binder",
                 "countryCode": "ZA",
-                "time": "1:53.090",
+                "time": "+1.454",
                 "laps": 7
             },
             {
-                "name": "Mario Aji",
+                "name": "Mario Suryo Aji",
                 "countryCode": "ID",
-                "time": "1:53.223",
+                "time": "+1.587",
                 "laps": 7
             },
             {
                 "name": "Barry Baltus",
                 "countryCode": "BE",
-                "time": "1:53.348",
+                "time": "+1.712",
                 "laps": 3
             },
             {
                 "name": "Jaume Masia",
                 "countryCode": "ES",
-                "time": "1:53.349",
+                "time": "+1.713",
                 "laps": 5
             },
             {
                 "name": "Senna Agius",
                 "countryCode": "AU",
-                "time": "1:53.558 ",
+                "time": "+1.922",
                 "laps": 7
             },
             {
                 "name": "Jeremy Alcoba",
                 "countryCode": "ES",
-                "time": " 1:53.759",
+                "time": "+2.123",
                 "laps": 3
             },
             {
                 "name": "Dennis Foggia",
                 "countryCode": "IT",
-                "time": " 1:53.818",
+                "time": "+2.182",
                 "laps": 7
             },
             {
                 "name": "Xavi Cardelus",
                 "countryCode": "AD",
-                "time": "1:53.887",
+                "time": "+2.251",
                 "laps": 5
             },
             {
                 "name": "Daniel Munoz",
                 "countryCode": "ES",
-                "time": " 1:53.911",
+                "time": "+2.275",
                 "laps": 6
             },
             {
                 "name": "Sergio Garcia",
                 "countryCode": "ES",
-                "time": "1:54.611 ",
+                "time": "+2.975",
                 "laps": 2
             },
             {
                 "name": "Xavier Artigas",
                 "countryCode": "ES",
-                "time": "1:55.361",
+                "time": "+3.725",
                 "laps": 2
             },
             {
                 "name": "Alex Escrig",
                 "countryCode": "ES",
-                "time": "1:57.418",
+                "time": "+5.782",
                 "laps": 7
             },
             {
                 "name": "Jorge Navarro",
                 "countryCode": "ES",
-                "time": "1:52.367"
+                "time": "+0.731"
             }
         ]
     },
@@ -768,188 +784,196 @@
             {
                 "name": "Jake Dixon",
                 "countryCode": "GB",
-                "time": "1:52.597",
+                "time": "35:54.402",
                 "laps": 19
             },
             {
                 "name": "Tony Arbolino",
                 "countryCode": "IT",
-                "time": "1:52.796",
+                "time": "+1.779",
                 "laps": 19
             },
             {
                 "name": "Deniz Oncu",
                 "countryCode": "TR",
-                "time": "1:52.894",
+                "time": "+5.479",
                 "laps": 19
             },
             {
                 "name": "Alonso Lopez",
                 "countryCode": "ES",
-                "time": "1:52.947",
+                "time": "+9.190",
                 "laps": 19
             },
             {
                 "name": "Manuel Gonzalez",
                 "countryCode": "ES",
-                "time": "1:53.048",
+                "time": "+11.098",
                 "laps": 19
             },
             {
                 "name": "Somkiat Chantra",
-                "time": "1:53.072",
+                "countryCode": "TH",
+                "team": "LCR Honda",
+                "time": "+13.060",
                 "laps": 19
             },
             {
                 "name": "Marcos Ramirez",
                 "countryCode": "ES",
-                "time": "1:53.429",
+                "time": "+16.494",
                 "laps": 19
             },
             {
                 "name": "Ai Ogura",
                 "countryCode": "JP",
-                "time": "1:53.183",
+                "team": "Trackhouse MotoGP Team",
+                "time": "+18.672",
                 "laps": 19
             },
             {
                 "name": "Darryn Binder",
                 "countryCode": "ZA",
-                "time": "1:53.474",
+                "time": "+19.757",
                 "laps": 19
             },
             {
                 "name": "Celestino Vietti",
                 "countryCode": "IT",
-                "time": "1:52.989",
+                "time": "+21.301",
                 "laps": 19
             },
             {
                 "name": "Filip Salac",
                 "countryCode": "CZ",
-                "time": "1:53.942",
+                "time": "+24.737",
                 "laps": 19
             },
             {
                 "name": "Ayumu Sasaki",
                 "countryCode": "JP",
-                "time": "1:53.718",
+                "time": "+25.415",
                 "laps": 19
             },
             {
                 "name": "Barry Baltus",
                 "countryCode": "BE",
-                "time": "1:53.782",
+                "time": "+27.794",
                 "laps": 19
             },
             {
                 "name": "Zonta van Den Goorbergh",
                 "countryCode": "NL",
-                "time": "1:53.661",
+                "time": "+28.493",
                 "laps": 19
             },
             {
-                "name": "Mario Aji",
+                "name": "Mario Suryo Aji",
                 "countryCode": "ID",
-                "time": "1:53.649",
+                "time": "+29.684",
                 "laps": 19
             },
             {
                 "name": "Senna Agius",
                 "countryCode": "AU",
-                "time": "1:53.686",
+                "time": "+30.080",
                 "laps": 19
             },
             {
                 "name": "Diogo Moreira",
                 "countryCode": "BR",
-                "time": "1:53.187",
+                "time": "+31.288",
                 "laps": 19
             },
             {
                 "name": "Albert Arenas",
                 "countryCode": "ES",
-                "time": "1:53.629",
+                "time": "+31.418",
                 "laps": 19
             },
             {
                 "name": "Jaume Masia",
                 "countryCode": "ES",
-                "time": "1:53.989",
+                "time": "+37.598",
                 "laps": 19
             },
             {
                 "name": "Daniel Munoz",
                 "countryCode": "ES",
-                "time": "1:53.456",
+                "time": "+37.769",
                 "laps": 19
             },
             {
                 "name": "Jeremy Alcoba",
                 "countryCode": "ES",
-                "time": "1:54.260",
+                "time": "+43.801",
                 "laps": 19
             },
             {
                 "name": "Xavi Cardelus",
                 "countryCode": "AD",
-                "time": "1:54.538",
+                "time": "+44.311",
                 "laps": 19
             },
             {
                 "name": "Jorge Navarro",
                 "countryCode": "ES",
-                "time": "1:55.109",
+                "time": "+1:02.601",
                 "laps": 19
             },
             {
                 "name": "Alex Escrig",
                 "countryCode": "ES",
-                "time": "1:55.681",
+                "time": "+1:16.416",
                 "laps": 19
             },
             {
                 "name": "Joe Roberts",
                 "countryCode": "US",
-                "time": "1:53.261",
+                "time": null,
                 "laps": 18
             },
             {
                 "name": "Dennis Foggia",
                 "countryCode": "IT",
-                "time": "1:55.048",
+                "time": null,
                 "laps": 13
             },
             {
                 "name": "Sergio Garcia",
                 "countryCode": "ES",
-                "time": "1:54.797",
+                "time": null,
                 "laps": 11
             },
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
-                "time": "1:52.887",
+                "team": "Gresini Racing MotoGP",
+                "time": null,
                 "laps": 6
             },
             {
                 "name": "Aron Canet",
                 "countryCode": "ES",
+                "time": null,
                 "laps": 0
             },
             {
                 "name": "BO Bendsneyder",
                 "countryCode": "NL",
+                "time": null,
                 "laps": 0
             },
             {
                 "name": "Izan Guevara",
                 "countryCode": "ES",
+                "time": null,
                 "laps": 0
             },
             {
                 "name": "Xavier Artigas",
                 "countryCode": "ES",
+                "time": null,
                 "laps": 0
             }
         ]

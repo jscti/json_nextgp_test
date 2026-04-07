@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Watkins Glen
+BEGIN:VEVENT
+UID:nascar_truck-fcc58ad8f-078417a73@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260508T150000Z
+SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Watkins Glen 
+LOCATION:Watkins Glen International\, Watkins Glen\, US
+GEO:42.3810555;-76.8705777
+CATEGORIES:NascarTruck,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-fcc58ad8f-f808b5c6b@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260508T160500Z
+SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Watkins Glen 
+LOCATION:Watkins Glen International\, Watkins Glen\, US
+GEO:42.3810555;-76.8705777
+CATEGORIES:NascarTruck,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-fcc58ad8f-4709d293b@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260508T203000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Watkins Glen 
+LOCATION:Watkins Glen International\, Watkins Glen\, US
+GEO:42.3810555;-76.8705777
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

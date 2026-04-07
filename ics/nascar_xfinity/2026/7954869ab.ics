@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Nashville
+BEGIN:VEVENT
+UID:nascar_xfinity-7954869ab-0748ef15a@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260530T180000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Nashville 
+LOCATION:Nashville Superspeedway\, Lebanon\, US
+GEO:36.2079779;-86.2910945
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-7954869ab-2bfa17248@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260530T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Nashville 
+LOCATION:Nashville Superspeedway\, Lebanon\, US
+GEO:36.2079779;-86.2910945
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-7954869ab-c53d3e2e9@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260530T233000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Nashville 
+LOCATION:Nashville Superspeedway\, Lebanon\, US
+GEO:36.2079779;-86.2910945
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

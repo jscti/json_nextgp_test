@@ -3,117 +3,163 @@
         "id": "fa5bca40c",
         "results": [
             {
-                "name": "Evans, Mitch",
-                "time": "01:30.414",
+                "name": "Mitch Evans",
+                "countryCode": "NZ",
+                "team": "Jaguar Racing",
+                "time": "1:30.414",
                 "laps": 15
             },
             {
-                "name": "Frijns, Robin",
+                "name": "Robin Frijns",
+                "countryCode": "NL",
+                "team": "Envision Racing",
                 "time": "+0.299",
                 "laps": 16
             },
             {
-                "name": "Cassidy, Nick",
+                "name": "Nick Cassidy",
+                "countryCode": "NZ",
+                "team": "Jaguar Racing",
                 "time": "+0.692",
                 "laps": 16
             },
             {
-                "name": "Hughes, Jake",
+                "name": "Jake Hughes",
+                "countryCode": "GB",
+                "team": "McLaren Racing",
                 "time": "+0.931",
                 "laps": 15
             },
             {
-                "name": "Dennis, Jake",
+                "name": "Jake Dennis",
+                "countryCode": "GB",
+                "team": "Andretti Formula E",
                 "time": "+1.088",
                 "laps": 15
             },
             {
-                "name": "Da Costa, Antonio Felix",
+                "name": "Antonio Felix Da Costa",
+                "countryCode": "PT",
+                "team": "Andretti Formula E",
                 "time": "+1.131",
                 "laps": 15
             },
             {
-                "name": "Mortara, Edoardo",
+                "name": "Edoardo Mortara",
+                "countryCode": "CH",
+                "team": "Mahindra Racing",
                 "time": "+1.152",
                 "laps": 14
             },
             {
-                "name": "de Vries, Nyck",
+                "name": "Nyck de Vries",
+                "countryCode": "NL",
+                "team": "Mahindra Racing",
                 "time": "+1.311",
                 "laps": 14
             },
             {
-                "name": "Nato, Norman",
+                "name": "Norman Nato",
+                "countryCode": "FR",
+                "team": "Andretti Formula E",
                 "time": "+1.453",
                 "laps": 16
             },
             {
-                "name": "Buemi, Sebastien",
+                "name": "Sebastien Buemi",
+                "countryCode": "CH",
+                "team": "Envision Racing",
                 "time": "+1.476",
                 "laps": 15
             },
             {
-                "name": "Gunther, Max",
+                "name": "Max Gunther",
+                "countryCode": "DE",
+                "team": "Maserati Racing",
                 "time": "+1.488",
                 "laps": 16
             },
             {
-                "name": "Di Grassi, Lucas",
+                "name": "Lucas Di Grassi",
+                "countryCode": "BR",
+                "team": "Lola Yamaha ABT",
                 "time": "+1.488",
                 "laps": 15
             },
             {
-                "name": "Vandoorne, Stoffel",
+                "name": "Stoffel Vandoorne",
+                "countryCode": "BE",
+                "team": "DS Penske",
                 "time": "+1.561",
                 "laps": 15
             },
             {
-                "name": "Wehrlein, Pascal",
+                "name": "Pascal Wehrlein",
+                "countryCode": "DE",
+                "team": "TAG Heuer Porsche",
                 "time": "+1.661",
                 "laps": 15
             },
             {
-                "name": "Ticktum, Dan",
+                "name": "Dan Ticktum",
+                "countryCode": "GB",
+                "team": "Kiro Race Co",
                 "time": "+1.809",
                 "laps": 15
             },
             {
-                "name": "Rowland, Oliver",
+                "name": "Oliver Rowland",
+                "countryCode": "GB",
+                "team": "Nissan E.dams",
                 "time": "+1.931",
                 "laps": 15
             },
             {
-                "name": "Muller, Nico",
+                "name": "Nico Muller",
+                "countryCode": "CH",
+                "team": "Lola Yamaha ABT",
                 "time": "+2.020",
                 "laps": 15
             },
             {
-                "name": "Vergne, Jean-Eric",
+                "name": "Jean-Eric Vergne",
+                "countryCode": "FR",
+                "team": "DS Penske",
                 "time": "+2.273",
                 "laps": 15
             },
             {
-                "name": "Fenestraz, Sacha",
+                "name": "Sacha Fenestraz",
+                "countryCode": "FR",
+                "team": "Nissan E.dams",
                 "time": "+2.304",
                 "laps": 13
             },
             {
-                "name": "Daruvala, Jehan",
+                "name": "Jehan Daruvala",
+                "countryCode": "IN",
+                "team": "Maserati Racing",
                 "time": "+2.616",
                 "laps": 15
             },
             {
-                "name": "Bird, Sam",
+                "name": "Sam Bird",
+                "countryCode": "GB",
+                "team": "McLaren Racing",
                 "time": "+3.915",
                 "laps": 9
             },
             {
-                "name": "Sette Camara, Sergio",
+                "name": "Sergio Sette Camara",
+                "countryCode": "BR",
+                "team": "Kiro Race Co",
                 "time": "+11.663",
                 "laps": 10
             },
             {
-                "name": "Barnard, Taylor"
+                "name": "Taylor Barnard",
+                "countryCode": "GB",
+                "team": "McLaren Racing"
             }
         ]
     },
@@ -121,117 +167,163 @@
         "id": "98d8df87e",
         "results": [
             {
-                "name": "Evans, Mitch",
-                "time": "01:29.521",
+                "name": "Mitch Evans",
+                "countryCode": "NZ",
+                "team": "Jaguar Racing",
+                "time": "1:29.521",
                 "laps": 16
             },
             {
-                "name": "Frijns, Robin",
+                "name": "Robin Frijns",
+                "countryCode": "NL",
+                "team": "Envision Racing",
                 "time": "+0.129",
                 "laps": 17
             },
             {
-                "name": "Wehrlein, Pascal",
+                "name": "Pascal Wehrlein",
+                "countryCode": "DE",
+                "team": "TAG Heuer Porsche",
                 "time": "+0.151",
                 "laps": 17
             },
             {
-                "name": "Da Costa, Antonio Felix",
+                "name": "Antonio Felix Da Costa",
+                "countryCode": "PT",
+                "team": "Andretti Formula E",
                 "time": "+0.459",
                 "laps": 17
             },
             {
-                "name": "Gunther, Max",
+                "name": "Max Gunther",
+                "countryCode": "DE",
+                "team": "Maserati Racing",
                 "time": "+0.519",
                 "laps": 16
             },
             {
-                "name": "Ticktum, Dan",
+                "name": "Dan Ticktum",
+                "countryCode": "GB",
+                "team": "Kiro Race Co",
                 "time": "+0.566",
                 "laps": 16
             },
             {
-                "name": "Rowland, Oliver",
+                "name": "Oliver Rowland",
+                "countryCode": "GB",
+                "team": "Nissan E.dams",
                 "time": "+0.653",
                 "laps": 16
             },
             {
-                "name": "Vandoorne, Stoffel",
+                "name": "Stoffel Vandoorne",
+                "countryCode": "BE",
+                "team": "DS Penske",
                 "time": "+0.686",
                 "laps": 16
             },
             {
-                "name": "de Vries, Nyck",
+                "name": "Nyck de Vries",
+                "countryCode": "NL",
+                "team": "Mahindra Racing",
                 "time": "+0.897",
                 "laps": 16
             },
             {
-                "name": "Nato, Norman",
+                "name": "Norman Nato",
+                "countryCode": "FR",
+                "team": "Andretti Formula E",
                 "time": "+0.900",
                 "laps": 17
             },
             {
-                "name": "Cassidy, Nick",
+                "name": "Nick Cassidy",
+                "countryCode": "NZ",
+                "team": "Jaguar Racing",
                 "time": "+0.926",
                 "laps": 16
             },
             {
-                "name": "Mortara, Edoardo",
+                "name": "Edoardo Mortara",
+                "countryCode": "CH",
+                "team": "Mahindra Racing",
                 "time": "+0.931",
                 "laps": 12
             },
             {
-                "name": "Daruvala, Jehan",
+                "name": "Jehan Daruvala",
+                "countryCode": "IN",
+                "team": "Maserati Racing",
                 "time": "+0.966",
                 "laps": 16
             },
             {
-                "name": "Hughes, Jake",
+                "name": "Jake Hughes",
+                "countryCode": "GB",
+                "team": "McLaren Racing",
                 "time": "+0.971",
                 "laps": 15
             },
             {
-                "name": "Dennis, Jake",
+                "name": "Jake Dennis",
+                "countryCode": "GB",
+                "team": "Andretti Formula E",
                 "time": "+1.015",
                 "laps": 16
             },
             {
-                "name": "Muller, Nico",
+                "name": "Nico Muller",
+                "countryCode": "CH",
+                "team": "Lola Yamaha ABT",
                 "time": "+1.233",
                 "laps": 14
             },
             {
-                "name": "Fenestraz, Sacha",
+                "name": "Sacha Fenestraz",
+                "countryCode": "FR",
+                "team": "Nissan E.dams",
                 "time": "+1.333",
                 "laps": 16
             },
             {
-                "name": "Vergne, Jean-Eric",
+                "name": "Jean-Eric Vergne",
+                "countryCode": "FR",
+                "team": "DS Penske",
                 "time": "+1.428",
                 "laps": 15
             },
             {
-                "name": "Di Grassi, Lucas",
+                "name": "Lucas Di Grassi",
+                "countryCode": "BR",
+                "team": "Lola Yamaha ABT",
                 "time": "+1.687",
                 "laps": 16
             },
             {
-                "name": "Buemi, Sebastien",
+                "name": "Sebastien Buemi",
+                "countryCode": "CH",
+                "team": "Envision Racing",
                 "time": "+1.701",
                 "laps": 17
             },
             {
-                "name": "Sette Camara, Sergio",
+                "name": "Sergio Sette Camara",
+                "countryCode": "BR",
+                "team": "Kiro Race Co",
                 "time": "+1.855",
                 "laps": 7
             },
             {
-                "name": "Barnard, Taylor",
+                "name": "Taylor Barnard",
+                "countryCode": "GB",
+                "team": "McLaren Racing",
                 "time": "+2.178",
                 "laps": 16
             },
             {
-                "name": "Bird, Sam"
+                "name": "Sam Bird",
+                "countryCode": "GB",
+                "team": "McLaren Racing"
             }
         ]
     },
@@ -239,73 +331,119 @@
         "id": "0e137bbd2",
         "results": [
             {
-                "name": "Wehrlein, Pascal"
+                "name": "Pascal Wehrlein",
+                "countryCode": "DE",
+                "team": "TAG Heuer Porsche"
             },
             {
-                "name": "Vandoorne, Stoffel"
+                "name": "Stoffel Vandoorne",
+                "countryCode": "BE",
+                "team": "DS Penske"
             },
             {
-                "name": "Cassidy, Nick"
+                "name": "Nick Cassidy",
+                "countryCode": "NZ",
+                "team": "Jaguar Racing"
             },
             {
-                "name": "Evans, Mitch"
+                "name": "Mitch Evans",
+                "countryCode": "NZ",
+                "team": "Jaguar Racing"
             },
             {
-                "name": "Vergne, Jean-Eric"
+                "name": "Jean-Eric Vergne",
+                "countryCode": "FR",
+                "team": "DS Penske"
             },
             {
-                "name": "Buemi, Sebastien"
+                "name": "Sebastien Buemi",
+                "countryCode": "CH",
+                "team": "Envision Racing"
             },
             {
-                "name": "Da Costa, Antonio Felix"
+                "name": "Antonio Felix Da Costa",
+                "countryCode": "PT",
+                "team": "Andretti Formula E"
             },
             {
-                "name": "Gunther, Max"
+                "name": "Max Gunther",
+                "countryCode": "DE",
+                "team": "Maserati Racing"
             },
             {
-                "name": "Frijns, Robin"
+                "name": "Robin Frijns",
+                "countryCode": "NL",
+                "team": "Envision Racing"
             },
             {
-                "name": "Daruvala, Jehan"
+                "name": "Jehan Daruvala",
+                "countryCode": "IN",
+                "team": "Maserati Racing"
             },
             {
-                "name": "Sette Camara, Sergio"
+                "name": "Sergio Sette Camara",
+                "countryCode": "BR",
+                "team": "Kiro Race Co"
             },
             {
-                "name": "Mortara, Edoardo"
+                "name": "Edoardo Mortara",
+                "countryCode": "CH",
+                "team": "Mahindra Racing"
             },
             {
-                "name": "de Vries, Nyck"
+                "name": "Nyck de Vries",
+                "countryCode": "NL",
+                "team": "Mahindra Racing"
             },
             {
-                "name": "Fenestraz, Sacha"
+                "name": "Sacha Fenestraz",
+                "countryCode": "FR",
+                "team": "Nissan E.dams"
             },
             {
-                "name": "Rowland, Oliver"
+                "name": "Oliver Rowland",
+                "countryCode": "GB",
+                "team": "Nissan E.dams"
             },
             {
-                "name": "Hughes, Jake"
+                "name": "Jake Hughes",
+                "countryCode": "GB",
+                "team": "McLaren Racing"
             },
             {
-                "name": "Di Grassi, Lucas"
+                "name": "Lucas Di Grassi",
+                "countryCode": "BR",
+                "team": "Lola Yamaha ABT"
             },
             {
-                "name": "Dennis, Jake"
+                "name": "Jake Dennis",
+                "countryCode": "GB",
+                "team": "Andretti Formula E"
             },
             {
-                "name": "Nato, Norman"
+                "name": "Norman Nato",
+                "countryCode": "FR",
+                "team": "Andretti Formula E"
             },
             {
-                "name": "Ticktum, Dan"
+                "name": "Dan Ticktum",
+                "countryCode": "GB",
+                "team": "Kiro Race Co"
             },
             {
-                "name": "Muller, Nico"
+                "name": "Nico Muller",
+                "countryCode": "CH",
+                "team": "Lola Yamaha ABT"
             },
             {
-                "name": "Barnard, Taylor"
+                "name": "Taylor Barnard",
+                "countryCode": "GB",
+                "team": "McLaren Racing"
             },
             {
-                "name": "Bird, Sam"
+                "name": "Sam Bird",
+                "countryCode": "GB",
+                "team": "McLaren Racing"
             }
         ]
     },
@@ -313,117 +451,164 @@
         "id": "93246374e",
         "results": [
             {
-                "name": "Evans, Mitch",
-                "time": "1:32.203",
+                "name": "Mitch Evans",
+                "countryCode": "NZ",
+                "team": "Jaguar Racing",
+                "time": "58:15.455",
                 "laps": 31
             },
             {
-                "name": "Cassidy, Nick",
-                "time": "1:31.561",
+                "name": "Nick Cassidy",
+                "countryCode": "NZ",
+                "team": "Jaguar Racing",
+                "time": "+0.946",
                 "laps": 31
             },
             {
-                "name": "Vandoorne, Stoffel",
-                "time": "1:32.564",
+                "name": "Stoffel Vandoorne",
+                "countryCode": "BE",
+                "team": "DS Penske",
+                "time": "+3.835",
                 "laps": 31
             },
             {
-                "name": "Vergne, Jean-Eric",
-                "time": "1:31.912",
+                "name": "Jean-Eric Vergne",
+                "countryCode": "FR",
+                "team": "DS Penske",
+                "time": "+4.799",
                 "laps": 31
             },
             {
-                "name": "Wehrlein, Pascal",
-                "time": "1:31.757",
+                "name": "Pascal Wehrlein",
+                "countryCode": "DE",
+                "team": "TAG Heuer Porsche",
+                "time": "+6.378",
                 "laps": 31
             },
             {
-                "name": "Rowland, Oliver",
-                "time": "1:32.059",
+                "name": "Oliver Rowland",
+                "countryCode": "GB",
+                "team": "Nissan E.dams",
+                "time": "+6.792",
                 "laps": 31
             },
             {
-                "name": "Da Costa, Antonio Felix",
-                "time": "1:32.127",
+                "name": "Antonio Felix Da Costa",
+                "countryCode": "PT",
+                "team": "Andretti Formula E",
+                "time": "+7.364",
                 "laps": 31
             },
             {
-                "name": "Fenestraz, Sacha",
-                "time": "1:32.434",
+                "name": "Sacha Fenestraz",
+                "countryCode": "FR",
+                "team": "Nissan E.dams",
+                "time": "+7.928",
                 "laps": 31
             },
             {
-                "name": "Gunther, Max",
-                "time": "1:32.239",
+                "name": "Max Gunther",
+                "countryCode": "DE",
+                "team": "Maserati Racing",
+                "time": "+8.262",
                 "laps": 31
             },
             {
-                "name": "Nato, Norman",
-                "time": "1:32.144",
+                "name": "Norman Nato",
+                "countryCode": "FR",
+                "team": "Andretti Formula E",
+                "time": "+9.045",
                 "laps": 31
             },
             {
-                "name": "Di Grassi, Lucas",
-                "time": "1:32.527",
+                "name": "Lucas Di Grassi",
+                "countryCode": "BR",
+                "team": "Lola Yamaha ABT",
+                "time": "+9.889",
                 "laps": 31
             },
             {
-                "name": "de Vries, Nyck",
-                "time": "1:32.527",
+                "name": "Nyck de Vries",
+                "countryCode": "NL",
+                "team": "Mahindra Racing",
+                "time": "+10.183",
                 "laps": 31
             },
             {
-                "name": "Ticktum, Dan",
-                "time": "1:34.000",
+                "name": "Dan Ticktum",
+                "countryCode": "GB",
+                "team": "Kiro Race Co",
+                "time": "+17.999",
                 "laps": 31
             },
             {
-                "name": "Barnard, Taylor",
-                "time": "1:33.498",
+                "name": "Taylor Barnard",
+                "countryCode": "GB",
+                "team": "McLaren Racing",
+                "time": "+18.128",
                 "laps": 31
             },
             {
-                "name": "Buemi, Sebastien",
-                "time": "1:33.883",
+                "name": "Sebastien Buemi",
+                "countryCode": "CH",
+                "team": "Envision Racing",
+                "time": "+18.452",
                 "laps": 31
             },
             {
-                "name": "Hughes, Jake",
-                "time": "1:32.277",
+                "name": "Jake Hughes",
+                "countryCode": "GB",
+                "team": "McLaren Racing",
+                "time": "+18.996",
                 "laps": 31
             },
             {
-                "name": "Frijns, Robin",
-                "time": "1:32.984",
+                "name": "Robin Frijns",
+                "countryCode": "NL",
+                "team": "Envision Racing",
+                "time": "+19.106",
                 "laps": 31
             },
             {
-                "name": "Daruvala, Jehan",
-                "time": "1:31.052",
+                "name": "Jehan Daruvala",
+                "countryCode": "IN",
+                "team": "Maserati Racing",
+                "time": "+24.269",
                 "laps": 31
             },
             {
-                "name": "Sette Camara, Sergio",
-                "time": "1:33.348",
+                "name": "Sergio Sette Camara",
+                "countryCode": "BR",
+                "team": "Kiro Race Co",
+                "time": "+24.573",
                 "laps": 31
             },
             {
-                "name": "Dennis, Jake",
-                "time": "1:31.064",
+                "name": "Jake Dennis",
+                "countryCode": "GB",
+                "team": "Andretti Formula E",
+                "time": "+32.032",
                 "laps": 31
             },
             {
-                "name": "Muller, Nico",
-                "time": "1:33:520",
+                "name": "Nico Muller",
+                "countryCode": "CH",
+                "team": "Lola Yamaha ABT",
+                "time": null,
                 "laps": 23
             },
             {
-                "name": "Mortara, Edoardo",
-                "time": "1:40:573",
+                "name": "Edoardo Mortara",
+                "countryCode": "CH",
+                "team": "Mahindra Racing",
+                "time": null,
                 "laps": 3
             },
             {
-                "name": "Bird, Sam"
+                "name": "Sam Bird",
+                "countryCode": "GB",
+                "team": "McLaren Racing",
+                "time": null
             }
         ]
     }

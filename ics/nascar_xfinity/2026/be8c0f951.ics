@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Atlanta
+BEGIN:VEVENT
+UID:nascar_xfinity-be8c0f951-a159936c0@nextgp.app
+DTSTAMP:20260217T054040Z
+DTSTART:20260711T150000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Atlanta 
+LOCATION:EchoPark Speedway\, Hampton\, US
+GEO:33.3870578;-84.2829784
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-be8c0f951-86ab2a49d@nextgp.app
+DTSTAMP:20260217T054040Z
+DTSTART:20260711T230000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Atlanta 
+LOCATION:EchoPark Speedway\, Hampton\, US
+GEO:33.3870578;-84.2829784
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

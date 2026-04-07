@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Indianapolis
+BEGIN:VEVENT
+UID:nascar_xfinity-bc9b244c9-a8494ee85@nextgp.app
+DTSTAMP:20260221T174040Z
+DTSTART:20260724T160000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Indianapolis 
+LOCATION:Indianapolis Motor Speedway\, Speedway\, US
+GEO:39.7881233;-86.2407144
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-bc9b244c9-41da4b37a@nextgp.app
+DTSTAMP:20260221T174040Z
+DTSTART:20260725T160000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Indianapolis 
+LOCATION:Indianapolis Motor Speedway\, Speedway\, US
+GEO:39.7881233;-86.2407144
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-bc9b244c9-f1fb0acf9@nextgp.app
+DTSTAMP:20260221T174040Z
+DTSTART:20260725T200000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Indianapolis 
+LOCATION:Indianapolis Motor Speedway\, Speedway\, US
+GEO:39.7881233;-86.2407144
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Phoenix
+BEGIN:VEVENT
+UID:nascar_xfinity-d080e016f-d0e6a7047@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20261017T180000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Phoenix 
+LOCATION:Phoenix Raceway\, Avondale\, US
+GEO:33.4355977;-112.349602
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-d080e016f-bf6bed12a@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20261017T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Phoenix 
+LOCATION:Phoenix Raceway\, Avondale\, US
+GEO:33.4355977;-112.349602
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-d080e016f-28af8857f@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20261017T233000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Phoenix 
+LOCATION:Phoenix Raceway\, Avondale\, US
+GEO:33.4355977;-112.349602
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

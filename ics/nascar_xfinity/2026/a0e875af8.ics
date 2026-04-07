@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Daytona
+BEGIN:VEVENT
+UID:nascar_xfinity-a0e875af8-28d71e7d1@nextgp.app
+DTSTAMP:20260215T054045Z
+DTSTART:20260213T213000Z
+DTEND:20260213T221500Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Daytona 
+LOCATION:Daytona International Speedway\, Daytona Beach\, US
+GEO:29.2108147;-81.0228331
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-a0e875af8-b82cbe121@nextgp.app
+DTSTAMP:20260215T054045Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Daytona 
+LOCATION:Daytona International Speedway\, Daytona Beach\, US
+GEO:29.2108147;-81.0228331
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-a0e875af8-70a6499c3@nextgp.app
+DTSTAMP:20260215T054045Z
+DTSTART:20260214T220000Z
+DTEND:20260215T010000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Daytona 
+LOCATION:Daytona International Speedway\, Daytona Beach\, US
+GEO:29.2108147;-81.0228331
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

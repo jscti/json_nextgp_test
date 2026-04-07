@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Darlington
+BEGIN:VEVENT
+UID:nascar_xfinity-3ca1e42f4-60ae31fdc@nextgp.app
+DTSTAMP:20260321T234048Z
+DTSTART:20260321T160000Z
+DTEND:20260321T170000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Darlington 
+LOCATION:Darlington Raceway\, Darlington\, US
+GEO:34.3028537;-79.8710831
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-3ca1e42f4-db1be51fb@nextgp.app
+DTSTAMP:20260321T234048Z
+DTSTART:20260321T170500Z
+DTEND:20260321T182000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Darlington 
+LOCATION:Darlington Raceway\, Darlington\, US
+GEO:34.3028537;-79.8710831
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-3ca1e42f4-5d39cda12@nextgp.app
+DTSTAMP:20260321T234048Z
+DTSTART:20260321T213000Z
+DTEND:20260321T233000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Darlington 
+LOCATION:Darlington Raceway\, Darlington\, US
+GEO:34.3028537;-79.8710831
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

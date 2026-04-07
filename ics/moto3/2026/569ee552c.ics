@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | Moto3 | Gran Premio de la Comunitat Valenciana
+BEGIN:VEVENT
+UID:moto3-569ee552c-3c6432d96@nextgp.app
+DTSTAMP:20260315T112106Z
+DTSTART:20261127T080000Z
+DTEND:20261127T083500Z
+SUMMARY:Moto3 | Practice 1 | Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto3,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:moto3-569ee552c-39796fe40@nextgp.app
+DTSTAMP:20260315T112106Z
+DTSTART:20261127T121500Z
+DTEND:20261127T125000Z
+SUMMARY:Moto3 | Practice 2 | Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto3,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:moto3-569ee552c-44e4f1958@nextgp.app
+DTSTAMP:20260315T112106Z
+DTSTART:20261128T074000Z
+DTEND:20261128T081000Z
+SUMMARY:Moto3 | Practice 3 | Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto3,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:moto3-569ee552c-7b7646baf@nextgp.app
+DTSTAMP:20260315T112106Z
+DTSTART:20261128T114500Z
+DTEND:20261128T122500Z
+SUMMARY:Moto3 | Qualifying | Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto3,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:moto3-569ee552c-fa8227f1b@nextgp.app
+DTSTAMP:20260315T112106Z
+DTSTART:20261129T100000Z
+DTEND:20261129T110000Z
+SUMMARY:Moto3 | Race | Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto3,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

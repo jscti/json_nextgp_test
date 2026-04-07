@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at St. Petersburg
+BEGIN:VEVENT
+UID:nascar_truck-8012fdf1a-078bb9519@nextgp.app
+DTSTAMP:20260228T225120Z
+DTSTART:20260227T210000Z
+DTEND:20260227T215500Z
+SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at St. Petersburg 
+LOCATION:Grand Prix of St. Petersburg\, St. Petersburg\, US
+GEO:27.767080;-82.6403
+CATEGORIES:NascarTruck,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-8012fdf1a-3f0e22969@nextgp.app
+DTSTAMP:20260228T225120Z
+DTSTART:20260228T170000Z
+DTEND:20260228T193000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at St. Petersburg 
+LOCATION:Grand Prix of St. Petersburg\, St. Petersburg\, US
+GEO:27.767080;-82.6403
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

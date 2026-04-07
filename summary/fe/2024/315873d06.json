@@ -6,7 +6,7 @@
                 "name": "Oliver Rowland",
                 "countryCode": "GB",
                 "team": "Nissan E.dams",
-                "time": "01:10.127",
+                "time": "1:10.127",
                 "laps": 20
             },
             {
@@ -391,35 +391,37 @@
                 "name": "Max Gunther",
                 "countryCode": "DE",
                 "team": "Maserati Racing",
-                "time": "1:12:139"
+                "time": null
             },
             {
                 "name": "Nick Cassidy",
                 "countryCode": "NZ",
                 "team": "Jaguar Racing",
-                "time": "1:12:120"
+                "time": null
             },
             {
                 "name": "Jehan Daruvala",
                 "countryCode": "IN",
                 "team": "Maserati Racing",
-                "time": "1:16:338"
+                "time": null
             },
             {
                 "name": "Edoardo Mortara",
                 "countryCode": "CH",
-                "team": "Mahindra Racing"
+                "team": "Mahindra Racing",
+                "time": null
             },
             {
                 "name": "Jake Dennis",
                 "countryCode": "GB",
-                "team": "Andretti Formula E"
+                "team": "Andretti Formula E",
+                "time": null
             },
             {
                 "name": "Sam Bird",
                 "countryCode": "GB",
                 "team": "McLaren Racing",
-                "time": "1:16:704"
+                "time": null
             }
         ]
     }

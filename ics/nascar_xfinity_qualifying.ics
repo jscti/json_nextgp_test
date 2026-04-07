@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | Qualifying
+BEGIN:VEVENT
+UID:nascar_xfinity-a8d07d1c2-124da8806@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260314T170500Z
+DTEND:20260314T181000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Las Vegas 
+LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
+GEO:36.1672559;-115.148516
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-3ca1e42f4-db1be51fb@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260321T170500Z
+DTEND:20260321T182000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Darlington 
+LOCATION:Darlington Raceway\, Darlington\, US
+GEO:34.3028537;-79.8710831
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-575946167-ce6330598@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260327T213500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Martinsville 
+LOCATION:Martinsville Speedway\, Ridgeway\, US
+GEO:36.5768047;-79.8583721
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-4db63725f-593c3b26c@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260403T183500Z
+DTEND:20260403T194500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Rockingham 
+LOCATION:Rockingham Speedway\, Rockingham\, US
+GEO:34.9393201;-79.7739457
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-fd1999972-b5b8cbe84@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260411T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Bristol 
+LOCATION:Bristol Motor Speedway\, Bristol\, US
+GEO:36.5945034;-82.1885212
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-94e2c8958-342aaabae@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260418T000500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Kansas 
+LOCATION:Kansas Speedway\, Kansas City\, US
+GEO:39.1134562;-94.626497
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-7ae3082b1-ddb14a841@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260424T213000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Talladega 
+LOCATION:Talladega Superspeedway\, Talladega\, US
+GEO:33.4332833;-86.098631
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-abec2070c-98a47ada5@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260501T220500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Texas 
+LOCATION:Texas Motor Speedway\, Fort Worth\, US
+GEO:32.753177;-97.3327459
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-507fb75c3-fe9eec515@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260509T153500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Watkins Glen 
+LOCATION:Watkins Glen International\, Watkins Glen\, US
+GEO:42.3810555;-76.8705777
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-333a434f4-4dda2cef6@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260516T143500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Dover 
+LOCATION:Dover Motor Speedway\, Dover\, US
+GEO:39.158168;-75.5243682
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-754a4a562-e1f2686ba@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260523T160500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Charlotte 
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-7954869ab-2bfa17248@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260530T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Nashville 
+LOCATION:Nashville Superspeedway\, Lebanon\, US
+GEO:36.2079779;-86.2910945
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-86bd6312f-489d99c4a@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260613T153500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Pocono 
+LOCATION:Pocono Raceway\, Long Pond\, US
+GEO:41.053422;-75.4629636
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-6323b95b3-1d6ebe88d@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260626T210500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Sonoma 
+LOCATION:Sonoma Raceway\, Sonoma\, US
+GEO:38.2930864;-122.457675
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-0e4de1138-d932b2777@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260704T173000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Chicagoland 
+LOCATION:Chicagoland Speedway\, Joliet\, US
+GEO:41.5263603;-88.0840212
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-be8c0f951-a159936c0@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260711T150000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Atlanta 
+LOCATION:EchoPark Speedway\, Hampton\, US
+GEO:33.3870578;-84.2829784
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-bc9b244c9-41da4b37a@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260725T160000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Indianapolis 
+LOCATION:Indianapolis Motor Speedway\, Speedway\, US
+GEO:39.7881233;-86.2407144
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-ac9e49115-6958a8db6@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260808T163500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Iowa 
+LOCATION:Iowa Speedway\, Newton\, US
+GEO:41.6997139;-93.0538852
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-8c5b114bf-16f11d9c7@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260828T190000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Daytona 
+LOCATION:Daytona International Speedway\, Daytona Beach\, US
+GEO:29.2108147;-81.0228331
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-536ad6ee2-c0ae3e43d@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260905T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Darlington 
+LOCATION:Darlington Raceway\, Darlington\, US
+GEO:34.3028537;-79.8710831
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-a2756cceb-39d7a5ee7@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260912T180500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Gateway 
+LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
+GEO:38.6825502;-90.1570536
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-bfe788a71-5a431c2b4@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20260918T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Bristol 
+LOCATION:Bristol Motor Speedway\, Bristol\, US
+GEO:36.5945034;-82.1885212
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-0772b6820-79fd14456@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20261003T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Las Vegas 
+LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
+GEO:36.1672559;-115.148516
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-ffc9196c7-a08b91178@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20261010T153500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Charlotte 
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-d080e016f-bf6bed12a@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20261017T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Phoenix 
+LOCATION:Phoenix Raceway\, Avondale\, US
+GEO:33.4355977;-112.349602
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-dbb41a628-75acfa674@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20261024T150000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Talladega 
+LOCATION:Talladega Superspeedway\, Talladega\, US
+GEO:33.4332833;-86.098631
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-183aba650-c80a8f42b@nextgp.app
+DTSTAMP:20260407T044042Z
+DTSTART:20261107T180000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Homestead-Miami 
+LOCATION:Homestead-Miami Speedway\, Homestead\, US
+GEO:25.4718946;-80.4759905
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

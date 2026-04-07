@@ -19,7 +19,6 @@
             {
                 "name": "Michael Ruben Rinaldi",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
                 "time": "+2.934",
                 "laps": 5
             },
@@ -47,34 +46,30 @@
             {
                 "name": "Niccolo Canepa",
                 "countryCode": "IT",
-                "team": "Yamaha Factory Racing Team",
                 "time": "+5.794",
                 "laps": 15
             },
             {
                 "name": "Bradley Ray",
                 "countryCode": "GB",
-                "team": "Yamaha Motoxracing Worldsbk Team",
                 "time": "+5.854",
                 "laps": 13
             },
             {
                 "name": "Marvin Fritz",
                 "countryCode": "DE",
-                "team": "Ixs-Yart Yamaha",
                 "time": "+6.530",
                 "laps": 15
             },
             {
                 "name": "Thomas Bridewell",
                 "countryCode": "GB",
-                "time": "+ 6.661",
+                "time": "+6.661",
                 "laps": 7
             },
             {
                 "name": "Ivo Miguel Lopes",
                 "countryCode": "PT",
-                "team": "BMW Motorrad",
                 "time": "+9.890",
                 "laps": 16
             },
@@ -85,24 +80,23 @@
                 "laps": 1
             },
             {
-                "name": "Axel Bassani",
-                "countryCode": "IT",
-                "team": "Motocorsa Racing"
-            },
-            {
-                "name": "Scott Redding",
+                "name": "Tarran Mackenzie",
                 "countryCode": "GB",
-                "team": "Bonovo Action MBW"
+                "team": "Petronas Mie Racing Honda"
             },
             {
-                "name": "Danilo Petrucci",
-                "countryCode": "IT",
-                "team": "Barni Racing Team"
+                "name": "Philipp Ottl",
+                "countryCode": "DE"
             },
             {
                 "name": "Esteve Rabat",
                 "countryCode": "ES",
-                "team": "Kawasaki Puccetti Racing"
+                "team": "Yamaha Motoxracing Worldsbk Team"
+            },
+            {
+                "name": "Iker Lecuona",
+                "countryCode": "ES",
+                "team": "Team Hrc"
             },
             {
                 "name": "Remy Gardner",
@@ -115,9 +109,18 @@
                 "team": "Team Goeleven"
             },
             {
-                "name": "Xavi Vierge",
-                "countryCode": "ES",
-                "team": "Team HRC"
+                "name": "Scott Redding",
+                "countryCode": "GB",
+                "team": "Bonovo Action MBW"
+            },
+            {
+                "name": "Garett Gerloff",
+                "countryCode": "US",
+                "team": "Kawasaki Racing"
+            },
+            {
+                "name": "Alessandro Delbianco",
+                "countryCode": "IT"
             },
             {
                 "name": "Nicolo Bulega",
@@ -125,29 +128,19 @@
                 "team": "Aruba.It Racing - Ducati (SBK)"
             },
             {
-                "name": "Philipp Ottl",
-                "countryCode": "DE",
-                "team": "Gmt94 Yamaha"
-            },
-            {
-                "name": "Alessandro Delbianco",
-                "countryCode": "IT",
-                "team": "Althea Racing"
-            },
-            {
-                "name": "Tarran Mackenzie",
-                "countryCode": "GB",
-                "team": "Petronas Mie Racing Honda"
-            },
-            {
-                "name": "Garett Gerloff",
-                "countryCode": "US",
-                "team": "Bonovo Action MBW"
-            },
-            {
-                "name": "Iker Lecuona",
+                "name": "Xavi Vierge",
                 "countryCode": "ES",
-                "team": "Team HRC"
+                "team": "Team Hrc"
+            },
+            {
+                "name": "Danilo Petrucci",
+                "countryCode": "IT",
+                "team": "Barni Racing Team"
+            },
+            {
+                "name": "Axel Bassani",
+                "countryCode": "IT",
+                "team": "Kawasaki Racing"
             }
         ]
     },
@@ -178,7 +171,7 @@
             {
                 "name": "Esteve Rabat",
                 "countryCode": "ES",
-                "team": "Kawasaki Puccetti Racing",
+                "team": "Yamaha Motoxracing Worldsbk Team",
                 "time": "+0.291",
                 "laps": 24
             },
@@ -199,14 +192,14 @@
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC",
+                "team": "Team Hrc",
                 "time": "+0.362",
                 "laps": 21
             },
             {
                 "name": "Garett Gerloff",
                 "countryCode": "US",
-                "team": "Bonovo Action MBW",
+                "team": "Kawasaki Racing",
                 "time": "+0.425",
                 "laps": 16
             },
@@ -220,7 +213,7 @@
             {
                 "name": "Axel Bassani",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
+                "team": "Kawasaki Racing",
                 "time": "+0.500",
                 "laps": 19
             },
@@ -234,7 +227,7 @@
             {
                 "name": "Xavi Vierge",
                 "countryCode": "ES",
-                "team": "Team HRC",
+                "team": "Team Hrc",
                 "time": "+0.674",
                 "laps": 20
             },
@@ -248,7 +241,6 @@
             {
                 "name": "Michael Ruben Rinaldi",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
                 "time": "+0.833",
                 "laps": 19
             },
@@ -269,7 +261,6 @@
             {
                 "name": "Bradley Ray",
                 "countryCode": "GB",
-                "team": "Yamaha Motoxracing Worldsbk Team",
                 "time": "+0.999",
                 "laps": 19
             },
@@ -283,7 +274,6 @@
             {
                 "name": "Alessandro Delbianco",
                 "countryCode": "IT",
-                "team": "Althea Racing",
                 "time": "+1.221",
                 "laps": 14
             },
@@ -297,14 +287,12 @@
             {
                 "name": "Niccolo Canepa",
                 "countryCode": "IT",
-                "team": "Yamaha Factory Racing Team",
                 "time": "+2.039",
                 "laps": 20
             },
             {
                 "name": "Philipp Ottl",
                 "countryCode": "DE",
-                "team": "Gmt94 Yamaha",
                 "time": "+2.141",
                 "laps": 19
             },
@@ -317,14 +305,12 @@
             {
                 "name": "Marvin Fritz",
                 "countryCode": "DE",
-                "team": "Ixs-Yart Yamaha",
                 "time": "+2.269",
                 "laps": 25
             },
             {
                 "name": "Ivo Miguel Lopes",
                 "countryCode": "PT",
-                "team": "BMW Motorrad",
                 "time": "+3.062",
                 "laps": 16
             }
@@ -343,14 +329,14 @@
             {
                 "name": "Garett Gerloff",
                 "countryCode": "US",
-                "team": "Bonovo Action MBW",
+                "team": "Kawasaki Racing",
                 "time": "+0.291",
                 "laps": 11
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC",
+                "team": "Team Hrc",
                 "time": "+0.321",
                 "laps": 12
             },
@@ -399,28 +385,26 @@
             {
                 "name": "Xavi Vierge",
                 "countryCode": "ES",
-                "team": "Team HRC",
+                "team": "Team Hrc",
                 "time": "+0.814",
                 "laps": 10
             },
             {
                 "name": "Bradley Ray",
                 "countryCode": "GB",
-                "team": "Yamaha Motoxracing Worldsbk Team",
                 "time": "+0.869",
                 "laps": 10
             },
             {
                 "name": "Alessandro Delbianco",
                 "countryCode": "IT",
-                "team": "Althea Racing",
                 "time": "+0.906",
                 "laps": 10
             },
             {
                 "name": "Axel Bassani",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
+                "team": "Kawasaki Racing",
                 "time": "+0.916",
                 "laps": 8
             },
@@ -434,7 +418,7 @@
             {
                 "name": "Esteve Rabat",
                 "countryCode": "ES",
-                "team": "Kawasaki Puccetti Racing",
+                "team": "Yamaha Motoxracing Worldsbk Team",
                 "time": "+1.154",
                 "laps": 13
             },
@@ -448,14 +432,12 @@
             {
                 "name": "Michael Ruben Rinaldi",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
                 "time": "+1.445",
                 "laps": 12
             },
             {
                 "name": "Niccolo Canepa",
                 "countryCode": "IT",
-                "team": "Yamaha Factory Racing Team",
                 "time": "+1.722",
                 "laps": 9
             },
@@ -469,7 +451,6 @@
             {
                 "name": "Philipp Ottl",
                 "countryCode": "DE",
-                "team": "Gmt94 Yamaha",
                 "time": "+1.848",
                 "laps": 9
             },
@@ -483,7 +464,6 @@
             {
                 "name": "Marvin Fritz",
                 "countryCode": "DE",
-                "team": "Ixs-Yart Yamaha",
                 "time": "+1.975",
                 "laps": 11
             },
@@ -503,7 +483,6 @@
             {
                 "name": "Ivo Miguel Lopes",
                 "countryCode": "PT",
-                "team": "BMW Motorrad",
                 "time": "+2.629",
                 "laps": 10
             }
@@ -523,167 +502,160 @@
                 "name": "Andrea Iannone",
                 "countryCode": "IT",
                 "team": "Team Goeleven",
-                "time": "1:28.068",
+                "time": "+0.115",
                 "laps": 6
             },
             {
                 "name": "Danilo Petrucci",
                 "countryCode": "IT",
                 "team": "Barni Racing Team",
-                "time": "1:28.285",
+                "time": "+0.332",
                 "laps": 6
             },
             {
                 "name": "Alex Lowes",
                 "countryCode": "GB",
                 "team": "Kawasaki Racing",
-                "time": "1:28.310",
+                "time": "+0.357",
                 "laps": 5
             },
             {
                 "name": "Andrea Locatelli",
                 "countryCode": "IT",
                 "team": "Pata Yamaha With Brixx",
-                "time": "1:28.602",
+                "time": "+0.649",
                 "laps": 7
             },
             {
                 "name": "Sam Lowes",
                 "countryCode": "GB",
                 "team": "Elf Marc Vds Racing Team",
-                "time": "1:28.615",
+                "time": "+0.662",
                 "laps": 8
             },
             {
                 "name": "Xavi Vierge",
                 "countryCode": "ES",
-                "team": "Team HRC",
-                "time": "1:28.752",
+                "team": "Team Hrc",
+                "time": "+0.799",
                 "laps": 8
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC",
-                "time": "1:28.845",
+                "team": "Team Hrc",
+                "time": "+0.892",
                 "laps": 6
             },
             {
                 "name": "Bradley Ray",
                 "countryCode": "GB",
-                "team": "Yamaha Motoxracing Worldsbk Team",
-                "time": "1:28.883",
+                "time": "+0.930",
                 "laps": 7
             },
             {
                 "name": "Esteve Rabat",
                 "countryCode": "ES",
-                "team": "Kawasaki Puccetti Racing",
-                "time": "1:28.921",
+                "team": "Yamaha Motoxracing Worldsbk Team",
+                "time": "+0.968",
                 "laps": 8
             },
             {
                 "name": "Garett Gerloff",
                 "countryCode": "US",
-                "team": "Bonovo Action MBW",
-                "time": "1:28.959",
+                "team": "Kawasaki Racing",
+                "time": "+1.006",
                 "laps": 7
             },
             {
                 "name": "Axel Bassani",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
-                "time": "1:29.018",
+                "team": "Kawasaki Racing",
+                "time": "+1.065",
                 "laps": 6
             },
             {
                 "name": "Alvaro Bautista",
                 "countryCode": "ES",
                 "team": "Aruba.It Racing - Ducati (SBK)",
-                "time": "1:29.115",
+                "time": "+1.162",
                 "laps": 7
             },
             {
                 "name": "Markus Reiterberger",
                 "countryCode": "DE",
                 "team": "BMW Motorrad Goldbet Sbk",
-                "time": "1:29.116",
+                "time": "+1.163",
                 "laps": 7
             },
             {
                 "name": "Scott Redding",
                 "countryCode": "GB",
                 "team": "Bonovo Action MBW",
-                "time": "1:29.120",
+                "time": "+1.167",
                 "laps": 8
             },
             {
                 "name": "Remy Gardner",
                 "countryCode": "AU",
                 "team": "Grt Yamaha",
-                "time": "1:29.310",
+                "time": "+1.357",
                 "laps": 7
             },
             {
                 "name": "Michael Van Der Mark",
                 "countryCode": "NL",
                 "team": "BMW Motorrad",
-                "time": "1:29.435",
+                "time": "+1.482",
                 "laps": 7
             },
             {
                 "name": "Michael Ruben Rinaldi",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
-                "time": "1:29.516",
+                "time": "+1.563",
                 "laps": 7
             },
             {
                 "name": "Niccolo Canepa",
                 "countryCode": "IT",
-                "team": "Yamaha Factory Racing Team",
-                "time": "1:30.174",
+                "time": "+2.221",
                 "laps": 5
             },
             {
                 "name": "Marvin Fritz",
                 "countryCode": "DE",
-                "team": "Ixs-Yart Yamaha",
-                "time": "1:30.195",
+                "time": "+2.242",
                 "laps": 7
             },
             {
                 "name": "Philipp Ottl",
                 "countryCode": "DE",
-                "team": "Gmt94 Yamaha",
-                "time": "1:30.227",
+                "time": "+2.274",
                 "laps": 8
             },
             {
                 "name": "Tarran Mackenzie",
                 "countryCode": "GB",
                 "team": "Petronas Mie Racing Honda",
-                "time": "1:30.243",
+                "time": "+2.290",
                 "laps": 7
             },
             {
                 "name": "Alessandro Delbianco",
                 "countryCode": "IT",
-                "team": "Althea Racing",
-                "time": "1:30.295",
+                "time": "+2.342",
                 "laps": 5
             },
             {
                 "name": "Thomas Bridewell",
                 "countryCode": "GB",
-                "time": "1:30.615",
+                "time": "+2.662",
                 "laps": 7
             },
             {
                 "name": "Ivo Miguel Lopes",
                 "countryCode": "PT",
-                "team": "BMW Motorrad",
-                "time": "1:30.853",
+                "time": "+2.900",
                 "laps": 7
             }
         ]
@@ -695,42 +667,42 @@
                 "name": "Danilo Petrucci",
                 "countryCode": "IT",
                 "team": "Barni Racing Team",
-                "time": "1:29.594",
+                "time": "26:49.780",
                 "laps": 17
             },
             {
                 "name": "Nicolo Bulega",
                 "countryCode": "IT",
                 "team": "Aruba.It Racing - Ducati (SBK)",
-                "time": "1:29.608",
+                "time": "+2.590",
                 "laps": 17
             },
             {
                 "name": "Alvaro Bautista",
                 "countryCode": "ES",
                 "team": "Aruba.It Racing - Ducati (SBK)",
-                "time": "1:30.084",
+                "time": "+6.383",
                 "laps": 17
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC",
-                "time": "1:30.130",
+                "team": "Team Hrc",
+                "time": "+7.583",
                 "laps": 17
             },
             {
                 "name": "Axel Bassani",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
-                "time": "1:30.141",
+                "team": "Kawasaki Racing",
+                "time": "+10.125",
                 "laps": 17
             },
             {
                 "name": "Xavi Vierge",
                 "countryCode": "ES",
-                "team": "Team HRC",
-                "time": "1:30.068",
+                "team": "Team Hrc",
+                "time": "+10.211",
                 "laps": 17
             },
             {
@@ -743,14 +715,13 @@
             {
                 "name": "Garett Gerloff",
                 "countryCode": "US",
-                "team": "Bonovo Action MBW",
+                "team": "Kawasaki Racing",
                 "time": "1:30.374",
                 "laps": 17
             },
             {
                 "name": "Michael Ruben Rinaldi",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
                 "time": "1:30.699",
                 "laps": 17
             },
@@ -764,7 +735,6 @@
             {
                 "name": "Bradley Ray",
                 "countryCode": "GB",
-                "team": "Yamaha Motoxracing Worldsbk Team",
                 "time": "1:30.132",
                 "laps": 17
             },
@@ -792,21 +762,18 @@
             {
                 "name": "Alessandro Delbianco",
                 "countryCode": "IT",
-                "team": "Althea Racing",
-                "time": "1:31.446",
+                "time": null,
                 "laps": 17
             },
             {
                 "name": "Philipp Ottl",
                 "countryCode": "DE",
-                "team": "Gmt94 Yamaha",
                 "time": "1:31.419",
                 "laps": 17
             },
             {
                 "name": "Marvin Fritz",
                 "countryCode": "DE",
-                "team": "Ixs-Yart Yamaha",
                 "time": "1:31.747",
                 "laps": 17
             },
@@ -819,7 +786,6 @@
             {
                 "name": "Ivo Miguel Lopes",
                 "countryCode": "PT",
-                "team": "BMW Motorrad",
                 "time": "1:32.299",
                 "laps": 17
             },
@@ -827,41 +793,41 @@
                 "name": "Alex Lowes",
                 "countryCode": "GB",
                 "team": "Kawasaki Racing",
-                "time": "1:29.670",
+                "time": "+1 lap",
                 "laps": 16
             },
             {
                 "name": "Tarran Mackenzie",
                 "countryCode": "GB",
                 "team": "Petronas Mie Racing Honda",
-                "time": "1:31.549",
+                "time": null,
                 "laps": 16
             },
             {
                 "name": "Niccolo Canepa",
                 "countryCode": "IT",
-                "team": "Yamaha Factory Racing Team",
-                "time": "1:31.227",
+                "time": null,
                 "laps": 13
             },
             {
                 "name": "Andrea Iannone",
                 "countryCode": "IT",
                 "team": "Team Goeleven",
-                "time": "1:29.397",
+                "time": null,
                 "laps": 8
             },
             {
                 "name": "Sam Lowes",
                 "countryCode": "GB",
                 "team": "Elf Marc Vds Racing Team",
-                "time": "1:30.230",
+                "time": null,
                 "laps": 5
             },
             {
                 "name": "Esteve Rabat",
                 "countryCode": "ES",
-                "team": "Kawasaki Puccetti Racing",
+                "team": "Yamaha Motoxracing Worldsbk Team",
+                "time": null,
                 "laps": 0
             }
         ]
@@ -873,173 +839,167 @@
                 "name": "Danilo Petrucci",
                 "countryCode": "IT",
                 "team": "Barni Racing Team",
-                "time": "1:28.289",
+                "time": "14:56.130",
                 "laps": 10
             },
             {
                 "name": "Alex Lowes",
                 "countryCode": "GB",
                 "team": "Kawasaki Racing",
-                "time": "1:28.991",
+                "time": "+1.797",
                 "laps": 10
             },
             {
                 "name": "Andrea Iannone",
                 "countryCode": "IT",
                 "team": "Team Goeleven",
-                "time": "1:28.464",
+                "time": "+2.572",
                 "laps": 10
             },
             {
                 "name": "Nicolo Bulega",
                 "countryCode": "IT",
                 "team": "Aruba.It Racing - Ducati (SBK)",
-                "time": "1:28.691",
+                "time": "+3.431",
                 "laps": 10
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC",
-                "time": "1:29.425",
+                "team": "Team Hrc",
+                "time": "+4.729",
                 "laps": 10
             },
             {
                 "name": "Alvaro Bautista",
                 "countryCode": "ES",
                 "team": "Aruba.It Racing - Ducati (SBK)",
-                "time": " 1:29.341",
+                "time": "+5.578",
                 "laps": 10
             },
             {
                 "name": "Andrea Locatelli",
                 "countryCode": "IT",
                 "team": "Pata Yamaha With Brixx",
-                "time": "1:29.351",
+                "time": "+5.909",
                 "laps": 10
             },
             {
                 "name": "Xavi Vierge",
                 "countryCode": "ES",
-                "team": "Team HRC",
-                "time": "1:29.363",
+                "team": "Team Hrc",
+                "time": "+6.650",
                 "laps": 10
             },
             {
                 "name": "Garett Gerloff",
                 "countryCode": "US",
-                "team": "Bonovo Action MBW",
-                "time": "1:29.239",
+                "team": "Kawasaki Racing",
+                "time": "+6.815",
                 "laps": 10
             },
             {
                 "name": "Esteve Rabat",
                 "countryCode": "ES",
-                "team": "Kawasaki Puccetti Racing",
-                "time": "1:29.318",
+                "team": "Yamaha Motoxracing Worldsbk Team",
+                "time": "+7.149",
                 "laps": 10
             },
             {
                 "name": "Axel Bassani",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
-                "time": "1:29.516",
+                "team": "Kawasaki Racing",
+                "time": "+7.273",
                 "laps": 10
             },
             {
                 "name": "Michael Van Der Mark",
                 "countryCode": "NL",
                 "team": "BMW Motorrad",
-                "time": "1:29.534",
+                "time": "+7.600",
                 "laps": 10
             },
             {
                 "name": "Scott Redding",
                 "countryCode": "GB",
                 "team": "Bonovo Action MBW",
-                "time": " 1:29.576",
+                "time": "+11.088",
                 "laps": 10
             },
             {
                 "name": "Sam Lowes",
                 "countryCode": "GB",
                 "team": "Elf Marc Vds Racing Team",
-                "time": "1:29.656",
+                "time": "+11.244",
                 "laps": 10
             },
             {
                 "name": "Bradley Ray",
                 "countryCode": "GB",
-                "team": "Yamaha Motoxracing Worldsbk Team",
-                "time": "1:29.179",
+                "time": "+11.506",
                 "laps": 10
             },
             {
                 "name": "Markus Reiterberger",
                 "countryCode": "DE",
                 "team": "BMW Motorrad Goldbet Sbk",
-                "time": "1:29.975",
+                "time": "+14.251",
                 "laps": 10
             },
             {
                 "name": "Michael Ruben Rinaldi",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
-                "time": "1:30.043",
+                "time": "+16.335",
                 "laps": 10
             },
             {
                 "name": "Niccolo Canepa",
                 "countryCode": "IT",
-                "team": "Yamaha Factory Racing Team",
-                "time": "1:30.165",
+                "time": "+19.679",
                 "laps": 10
             },
             {
                 "name": "Philipp Ottl",
                 "countryCode": "DE",
-                "team": "Gmt94 Yamaha",
-                "time": "1:30.268",
+                "time": "+20.380",
                 "laps": 10
             },
             {
                 "name": "Alessandro Delbianco",
                 "countryCode": "IT",
-                "team": "Althea Racing",
-                "time": "1:30.256",
+                "time": null,
                 "laps": 10
             },
             {
                 "name": "Thomas Bridewell",
                 "countryCode": "GB",
-                "time": "1:30.953",
+                "time": "+24.960",
                 "laps": 10
             },
             {
                 "name": "Ivo Miguel Lopes",
                 "countryCode": "PT",
-                "team": "BMW Motorrad",
-                "time": "1:31.749",
+                "time": "+31.813",
                 "laps": 10
             },
             {
                 "name": "Tarran Mackenzie",
                 "countryCode": "GB",
                 "team": "Petronas Mie Racing Honda",
-                "time": "1:31.135",
+                "time": "+1 lap",
                 "laps": 9
             },
             {
                 "name": "Remy Gardner",
                 "countryCode": "AU",
                 "team": "Grt Yamaha",
-                "time": " 1:29.725",
+                "time": null,
                 "laps": 7
             },
             {
                 "name": "Marvin Fritz",
                 "countryCode": "DE",
-                "team": "Ixs-Yart Yamaha",
+                "time": null,
                 "laps": 1
             }
         ]
@@ -1051,172 +1011,167 @@
                 "name": "Danilo Petrucci",
                 "countryCode": "IT",
                 "team": "Barni Racing Team",
-                "time": "1:29.561",
+                "time": "34:33.263",
                 "laps": 23
             },
             {
                 "name": "Alvaro Bautista",
                 "countryCode": "ES",
                 "team": "Aruba.It Racing - Ducati (SBK)",
-                "time": " 1:29.773",
+                "time": "+1.023",
                 "laps": 23
             },
             {
                 "name": "Nicolo Bulega",
                 "countryCode": "IT",
                 "team": "Aruba.It Racing - Ducati (SBK)",
-                "time": "1:29.438",
+                "time": "+2.910",
                 "laps": 23
             },
             {
                 "name": "Garett Gerloff",
                 "countryCode": "US",
-                "team": "Bonovo Action MBW",
-                "time": "1:29.984",
+                "team": "Kawasaki Racing",
+                "time": "+8.452",
                 "laps": 23
             },
             {
                 "name": "Alex Lowes",
                 "countryCode": "GB",
                 "team": "Kawasaki Racing",
-                "time": "1:29.961",
+                "time": "+8.761",
                 "laps": 23
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC",
-                "time": "1:30.064",
+                "team": "Team Hrc",
+                "time": "+13.397",
                 "laps": 23
             },
             {
                 "name": "Michael Van Der Mark",
                 "countryCode": "NL",
                 "team": "BMW Motorrad",
-                "time": "1:30.098",
+                "time": "+15.873",
                 "laps": 23
             },
             {
                 "name": "Xavi Vierge",
                 "countryCode": "ES",
-                "team": "Team HRC",
-                "time": "1:30.226",
+                "team": "Team Hrc",
+                "time": "+19.228",
                 "laps": 23
             },
             {
                 "name": "Andrea Locatelli",
                 "countryCode": "IT",
                 "team": "Pata Yamaha With Brixx",
-                "time": "1:30.193",
+                "time": "+19.523",
                 "laps": 23
             },
             {
                 "name": "Esteve Rabat",
                 "countryCode": "ES",
-                "team": "Kawasaki Puccetti Racing",
-                "time": "1:30.233",
+                "team": "Yamaha Motoxracing Worldsbk Team",
+                "time": "+24.368",
                 "laps": 23
             },
             {
                 "name": "Sam Lowes",
                 "countryCode": "GB",
                 "team": "Elf Marc Vds Racing Team",
-                "time": "1:30.436",
+                "time": "+24.691",
                 "laps": 23
             },
             {
                 "name": "Scott Redding",
                 "countryCode": "GB",
                 "team": "Bonovo Action MBW",
-                "time": "1:30.611",
+                "time": "+25.664",
                 "laps": 23
             },
             {
                 "name": "Michael Ruben Rinaldi",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
-                "time": "1:30.511",
+                "time": "+26.726",
                 "laps": 23
             },
             {
                 "name": "Bradley Ray",
                 "countryCode": "GB",
-                "team": "Yamaha Motoxracing Worldsbk Team",
-                "time": "1:30.433",
+                "time": "+27.167",
                 "laps": 23
             },
             {
                 "name": "Markus Reiterberger",
                 "countryCode": "DE",
                 "team": "BMW Motorrad Goldbet Sbk",
-                "time": "1:30.369",
+                "time": "+39.566",
                 "laps": 23
             },
             {
                 "name": "Alessandro Delbianco",
                 "countryCode": "IT",
-                "team": "Althea Racing",
-                "time": "1:31.413",
+                "time": "+44.483",
                 "laps": 23
             },
             {
                 "name": "Philipp Ottl",
                 "countryCode": "DE",
-                "team": "Gmt94 Yamaha",
-                "time": "1:31.554",
+                "time": "+50.786",
                 "laps": 23
             },
             {
                 "name": "Marvin Fritz",
                 "countryCode": "DE",
-                "team": "Ixs-Yart Yamaha",
-                "time": "1:31.623",
+                "time": "+52.608",
                 "laps": 23
             },
             {
                 "name": "Niccolo Canepa",
                 "countryCode": "IT",
-                "team": "Yamaha Factory Racing Team",
-                "time": "1:31.564",
+                "time": "+59.505",
                 "laps": 23
             },
             {
                 "name": "Ivo Miguel Lopes",
                 "countryCode": "PT",
-                "team": "BMW Motorrad",
-                "time": " 1:32.033",
+                "time": "+1:00.237",
                 "laps": 23
             },
             {
                 "name": "Remy Gardner",
                 "countryCode": "AU",
                 "team": "Grt Yamaha",
-                "time": "1:30.583",
+                "time": null,
                 "laps": 21
             },
             {
                 "name": "Andrea Iannone",
                 "countryCode": "IT",
                 "team": "Team Goeleven",
-                "time": "1:29.561",
+                "time": null,
                 "laps": 16
             },
             {
                 "name": "Tarran Mackenzie",
                 "countryCode": "GB",
                 "team": "Petronas Mie Racing Honda",
-                "time": "1:31.771",
+                "time": null,
                 "laps": 9
             },
             {
                 "name": "Axel Bassani",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing",
+                "team": "Kawasaki Racing",
+                "time": null,
                 "laps": 2
             },
             {
                 "name": "Thomas Bridewell",
-                "countryCode": "GB"
+                "countryCode": "GB",
+                "time": null
             }
         ]
     }

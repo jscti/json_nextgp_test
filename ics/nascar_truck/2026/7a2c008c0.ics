@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Texas
+BEGIN:VEVENT
+UID:nascar_truck-7a2c008c0-ae9e7c8ec@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260501T183000Z
+SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Texas 
+LOCATION:Texas Motor Speedway\, Fort Worth\, US
+GEO:32.753177;-97.3327459
+CATEGORIES:NascarTruck,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-7a2c008c0-859a102db@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260501T193500Z
+SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Texas 
+LOCATION:Texas Motor Speedway\, Fort Worth\, US
+GEO:32.753177;-97.3327459
+CATEGORIES:NascarTruck,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-7a2c008c0-a2f1b0ece@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260502T000000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Texas 
+LOCATION:Texas Motor Speedway\, Fort Worth\, US
+GEO:32.753177;-97.3327459
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

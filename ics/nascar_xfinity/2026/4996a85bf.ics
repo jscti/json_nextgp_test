@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at San Diego
+BEGIN:VEVENT
+UID:nascar_xfinity-4996a85bf-c5596981d@nextgp.app
+DTSTAMP:20260220T234038Z
+DTSTART:20260620T210000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at San Diego 
+LOCATION:San Diego Street Course\, San Diego\, US
+GEO:32.6997;-117.1610838
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

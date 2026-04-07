@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Las Vegas
+BEGIN:VEVENT
+UID:nascar_xfinity-0772b6820-538ef1872@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20261003T180000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Las Vegas 
+LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
+GEO:36.1672559;-115.148516
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-0772b6820-79fd14456@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20261003T190500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Las Vegas 
+LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
+GEO:36.1672559;-115.148516
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-0772b6820-3ff5b42fc@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20261003T233000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Las Vegas 
+LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
+GEO:36.1672559;-115.148516
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

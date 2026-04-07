@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Pocono
+BEGIN:VEVENT
+UID:nascar_xfinity-86bd6312f-a27dd1bb9@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260613T143000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Pocono 
+LOCATION:Pocono Raceway\, Long Pond\, US
+GEO:41.053422;-75.4629636
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-86bd6312f-489d99c4a@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260613T153500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Pocono 
+LOCATION:Pocono Raceway\, Long Pond\, US
+GEO:41.053422;-75.4629636
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-86bd6312f-c2198c43e@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260613T200000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Pocono 
+LOCATION:Pocono Raceway\, Long Pond\, US
+GEO:41.053422;-75.4629636
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

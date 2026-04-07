@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Charlotte Roval
+BEGIN:VEVENT
+UID:nascar_truck-1dbc84910-56083f508@nextgp.app
+DTSTAMP:20260203T054039Z
+DTSTART:20261009T210000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Charlotte Roval 
+LOCATION:Charlotte Motor Speedway Road Course\, Concord\, US
+GEO:35.4094178;-80.5800049
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

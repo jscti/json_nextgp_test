@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Chicagoland
+BEGIN:VEVENT
+UID:nascar_xfinity-0e4de1138-515f05ae3@nextgp.app
+DTSTAMP:20260221T174040Z
+DTSTART:20260703T203000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Chicagoland 
+LOCATION:Chicagoland Speedway\, Joliet\, US
+GEO:41.5263603;-88.0840212
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-0e4de1138-d932b2777@nextgp.app
+DTSTAMP:20260221T174040Z
+DTSTART:20260704T173000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Chicagoland 
+LOCATION:Chicagoland Speedway\, Joliet\, US
+GEO:41.5263603;-88.0840212
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-0e4de1138-c42065d2f@nextgp.app
+DTSTAMP:20260221T174040Z
+DTSTART:20260704T213000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Chicagoland 
+LOCATION:Chicagoland Speedway\, Joliet\, US
+GEO:41.5263603;-88.0840212
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

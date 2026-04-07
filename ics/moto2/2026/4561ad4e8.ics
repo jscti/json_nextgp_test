@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | Moto2 | Practice 3   Gran Premio de la Comunitat Valenciana
+BEGIN:VEVENT
+UID:moto2-4561ad4e8-05e7b157b@nextgp.app
+DTSTAMP:20260315T172102Z
+DTSTART:20261127T085000Z
+DTEND:20261127T093000Z
+SUMMARY:Moto2 | Practice 1 | Practice 3   Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto2,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-4561ad4e8-550c8042d@nextgp.app
+DTSTAMP:20260315T172102Z
+DTSTART:20261127T130500Z
+DTEND:20261127T134500Z
+SUMMARY:Moto2 | Practice 2 | Practice 3   Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto2,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-4561ad4e8-7f75254a3@nextgp.app
+DTSTAMP:20260315T172102Z
+DTSTART:20261128T082500Z
+DTEND:20261128T085500Z
+SUMMARY:Moto2 | Practice 3 | Practice 3   Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto2,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-4561ad4e8-8b5fa7cc8@nextgp.app
+DTSTAMP:20260315T172102Z
+DTSTART:20261128T124000Z
+DTEND:20261128T132000Z
+SUMMARY:Moto2 | Qualifying | Practice 3   Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto2,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:moto2-4561ad4e8-45cffe9c0@nextgp.app
+DTSTAMP:20260315T172102Z
+DTSTART:20261129T111500Z
+DTEND:20261129T121500Z
+SUMMARY:Moto2 | Race | Practice 3   Gran Premio de la Comunitat Valenciana 
+LOCATION:Circuit de la Comunitat Valenciana Ricardo Tormo\, Valencia\, ES
+GEO:39.485644;-0.628078
+CATEGORIES:Moto2,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

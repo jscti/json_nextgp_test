@@ -118,6 +118,7 @@
             },
             {
                 "name": "Eddie O Shea",
+                "countryCode": "GB",
                 "time": "+2.826",
                 "laps": 11
             },
@@ -129,7 +130,7 @@
             },
             {
                 "name": "Filippo Farioli",
-                "countryCode": "ES",
+                "countryCode": "IT",
                 "time": "+3.100",
                 "laps": 14
             },
@@ -260,7 +261,7 @@
             },
             {
                 "name": "Filippo Farioli",
-                "countryCode": "ES",
+                "countryCode": "IT",
                 "time": "+1.634",
                 "laps": 11
             },
@@ -290,6 +291,7 @@
             },
             {
                 "name": "Eddie O Shea",
+                "countryCode": "GB",
                 "time": "+2.020",
                 "laps": 10
             },
@@ -462,6 +464,7 @@
             },
             {
                 "name": "Eddie O Shea",
+                "countryCode": "GB",
                 "time": "+2.180",
                 "laps": 8
             },
@@ -473,7 +476,7 @@
             },
             {
                 "name": "Filippo Farioli",
-                "countryCode": "ES",
+                "countryCode": "IT",
                 "time": "+2.658",
                 "laps": 3
             }
@@ -491,150 +494,151 @@
             {
                 "name": "Ivan Ortola",
                 "countryCode": "ES",
-                "time": "2:09.895",
+                "time": "+0.353",
                 "laps": 5
             },
             {
                 "name": "David Alonso",
                 "countryCode": "CO",
-                "time": "2:10.015",
+                "time": "+0.473",
                 "laps": 5
             },
             {
                 "name": "Tatsuki Suzuki",
                 "countryCode": "JP",
-                "time": "2:10.128",
+                "time": "+0.586",
                 "laps": 5
             },
             {
                 "name": "Joel Kelso",
                 "countryCode": "AU",
-                "time": "2:10.278",
+                "time": "+0.736",
                 "laps": 10
             },
             {
                 "name": "Luca Lunetta",
                 "countryCode": "IT",
-                "time": "2:10.289",
+                "time": "+0.747",
                 "laps": 5
             },
             {
                 "name": "Angel Piqueras",
                 "countryCode": "ES",
-                "time": "2:10.512",
+                "time": "+0.970",
                 "laps": 5
             },
             {
                 "name": "Collin Veijer",
                 "countryCode": "NL",
-                "time": "2:10.518",
+                "time": "+0.976",
                 "laps": 6
             },
             {
                 "name": "David Almansa",
                 "countryCode": "ES",
-                "time": "2:10.579",
+                "time": "+1.037",
                 "laps": 11
             },
             {
                 "name": "Jose Antonio Rueda",
                 "countryCode": "ES",
-                "time": "2:10.747",
+                "time": "+1.205",
                 "laps": 5
             },
             {
                 "name": "Daniel Holgado",
                 "countryCode": "ES",
-                "time": "2:10.814",
+                "time": "+1.272",
                 "laps": 5
             },
             {
                 "name": "Ryusei Yamanaka",
                 "countryCode": "JP",
-                "time": "2:10.835",
+                "time": "+1.293",
                 "laps": 6
             },
             {
                 "name": "Stefano Nepa",
                 "countryCode": "IT",
-                "time": "2:10.868",
+                "time": "+1.326",
                 "laps": 5
             },
             {
                 "name": "Nicola Fabio Carraro",
                 "countryCode": "IT",
-                "time": "2:10.970",
+                "time": "+1.428",
                 "laps": 11
             },
             {
                 "name": "David Munoz",
                 "countryCode": "ES",
-                "time": "2:11.055",
+                "time": "+1.513",
                 "laps": 4
             },
             {
                 "name": "Riccardo Rossi",
                 "countryCode": "IT",
-                "time": "2:11.084",
+                "time": "+1.542",
                 "laps": 11
             },
             {
                 "name": "Taiyo Furusato",
                 "countryCode": "JP",
-                "time": "2:11.198",
+                "time": "+1.656",
                 "laps": 6
             },
             {
                 "name": "Scott Ogden",
                 "countryCode": "GB",
-                "time": "2:11.314",
+                "time": "+1.772",
                 "laps": 5
             },
             {
                 "name": "Matteo Bertelle",
                 "countryCode": "IT",
-                "time": "2:11.357",
+                "time": "+1.815",
                 "laps": 5
             },
             {
                 "name": "Jacob Roulstone",
                 "countryCode": "AU",
-                "time": "2:11.449",
+                "time": "+1.907",
                 "laps": 7
             },
             {
                 "name": "Joel Esteban",
                 "countryCode": "ES",
-                "time": "2:11.509",
+                "time": "+1.967",
                 "laps": 6
             },
             {
                 "name": "Eddie O Shea",
-                "time": "2:11.576",
+                "countryCode": "GB",
+                "time": "+2.034",
                 "laps": 6
             },
             {
                 "name": "Filippo Farioli",
-                "countryCode": "ES",
-                "time": "2:11.847",
+                "countryCode": "IT",
+                "time": "+2.305",
                 "laps": 7
             },
             {
                 "name": "Tatchakorn Buasri",
                 "countryCode": "TH",
-                "time": "2:11.948",
+                "time": "+2.406",
                 "laps": 6
             },
             {
                 "name": "Xabi Zurutuza",
                 "countryCode": "ES",
-                "time": "2:12.069",
+                "time": "+2.527",
                 "laps": 6
             },
             {
                 "name": "Noah Dettwiler",
                 "countryCode": "CH",
-                "time": "2:12.803",
+                "time": "+3.261",
                 "laps": 6
             }
         ]
@@ -716,7 +720,7 @@
             },
             {
                 "name": "Filippo Farioli",
-                "countryCode": "ES",
+                "countryCode": "IT",
                 "time": "+20.545",
                 "laps": 15
             },
@@ -734,6 +738,7 @@
             },
             {
                 "name": "Eddie O Shea",
+                "countryCode": "GB",
                 "time": "+21.231",
                 "laps": 15
             },
@@ -752,46 +757,49 @@
             {
                 "name": "Nicola Fabio Carraro",
                 "countryCode": "IT",
-                "time": "2:11.817",
+                "time": null,
                 "laps": 10
             },
             {
                 "name": "Tatsuki Suzuki",
                 "countryCode": "JP",
-                "time": "2:11.376",
+                "time": null,
                 "laps": 8
             },
             {
                 "name": "Scott Ogden",
                 "countryCode": "GB",
-                "time": "2:12.015",
+                "time": null,
                 "laps": 8
             },
             {
                 "name": "Angel Piqueras",
                 "countryCode": "ES",
-                "time": "2:11.614",
+                "time": null,
                 "laps": 5
             },
             {
                 "name": "Adrian Fernandez",
                 "countryCode": "ES",
-                "time": "2:12.067",
+                "time": null,
                 "laps": 2
             },
             {
                 "name": "Daniel Holgado",
                 "countryCode": "ES",
+                "time": null,
                 "laps": 1
             },
             {
                 "name": "Riccardo Rossi",
                 "countryCode": "IT",
+                "time": null,
                 "laps": 0
             },
             {
                 "name": "Joel Esteban",
                 "countryCode": "ES",
+                "time": null,
                 "laps": 0
             }
         ]

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Talladega
+BEGIN:VEVENT
+UID:nascar_xfinity-dbb41a628-75acfa674@nextgp.app
+DTSTAMP:20260305T234034Z
+DTSTART:20261024T150000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Talladega 
+LOCATION:Talladega Superspeedway\, Talladega\, US
+GEO:33.4332833;-86.098631
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-dbb41a628-e366b4ae2@nextgp.app
+DTSTAMP:20260305T234034Z
+DTSTART:20261024T193000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Talladega 
+LOCATION:Talladega Superspeedway\, Talladega\, US
+GEO:33.4332833;-86.098631
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

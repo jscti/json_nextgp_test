@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Martinsville
+BEGIN:VEVENT
+UID:nascar_truck-3ad992ec8-3e7fc41dc@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20261030T163000Z
+SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Martinsville 
+LOCATION:Martinsville Speedway\, Ridgeway\, US
+GEO:36.5768047;-79.8583721
+CATEGORIES:NascarTruck,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-3ad992ec8-2fc91f052@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20261030T173500Z
+SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Martinsville 
+LOCATION:Martinsville Speedway\, Ridgeway\, US
+GEO:36.5768047;-79.8583721
+CATEGORIES:NascarTruck,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-3ad992ec8-9b175f0d7@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20261030T220000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Martinsville 
+LOCATION:Martinsville Speedway\, Ridgeway\, US
+GEO:36.5768047;-79.8583721
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

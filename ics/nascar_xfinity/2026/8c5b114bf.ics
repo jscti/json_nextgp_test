@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Daytona
+BEGIN:VEVENT
+UID:nascar_xfinity-8c5b114bf-16f11d9c7@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260828T190000Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Daytona 
+LOCATION:Daytona International Speedway\, Daytona Beach\, US
+GEO:29.2108147;-81.0228331
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-8c5b114bf-54b1c4e97@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260828T233000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Daytona 
+LOCATION:Daytona International Speedway\, Daytona Beach\, US
+GEO:29.2108147;-81.0228331
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

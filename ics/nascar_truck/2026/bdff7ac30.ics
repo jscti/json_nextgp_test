@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Richmond
+BEGIN:VEVENT
+UID:nascar_truck-bdff7ac30-40851cee6@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260814T170000Z
+SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Richmond 
+LOCATION:Richmond Raceway\, Richmond\, US
+GEO:37.5385087;-77.43428
+CATEGORIES:NascarTruck,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-bdff7ac30-71f3e1c7f@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260814T180500Z
+SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Richmond 
+LOCATION:Richmond Raceway\, Richmond\, US
+GEO:37.5385087;-77.43428
+CATEGORIES:NascarTruck,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-bdff7ac30-77af36603@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260814T233000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Richmond 
+LOCATION:Richmond Raceway\, Richmond\, US
+GEO:37.5385087;-77.43428
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

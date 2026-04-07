@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Martinsville
+BEGIN:VEVENT
+UID:nascar_xfinity-575946167-17f0a1157@nextgp.app
+DTSTAMP:20260326T234034Z
+DTSTART:20260327T203000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Martinsville 
+LOCATION:Martinsville Speedway\, Ridgeway\, US
+GEO:36.5768047;-79.8583721
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-575946167-ce6330598@nextgp.app
+DTSTAMP:20260326T234034Z
+DTSTART:20260327T213500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Martinsville 
+LOCATION:Martinsville Speedway\, Ridgeway\, US
+GEO:36.5768047;-79.8583721
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-575946167-bd6750bd8@nextgp.app
+DTSTAMP:20260326T234034Z
+DTSTART:20261031T200000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Martinsville 
+LOCATION:Martinsville Speedway\, Ridgeway\, US
+GEO:36.5768047;-79.8583721
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

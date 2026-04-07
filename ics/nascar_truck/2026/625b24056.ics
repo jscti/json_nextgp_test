@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Homestead-Miami
+BEGIN:VEVENT
+UID:nascar_truck-625b24056-89fe6a8b4@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20261105T233000Z
+SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Homestead-Miami 
+LOCATION:Homestead-Miami Speedway\, Homestead\, US
+GEO:25.4718946;-80.4759905
+CATEGORIES:NascarTruck,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-625b24056-f269d9b56@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20261106T193000Z
+SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Homestead-Miami 
+LOCATION:Homestead-Miami Speedway\, Homestead\, US
+GEO:25.4718946;-80.4759905
+CATEGORIES:NascarTruck,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-625b24056-8fdfe547a@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20261107T003000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Homestead-Miami 
+LOCATION:Homestead-Miami Speedway\, Homestead\, US
+GEO:25.4718946;-80.4759905
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

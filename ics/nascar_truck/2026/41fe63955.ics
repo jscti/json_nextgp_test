@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at North Wilkesboro
+BEGIN:VEVENT
+UID:nascar_truck-41fe63955-e83187932@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260718T163000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at North Wilkesboro 
+LOCATION:North Wilkesboro Speedway\, North Wilkesboro\, US
+GEO:36.1584651;-81.1475841
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

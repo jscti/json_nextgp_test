@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Michigan
+BEGIN:VEVENT
+UID:nascar_truck-6f8588bba-ee5b0e543@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260606T133000Z
+SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Michigan 
+LOCATION:Michigan International Speedway\, Brooklyn\, US
+GEO:42.105874;-84.2482819
+CATEGORIES:NascarTruck,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-6f8588bba-b6c943db2@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260606T143500Z
+SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Michigan 
+LOCATION:Michigan International Speedway\, Brooklyn\, US
+GEO:42.105874;-84.2482819
+CATEGORIES:NascarTruck,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_truck-6f8588bba-7bd9d4982@nextgp.app
+DTSTAMP:20260206T114046Z
+DTSTART:20260606T173000Z
+SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Michigan 
+LOCATION:Michigan International Speedway\, Brooklyn\, US
+GEO:42.105874;-84.2482819
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

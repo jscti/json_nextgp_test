@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Gateway
+BEGIN:VEVENT
+UID:nascar_xfinity-a2756cceb-63722f473@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260912T170000Z
+SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Gateway 
+LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
+GEO:38.6825502;-90.1570536
+CATEGORIES:NascarXfinity,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-a2756cceb-39d7a5ee7@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260912T180500Z
+SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Gateway 
+LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
+GEO:38.6825502;-90.1570536
+CATEGORIES:NascarXfinity,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_xfinity-a2756cceb-6c66cc8d7@nextgp.app
+DTSTAMP:20260206T114042Z
+DTSTART:20260912T233000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Gateway 
+LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
+GEO:38.6825502;-90.1570536
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -59,7 +59,7 @@
                 "laps": 26
             },
             {
-                "name": "Carlos Sainz Jr",
+                "name": "Carlos Sainz Jr.",
                 "countryCode": "ES",
                 "team": "Ferrari",
                 "time": "+0.505",
@@ -197,7 +197,7 @@
                 "laps": 21
             },
             {
-                "name": "Carlos Sainz Jr",
+                "name": "Carlos Sainz Jr.",
                 "countryCode": "ES",
                 "team": "Ferrari",
                 "time": "+0.700",
@@ -314,7 +314,7 @@
                 "laps": 20
             },
             {
-                "name": "Carlos Sainz Jr",
+                "name": "Carlos Sainz Jr.",
                 "countryCode": "ES",
                 "team": "Ferrari",
                 "time": "+0.610",
@@ -447,133 +447,133 @@
                 "name": "Lewis Hamilton",
                 "countryCode": "GB",
                 "team": "Mercedes AMG Motorsport",
-                "time": "1:25.990",
+                "time": "+0.171",
                 "laps": 25
             },
             {
                 "name": "Lando Norris",
                 "countryCode": "GB",
                 "team": "McLaren",
-                "time": "1:26.030",
+                "time": "+0.211",
                 "laps": 22
             },
             {
                 "name": "Max Verstappen",
                 "countryCode": "NL",
                 "team": "Red Bull Racing",
-                "time": "1:26.203",
+                "time": "+0.384",
                 "laps": 24
             },
             {
                 "name": "Oscar Piastri",
                 "countryCode": "AU",
                 "team": "McLaren",
-                "time": "1:26.237",
+                "time": "+0.418",
                 "laps": 24
             },
             {
                 "name": "Nico Hulkenberg",
                 "countryCode": "DE",
                 "team": "Haas F1 Team",
-                "time": "1:26.338",
+                "time": "+0.519",
                 "laps": 17
             },
             {
-                "name": "Carlos Sainz Jr",
+                "name": "Carlos Sainz Jr.",
                 "countryCode": "ES",
                 "team": "Ferrari",
-                "time": "1:26.509",
+                "time": "+0.690",
                 "laps": 24
             },
             {
                 "name": "Lance Stroll",
                 "countryCode": "CA",
                 "team": "Aston Martin F1 Team",
-                "time": "1:26.585",
+                "time": "+0.766",
                 "laps": 24
             },
             {
                 "name": "Alexander Albon",
                 "countryCode": "TH",
                 "team": "Williams",
-                "time": "1:26.640",
+                "time": "+0.821",
                 "laps": 23
             },
             {
                 "name": "Fernando Alonso",
                 "countryCode": "ES",
                 "team": "Aston Martin F1 Team",
-                "time": "1:26.917",
+                "time": "+1.098",
                 "laps": 24
             },
             {
                 "name": "Charles Leclerc",
                 "countryCode": "MC",
                 "team": "Ferrari",
-                "time": "1:27.097",
+                "time": "+1.278",
                 "laps": 18
             },
             {
                 "name": "Logan Sargeant",
                 "countryCode": "US",
                 "team": "Williams",
-                "time": "1:27.175",
+                "time": "+1.356",
                 "laps": 20
             },
             {
                 "name": "Yuki Tsunoda",
                 "countryCode": "JP",
                 "team": "Racing Bulls",
-                "time": "1:27.269",
+                "time": "+1.450",
                 "laps": 17
             },
             {
                 "name": "Guanyu Zhou",
                 "countryCode": "CN",
                 "team": "Sauber",
-                "time": "1:27.867",
+                "time": "+2.048",
                 "laps": 22
             },
             {
                 "name": "Daniel Ricciardo",
                 "countryCode": "AU",
                 "team": "Racing Bulls",
-                "time": "1:27.949",
+                "time": "+2.130",
                 "laps": 18
             },
             {
                 "name": "Valtteri Bottas",
                 "countryCode": "FI",
                 "team": "Sauber",
-                "time": "1:32.431",
+                "time": "+6.612",
                 "laps": 11
             },
             {
                 "name": "Kevin Magnussen",
                 "countryCode": "DK",
                 "team": "Haas F1 Team",
-                "time": "1:32.905",
+                "time": "+7.086",
                 "laps": 6
             },
             {
                 "name": "Esteban Ocon",
                 "countryCode": "FR",
                 "team": "Alpine F1 Team",
-                "time": "1:34.557",
+                "time": "+8.738",
                 "laps": 11
             },
             {
                 "name": "Sergio Perez",
                 "countryCode": "MX",
                 "team": "Red Bull Racing",
-                "time": "1:38.348",
+                "time": "+12.529",
                 "laps": 5
             },
             {
                 "name": "Pierre Gasly",
                 "countryCode": "FR",
                 "team": "Alpine F1 Team",
-                "time": "1:39.804",
+                "time": "+13.985",
                 "laps": 7
             }
         ]
@@ -610,7 +610,7 @@
                 "laps": 52
             },
             {
-                "name": "Carlos Sainz Jr",
+                "name": "Carlos Sainz Jr.",
                 "countryCode": "ES",
                 "team": "Ferrari",
                 "time": "+47.318",
@@ -711,13 +711,14 @@
                 "name": "George Russell",
                 "countryCode": "GB",
                 "team": "Mercedes AMG Motorsport",
-                "time": "1:31.298",
+                "time": null,
                 "laps": 33
             },
             {
                 "name": "Pierre Gasly",
                 "countryCode": "FR",
                 "team": "Alpine F1 Team",
+                "time": null,
                 "laps": 0
             }
         ]
