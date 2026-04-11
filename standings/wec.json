@@ -3,7 +3,7 @@
         "sport": "wec",
         "year": 2025,
         "type": "driver",
-        "serie": "lm-hypercar",
+        "serie": "Hypercar",
         "entries": [
             {
                 "parentName": "Ferrari AF Corse",
@@ -848,7 +848,7 @@
         "sport": "wec",
         "year": 2025,
         "type": "driver",
-        "serie": "lmgt3",
+        "serie": "GT3",
         "entries": [
             {
                 "parentName": "Manthey 1st Phorm",
@@ -1776,7 +1776,7 @@
         "sport": "wec",
         "year": 2025,
         "type": "team",
-        "serie": "lm-hypercar",
+        "serie": "Hypercar",
         "entries": [
             {
                 "name": "Ferrari",
