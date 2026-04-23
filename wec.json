@@ -1371,7 +1371,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "bc8202214",
@@ -1389,7 +1389,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c95e54898",
@@ -1402,12 +1402,12 @@
                 "end": "2026-04-18T09:30:00+00:00",
                 "endLocal": "2026-04-18T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8db395777",
@@ -1420,12 +1420,12 @@
                 "end": "2026-04-18T12:42:00+00:00",
                 "endLocal": "2026-04-18T14:42:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "0088af7ad",
@@ -1438,12 +1438,12 @@
                 "end": "2026-04-18T13:00:00+00:00",
                 "endLocal": "2026-04-18T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "ea6b5c900",
@@ -1456,12 +1456,12 @@
                 "end": "2026-04-18T13:22:00+00:00",
                 "endLocal": "2026-04-18T15:22:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "94bf46c7a",
@@ -1474,12 +1474,12 @@
                 "end": "2026-04-18T13:40:00+00:00",
                 "endLocal": "2026-04-18T15:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "ce4437c3d",
@@ -1492,12 +1492,12 @@
                 "end": "2026-04-19T17:00:00+00:00",
                 "endLocal": "2026-04-19T19:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ],
         "index": "1 / 8"
