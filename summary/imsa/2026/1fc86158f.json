@@ -293,16 +293,6 @@
                 ]
             },
             {
-                "name": "Ford Racing",
-                "countryCode": null,
-                "team": "Priaulx / Vervisch / Mies",
-                "time": "+11.187",
-                "laps": 29,
-                "tags": [
-                    "GTD PRO"
-                ]
-            },
-            {
                 "name": "75 Express ",
                 "countryCode": null,
                 "team": "Habul / Engel / Power / Mostert",
@@ -608,10 +598,20 @@
         "id": "2b64c2f19",
         "results": [
             {
+                "name": "Cadillac Whelen ",
+                "countryCode": null,
+                "team": "Zilisch / Vesti / Bamber / Aitken",
+                "time": "1:33.939",
+                "laps": 6,
+                "tags": [
+                    "GTP"
+                ]
+            },
+            {
                 "name": "Acura Meyer Shank Racing w/Curb Agajanian",
                 "countryCode": null,
                 "team": "Ohta / Palou / Yelloly / Zande",
-                "time": "1:34.041",
+                "time": "+0.102",
                 "laps": 6,
                 "tags": [
                     "GTP"
@@ -621,7 +621,7 @@
                 "name": "Cadillac Wayne Taylor Racing",
                 "countryCode": null,
                 "team": "Deletraz / Herta / Taylor",
-                "time": "+0.028",
+                "time": "+0.130",
                 "laps": 8,
                 "tags": [
                     "GTP"
@@ -631,7 +631,7 @@
                 "name": "Porsche Penske Motorsport",
                 "countryCode": null,
                 "team": "Nasr / Heinrich / Andlauer",
-                "time": "+0.142",
+                "time": "+0.244",
                 "laps": 7,
                 "tags": [
                     "GTP"
@@ -641,7 +641,7 @@
                 "name": "Acura Meyer Shank Racing w/Curb Agajanian",
                 "countryCode": null,
                 "team": "Blomqvist / Dixon / Braun / Allmendinger",
-                "time": "+0.194",
+                "time": "+0.296",
                 "laps": 6,
                 "tags": [
                     "GTP"
@@ -651,7 +651,7 @@
                 "name": "Porsche Penske Motorsport",
                 "countryCode": null,
                 "team": "Estre / Vanthoor / Campbell",
-                "time": "+0.354",
+                "time": "+0.456",
                 "laps": 8,
                 "tags": [
                     "GTP"
@@ -661,7 +661,7 @@
                 "name": "Cadillac Wayne Taylor Racing",
                 "countryCode": null,
                 "team": "Stevens / Albuquerque / Taylor",
-                "time": "+0.472",
+                "time": "+0.574",
                 "laps": 8,
                 "tags": [
                     "GTP"
@@ -671,7 +671,7 @@
                 "name": "JDC-Miller MotorSports",
                 "countryCode": null,
                 "team": "Frederick / Pino / Helm",
-                "time": "+0.576",
+                "time": "+0.678",
                 "laps": 8,
                 "tags": [
                     "GTP"
@@ -681,7 +681,7 @@
                 "name": "BMW M Team WRT",
                 "countryCode": null,
                 "team": "Rast / Linde / Vanthoor / Frijns",
-                "time": "+0.851",
+                "time": "+0.953",
                 "laps": 7,
                 "tags": [
                     "GTP"
@@ -691,7 +691,7 @@
                 "name": "BMW M Team WRT",
                 "countryCode": null,
                 "team": "Eng / Wittmann / Marciello / Magnussen",
-                "time": "+1.306",
+                "time": "+1.408",
                 "laps": 9,
                 "tags": [
                     "GTP"
@@ -701,7 +701,7 @@
                 "name": "ASTON MARTIN THOR Team ",
                 "countryCode": null,
                 "team": "Angelis / Riberas / Sorensen / Gunn",
-                "time": "+1.341",
+                "time": "+1.443",
                 "laps": 6,
                 "tags": [
                     "GTP"
@@ -711,7 +711,7 @@
                 "name": "Inter Europol Competition",
                 "countryCode": null,
                 "team": "Garg / Costa / Dillmann / Clarke",
-                "time": "+5.911",
+                "time": "+6.013",
                 "laps": 8,
                 "tags": [
                     "LMP2"
@@ -721,7 +721,7 @@
                 "name": "AO Racing",
                 "countryCode": null,
                 "team": "Edgar / Rasmussen / Hyett / Cameron",
-                "time": "+5.919",
+                "time": "+6.021",
                 "laps": 8,
                 "tags": [
                     "LMP2"
@@ -731,7 +731,7 @@
                 "name": "United Autosports USA",
                 "countryCode": null,
                 "team": "Goldburg / Resta / Saucy / Lindh",
-                "time": "+6.055",
+                "time": "+6.157",
                 "laps": 9,
                 "tags": [
                     "LMP2"
@@ -741,7 +741,7 @@
                 "name": "Bryan Herta Autosport with PR1/Mathiasen",
                 "countryCode": null,
                 "team": "Goikhberg / Thompson / Tincknell / Keating",
-                "time": "+6.501",
+                "time": "+6.603",
                 "laps": 9,
                 "tags": [
                     "LMP2"
@@ -751,7 +751,7 @@
                 "name": "TDS Racing",
                 "countryCode": null,
                 "team": "Hansson / Milesi / Lutke / Beche",
-                "time": "+6.587",
+                "time": "+6.689",
                 "laps": 9,
                 "tags": [
                     "LMP2"
@@ -761,7 +761,7 @@
                 "name": "Inter Europol Competition",
                 "countryCode": null,
                 "team": "Cassidy / Smiechowski / Kolovos / Siegel",
-                "time": "+6.793",
+                "time": "+6.895",
                 "laps": 10,
                 "tags": [
                     "LMP2"
@@ -771,7 +771,7 @@
                 "name": "Era Motorsport",
                 "countryCode": null,
                 "team": "Sargeant / Habsburg / Rao / Abel",
-                "time": "+6.946",
+                "time": "+7.048",
                 "laps": 9,
                 "tags": [
                     "LMP2"
@@ -781,7 +781,7 @@
                 "name": "Crowdstrike Racing by APR",
                 "countryCode": null,
                 "team": "Sowery / Quinn / Jakobsen / Kurtz",
-                "time": "+6.980",
+                "time": "+7.082",
                 "laps": 10,
                 "tags": [
                     "LMP2"
@@ -791,7 +791,7 @@
                 "name": "Pratt Miller Motorsports",
                 "countryCode": null,
                 "team": "Santo / Fittipaldi / Fittipaldi / Cumming",
-                "time": "+7.144",
+                "time": "+7.246",
                 "laps": 9,
                 "tags": [
                     "LMP2"
@@ -801,7 +801,7 @@
                 "name": "United Autosports USA",
                 "countryCode": null,
                 "team": "Hanley / Fayer / Jensen / McElrea",
-                "time": "+7.238",
+                "time": "+7.340",
                 "laps": 10,
                 "tags": [
                     "LMP2"
@@ -811,7 +811,7 @@
                 "name": "Tower Motorsports",
                 "countryCode": null,
                 "team": "Bourdais / Simpson / Alvarez / Farano",
-                "time": "+7.522",
+                "time": "+7.624",
                 "laps": 9,
                 "tags": [
                     "LMP2"
@@ -821,7 +821,7 @@
                 "name": "Af Corse Usa",
                 "countryCode": null,
                 "team": "Murry / Perrodo / Nielsen / Vaxiviere",
-                "time": "+7.535",
+                "time": "+7.637",
                 "laps": 10,
                 "tags": [
                     "LMP2"
@@ -831,7 +831,7 @@
                 "name": "Intersport Racing",
                 "countryCode": null,
                 "team": "Uitert / Lucas / Jarvis / Field",
-                "time": "+8.090",
+                "time": "+8.192",
                 "laps": 10,
                 "tags": [
                     "LMP2"
@@ -841,7 +841,7 @@
                 "name": "Corvette Racing by Pratt Miller Motorsports",
                 "countryCode": null,
                 "team": "Kirchhöfer / Sims / Garcia",
-                "time": "+11.065",
+                "time": "+11.167",
                 "laps": 7,
                 "tags": [
                     "GTD PRO"
@@ -851,7 +851,7 @@
                 "name": "Heart of Racing Team ",
                 "countryCode": null,
                 "team": "Gamble / Drudi / Robichon / Barrichello",
-                "time": "+11.072",
+                "time": "+11.174",
                 "laps": 6,
                 "tags": [
                     "GTD"
@@ -861,7 +861,7 @@
                 "name": "WINWARD RACING",
                 "countryCode": null,
                 "team": "Ward / Dontje / Ellis / Auer",
-                "time": "+11.146",
+                "time": "+11.248",
                 "laps": 6,
                 "tags": [
                     "GTD"
@@ -871,7 +871,7 @@
                 "name": "Turner Motorsport",
                 "countryCode": null,
                 "team": "Foley / Gallagher / Selldorff / Klingmann",
-                "time": "+11.224",
+                "time": "+11.326",
                 "laps": 6,
                 "tags": [
                     "GTD"
@@ -881,7 +881,7 @@
                 "name": "DXDT Racing",
                 "countryCode": null,
                 "team": "Yoluc / Eastwood / Filippi / McLaughlin",
-                "time": "+11.233",
+                "time": "+11.335",
                 "laps": 8,
                 "tags": [
                     "GTD"
@@ -891,7 +891,7 @@
                 "name": "Paul Miller Racing",
                 "countryCode": null,
                 "team": "Hesse / Phillippi / Verhagen / Harper",
-                "time": "+11.235",
+                "time": "+11.337",
                 "laps": 8,
                 "tags": [
                     "GTD PRO"
@@ -901,7 +901,7 @@
                 "name": "van der Steur Racing",
                 "countryCode": null,
                 "team": "Clot / Steur / Bennett / Baud",
-                "time": "+11.340",
+                "time": "+11.442",
                 "laps": 6,
                 "tags": [
                     "GTD"
@@ -911,7 +911,7 @@
                 "name": "RLL Team McLaren",
                 "countryCode": null,
                 "team": "Vips / Esterson / MacDonald / Johnson",
-                "time": "+11.384",
+                "time": "+11.486",
                 "laps": 7,
                 "tags": [
                     "GTD PRO"
@@ -921,7 +921,7 @@
                 "name": "75 Express ",
                 "countryCode": null,
                 "team": "Habul / Engel / Power / Mostert",
-                "time": "+11.407",
+                "time": "+11.509",
                 "laps": 5,
                 "tags": [
                     "GTD PRO"
@@ -931,7 +931,7 @@
                 "name": "Triarsi Competizione",
                 "countryCode": null,
                 "team": "Agostini / Rovera / Molina / Calado",
-                "time": "+11.465",
+                "time": "+11.567",
                 "laps": 6,
                 "tags": [
                     "GTD PRO"
@@ -941,7 +941,7 @@
                 "name": "Af Corse Usa",
                 "countryCode": null,
                 "team": "Ducellier / Mosca / Fuoco / Mann",
-                "time": "+11.486",
+                "time": "+11.588",
                 "laps": 5,
                 "tags": [
                     "GTD"
@@ -951,7 +951,7 @@
                 "name": "DragonSpeed",
                 "countryCode": null,
                 "team": "Altoè / Stevenson / Hedman / Cairoli",
-                "time": "+11.498",
+                "time": "+11.600",
                 "laps": 7,
                 "tags": [
                     "GTD"
@@ -961,7 +961,7 @@
                 "name": "Ford Racing",
                 "countryCode": null,
                 "team": "Priaulx / Vervisch / Mies",
-                "time": "+11.554",
+                "time": "+11.656",
                 "laps": 5,
                 "tags": [
                     "GTD PRO"
@@ -971,7 +971,7 @@
                 "name": "Lone Star Racing",
                 "countryCode": null,
                 "team": "Aron / Roe / Andrews / Hodenius",
-                "time": "+11.579",
+                "time": "+11.681",
                 "laps": 7,
                 "tags": [
                     "GTD"
@@ -981,7 +981,7 @@
                 "name": "GetSpeed",
                 "countryCode": null,
                 "team": "Goetz / Bartone / Gounon / Schiller",
-                "time": "+11.592",
+                "time": "+11.694",
                 "laps": 6,
                 "tags": [
                     "GTD PRO"
@@ -991,7 +991,7 @@
                 "name": "Corvette Racing by Pratt Miller Motorsports",
                 "countryCode": null,
                 "team": "Varrone / Milner / Catsburg",
-                "time": "+11.605",
+                "time": "+11.707",
                 "laps": 6,
                 "tags": [
                     "GTD PRO"
@@ -1001,7 +1001,7 @@
                 "name": "Risi Competizione",
                 "countryCode": null,
                 "team": "Guidi / Rigon / Serra",
-                "time": "+11.621",
+                "time": "+11.723",
                 "laps": 8,
                 "tags": [
                     "GTD PRO"
@@ -1011,7 +1011,7 @@
                 "name": "WINWARD RACING",
                 "countryCode": null,
                 "team": "Noble / Hart / Stolz / Martin",
-                "time": "+11.652",
+                "time": "+11.754",
                 "laps": 6,
                 "tags": [
                     "GTD PRO"
@@ -1021,7 +1021,7 @@
                 "name": "Inception Racing",
                 "countryCode": null,
                 "team": "Fumanelli / Schandorff / Iribe / Millroy",
-                "time": "+11.796",
+                "time": "+11.898",
                 "laps": 7,
                 "tags": [
                     "GTD"
@@ -1031,7 +1031,7 @@
                 "name": "Pfaff Motorsports",
                 "countryCode": null,
                 "team": "Bortolotti / Hinchcliffe / Mitchell / Caldarelli",
-                "time": "+11.918",
+                "time": "+12.020",
                 "laps": 6,
                 "tags": [
                     "GTD PRO"
@@ -1041,7 +1041,7 @@
                 "name": "Wright Motorsports",
                 "countryCode": null,
                 "team": "Ilott / Skeer / Adelson / Sargent",
-                "time": "+11.956",
+                "time": "+12.058",
                 "laps": 7,
                 "tags": [
                     "GTD"
@@ -1051,7 +1051,7 @@
                 "name": "Vasser Sullivan Racing",
                 "countryCode": null,
                 "team": "Barnicoat / Kirkwood / Hawksworth",
-                "time": "+11.988",
+                "time": "+12.090",
                 "laps": 6,
                 "tags": [
                     "GTD PRO"
@@ -1061,7 +1061,7 @@
                 "name": "Ford Racing",
                 "countryCode": null,
                 "team": "Rockenfeller / Olsen / Barker",
-                "time": "+11.988",
+                "time": "+12.090",
                 "laps": 5,
                 "tags": [
                     "GTD PRO"
@@ -1071,7 +1071,7 @@
                 "name": "Manthey ",
                 "countryCode": null,
                 "team": "Guven / Feller / Bachler / Preining",
-                "time": "+11.993",
+                "time": "+12.095",
                 "laps": 8,
                 "tags": [
                     "GTD PRO"
@@ -1081,7 +1081,7 @@
                 "name": "AO Racing",
                 "countryCode": null,
                 "team": "Picariello / King / Tandy",
-                "time": "+12.201",
+                "time": "+12.303",
                 "laps": 8,
                 "tags": [
                     "GTD PRO"
@@ -1091,7 +1091,7 @@
                 "name": "Triarsi Competizione",
                 "countryCode": null,
                 "team": "Ye / Koch / Megennis / Triarsi",
-                "time": "+12.249",
+                "time": "+12.351",
                 "laps": 8,
                 "tags": [
                     "GTD"
@@ -1101,7 +1101,7 @@
                 "name": "Wayne Taylor Racing",
                 "countryCode": null,
                 "team": "Doyle / Ericsson / Formal / Hindman",
-                "time": "+12.251",
+                "time": "+12.353",
                 "laps": 7,
                 "tags": [
                     "GTD"
@@ -1111,7 +1111,7 @@
                 "name": "Conquest Racing",
                 "countryCode": null,
                 "team": "Franco / Costa / Vermeulen / Patrese",
-                "time": "+12.515",
+                "time": "+12.617",
                 "laps": 6,
                 "tags": [
                     "GTD"
@@ -1121,7 +1121,7 @@
                 "name": "Vasser Sullivan Racing",
                 "countryCode": null,
                 "team": "Pedersen / Montecalvo / Telitz / Masson",
-                "time": "+12.595",
+                "time": "+12.697",
                 "laps": 7,
                 "tags": [
                     "GTD"
@@ -1131,7 +1131,7 @@
                 "name": "Magnus Racing",
                 "countryCode": null,
                 "team": "Pumpelly / Snow / Thiim / Potter",
-                "time": "+12.810",
+                "time": "+12.912",
                 "laps": 8,
                 "tags": [
                     "GTD"
@@ -1141,7 +1141,7 @@
                 "name": "13 Autosport",
                 "countryCode": null,
                 "team": "Green / Kern / Bell / Fidani",
-                "time": "+13.010",
+                "time": "+13.112",
                 "laps": 9,
                 "tags": [
                     "GTD"
@@ -1151,7 +1151,7 @@
                 "name": "Gradient Racing",
                 "countryCode": null,
                 "team": "Bechtolsheimer / Walker / Lewis / Hand",
-                "time": "+13.080",
+                "time": "+13.182",
                 "laps": 6,
                 "tags": [
                     "GTD"
@@ -1161,7 +1161,7 @@
                 "name": "Manthey 1St Phorm",
                 "countryCode": null,
                 "team": "Lietz / Pera / Schuring / Hardwick",
-                "time": "+13.373",
+                "time": "+13.475",
                 "laps": 8,
                 "tags": [
                     "GTD"
@@ -1171,7 +1171,7 @@
                 "name": "Muehlner Motorsports America, LLC",
                 "countryCode": null,
                 "team": "Ludwig / Yardley / Musial / Jr.",
-                "time": "+13.641",
+                "time": "+13.743",
                 "laps": 8,
                 "tags": [
                     "GTD"
@@ -1181,7 +1181,7 @@
                 "name": "Rs1",
                 "countryCode": null,
                 "team": "Machavern / Zitza / Heylen / Müller",
-                "time": "+13.645",
+                "time": "+13.747",
                 "laps": 9,
                 "tags": [
                     "GTD"
@@ -1191,7 +1191,7 @@
                 "name": "Myers Riley Motorsports",
                 "countryCode": null,
                 "team": "Grosjean / Altzman / Monk / Fraga",
-                "time": "+14.179",
+                "time": "+14.281",
                 "laps": 6,
                 "tags": [
                     "GTD"
@@ -1348,6 +1348,16 @@
                 "team": "Hansson / Milesi / Lutke / Beche",
                 "time": "+4.110",
                 "laps": 44,
+                "tags": [
+                    "LMP2"
+                ]
+            },
+            {
+                "name": "United Autosports USA",
+                "countryCode": null,
+                "team": "Goldburg / Resta / Saucy / Lindh",
+                "time": "+4.193",
+                "laps": 32,
                 "tags": [
                     "LMP2"
                 ]
@@ -1638,6 +1648,16 @@
                 "team": "Fumanelli / Schandorff / Iribe / Millroy",
                 "time": "+11.772",
                 "laps": 31,
+                "tags": [
+                    "GTD"
+                ]
+            },
+            {
+                "name": "Rs1",
+                "countryCode": null,
+                "team": "Machavern / Zitza / Heylen / Müller",
+                "time": "+11.810",
+                "laps": 33,
                 "tags": [
                     "GTD"
                 ]
@@ -2248,6 +2268,16 @@
                 ]
             },
             {
+                "name": "Magnus Racing",
+                "countryCode": null,
+                "team": "Pumpelly / Snow / Thiim / Potter",
+                "time": "+11.527",
+                "laps": 6,
+                "tags": [
+                    "GTD"
+                ]
+            },
+            {
                 "name": "Triarsi Competizione",
                 "countryCode": null,
                 "team": "Agostini / Rovera / Molina / Calado",
@@ -2283,16 +2313,6 @@
                 "team": "Bechtolsheimer / Walker / Lewis / Hand",
                 "time": "+11.714",
                 "laps": 24,
-                "tags": [
-                    "GTD"
-                ]
-            },
-            {
-                "name": "Inception Racing",
-                "countryCode": null,
-                "team": "Fumanelli / Schandorff / Iribe / Millroy",
-                "time": "+11.740",
-                "laps": 26,
                 "tags": [
                     "GTD"
                 ]
@@ -2696,16 +2716,6 @@
                 "name": "Af Corse Usa",
                 "countryCode": null,
                 "team": "Ducellier / Mosca / Fuoco / Mann",
-                "time": null,
-                "laps": 661,
-                "tags": [
-                    "GTD"
-                ]
-            },
-            {
-                "name": "Lone Star Racing",
-                "countryCode": null,
-                "team": "Aron / Roe / Andrews / Hodenius",
                 "time": null,
                 "laps": 661,
                 "tags": [

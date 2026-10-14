@@ -1620,7 +1620,7 @@
                 "hasSummary": true
             },
             {
-                "id": "09d37c08f",
+                "id": "e5522f7ac",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -1655,7 +1655,7 @@
         "cityName": "Monterey",
         "steps": [
             {
-                "id": "b636f67d5",
+                "id": "8e489b496",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1670,10 +1670,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "934466ec2",
+                "id": "5da713a69",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1688,10 +1688,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "c6cff90c9",
+                "id": "4fa177df2",
                 "title": "",
                 "subtitle": null,
                 "type": "qualifying",
@@ -1706,10 +1706,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "68d1149ee",
+                "id": "c1b70d965",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -1724,7 +1724,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -1744,7 +1744,7 @@
         "cityName": "Detroit",
         "steps": [
             {
-                "id": "6a553503f",
+                "id": "ffbd6cbb0",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1759,10 +1759,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "279fa2034",
+                "id": "d4a897919",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1777,10 +1777,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "03d2c8ebb",
+                "id": "e9fb2eda3",
                 "title": "",
                 "subtitle": null,
                 "type": "qualifying",
@@ -1795,10 +1795,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "2b9751054",
+                "id": "9e6a921fb",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1813,10 +1813,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "7a7b770d2",
+                "id": "bbb001ba0",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -1831,7 +1831,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -1851,7 +1851,7 @@
         "cityName": "Watkins Glen",
         "steps": [
             {
-                "id": "1051a8049",
+                "id": "29539ed93",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1866,10 +1866,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "d808767ea",
+                "id": "d60678e8f",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1884,28 +1884,28 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "26b4d260b",
+                "id": "6a4d5952d",
                 "title": "",
                 "subtitle": null,
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-06-27T19:40:00+00:00",
-                "startLocal": "2026-06-27T15:40:00-04:00",
-                "end": "2026-06-27T20:55:00+00:00",
-                "endLocal": "2026-06-27T16:55:00-04:00",
+                "start": "2026-06-27T22:15:00+00:00",
+                "startLocal": "2026-06-27T18:15:00-04:00",
+                "end": "2026-06-27T23:30:00+00:00",
+                "endLocal": "2026-06-27T19:30:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "fd97fd057",
+                "id": "5e6d27a7a",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -1920,7 +1920,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -1940,7 +1940,7 @@
         "cityName": "Bowmanville",
         "steps": [
             {
-                "id": "0668d57df",
+                "id": "e25cfa90f",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1955,10 +1955,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "f2323b3fe",
+                "id": "ba95d78a7",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1973,10 +1973,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "5dadc8f71",
+                "id": "8051a3c40",
                 "title": "",
                 "subtitle": null,
                 "type": "qualifying",
@@ -1991,10 +1991,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "85c10a3bc",
+                "id": "766e428d1",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -2009,7 +2009,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2029,7 +2029,7 @@
         "cityName": "Elkhart Lake",
         "steps": [
             {
-                "id": "b8d0e5871",
+                "id": "1271a7029",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2044,10 +2044,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "ebb6957e2",
+                "id": "52edc4a58",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2062,10 +2062,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "3485c8478",
+                "id": "94b5bde6d",
                 "title": "",
                 "subtitle": null,
                 "type": "qualifying",
@@ -2080,10 +2080,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "6923b0b95",
+                "id": "c3d377d10",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -2098,7 +2098,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2118,7 +2118,7 @@
         "cityName": "Alton",
         "steps": [
             {
-                "id": "ed1bd824e",
+                "id": "fd8c07a31",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2133,10 +2133,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "206ec1bb1",
+                "id": "f50778392",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2151,10 +2151,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "6c1a9a534",
+                "id": "706608cfd",
                 "title": "",
                 "subtitle": null,
                 "type": "qualifying",
@@ -2169,10 +2169,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "420ac8de3",
+                "id": "60a70bb05",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -2187,7 +2187,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2197,7 +2197,7 @@
         "index": "11 / 12",
         "season": 2026,
         "title": "Indianapolis Motor Speedway",
-        "start": "2026-09-18T19:15:00+00:00",
+        "start": "2026-09-18T19:25:00+00:00",
         "end": "2026-09-20T21:50:00+00:00",
         "timezone": "America/Indiana/Indianapolis",
         "latitude": 39.7683331,
@@ -2207,25 +2207,25 @@
         "cityName": "Indianapolis",
         "steps": [
             {
-                "id": "7356ef0fa",
+                "id": "645e6bfdd",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
                 "index": 1,
-                "start": "2026-09-18T19:15:00+00:00",
-                "startLocal": "2026-09-18T15:15:00-04:00",
-                "end": "2026-09-18T20:45:00+00:00",
-                "endLocal": "2026-09-18T16:45:00-04:00",
+                "start": "2026-09-18T19:25:00+00:00",
+                "startLocal": "2026-09-18T15:25:00-04:00",
+                "end": "2026-09-18T20:55:00+00:00",
+                "endLocal": "2026-09-18T16:55:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "0b1212b28",
+                "id": "7a4bf9ba2",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2240,10 +2240,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "c0eb96124",
+                "id": "6fab6e3aa",
                 "title": "",
                 "subtitle": null,
                 "type": "qualifying",
@@ -2258,10 +2258,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "c1c8ba2d4",
+                "id": "8a1d69470",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -2276,7 +2276,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2296,7 +2296,7 @@
         "cityName": "Braselton",
         "steps": [
             {
-                "id": "9aec90cf4",
+                "id": "59a3adea7",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2311,10 +2311,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "e548d873f",
+                "id": "f471223d1",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2329,10 +2329,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "86fe12b9a",
+                "id": "38a77aa45",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2347,10 +2347,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "7a7bffb31",
+                "id": "0987b8b33",
                 "title": "",
                 "subtitle": null,
                 "type": "qualifying",
@@ -2365,10 +2365,10 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
-                "id": "6503104d9",
+                "id": "0e7e05fa1",
                 "title": "",
                 "subtitle": null,
                 "type": "race",
@@ -2383,7 +2383,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     }

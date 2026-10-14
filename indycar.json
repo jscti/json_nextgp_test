@@ -1865,7 +1865,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c092b376a",
@@ -1882,7 +1882,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "89086467e",
@@ -1899,7 +1899,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "e75b78419",
@@ -1916,7 +1916,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -1926,7 +1926,7 @@
         "index": "6 / 18",
         "season": "2026",
         "title": "Grand Prix of Indianapolis",
-        "start": "2026-05-08T13:30:00+00:00",
+        "start": "2026-05-08T13:00:00+00:00",
         "end": "2026-05-09T23:00:00+00:00",
         "timezone": "America/Indiana/Indianapolis",
         "latitude": "39.798761",
@@ -1940,17 +1940,17 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2026-05-08T13:30:00+00:00",
-                "startLocal": "2026-05-08T09:30:00-04:00",
-                "end": "2026-05-08T14:50:00+00:00",
-                "endLocal": "2026-05-08T10:50:00-04:00",
+                "start": "2026-05-08T13:00:00+00:00",
+                "startLocal": "2026-05-08T09:00:00-04:00",
+                "end": "2026-05-08T14:15:00+00:00",
+                "endLocal": "2026-05-08T10:15:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "2746a1f2f",
@@ -1967,24 +1967,24 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "b93b9325c",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-05-08T20:30:00+00:00",
-                "startLocal": "2026-05-08T16:30:00-04:00",
-                "end": "2026-05-08T22:00:00+00:00",
-                "endLocal": "2026-05-08T18:00:00-04:00",
+                "start": "2026-05-09T14:30:00+00:00",
+                "startLocal": "2026-05-09T10:30:00-04:00",
+                "end": "2026-05-09T15:15:00+00:00",
+                "endLocal": "2026-05-09T11:15:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "1912f9c91",
@@ -2001,7 +2001,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2011,8 +2011,8 @@
         "index": "7 / 18",
         "season": "2026",
         "title": "Indianapolis 500",
-        "start": "2026-05-12T18:15:00+00:00",
-        "end": "2026-05-24T16:30:00+00:00",
+        "start": "2026-05-12T16:00:00+00:00",
+        "end": "2026-05-24T19:00:00+00:00",
         "timezone": "America/Indiana/Indianapolis",
         "latitude": "39.798482",
         "longitude": "-86.231202",
@@ -2025,17 +2025,17 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2026-05-12T18:15:00+00:00",
-                "startLocal": "2026-05-12T14:15:00-04:00",
-                "end": "2026-05-22T22:00:00+00:00",
-                "endLocal": "2026-05-22T18:00:00-04:00",
+                "start": "2026-05-12T16:00:00+00:00",
+                "startLocal": "2026-05-12T12:00:00-04:00",
+                "end": "2026-05-12T18:00:00+00:00",
+                "endLocal": "2026-05-12T14:00:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "6217ae476",
@@ -2044,15 +2044,15 @@
                 "index": 2,
                 "start": "2026-05-13T16:00:00+00:00",
                 "startLocal": "2026-05-13T12:00:00-04:00",
-                "end": "2026-05-23T22:00:00+00:00",
-                "endLocal": "2026-05-23T18:00:00-04:00",
+                "end": "2026-05-13T18:00:00+00:00",
+                "endLocal": "2026-05-13T14:00:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c46d28fb9",
@@ -2061,15 +2061,15 @@
                 "index": 3,
                 "start": "2026-05-14T16:00:00+00:00",
                 "startLocal": "2026-05-14T12:00:00-04:00",
-                "end": "2026-05-24T22:00:00+00:00",
-                "endLocal": "2026-05-24T18:00:00-04:00",
+                "end": "2026-05-14T22:00:00+00:00",
+                "endLocal": "2026-05-14T18:00:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "7f04d7514",
@@ -2078,89 +2078,72 @@
                 "index": 4,
                 "start": "2026-05-15T16:00:00+00:00",
                 "startLocal": "2026-05-15T12:00:00-04:00",
-                "end": "2026-05-25T22:00:00+00:00",
-                "endLocal": "2026-05-25T18:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": true,
-                "channels": [],
-                "hasSummary": false
-            },
-            {
-                "id": "6e6d05a22",
-                "title": "Practice 5",
-                "type": "practice",
-                "index": 5,
-                "start": "2026-05-16T12:30:00+00:00",
-                "startLocal": "2026-05-16T08:30:00-04:00",
-                "end": "2026-05-26T13:30:00+00:00",
-                "endLocal": "2026-05-26T09:30:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": true,
-                "channels": [],
-                "hasSummary": false
-            },
-            {
-                "id": "5d12e4d77",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2026-05-16T15:00:00+00:00",
-                "startLocal": "2026-05-16T11:00:00-04:00",
-                "end": "2026-05-16T22:50:00+00:00",
-                "endLocal": "2026-05-16T18:50:00-04:00",
+                "end": "2026-05-15T22:00:00+00:00",
+                "endLocal": "2026-05-15T18:00:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "6790d96f0",
                 "title": "Practice 6",
                 "type": "practice",
-                "index": 6,
-                "start": "2026-05-17T17:00:00+00:00",
-                "startLocal": "2026-05-17T13:00:00-04:00",
-                "end": "2026-05-27T19:00:00+00:00",
-                "endLocal": "2026-05-27T15:00:00-04:00",
+                "index": 5,
+                "start": "2026-05-17T13:30:00+00:00",
+                "startLocal": "2026-05-17T09:30:00-04:00",
+                "end": "2026-05-17T15:30:00+00:00",
+                "endLocal": "2026-05-17T11:30:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
+            },
+            {
+                "id": "5d12e4d77",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2026-05-17T16:00:00+00:00",
+                "startLocal": "2026-05-17T12:00:00-04:00",
+                "end": "2026-05-17T22:35:00+00:00",
+                "endLocal": "2026-05-17T18:35:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
             },
             {
                 "id": "f43adf26a",
                 "title": "Practice 7",
                 "type": "practice",
-                "index": 7,
+                "index": 6,
                 "start": "2026-05-18T17:00:00+00:00",
                 "startLocal": "2026-05-18T13:00:00-04:00",
-                "end": "2026-05-28T19:00:00+00:00",
-                "endLocal": "2026-05-28T15:00:00-04:00",
+                "end": "2026-05-18T19:00:00+00:00",
+                "endLocal": "2026-05-18T15:00:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "cae5fbc18",
                 "title": "Practice 8",
                 "type": "practice",
-                "index": 8,
+                "index": 7,
                 "start": "2026-05-22T15:00:00+00:00",
                 "startLocal": "2026-05-22T11:00:00-04:00",
                 "end": "2026-05-22T17:00:00+00:00",
@@ -2171,24 +2154,24 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "798fe8ff2",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2026-05-24T14:00:00+00:00",
-                "startLocal": "2026-05-24T10:00:00-04:00",
-                "end": "2026-05-24T16:30:00+00:00",
-                "endLocal": "2026-05-24T12:30:00-04:00",
+                "start": "2026-05-24T16:30:00+00:00",
+                "startLocal": "2026-05-24T12:30:00-04:00",
+                "end": "2026-05-24T19:00:00+00:00",
+                "endLocal": "2026-05-24T15:00:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2214,15 +2197,15 @@
                 "index": 1,
                 "start": "2026-05-29T19:00:00+00:00",
                 "startLocal": "2026-05-29T15:00:00-04:00",
-                "end": "2026-05-29T20:25:00+00:00",
-                "endLocal": "2026-05-29T16:25:00-04:00",
+                "end": "2026-05-29T20:15:00+00:00",
+                "endLocal": "2026-05-29T16:15:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "88c7c79e5",
@@ -2239,15 +2222,15 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "a2485b77c",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-05-30T16:00:00+00:00",
-                "startLocal": "2026-05-30T12:00:00-04:00",
+                "start": "2026-05-30T17:00:00+00:00",
+                "startLocal": "2026-05-30T13:00:00-04:00",
                 "end": "2026-05-30T17:50:00+00:00",
                 "endLocal": "2026-05-30T13:50:00-04:00",
                 "hasTime": true,
@@ -2256,7 +2239,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "b5ee50c9d",
@@ -2273,7 +2256,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2283,7 +2266,7 @@
         "index": "9 / 18",
         "season": "2026",
         "title": "Grand Prix of Madison",
-        "start": "2026-06-06T19:15:00+00:00",
+        "start": "2026-06-06T16:30:00+00:00",
         "end": "2026-06-08T03:30:00+00:00",
         "timezone": "America/Chicago",
         "latitude": "38.64791",
@@ -2296,35 +2279,52 @@
                 "id": "b2ffa924d",
                 "title": "Practice 1",
                 "type": "practice",
-                "index": null,
-                "start": "2026-06-06T19:15:00+00:00",
-                "startLocal": "2026-06-06T14:15:00-05:00",
-                "end": "2026-06-06T20:15:00+00:00",
-                "endLocal": "2026-06-06T15:15:00-05:00",
+                "index": 1,
+                "start": "2026-06-06T16:30:00+00:00",
+                "startLocal": "2026-06-06T11:30:00-05:00",
+                "end": "2026-06-06T17:45:00+00:00",
+                "endLocal": "2026-06-06T12:45:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "cdeee4406",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-06-06T23:00:00+00:00",
-                "startLocal": "2026-06-06T18:00:00-05:00",
-                "end": "2026-06-06T23:45:00+00:00",
-                "endLocal": "2026-06-06T18:45:00-05:00",
+                "start": "2026-06-06T20:30:00+00:00",
+                "startLocal": "2026-06-06T15:30:00-05:00",
+                "end": "2026-06-06T21:15:00+00:00",
+                "endLocal": "2026-06-06T16:15:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
+            },
+            {
+                "id": "d1f9e248a",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 2,
+                "start": "2026-06-07T01:00:00+00:00",
+                "startLocal": "2026-06-06T20:00:00-05:00",
+                "end": "2026-06-07T02:00:00+00:00",
+                "endLocal": "2026-06-06T21:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
             },
             {
                 "id": "682a9b460",
@@ -2341,7 +2341,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2351,7 +2351,7 @@
         "index": "10 / 18",
         "season": "2026",
         "title": "Road America Grand Prix",
-        "start": "2026-06-19T20:30:00+00:00",
+        "start": "2026-06-19T20:00:00+00:00",
         "end": "2026-06-21T20:30:00+00:00",
         "timezone": "America/Indiana/Indianapolis",
         "latitude": "43.797591",
@@ -2365,17 +2365,17 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2026-06-19T20:30:00+00:00",
-                "startLocal": "2026-06-19T16:30:00-04:00",
-                "end": "2026-06-19T21:45:00+00:00",
-                "endLocal": "2026-06-19T17:45:00-04:00",
+                "start": "2026-06-19T20:00:00+00:00",
+                "startLocal": "2026-06-19T16:00:00-04:00",
+                "end": "2026-06-19T21:15:00+00:00",
+                "endLocal": "2026-06-19T17:15:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "830c85286",
@@ -2392,24 +2392,24 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8dcaeed69",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-06-20T18:30:00+00:00",
-                "startLocal": "2026-06-20T14:30:00-04:00",
-                "end": "2026-06-20T20:55:00+00:00",
-                "endLocal": "2026-06-20T16:55:00-04:00",
+                "start": "2026-06-20T18:00:00+00:00",
+                "startLocal": "2026-06-20T14:00:00-04:00",
+                "end": "2026-06-20T18:45:00+00:00",
+                "endLocal": "2026-06-20T14:45:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "542117823",
@@ -2426,7 +2426,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2436,7 +2436,7 @@
         "index": "11 / 18",
         "season": "2026",
         "title": "Grand Prix of Lexington",
-        "start": "2026-07-03T20:30:00+00:00",
+        "start": "2026-07-03T19:00:00+00:00",
         "end": "2026-07-05T19:00:00+00:00",
         "timezone": "America/Indiana/Indianapolis",
         "latitude": "40.688992",
@@ -2450,34 +2450,34 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2026-07-03T20:30:00+00:00",
-                "startLocal": "2026-07-03T16:30:00-04:00",
-                "end": "2026-07-03T21:45:00+00:00",
-                "endLocal": "2026-07-03T17:45:00-04:00",
+                "start": "2026-07-03T19:00:00+00:00",
+                "startLocal": "2026-07-03T15:00:00-04:00",
+                "end": "2026-07-03T20:15:00+00:00",
+                "endLocal": "2026-07-03T16:15:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "956d436f8",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2026-07-04T14:30:00+00:00",
-                "startLocal": "2026-07-04T10:30:00-04:00",
-                "end": "2026-07-04T15:35:00+00:00",
-                "endLocal": "2026-07-04T11:35:00-04:00",
+                "start": "2026-07-04T14:00:00+00:00",
+                "startLocal": "2026-07-04T10:00:00-04:00",
+                "end": "2026-07-04T15:05:00+00:00",
+                "endLocal": "2026-07-04T11:05:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "306e3369a",
@@ -2494,7 +2494,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c69257802",
@@ -2511,7 +2511,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2521,8 +2521,8 @@
         "index": "12 / 18",
         "season": "2026",
         "title": "Grand Prix of Nashville",
-        "start": "2026-07-18T14:30:00+00:00",
-        "end": "2026-07-19T21:15:00+00:00",
+        "start": "2026-07-18T14:00:00+00:00",
+        "end": "2026-07-20T21:30:00+00:00",
         "timezone": "America/Chicago",
         "latitude": "36.044419",
         "longitude": "-86.412619",
@@ -2535,68 +2535,68 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2026-07-18T14:30:00+00:00",
-                "startLocal": "2026-07-18T09:30:00-05:00",
-                "end": "2026-07-18T15:30:00+00:00",
-                "endLocal": "2026-07-18T10:30:00-05:00",
+                "start": "2026-07-18T14:00:00+00:00",
+                "startLocal": "2026-07-18T09:00:00-05:00",
+                "end": "2026-07-18T15:15:00+00:00",
+                "endLocal": "2026-07-18T10:15:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "3e2cc9e9f",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-07-18T18:00:00+00:00",
-                "startLocal": "2026-07-18T13:00:00-05:00",
-                "end": "2026-07-18T19:30:00+00:00",
-                "endLocal": "2026-07-18T14:30:00-05:00",
+                "start": "2026-07-18T19:00:00+00:00",
+                "startLocal": "2026-07-18T14:00:00-05:00",
+                "end": "2026-07-18T19:45:00+00:00",
+                "endLocal": "2026-07-18T14:45:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "a013c0200",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2026-07-18T20:30:00+00:00",
-                "startLocal": "2026-07-18T15:30:00-05:00",
-                "end": "2026-07-18T22:30:00+00:00",
-                "endLocal": "2026-07-18T17:30:00-05:00",
+                "start": "2026-07-18T22:00:00+00:00",
+                "startLocal": "2026-07-18T17:00:00-05:00",
+                "end": "2026-07-18T23:00:00+00:00",
+                "endLocal": "2026-07-18T18:00:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8c444a0e8",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2026-07-19T18:00:00+00:00",
-                "startLocal": "2026-07-19T13:00:00-05:00",
-                "end": "2026-07-19T21:15:00+00:00",
-                "endLocal": "2026-07-19T16:15:00-05:00",
+                "start": "2026-07-20T19:00:00+00:00",
+                "startLocal": "2026-07-20T14:00:00-05:00",
+                "end": "2026-07-20T21:30:00+00:00",
+                "endLocal": "2026-07-20T16:30:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2630,58 +2630,41 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "45f3c1693",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2026-08-08T16:00:00+00:00",
-                "startLocal": "2026-08-08T09:00:00-07:00",
-                "end": "2026-08-08T17:00:00+00:00",
-                "endLocal": "2026-08-08T10:00:00-07:00",
+                "start": "2026-08-08T17:00:00+00:00",
+                "startLocal": "2026-08-08T10:00:00-07:00",
+                "end": "2026-08-08T18:00:00+00:00",
+                "endLocal": "2026-08-08T11:00:00-07:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "ee0453c30",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-08-08T18:30:00+00:00",
-                "startLocal": "2026-08-08T11:30:00-07:00",
-                "end": "2026-08-08T20:00:00+00:00",
-                "endLocal": "2026-08-08T13:00:00-07:00",
+                "start": "2026-08-08T23:00:00+00:00",
+                "startLocal": "2026-08-08T16:00:00-07:00",
+                "end": "2026-08-08T23:45:00+00:00",
+                "endLocal": "2026-08-08T16:45:00-07:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
-            },
-            {
-                "id": "171f75109",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2026-08-08T23:30:00+00:00",
-                "startLocal": "2026-08-08T16:30:00-07:00",
-                "end": "2026-08-09T00:30:00+00:00",
-                "endLocal": "2026-08-08T17:30:00-07:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "0e22bc1a2",
@@ -2698,7 +2681,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2708,7 +2691,7 @@
         "index": "14 / 18",
         "season": "2026",
         "title": "Grand Prix of Markham",
-        "start": "2026-08-14T19:00:00+00:00",
+        "start": "2026-08-15T14:00:00+00:00",
         "end": "2026-08-16T18:30:00+00:00",
         "timezone": "America/Toronto",
         "latitude": 43.8563707,
@@ -2722,51 +2705,51 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2026-08-14T19:00:00+00:00",
-                "startLocal": "2026-08-14T15:00:00-04:00",
-                "end": "2026-08-14T20:25:00+00:00",
-                "endLocal": "2026-08-14T16:25:00-04:00",
+                "start": "2026-08-15T14:00:00+00:00",
+                "startLocal": "2026-08-15T10:00:00-04:00",
+                "end": "2026-08-15T15:25:00+00:00",
+                "endLocal": "2026-08-15T11:25:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "9000d6926",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2026-08-15T13:00:00+00:00",
-                "startLocal": "2026-08-15T09:00:00-04:00",
-                "end": "2026-08-15T14:00:00+00:00",
-                "endLocal": "2026-08-15T10:00:00-04:00",
+                "start": "2026-08-15T18:30:00+00:00",
+                "startLocal": "2026-08-15T14:30:00-04:00",
+                "end": "2026-08-15T19:30:00+00:00",
+                "endLocal": "2026-08-15T15:30:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "80879eae4",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-08-15T16:00:00+00:00",
-                "startLocal": "2026-08-15T12:00:00-04:00",
-                "end": "2026-08-15T17:50:00+00:00",
-                "endLocal": "2026-08-15T13:50:00-04:00",
+                "start": "2026-08-15T23:00:00+00:00",
+                "startLocal": "2026-08-15T19:00:00-04:00",
+                "end": "2026-08-15T23:45:00+00:00",
+                "endLocal": "2026-08-15T19:45:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "246b362f8",
@@ -2783,7 +2766,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2793,8 +2776,8 @@
         "index": "15 / 18",
         "season": "2026",
         "title": "Freedom 250 Grand Prix of Washington",
-        "start": "2026-08-23T18:00:00+00:00",
-        "end": "2026-08-23T19:00:00+00:00",
+        "start": "2026-08-22T13:00:00+00:00",
+        "end": "2026-08-23T19:30:00+00:00",
         "timezone": "America/New_York",
         "latitude": 38.8950368,
         "longitude": -77.0365427,
@@ -2803,21 +2786,72 @@
         "cityName": "Washington, D.C.",
         "steps": [
             {
-                "id": "5949b0959",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2026-08-23T18:00:00+00:00",
-                "startLocal": "2026-08-23T14:00:00-04:00",
-                "end": "2026-08-23T19:00:00+00:00",
-                "endLocal": "2026-08-23T15:00:00-04:00",
+                "id": "7364576d6",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2026-08-22T13:00:00+00:00",
+                "startLocal": "2026-08-22T09:00:00-04:00",
+                "end": "2026-08-22T14:15:00+00:00",
+                "endLocal": "2026-08-22T10:15:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
+            },
+            {
+                "id": "b80c6523c",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2026-08-22T17:00:00+00:00",
+                "startLocal": "2026-08-22T13:00:00-04:00",
+                "end": "2026-08-22T18:00:00+00:00",
+                "endLocal": "2026-08-22T14:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3af68b298",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2026-08-22T21:00:00+00:00",
+                "startLocal": "2026-08-22T17:00:00-04:00",
+                "end": "2026-08-22T21:45:00+00:00",
+                "endLocal": "2026-08-22T17:45:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5949b0959",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2026-08-23T17:00:00+00:00",
+                "startLocal": "2026-08-23T13:00:00-04:00",
+                "end": "2026-08-23T19:30:00+00:00",
+                "endLocal": "2026-08-23T15:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
             }
         ]
     },
@@ -2827,8 +2861,8 @@
         "index": "16 / 18",
         "season": "2026",
         "title": "Milwaukee Mile 1",
-        "start": "2026-08-28T19:35:00+00:00",
-        "end": "2026-08-29T21:00:00+00:00",
+        "start": "2026-08-28T22:00:00+00:00",
+        "end": "2026-08-30T14:00:00+00:00",
         "timezone": "America/Chicago",
         "latitude": "43.021944",
         "longitude": "-88.012778",
@@ -2841,34 +2875,34 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
-                "start": "2026-08-28T19:35:00+00:00",
-                "startLocal": "2026-08-28T14:35:00-05:00",
-                "end": "2026-08-28T20:15:00+00:00",
-                "endLocal": "2026-08-28T15:15:00-05:00",
+                "start": "2026-08-28T22:00:00+00:00",
+                "startLocal": "2026-08-28T17:00:00-05:00",
+                "end": "2026-08-28T23:15:00+00:00",
+                "endLocal": "2026-08-28T18:15:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c5bf1b82d",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-08-29T18:15:00+00:00",
-                "startLocal": "2026-08-29T13:15:00-05:00",
-                "end": "2026-08-29T19:15:00+00:00",
-                "endLocal": "2026-08-29T14:15:00-05:00",
+                "start": "2026-08-29T15:00:00+00:00",
+                "startLocal": "2026-08-29T10:00:00-05:00",
+                "end": "2026-08-29T15:45:00+00:00",
+                "endLocal": "2026-08-29T10:45:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "83fa45f92",
@@ -2877,15 +2911,15 @@
                 "index": null,
                 "start": "2026-08-29T18:30:00+00:00",
                 "startLocal": "2026-08-29T13:30:00-05:00",
-                "end": "2026-08-29T21:00:00+00:00",
-                "endLocal": "2026-08-29T16:00:00-05:00",
+                "end": "2026-08-30T14:00:00+00:00",
+                "endLocal": "2026-08-30T09:00:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2895,7 +2929,7 @@
         "index": "17 / 18",
         "season": "2026",
         "title": "Milwaukee Mile 2",
-        "start": "2026-08-30T15:15:00+00:00",
+        "start": "2026-08-29T15:00:00+00:00",
         "end": "2026-08-30T19:30:00+00:00",
         "timezone": "America/Chicago",
         "latitude": "43.021944",
@@ -2909,17 +2943,17 @@
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-08-30T15:15:00+00:00",
-                "startLocal": "2026-08-30T10:15:00-05:00",
-                "end": "2026-08-30T16:15:00+00:00",
-                "endLocal": "2026-08-30T11:15:00-05:00",
+                "start": "2026-08-29T15:00:00+00:00",
+                "startLocal": "2026-08-29T10:00:00-05:00",
+                "end": "2026-08-29T15:45:00+00:00",
+                "endLocal": "2026-08-29T10:45:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "76bd42b1d",
@@ -2936,7 +2970,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2962,49 +2996,66 @@
                 "index": 1,
                 "start": "2026-09-04T21:00:00+00:00",
                 "startLocal": "2026-09-04T14:00:00-07:00",
-                "end": "2026-09-04T22:00:00+00:00",
-                "endLocal": "2026-09-04T15:00:00-07:00",
+                "end": "2026-09-04T22:15:00+00:00",
+                "endLocal": "2026-09-04T15:15:00-07:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "e5e1e78b6",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2026-09-05T15:30:00+00:00",
-                "startLocal": "2026-09-05T08:30:00-07:00",
-                "end": "2026-09-05T16:30:00+00:00",
-                "endLocal": "2026-09-05T09:30:00-07:00",
+                "start": "2026-09-05T17:00:00+00:00",
+                "startLocal": "2026-09-05T10:00:00-07:00",
+                "end": "2026-09-05T18:00:00+00:00",
+                "endLocal": "2026-09-05T11:00:00-07:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "cefa3f512",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2026-09-05T18:30:00+00:00",
-                "startLocal": "2026-09-05T11:30:00-07:00",
-                "end": "2026-09-05T19:30:00+00:00",
-                "endLocal": "2026-09-05T12:30:00-07:00",
+                "start": "2026-09-05T20:30:00+00:00",
+                "startLocal": "2026-09-05T13:30:00-07:00",
+                "end": "2026-09-05T21:15:00+00:00",
+                "endLocal": "2026-09-05T14:15:00-07:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
+            },
+            {
+                "id": "eeec943aa",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2026-09-06T00:00:00+00:00",
+                "startLocal": "2026-09-05T17:00:00-07:00",
+                "end": "2026-09-06T01:00:00+00:00",
+                "endLocal": "2026-09-05T18:00:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
             },
             {
                 "id": "8814d5b5a",
@@ -3021,7 +3072,7 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     }

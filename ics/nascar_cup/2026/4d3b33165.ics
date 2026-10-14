@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarCup | NASCAR Cup Series at Talladega
 BEGIN:VEVENT
 UID:nascar_cup-4d3b33165-a88897a7b@nextgp.app
-DTSTAMP:20260301T114037Z
+DTSTAMP:20260603T224033Z
 DTSTART:20261024T170000Z
 SUMMARY:NascarCup | Qualifying | NASCAR Cup Series at Talladega 
 LOCATION:Talladega Superspeedway\, Talladega\, US
@@ -17,7 +17,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_cup-4d3b33165-7be6eac48@nextgp.app
-DTSTAMP:20260301T114037Z
+DTSTAMP:20260603T224033Z
 DTSTART:20261025T180000Z
 SUMMARY:NascarCup | Race | NASCAR Cup Series at Talladega 
 LOCATION:Talladega Superspeedway\, Talladega\, US

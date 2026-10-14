@@ -35,6 +35,16 @@
             {
                 "name": "Cadillac Wayne Taylor Racing",
                 "countryCode": null,
+                "team": "Taylor / Herta / Deletraz",
+                "time": "+0.403",
+                "laps": 33,
+                "tags": [
+                    "GTP"
+                ]
+            },
+            {
+                "name": "Cadillac Wayne Taylor Racing",
+                "countryCode": null,
                 "team": "Albuquerque / Taylor / Stevens",
                 "time": "+0.781",
                 "laps": 29,
@@ -590,6 +600,16 @@
             {
                 "name": "Cadillac Wayne Taylor Racing",
                 "countryCode": null,
+                "team": "Albuquerque / Taylor / Stevens",
+                "time": "+0.629",
+                "laps": 36,
+                "tags": [
+                    "GTP"
+                ]
+            },
+            {
+                "name": "Cadillac Wayne Taylor Racing",
+                "countryCode": null,
                 "team": "Taylor / Herta / Deletraz",
                 "time": "+0.999",
                 "laps": 42,
@@ -938,6 +958,16 @@
                 ]
             },
             {
+                "name": "WINWARD RACING",
+                "countryCode": null,
+                "team": "Noble / Stolz / Hart",
+                "time": "+14.203",
+                "laps": 20,
+                "tags": [
+                    "GTD PRO"
+                ]
+            },
+            {
                 "name": "Vasser Sullivan Racing",
                 "countryCode": null,
                 "team": "Kirkwood / Hawksworth / Barnicoat",
@@ -1065,6 +1095,16 @@
                 "laps": 28,
                 "tags": [
                     "GTD PRO"
+                ]
+            },
+            {
+                "name": "Gradient Racing",
+                "countryCode": null,
+                "team": "Bechtolsheimer / Walker / Hand",
+                "time": "+15.430",
+                "laps": 37,
+                "tags": [
+                    "GTD"
                 ]
             }
         ]
@@ -1203,6 +1243,16 @@
                 ]
             },
             {
+                "name": "United Autosports USA",
+                "countryCode": null,
+                "team": "Jensen / Fayer / McElrea",
+                "time": "+2.927",
+                "laps": 40,
+                "tags": [
+                    "LMP2"
+                ]
+            },
+            {
                 "name": "Tower Motorsports",
                 "countryCode": null,
                 "team": "Vautier / Farano / Alvarez",
@@ -1313,6 +1363,16 @@
                 ]
             },
             {
+                "name": "Lone Star Racing",
+                "countryCode": null,
+                "team": "Andrews / Hodenius / Roe",
+                "time": "+12.422",
+                "laps": 34,
+                "tags": [
+                    "GTD"
+                ]
+            },
+            {
                 "name": "WINWARD RACING",
                 "countryCode": null,
                 "team": "Noble / Stolz / Hart",
@@ -1358,16 +1418,6 @@
                 "team": "Hardwick / Schuring / Pera",
                 "time": "+12.744",
                 "laps": 38,
-                "tags": [
-                    "GTD"
-                ]
-            },
-            {
-                "name": "Turner Motorsport",
-                "countryCode": null,
-                "team": "Foley / Selldorff / Gallagher",
-                "time": "+12.863",
-                "laps": 34,
                 "tags": [
                     "GTD"
                 ]

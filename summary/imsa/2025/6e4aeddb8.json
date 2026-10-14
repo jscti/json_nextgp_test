@@ -428,16 +428,6 @@
                 ]
             },
             {
-                "name": "Forte Racing",
-                "countryCode": null,
-                "team": "Farnbacher / Goikhberg",
-                "time": "+1.002",
-                "laps": 13,
-                "tags": [
-                    "GTD"
-                ]
-            },
-            {
                 "name": "Turner Motorsport",
                 "countryCode": null,
                 "team": "Gallagher / Foley",
@@ -527,6 +517,16 @@
                 "countryCode": null,
                 "team": "Catsburg / Milner",
                 "time": "+0.458",
+                "laps": 7,
+                "tags": [
+                    "GTD PRO"
+                ]
+            },
+            {
+                "name": "Ford Multimatic Motorsports ",
+                "countryCode": null,
+                "team": "Rockenfeller / Priaulx",
+                "time": "+0.559",
                 "laps": 7,
                 "tags": [
                     "GTD PRO"
@@ -718,9 +718,9 @@
                 ]
             },
             {
-                "name": "Ford Multimatic Motorsports ",
+                "name": "AO Racing",
                 "countryCode": null,
-                "team": "Rockenfeller / Priaulx",
+                "team": "Bachler / Heinrich",
                 "time": null,
                 "laps": 81,
                 "tags": [
@@ -728,9 +728,9 @@
                 ]
             },
             {
-                "name": "AO Racing",
+                "name": "Paul Miller Racing",
                 "countryCode": null,
-                "team": "Bachler / Heinrich",
+                "team": "Verhagen / Snow",
                 "time": null,
                 "laps": 81,
                 "tags": [
